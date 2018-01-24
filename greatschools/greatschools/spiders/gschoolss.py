@@ -7,7 +7,7 @@ from urlparse import urlparse
 class GschoolssSpider(scrapy.Spider):
     name = 'gschoolss'
     allowed_domains = ['greatschools.org']
-    start_urls = ['https://www.greatschools.org/schools/districts/California/CA/']
+    start_urls = ['https://www.greatschools.org/schools/districts/New_York/NY/']
 
    
     
@@ -47,6 +47,6 @@ class GschoolssSpider(scrapy.Spider):
         domain = parsed_uri.netloc
         domain = domain.replace('www.', '')
         item['domain'] = domain
-        print school_name
+        #print school_name
         #i['description'] = response.xpath('//div[@id="description"]').extract()
         yield item
