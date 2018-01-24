@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8c7a5a74-ab6e-4610-ba10-126b923a3f16
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fescondido%2Fescondido-union-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RTBDOXVkTktLaHhaZkVuSmZlQ3o5ZSsyTERLN0loNU1TaHBTNWowcE9BOE9NV3FoQ0JvUnU5d09Ub2dDVUpXL0VkZnBqSzVrRDU2cjVzbzRPRjRBU3BjVGIxQkU5VDlvczRid0ExUWpBWE4veUlJSDI3WTFGU3p4QnJJUVlkOFFIUjIrYTBhSUhNV0ViN29oVlpLWjA2Z3BXL1lTdmx4RDZHbDBaWTEzRjdoYUo2d0NnWnEvQ1c3eDlvQzNEQnFBVFVyWmtEYkNVWXFJK2NJU2FsQ2Q1VXNVTUM0SWdkbXVNOW4xcHBncWZPTE1YZkVaZVMvSUxvUmJDSCs2ZGtBbWRycHV6K0JNaDI5Ty9yRjVyUEhaZWc9PS0tL2N3ZzFreURTdG5kOG5aa2JqeGgyUT09--0abf7d94fc26cab2d70075f07ba11994ef36d555; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

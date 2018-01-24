@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 73118f28-8683-485a-8f57-41630ab8e80c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flemon-grove%2Flemon-grove-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Tzladm5hVDlvVUlXRit1WERQYlFXQk9xYU9YSjl3S09ER21sQThSdE5tZWptcGZQWXZ5RmlhU3VoNTVYUHd1ZDRxTzZxaFBqWFlFbkZWV2o2YVBnTndKek5PQk9GSnFzU2NrWTJNVVUzck5SMEprWTBQU1c5U1AwREFibU8wU2JYdGlpb1MxdzhUd0RSNWZWQkNKYmtrTzNtQVVXam0zSzhWRkx4QTNxVXdCUE9pOFRod0FYVHg1dWFVd3d4S245SkJ5YU1Jam5oSGFaNS96ODdJWk8zSlJ3WmloK3QxZVJ5QmcrQXFLdVl4ZHlZRzlBOFBSNDV5OVlkdTJ0QjFSWHUyRndXb2pBSE9ibzhoN3l4TVlqZHc9PS0taTh0bEdFTTNvMThYcFV5SFFwTlh6UT09--8918e9d309c08c13c7c02a9c6c1b4347960a1c2c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

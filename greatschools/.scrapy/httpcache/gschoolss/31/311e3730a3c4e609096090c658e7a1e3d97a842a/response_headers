@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f05593a5-7514-454e-b1c9-174d3db5505d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmanton%2Fmanton-joint-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SWlFQXhPbThpZVdSVGVCb29tMjZ6dnl3TE4vVmY1VDNRa2tKTy93WVp0cFhkamRQdzJib1hPUW1sVElPWklSTUlIeDRpNzhrTWN1RmFJSDNoOEUzUzYrSGNJQU1ZOU1DdzFoL1dzbXJrc3BnWk9ndTVvYzdKRmdCZDRxamliUXJzc2dnNlZYVThqOUIvbG12VXp6SHFLRHZvRTdVU0R6N2NPckpqQTFmOXpva0M0c0VEVmpZaENXYVFud0ZPNVF5aTRQNjNwMDJhU1Y1Lzl0cTN2dFJKL3B4b0hSdEFIMk93SzFjL2FQd1lpemF4RVd6Ry83OC9mSEhTOWc5TGdPRS0tVGN4MFBxbHpBVjRkVzRyQmIxSE9jZz09--a402f903a85da9a5e7eeb134544e046d2bc46094; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

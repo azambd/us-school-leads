@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: efae0880-737a-4170-8e31-b59acd92debf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcottonwood%2Fcottonwood-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ek0xazVOYmcvQkxKbzZpMzhIWnFyU0lOSmhYQnk0VDFvNncwVHVaOTE5TzhiOWxBUkhPR1BjakxzbTFWemlBa0VONFU2bndkRG1HL1lmcDRkYnVWVzNYelRDM2d5enVkdWVsOWdSYkRtN1l4UmVyVVE5RzJNdHBBT3ZWWkFZam1xMzJ0Q01talJsb3FWNlhueUhFeWk5MDdTaGJpSFUwdnBoN3Q2NmYxOVUxNmcybzZhNis3b1BJNHg4SCttTGl2WWNDd3prMzBmU21MOVhqTnBQV1hSc3FyWDdBd24wdWU1OUhJaFc3OWNBSytoeTA3Z1d1WjYwNE1JV3RGcFFIQTVpUE9xbThERHduQUtsSHZxeGpUbXc9PS0tQWtlM2ZDd3ZmeG9tR0FLdVd0UW5UZz09--381252b5d30975c629e12fe81489a507df6ed93e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

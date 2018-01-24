@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4cb13951-7ebc-46e3-bc72-4ce5dd72390e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-geronimo%2Flagunitas-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bW03QXZ0NFdmUlFPdTQ1VktIV3RyUlVHbm1xTkJPMXV2YWJPK09iVkFqTnNvQnRJMEtFZUxPK05UcG4wZ21mYXlJR1RveWpXL3dmc3BMUm5Qd2t4R3R6RksvL1hQem5MS0F0QS95SHBBbmtqR09RbXZOYW9hS0ZUbDVpMTdDdUlDZGc2Q3Q3dDZ0OUcxb2xDcVVOekk1THFiLzFETzVNNC90WlFldjFjSS9RZlVFRzhBRWFQVmNjR2l5YW4rQXIxQVN0aUFJUTVkbHRhb0N5L0x1eEJ0cVBwZm8vTjdRN0RpM1l1dTF2VHdYaFJoK21BV3dXcURNMTBBUHpCcnlDMWIzdWNNTE5xR0FaWnh6ckh3NDd4MWc9PS0tOExXNG42cFhMdVgxQkN4d1ExejJrZz09--383c9ec1225e4fab09d99ac377cb4ae14b29bb00; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

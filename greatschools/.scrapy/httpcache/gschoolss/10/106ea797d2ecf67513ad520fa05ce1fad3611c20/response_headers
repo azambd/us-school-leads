@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9f2ed28f-ed4f-4836-a4ea-b2d497075d92
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhanford%2Fkings-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YnNseDJTTVN3SlpWNnc0cjhHUkFpVk9WTC9MNHFlZEJLNGFtNHIzVGFBNHp4S1V4b3hsNEQzUXBiR2JRVm1mZHIzNEJMS0l1a25IWVNQUlVDK0JGbEFXU21qWnNBWC9HN2VtVXo2VGpwallwUExlbzV0UUtSOVF0RnFKT2RmK0c3WUNOWGoyNDN6QXJEalJuKy82U1c2dzZLWWVDRERLVEp3Rkh5QXp3dUhjd25FSEpNMjFXNlRDdCtpbzJXTUFpSUF0QnpmMk1DOEdvODFOcHFoR1ptcVJ5RzRTNE5sSGx0REg4UkRPcTJDS21wblZPc0ZTZkdRNVFPWmVzZWdodC0tcHdaYkxRT21QNmk5ZzY4eklSWmYyQT09--3117efaf02b38c915137055c145e73f50ef07117; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

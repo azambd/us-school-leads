@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b58bb65b-8e9e-447d-bf94-f944622ed254
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Floyalton%2Fwilliam-%28r%29-rouse-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UjJCcHNJNmh0VzBqL3ZSczhVZmpCcElWUkUvYmxPazFpQ3lZL2h4SkhGQ0krbllsM2dMTjVQMlpRTVlxOEtYbjdTdFgzQ2NHOU04dUVDZ0QrbkRXUUU3TndmVDBhV3NYaVR0YTlScnBMY1FsQWRyb0FzWTZKRTlMUXBpUkFMUVh5dFVJTzQrZURiSXJaYStBUDNiSjZZcEFxYmlJOGpXQStQcnQ4WGxyb2wrNlpESkZ5bGRseG1TbnE5Y2NrbTZTSjRXRnhWNVZjN05oRjVHQ1FYditBNTJRdmU0dS9JT3pNUXVUQ1U3OFhuZEFoV29ueUlZcmZ4cDBmNWtJNVJ3OS0tTmlmRW0vQWV4bGVhQVFpYkUzTmNhdz09--7e709878ec1a99aeacec04905469bf37e7078e2a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

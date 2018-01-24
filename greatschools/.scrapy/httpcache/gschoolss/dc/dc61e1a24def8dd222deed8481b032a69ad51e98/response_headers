@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a4c6d9d0-4945-43b1-a436-1c92c36af076
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmount-shasta%2Fweed-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NDNCZUFkOUtMdG1lVEtOdGRPNitERSttU25BZEJxeUszTjhJL3FreDlXRm9VdllOb0tucVk1anlGdmdVcVBvZlBFNHJlNVNQZEM4dDMvbTNyTE9HTEVDS0hTMi9NWTNWUmxOU0FhRVZ1aFVUdHV4YUhzSFVTYkY1UFBLY0hJbTJLVHFMMlBxcjhDTG5Na3UrcGFLeGFHc2UvL2VKaTh6NjhtYW44OFlYWmlXeDFnenJ1SG1hMjdBTDdEcDdMdGdTdzJDSXlZZU53OHAvUnZBRCtWVExlWTExT0EzNjBVUnBkam1GR1l0S2wyTGNGd243VmhzMG1NbmsrQTZ0Z05vZkFhd0VTYWhLSzlJMk5yb0tVWktHcUE9PS0tTWZ3TFFtSU5OQmQ5dmc2RW5CNEJHQT09--472d00283f20bf848ab6a7f2fbcf3e47f4df71ca; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

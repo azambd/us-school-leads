@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e5ce48c5-07e8-47b6-8b7a-6216beffc052
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnorth-fork%2Fchawanakee-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R3hBalJPR0VYV1l5RkpXMFFkWlU3SnhYVFhuVTVhTGlTVUIxYUowbHEva1dsSzFBaXdUb0FRSUpWaUlXRUlNSjE4OWg4OGIyU28reWd3Z1lwVWZRQzMxdFZETDJWWXJ6OSthelpPZEhtY1U5MkpNOVViNDVmQ1JOUW1oV0xkYzlOaVdocXIwbGl3M1hsR2JjSHlIalcvNXIvbFVhUjJiRDY4bmRZT1cyTEtkNXBJUEo1QzN6T1RETXV4cElRcVVUb2VnTFowcFFxQVVqV0xSZ2x4M2dFNnhneHprcHNEemJWYnNBVm9ra3Zpc21JdSszR29Icm1PREM5aTcyUUhWYjJ5K3MvZm54NXovM0xnNWFHbC84N0E9PS0ta0R0YUNFWnJqTnc5VzB5S2JRWEdWdz09--4c0bea34efb37e8599aa79b12c663f286f2aa5ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

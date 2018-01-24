@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 04cdeebc-a090-4d78-8801-66dede1daeba
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fred-bluff%2Fantelope-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=empkeERSOWdGVmFmckw5ZGJKVTNGc0dMOUlxM2FjSEZhS05NaVBJODM5bmQzLzhRNWg2WW1NS2NLREhrQ3dyNUlSbk9DNzNMU1BoVi91b29MSFhjSjVCM1RkMnRTd29mZXplYWwxMFJMOXQxVjc2azVBbkozNDFUcTdyclJTVFU1Y25ObW9uVEp2anhQVGRzMXZFcVdDUWlmZ3NmSm5OMmFsb3RKbkI4SWtPL2J4WVRWZXdxc2c4WTNVYlZoeVByN1g1aCtmbkIyWHRYSW5lZEhVNXo2L3gwb2c0TzJ2ZEptOFplRVdNc1NDWnRHTlFxRVU1Q2FJclNiOXZGcWQrKytVQVRiU0U3ZlQyZ29sTWpWdlUvdGc9PS0tWE9KZEVwMytFN3RtSm44UVo5eXZ3UT09--3694d7015d264ee10c4a984c5f866601485370b7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

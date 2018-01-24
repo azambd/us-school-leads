@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 29e698db-1f6b-4ce4-88cf-d9d0eeed777d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffortuna%2Ffortuna-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z3FXTzFSaXFWUld6NjBwQjI1ZXJJUGttdndVUkFxQWxMeUdIQnFzR0dETnBpREtkWUFHekZ2WVNVNGRkQ0EyMlZVOUtPRi9JUnUvOEppcjFJUXRDKzNsMGxaZmpUNVBHbURpcVRlYU9YS3B5VjJBL2lDTFZBWGk5RkV6dWh6Y0JnZVJSQ2lQLzU3ekRzcFZGenN6Wno5akpHY0FHVmIrOEJlbEY2a0YvQkJWOEJTeHlKMVFjNjQyd25PcnEyK0dsOXVoM0hHb25jNkxLRkRGWC80ZzNLTkMvSFJMQ0VSMXJSSDJ1WjNLRkhVcmg4RzJHV3JqNmlZSEwxTE1VbkpjZi0tTk1GcDl4WVJmMEREcG04SDFHRS9Fdz09--b6ede283006391bbc65943ba207bf6137cfc2948; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 11600309-daad-4b8c-ab1f-a39d2abd770e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fgeneral-shafter-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SUQrcjBNRE5UalRkWmJTTGk2UmRHVmNoWEpOS0hmbmwySDJqTmVxU2QyYU16T0dmb2VtM0RXbTFqSFdCWEU5VDZQVHU0dnp3OFRBOXM3VU9nb3NUNGxMWXd0V0llZnVuRVd1UFZ4STVzTUxKbSt3L3ZkdjVNN2gwVFVjekZrRHhQMkV3WFVSaWwwekFYVFpCc1JWcUVWUWdyWW5LdjkwZkdFTXFzZlhHTEYwa2NPc1paY0tXalAzUVFTVHExNnh4QkVUUWRiMk94WFRwajZxWm5TdE43akhrOW9Zc09PRHZ5VFhkcktGZEttSmJWVytpcFNpaCtMWFY2Tjd0K3AzdGo0M3pzei9nSE9kYzh5NlV5Zml2Wnc9PS0tWkhtNEQ3eGZSVDAzTnQ1TGJEYlFIZz09--1e7eccdde11e6c76cfbd1337ffb74fbc07da002f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

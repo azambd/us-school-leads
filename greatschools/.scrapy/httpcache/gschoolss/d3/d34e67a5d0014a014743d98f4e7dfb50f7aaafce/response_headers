@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5cfba864-9066-459a-9f63-7a25717ebf88
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsomis%2Fmesa-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S3pDc0NHcHNpZ3pLSSt5NmFaRTlYejJLempIOTJMc1d5bHJwNWcrQWRUYUt6VGlTVnUrL212YkhVOEhRdnoyNVIydlRkZWdNSUZram1HaElkR2dabXhMYzNSLzZMV1hEeFM3R1hPTkVIL0dlOEVpRkhHQVhpbGUyT3hFTmJERVhUaDA3UVBKRlBNdzB5RHNNTklOQmNiSGthTGF3THladlFnU05CUXcyTjFWRGV4VVZqL3U4WlIyQ296TlhPSjdRaE9iSWVybFdqZ1pUWU1mRHpOTDJUUHF6eWtEczdncVZsR3Q2bWxQeGd5L29DQThXVXh3dkQ4cWFSWEltdTFscy0tU1Nsb3Nwb1NtU2tKNW1pWTE4K1JjZz09--d1310ac9eaa0383d624a0123ba32b6eaba0b87dc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

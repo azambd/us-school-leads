@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8b645f12-722e-4155-a6d4-e93a97793eba
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontague%2Fwillow-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NWFtRnc2Qitnek9haGJ2dFduWHh5NlBpVTFUSWh5dzloSjdNTFZReWx4eTdiNjNQa0Z5SndCblZvejAvdWx6aWtSSm9yU1plS3g2QmNBQThMMWtmb3h6SWpWbUpwdHQwc055U1h4eXV2c0RpU0RHbVpqR1J6TDQvL0lsVEFzZU9VWWY4bXdhUHEvT05WeVZhZGxhZmQrNkQ2RXAwdTR5ZGQ5d3NmdGJSdlFnNHluMU1GUW1WRDdIcit6Ri9mSG9OUUtWdlpIMXlSQjRPMXVwVjJjcTlQQ2NGSm9sNTY1VlR2ZWVyMjZzdEtVY0hCdXlHVGdqQllhK2dKQVM4dGtrai0tOE1aRWZYUy9mWXZGSnNPNHE5MGJhZz09--e5dadbf8552d335009ba302aa5212938b141117b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

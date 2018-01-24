@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 92007d63-2303-41ef-ae35-775c6b07d2ee
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgustine%2Fgustine-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K0QyLzVTbFJONWErWG9UbVB2ZmdCK2tlWjlUSmJIUHdmRkl6R2pzZDhFeGJqL2wwWC9xeG1UUXYrOWdrWHFwcER2cEVRaWRGUWxsQ0VIQUdSM2Vuck9LakMvZ0xHbG9qZklVNnpYS3V4QjVnTkluYkJUUFhvMkRWbVNTRjdUTkMycEVSa1JWZVpRMVY4YVFtOWVHc21tVi9hU3VUTjBVNmVZd2JxSEFnZkxUT1FjQXVZM1RhVE5taEpNZGtZUDU1UmlXOTd4VFA4ODB3UzFRWElscnVCMVFXVUpFNTRTcFFQSDdzNlFzMUdXR3hBalpoa1hUVVk1aXNYaTd4RCsyQS0tT2Z0dzdML2ttSjFJRFlhZExxMENudz09--2233ebff87cfb31698332117840bb3fbb28e1bc0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

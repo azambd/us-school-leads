@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 50044814-d72c-41a2-bc73-2efb786554f7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Flagunita-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=KzNNUWxPMVBmQzNQcTRIdEw5K013WTVCdDFXdU0vQ2NWT09jSkYreEd3QUIvKzJBWFR1QjFiMjJYcmxSUXg2NTVXVHNPaUgvTFB1YXh0dkRSdEhHSlBKamRGYUtWTG9hcEh3Q0FBcDEwOTR6MUZaQXdrenNUNE9SY3VpdHJ4aG9jb3hBR0N2UElMNXRRcks0a3N4VlA2MkN3c00vdGRHaEJQcHM0dDhvclk2SmRFYVZsNk1nL3dCVWRKOU5qUGlPdWJ3MXk0dHBoWkFKV29CODB1aHlIZDJYbE5nTko4OEhJRjhkbVRQK0tRV0I1QWpzS3huY0d4aytsN2lqTi9yay0tbndabUM5aVBraVAxVGRjYW1YcGtKQT09--ddd9f9bcb62ea5d51e594ec12c97cb96ef55a5b6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

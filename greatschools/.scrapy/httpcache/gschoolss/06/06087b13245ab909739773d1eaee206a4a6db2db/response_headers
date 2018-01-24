@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0225f3c9-c5ba-4bf0-a650-be9e9c194191
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flive-oak%2Flive-oak-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d1NoWHRaVVBDNWFDNFM3UXJTS2pBUjJuYUhBNS9oeG1qWnRNQ29vMFkveEJoeWM2SjdtcUlsWVZpQmU2eUUzbTF6RHVpK3FTaUF6ekllUHRJL3JBRHBzK1phKzJ0MUhJWlUrWE9RQ0sxVFJrWWtUS25BZkR3OWlCOWtoYU9kMjBvSEc5ckkwZ08wamNHWER4UnJJRkoyVFlQRzV2cTVYaDhzWm96UnBGNk0vdGNPSnFVZjhPaVhXZEt4bE1UYjA1ekFHOFkvbTNGeXlvc1dweDJ1VW9FYmxrdFByTjQrRFZObmFLNTdMdFVTcVBuclB1N0dDVzIzd3ZhekxFSm51SS0tS1Vha25teVFlM0N4UTlRbzNVUjBMZz09--6379f90df235ed0fca2f7393eb7d199c95785c31; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

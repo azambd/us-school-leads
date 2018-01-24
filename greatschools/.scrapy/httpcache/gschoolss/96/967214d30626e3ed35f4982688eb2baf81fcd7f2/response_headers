@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 99e2c00f-1977-41c5-ac71-5dd5cd479053
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhollister%2Fsan-benito-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aWpvaXFERjFxQ1JhQkZCNXUrRFNYVVp5MWN6ZEhEVEprQmgyTVBTTVFFTGM5UlVQOG9jVzU0S0c2QXBTaGcxM0V2Wjg0dTlMZHJYRGJsMWVuVzhuTlBCZDh3cHZicjNzb1c0YU5jL2pHMmlRUXNYNUhZdWtHOE0vUkdSN0s1N0hlVUF4MmFpYUxRZzY1MFVRNnJWSXNzaFpWN1Y1dmhyNW9YR3FQdDBkWnJkTkN4SFpSUmpJcFViY0tiZklQMUZsTk5vTklMM0Z5bnpldE81dTlERFdyL2pwb1NnOW8wOXZIZHpoUXVzTC9sQTYwUzRWb0Ixd3FEazBnekQyM21TNGxNUWxMN1YxZ1FpQ2U1MlJpbHZRVWc9PS0tUUM5VFF6aDlkMmdQTExMUXhaN1lMUT09--f86c6a80139314b44946cb12dcfe5d59b2a88d3e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

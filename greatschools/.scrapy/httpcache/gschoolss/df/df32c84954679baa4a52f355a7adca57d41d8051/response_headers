@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 88ef37be-c144-47d8-9c0e-6c610b5977d8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredlands%2Fredlands-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OTVNZ0NwZnZGZFVjQ3N1Y3cxdTNzUEZUQzZ0OWVWZjNvZndZZjhCcEcwMzdyY3FUNEVCSGpnVndUeENzOXd2VW1CMjY0SXVha2FsZi9IU091bkRYa3dJVTJNbnZFa0dtTUgweFdZcHlYN0FkdHFFWmhWWVVqZFVRMCttU2Y5V0JwRVRsUGtYS2hEek5QM1NYN0pvWWd0L2xPUmo0amhTREVENWhhT0xtM0Q5YTd3dlh5blNBTkIwdUlRNk8vbjFjREZ3RWI2alUxR1BPZXBwWnlHd1FwL3dKaEsxOTBvdzVTeVpNb2xucWZVZE9GOVFyUEZoVFBhamlQZHEvSUN6dC0tNkE1TVpPaW1NeG0yc1FWajVUVXRQQT09--d5c0598351626cb871dae04bcd858ccb9061d0f4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

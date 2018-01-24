@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 313cefff-3d1a-4f5b-bddd-b60dd56aa05f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbeverly-hills%2Fbeverly-hills-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MElubk96UHQ3dU1URG1XbFhaVWtwVFFLY09WVkNTK1pJRFRJK1dsMVBSclF3ODdxcUM0UmpOSzlpeFlaTnZHMmtQZlc2NkZMNmFpWkdVRFA1TVNGMUxSRjMxQUNIME5QeUpGeDJ1RFYxbjJHRVhSUnd6RmE1VUkvUlh5L25ubGQ3OGVxR0FMZGdEeStJQytoT01aT0lma2VWdDR4Q0FrRXVLUW9kMHFNSGR3OEp5aWpobUxXcDRQZERZNjFOcmEvOTJ6OU5vdFNHSGk4WDMwY1dmTFRhZTJIV2RnYTJyT2Ywd3B1dEpjanI3YW9IRnM4ZFRXdzZJcWZSazEybndwQnk5QWxNYTRBdlZ4OC9adi9XUlFZS0E9PS0tclAxempoeEtSZ3ltMnFodlhtVjhVQT09--da3c64d04ae5deea62933c41bfd1e9b83ea7d177; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e8584724-97da-4dbe-90dd-e12e587fa1a1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhollister%2Fsouthside-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RmlXWFJqUkV4UjI0WXdZNWY3Nmp0OGUxL2N5cG5CR3g5VXk0VWpNNzkrcXFZcUNaVGpuRmE4TWdyMEtmeGx6RmlDbWhMN3NURGVJTWpJMStoN2tuN2tCbVE5Vlp6cHN0TXYyWnJmMDRjWUl1S1V6UGJtV21HUXA3cGdmN0tiMmF2TTVKRE5LbWJacktrK3kwMFRvc3UvNmRIS0UzNGhEdGFlSVdxb0dHSEM3TlFQVW00TjBPRmRQWDhaS1VONTJqUTBHYWEzTHUyMi9PVXplTGNKYWtQcnJNWEdnRlRLYTBjbmhzVjFTd2U1NjU5bjJpSGUwWVJyUENISzB4Y3J4cFI2UVgvbVZjblgvbVRMMEdpK3I3ZFE9PS0tSGNwNnQ0dmM4QmhRMUhvZk5rWDlkdz09--d52f3243fc5ef79cb015f02fae1d0401a62fac67; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

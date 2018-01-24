@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7ec8754f-4b5c-418f-8990-c364d4870e40
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Favenal%2Freef_sunset-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U3dxOVpnSW1hVmJQRkl5MjNQZlp6Z2pzaWNVNmFHSmIwU21aaHByTG1SNUxxYmpSZ0FxNFpQVjlON0FBSTVEcnVHdHJHWGk4VHFFNW1KLzdOSGhLRE5nNzRkNDladDM0V045ODViUThFa0hIN0YxbitsVGUzSVV0aDRySnRIaTZpVTNBRWFtbS9ZOWxITlExaUltMXpadWh3ZUtWSEJFZklSN3EzbHEzMkpOYVVEUEdORDN6QzBQYWg1WE1KK3JPeFc1YkExOUUrZTBwWTJRZEV2MUw0UWcvQ1M0TllHejNwaVphWTMxU0pZbWxmL1J0dDVFbngvNzBCck1tWkFCdi0tRVdad21kTmJRelRPNU85dkRiRDZHQT09--c95bea322894726256c6ed4c930a8e20112c1b8b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

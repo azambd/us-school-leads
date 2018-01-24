@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A2591%2C%22state%22%3A%22MA%22%7D; _gsweb_session=WHg4SDAvTGNCMElSRjRQZk5Rcm5wN3JHUERucWtJRC9MTTVuUlJSaUlVVEEvcVVmRElkQUs0WXJKVHVuZVFpenRhYndZamgwSTR1cllQeWN3cUxZVUFVSXhjQWZQeHVGeXRkVnpWS2hFd2Y4aE1GcDlvQXFMeXowV1pla0RyY0ZVWERqSktXcVM5dXIzZnpRSVhCRDI0QUVXMmY4T2tOWW85RkU4Y0k2L2lRZnNuMXBPSURlN0hib280YWhndFVvTE0xZHRWYzRVUzZTdm5ab0Y1RUpuR1psckdNaDNHdHpZUG1sbHF2WjFjWlV2eENJTUc0YkVJcyszSUlpS1VVUi9KZ242eWxUMlk4RWs0ZGR2T1FheTZUV3RiWlhxY0FpSzBSMXRKRXcxN00xZkNScEgvK3MraklDcllFL0NBVUpFUjB1aFdaTmlWb2N4alM5U1JmRkcvdHdad2U4SGkzMFJpS2ZBU3NROEFic2l6Y2hybHFxdlhqNTlIZWM4LzZzOTRwUHA4KzdHeEZFQ2tIUndPeWg4UT09LS1CZExUWUpDK3kyTUJqRTlEMWplMkdRPT0%3D--9111639e1f65a2283a70330e0459fe3079947b65; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fnew-milford%2Fschools; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/massachusetts/methuen/2591-Donald-P-Timony-Grammar/

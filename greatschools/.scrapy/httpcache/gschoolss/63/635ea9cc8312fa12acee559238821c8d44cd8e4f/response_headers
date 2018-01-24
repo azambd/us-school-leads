@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f69d42de-db8f-40f0-8f06-f9eaf47d6478
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fking-city%2Fbitterwater_tully-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHh5dTJlSVB5d0t5NmR1dzErcWV3OGdML3NkKzl0U3F6ZW5kd09GZXo0Tms4LzY3UEllazhsUWg0c2lwQVdPUE5pK1Nycy8rODFPZVBZZW9KYmRIa0FiY2JSZjBPQ2tMM2ExTVFtdFZNSmg1dDArTlY5ZlRkQ1UzSHh1Y0ZsVUI3WWY5a3NsVVlFNk9XdDdKcGdDbTBiWnl2ZWc2UUkwZGMxU3czNFYwL011UzFNSFFsam13TkxzNVJsOTJvaHIyNnlhRHowcjR3Rk5wRTRGVDgrYm1RYUdYa1daOUJ5b2kvUGJrREU2ODBKWGZ1RWlsQTQxM20wU2pMSGl5NDVYM0ttVjA1YWsvV1dJNEZvTjVWU2Nhdnc9PS0tRjdyc0lyRlNHVTRjTnpzdXl4VlFWZz09--cd502890d38748d2024925bdfd59de4657ff97ad; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

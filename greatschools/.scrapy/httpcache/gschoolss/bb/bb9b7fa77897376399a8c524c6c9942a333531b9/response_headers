@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d756bb02-0c6e-4f42-b766-bfd467acbaa5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhanford%2Fkit-carson-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N1dyenZxbThKZUZpUDVsYytXc0JROElVODdXWitqSWdxUG1kTXNxRWRCTFoyMmh5aGhtRkxKVzRwR1FaTnNJWDRyS09ZTlZsVnhZbmE2SDZvUDNDMEUvMXhMZjRVaURKSjdmQ0x6S0FuR3hacEJUcU5IYTF6NTNzakZaOW1KN2lvemtYdDFLbmVPaWpCS2Q5dnpkRzlsMGVhVVBQQmZxV005clFEWDB2UXRhNjhmbVVVaytaczl1T2VKZ3BCcHBscjM4TW5JM1JVWFV5TmlLUTNZbCtvdnAyVWY2MG0xRG95dlduWVpEUzRwN3MxbklOdkgxM29TWG9Ca3lyR01tLy0tRkI1U1pQTzlDcmE2K3ExYytud3N1dz09--063f49d295bbd3b8a0813c4bf0cb6645f6c5b7f8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

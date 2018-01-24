@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 401809d4-797c-4908-8e27-6f231508a184
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Falum-rock-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z3dGZ2hzMnJFUTY2Q2FLMU0ycjB3QjZaaEhwNUloR2dqSHNac2FBeE1MUHFTUXRJd01UNmgxVml5SFdMYVptMXlBaVE1TFJIRHFMdEhMcEkwTzhtTW5zeGRIMHJRb05vNUJac2p2c296SFFlUzZGUC8zSTZUN1VFVEJLN3pla0gxSWFTWWtSR2RUSjlKOTlwUGJvT2Y3ajRRQ25qU0l2R1JZMC9kSDhJTlJsMUYyODBUdnNwUWg0VW55NWFidm9ma1M3Z3hCSW1tVkFmRUc4UUc5TFZFakUrMzBCMm5BYzY2akdWSlNLUTVUN1JoMDNXQ1lSNVNqSzZ1QUc3NWFNdS0tRUFIbkE2SlpFT2MwU3paUTNBTDlsQT09--2bf51cf3a7129a7ee6fcbec8ae33e3ef3c8571d6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

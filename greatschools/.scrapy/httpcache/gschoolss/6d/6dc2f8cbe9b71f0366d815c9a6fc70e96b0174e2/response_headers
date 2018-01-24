@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 62c968ed-8771-473c-a293-20817bdb4a0f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fherald%2Farcohe-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a0NNRkFiVktodmpRRExGcWlTNXpScGJqY3JjUEVDUzJwUU5uN3VrdVVqdjBGUmVkUGkyZGpCUVdKN1k4bVBUenI1QTNYbGtHbTQwbFVaYUdHc0FyckR6WDYwVi9HNGkrYmxTWU1vQmdsWVo1eGFlSXdKS0NYcjdyVU1rc2l1UEU2ZHZ6MFpZRjdMOUliUGliQ0k1LzNtR09aUjcrUGp3cFRlNUV5bHAwdTBOT2h0MnJnWURuZ243TThCWTNjUXVudDZVa0U3QkxTWGRoNnN4UUR0R3NvSGVKMlAyN0dzS0hUMVMyOWtZRC9yTkFIcDQ4ZVVkUU5RcEhQRmVRNGFBcC0tbjJydUhsTUJoQUwyNHJxc2pwbUUwZz09--4232a2a5ccc2e9b3cf61dc773276167752925298; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

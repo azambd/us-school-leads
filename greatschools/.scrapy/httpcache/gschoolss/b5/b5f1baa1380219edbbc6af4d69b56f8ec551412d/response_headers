@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e485d3f3-1438-4765-a102-be283cffa377
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fperris%2Fperris-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bUljZU41cWRZMkorZGpkcmJzVUZsV3NxQUpuNWpDNm1sdGw3SFZ5RGxvZFRIbFBVRFJSUnBDUGZseDRMWWhsU1p3NjJhVkp3SytJYXNQWUd4bDFpcEs1R3U5NnBiYXB4UFV3bEZ6L2dFS2xDTE5GTzRVZnRwbm54TzlIakY0bHFja2p1RXNSdUkrSk9MZk92b28ySDhXNHZLZnp6VW1HaTFCWDMxQnZYbkhVOVhDVk9XdmMybXZ0NE8yekUxWXVQMk5VYmQvdVg4Q0I5WThxZC9EWEpKUndoRXBvVDBCb1dFNk9ra0kvYkNEanlpKzJGeXRPVFpPMElCSFVaaGVOTy0tbHF0dUpORGdUclZucG9Ld2hZZFBLZz09--3e67a47337ec2e3a8999405f9b221a3dbd078271; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

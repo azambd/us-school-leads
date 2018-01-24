@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 22458677-f3b1-4c7c-b27d-fa80842cf2bf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnewcastle%2Fnewcastle-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cDl6ekNhc1lOTlB4MklSN0hxbWJUYUN6VHZha2prVXdRWnI5eVVORGszbHlrZUlsakIzUXI4aFBiTXBUWDdhUHhaTzZGSnUzb0RIejNsZk02QWRPbU4yQjl3U3lVbUVDVWpoWFdON0JUYkZHMDMvaXF5T1dJNjdJRFV5YlhCSFRMWmtnMTRHNDBlS3VsMkZ6dnhqUmFZaXNIV0NIZ1Ric0xGbTRBYUFDQWxLN2kwZStJbUx0cHZONVhhcmw1Wlc2K0w1bDV2RXNFZVJZM0liNXRNRkJyd1NGZkpSc3l4NWlxUmo5V05EVDJNejFUTTJGa1c2WHZNYU9oZFRkeFljb1lwVyszS3BteVJCQ1g3RTVkRkYxRkE9PS0tU0FsTUJSblZmSy9oNmR3Sm8yUmg4QT09--b230f9eeb60233bf3f6688fddd0f3cdbb96fcc67; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

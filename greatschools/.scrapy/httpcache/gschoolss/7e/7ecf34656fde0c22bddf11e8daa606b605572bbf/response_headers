@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7aa773ad-4569-4f51-8645-4b60a5b38680
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmckittrick%2Fbelridge-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bWFUeDRBajRpcUN3by9US2FUczNBMW1zK0ZLRlJCOGJrM3h2WmdKQ1FkS0Q2SWYwSVdobzI2aGFtanRsanZJclZMdW55RmR0NFZaR1JSTHJ4R1BJTlRLWTZXUERKdnAweEowWDBxU0tYWkExMTNXZDZ2VDNkcHUxTUdlTVJIa0k1aUpha3duK2hMZHpTOWlXMGpSVlpmcHM2QS9pOG1oZlJVSWdhS2h4OEhsTWxsSjlmV2dBQkcrQkdwTlo2bjhOTThTVENRVXhoQlVCUUpDOXFJOUt2R2JEUDl1b2pGRjB0ZkpSekYyUkVpd1dhc204WlpyZDJqNW53VnoxSDhZRWloNW05VWp1TFB4ZjNDMEs3TTNpc1E9PS0tUlVwbTZNc2trTFlqOEtRZDNDRkVOZz09--bacc2992588754db938c98c8d934d0f272202f7a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

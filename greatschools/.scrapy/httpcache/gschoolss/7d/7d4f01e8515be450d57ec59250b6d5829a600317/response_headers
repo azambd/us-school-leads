@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dae07ffd-c2cb-4f94-9bf5-59281af4a3ea
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flafayette%2Facalanes-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WGJMWHdPdEpiMDZRWDJoS1F1TzhwRXFOdFVoQjJiMGtWbG5oSFlkSHREbFFYdmxHV2tvYm5yakIycG43clVBM1RFR3pMUzRtSU1RVHdLbkFFeG5IbG4rQkRScUkvaFRheHdiby8zcXZ5K2E4Y2lORkROZUJVSVo1UVVib2ZsQWlTWGJkOTVZdlVYUkh6VDdaR0R6SFRRMzd2VTlwNllzYXVPeVozczVnQVdiYXk3Q3FRa1BwSmVzV3JuajlIK1ZqTEJLbW04SHorTFNGQzJBVnZQYmkwWVQrWi9YM29PL01LNzRWUkVmb0FSYVlUdGpaYkg3aS9aWVJPODFIUjE4WUJROWlCdDdybk44eDEvM05IZDBFOXc9PS0tWm5udk1udlFqbHNraG8yU3BIbU1wUT09--607017e8c939d24c602586ddf1dc9a7b76b2adda; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

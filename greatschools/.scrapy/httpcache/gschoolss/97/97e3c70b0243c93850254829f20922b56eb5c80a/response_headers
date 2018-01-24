@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e5361202-7e3d-49fd-b34f-eb86a97c9007
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-paula%2Fsanta-clara-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NC9qNkx6OHMyZTdjREt2WUVHU2xjb0RKNHhrOHNwWnJ5RzE0L0xNdkY2cnRCSmtjWk1jQ0NDa21SZzdyOWtZcjBmcGtvdjlDTGNXeFB4MTBDd2c4MWRMMXlHRnh5KzBYUlEwSHpHY0dDZlZsVkdtdUsvN1h6ZmQvUGdTK01oTGhyNnAwYmZzTmFQL0RaYjNURE1jNWZXTTY4MnFPcmZWY0R5Z28rdnkyM3Y4VDd4NWE3YkU5bThRK0JqU0VscEtvNlRIN0FCaldqSjVqR3VYUWE0MHNVYk9jdU5iM2VNeVJNUVVuSjd4eEllbHROSkhPQVJLZVgxN09XUHUzcGZEZkNRdlBVK1RCMjB2KzczY1pxank1RGc9PS0td3A0Z1VPdjN5bFlYaklsNFZKQU10dz09--dd4627b8f62ca4b3bd63f4514841a20828fc3f7f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3bee784f-5a0c-4e09-8f5e-deae10af4b26
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-diego%2Fsan-diego-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZGcrblVMUGw3RUdOellhdmFzWTRkMTNWdjdTV2Y4RmJBYU1meC85V1ZyOFhhYmVCbnBqOWNZZ2k3U2hIR2FMcmhFaVlQYWdQMUVZMFZxQmxFblBITTNqQnFtUEE2ZTNEM2NlZXkrbHRCSWY4c2poR0FKOUZDYmRPbFZjdE1IMFBBbHAzT2x3SU8wODFLZzVrVVpmaUVpdk1nWnlJQzVFSUppQU5EZThjYmhVWXBEeisxcmo0czArYmhDbEp6RDVacmFicEozYWlQTmx5bmdqNGU5QU1sQmliV3MyWG1LRm0wQXlPUFhRNjFZNWhsQ2thd0VidkFDdjR6UHdZQXU1ZE9FOXJPRkVwcS9qTnc3eEE5Qjg0S2c9PS0tbzFmVzU3bUZEVE1PYzlWZDlxSjlEUT09--15d861734b9d0c4b0bbb82b74a79c01815ef61b2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

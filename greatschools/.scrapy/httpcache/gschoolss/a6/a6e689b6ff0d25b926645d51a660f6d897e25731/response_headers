@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 72471bc1-4ef0-4546-8ab1-5171501ad4a5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Favery%2Fvallecito-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bDlOQjJXR2JOZTRzem9RZUNta0FQMTBxaTBYRHNsTkdUaGFraTByZEZzU25QLzVhQllRZnVSR1d2S1V0ckFBdy9YSjRvTlpLWEhNMVBTSWdSNGFKNWJqTnFQUHhzckFmaXVwazlLT0dFQ1RvTW1MK1VTNFU1aEkxSGhyZ2s0RkV3NXRXRTVObEZUbTBsdVduNUpRQ2o3d2RsTXM1VWRVNnoyOCtGRUN1MUordEVDdFh0RTNJSzhreGVzRWVsczVxbzd6NWVNZGpNV0Qrd1JxYVM2RUlxOS96NVA1Zk42UlQ2QnZJWEliendzekRSRlNrdktaVFU4YlhEY1BkaEsxOC0teWM1Q2U4RnM5ekgzOGFrTUZXdzB0Zz09--72831cfd4cbbf7901c275f57ef10cb521cf264f4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

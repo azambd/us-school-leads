@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8d409882-5269-4c75-a41d-f7bfcc1535a4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgridley%2Fgridley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L2JsLzN1MDV5bUhMeUNLTU1JWXIyaGhsd3FOMjNFWWo5TG5MRlpqZmU4Wmtwd1ZQdVlNQ3kwRWpwTDFGdENmNTlkZEFzZE1TYnlCcUVndFBKVkFUWmxpRFNKUXNxZWx3b090ZFRRSk1HR3QrU0hxdUthRDQyVFNVRDJlQkw2MGl6MWJWaUZxM3Fscmh4RC9yUnVId1dEcmZ2QXU5R0JNL3VSZnpOdWEyazlpaGVDakx1Y2t0N05yTTFrRXBSQlUxdmQwSTZjbkRmcWVOd1ZiTjBlNkJySEpzYi9kRHg5Y1N2bWtEUTYwaTNMTmY1R3NrUGlWeG9INk14RE92Zk9hei0tN014TGI0TnpodUhsWUZGcFFJVi9Wdz09--5ce45b3a5653ee4c1d7061831ce669e83591c429; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5053b439-8623-4921-ac12-a0e1dbc577b1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-cruz%2Fsanta-cruz-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TXdwNHdZbjRZS1NQM2lqQTF1RzFZNC9KMUdlTG9WMml1c3Z3N0MvMW1SU28rTGd0VkR6STIzM05pZFQvRTFtZ0NNMDczSnhJSkhsQWtsdGhnV2QwUDFMUDVTREN5SVYvYjg0dlNyZVFwUHpIL1AvZEh4YVZtZmdaRFFZSjJ6Z29TdWVOVnZ5L3U1MDM5YTMrT3FCY0FXa0NaUnA3akdBeXNBUCtUenhjNUJtQmJoVm43Wk1VaFBNTU50NmpaeDJyOFJwc1N2YS9ZMXVzTXQxNDNmNUhhaXR1eCttTzI0WURzaFhSOVNKSFljN1VlQjRYcDBCVlhWM01RSTF5NnFEd2RWaDlPeDU1UlpCeDRQdjZISWZHdHc9PS0tS1MrQ0NXVk9tMUh2NnN1YjlMWUdaZz09--cfa5d9f8dbe6ffe6127ef0b46f9c22b5f3f304ac; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

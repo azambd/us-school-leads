@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 12fcb644-fd5a-4d7c-a213-00bd25faee35
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmadera%2Fmadera-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QStCbXFQT0lxYWQ4bHowdHZjejhnRzJiaHhrUFFvQ05kc25qRFI4ZElLQ04vcGI4TjQyejlVUVVWRXhVekM0OFl2dk81Z3Q5UkFwdnpoM2txQU54Qk9KSmhhd1R6c0hrUFRFRGVHaUZXWnd1K05RSk9FejRTY0NISzZUd1NqaXpwbGZhakp2Smt6aWt5VjVIQVl6MGV6bEQvWjI1alppTXhrWG9KK0twOEczQ1Mvd1JXT3YwaVdvcFY1Uk9WQkwrZHdON3BReC8rcm5ROHpySzd6aXdkLy9FTk5TellaeHJUZlpFeTVxajk1RXNpNitHRk51ZHg3akR5WmpWQmtoQy0tRnI0MGF3NVUxL2M5WHBQOGc0WC9JQT09--9b49203c3a4ee0453f31da611a49c3ff81e44162; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

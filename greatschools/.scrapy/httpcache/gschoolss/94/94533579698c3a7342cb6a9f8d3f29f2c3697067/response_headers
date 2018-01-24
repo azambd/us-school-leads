@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 01467fd5-6a37-4998-b3ec-880630809e2f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwinnetka; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eDJ1MlluVHdUTVYxSzVaUmFoZ09sWWN4Snd3aTUwV3RxMDVsQk1qcm5VMVJyaC9HSzlhMTVwZkI0ZFhxeWo0eFBwODZndzcydHlTYmtkTHpKK3BYWnJ2czdnczVCV0ZZQlRwaDVoNnNjUXNUV0QxdUFVbGQwdGpRM3NpSkZlZjRRejl4Q3d2N0J0QWlScDlpQU8wUXNBS0RKc1VjTUtuZGRDdXFIa2w5c1RKVCtDaGszazFNeUd0K2s0SjBxS3B5dGlQdjFNZGYyWXJjREcxbGZJL1N6ck1PQ0hRYzc3NDRLTml5L2xWcFhRN1ZFZW80cWJ2SEw5NDc1eExtSmlESGRPazVKL2hKeVF3QUhQL1N2OTdDRWZ2ZnNFd1FlLzE1dHV0VVBPV015WUtJRytzWDNnZGpoVERDM0RFeTB0Ny9KV2loUnZ3alR0a1RNU0l1WFdMenk4SVRjYUhtamZDUlpWNnRlbE9XM0pSc2ovVnkyZTlTL1ZXUlR3b1RTYjJvd1Y1SG02QkhBZXJPa0h0OWhuS0pzUT09LS1jdTI4ZjltT08ydGhzQnFnYkRYR0Z3PT0%3D--1fbfe755f4ebeb5bb6696ed490732818aefe7a55; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

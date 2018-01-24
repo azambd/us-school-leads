@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ee6660e0-c615-4f41-9b27-9ca0ac0eccb1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbrentwood%2Fbrentwood-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V1h0K3Z6Sk1mM1VPZHR5R1BZWlVROEwrejJ3WmtUclVVWnpLQTNmM3dFNmRIREw5ZHplaHdTNStFUllhQXllOHczQUpLL202OGwxZnRpM3JseFNmKzBKb25XYnBCcG96Wm81SDllWGhaWDV6YUpuNWxiSFUwQXFBVE00WkRhVzNzVmdSODlOYjNuQTkvckU0bG4yR3ArLzBNcHBXU0s5c3FTYm8xMzBtQVFGajczcXRBQ2Z3ZG9MSG1SY05BK29OZS9OTmpraG5LemJNQzVmSFp6U1Uwb3A2di9LYmZFVWZwRkJqLzhRRXVpY0xFT2E2RGRRV056OGx0dmF0ZUZLY0w4QnNtd0xsUG43ZmVDeU5lVUhQQWc9PS0tdUwwRW9yRzEzdjVkRVduQVFQd05LZz09--58380603970ff8d4bef0a51150676ce387be73ca; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

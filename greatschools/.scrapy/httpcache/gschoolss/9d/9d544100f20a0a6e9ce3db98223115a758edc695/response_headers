@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a8579149-74ca-4516-b756-cb5e515ef082
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredding%2Fshasta-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=anhXQ3FpVmJneVNXWE9LQ2NJbnBDMFdNcWFPamVJSlpXYldEMTYrLzI4WGd4ZGlRNmZNV25YK0VEek5PU3RncllLL1ZMYldoNFdEN2o2WFU1VVdFRlYrY25zQkViSytsaW9zcG81dDZrMGlvNldXNElHQ2IzZ1ZCcTRwTHFTTzlzUnhSNllOSFRxSFJJUCt6aWhVRHZJN1lYTWFqVU1JUkNxUytET2pBazRwem00SVgvbUtRVDJDS1VaTm9DMnMvWTBacXowSk1ZVmhEcEkyZzdTY0VJOXdJZVVKUXVZYW4xTE1JV1VPaXZvOHV5bDhYaFVlQ0FFWWdQcXNMMnh1di0tOFJybXd2bzZqRlFtaUN1emh4SXZSUT09--0dd34e8370ce8e72a35c59b04243dd22a238f27c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

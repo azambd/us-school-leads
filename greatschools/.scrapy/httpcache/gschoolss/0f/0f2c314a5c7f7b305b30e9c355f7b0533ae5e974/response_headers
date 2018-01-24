@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 88530a09-8ac2-4e6f-a719-cac48db80d43
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flarkspur%2Flarkspur_corte-madera; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cjNVWE9SSkJvWHlWc1ZhNWpRNXFxalplTDZPWVdJTWFZcm9MUDdOb0hGbnEveWM1R25rekNwY21rODJoZktJcHBLdWlQYjczellJTVNjMDVCc1hsaVVaMnMxL0F6MTlhaFZNZUtqRkxwRFlQZmZkbWl1QUxrekFET1QzOGlRUERnVDduYWxRZ25Qd2ZVRUVoS1M2ZHdwTy96R0prZndGY2xTaG1namZUZGtIWjNaRmEwb2I2elhDb2VWMGhUc1F0cFErbnFvbExLU0k4TmN2K0thVW1nVGtiY1J2aERTanhHaEFrZ2pENVZyUFV0QlR5RlJTUTJ3T01GcFFZZ1V0Zy0taVpwU2p2a0hvSTc5UllJS014R0s0Zz09--7a6c8fe33727fdaf5dfc8342edbbdb70093f21ef; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

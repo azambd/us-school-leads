@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e446c15b-4565-4900-b8c6-447276216b16
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftrinity-center%2Ftrinity-center-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SEZXd0hWcUROS1RxcjZrV0VYU2h6QTYvQUNNUTdVQ1RjVERUdzhCVGNIRndFNU4rTWZGcng4U09ZMzR1ZFE2bU1jNVZZM1VhcGJaeHh6ZGcxeVNHNGhKMm5Ma3NjdUIyMUppUmZOWnVaMmZ4ZzFVUi8rbmNjcjNrTFZYaDNFZm5JMndURHdybzRGcFJBUVZxejA5c21qMzM1ZGVTMk82SC9BUG5yTGR4OXJjSkFINGlHNlpNSlpVdkpiMTdLWDNvdTd0RTFrVTJIZmJPUFNsdjJ4d0pjZklLRFZZTFpCdGUzdjVSSFQyejR4c1h6MlkyTmFjUENEcEd2UTBWTTZweWV3VnJFV1ByMHF2NHRYTmdTSXNsNFE9PS0tWThsZW4yOG1NZytXT0xXMFRHR0t1Zz09--49f9a3fa01d251650614740743f888ee1e3cda6c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

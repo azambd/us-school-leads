@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 660ab27b-59a6-4d51-b901-2f46fafd1dc5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffremont%2Fcalifornia-school-for-the-deaf_fremont-%28state-special-schl%29; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TUhHRXlVWmtuU1p4d244RTUvR3JKVlVaTC8zNTU1eUxDTlRITzBOUkZ6RGl1MlZMMDJteGVBWVZzeDJKdmQyMERSNGkyL2dOQmZETllaN3RrUTREbVU4NXltb2twdnJQY0w4N2VReUV5dk1aYzVoTXBIVFdjZ0xCV2RHK3FKUnF2T1NoeGR2OUZzZ0s3akV4MFYwVmxISitvUmNYMkZTcGVCUWhZOG1XK1ZuSTVrU0MrZW56VmZHTkUwcjFBUlBDV3Y0dFdTNm1XSkJ4VlhicGJoaXdZQzhkSkgyL3pZdk11bi9FQWtueGZDRFVpR09mcGJTSlJlaFh4YlY5dElsMS0tRWo5cVRDOG9VUTNEem5ZMjhBOTQ0QT09--b5c51066299c8c8b8abff88f55cb36594af2d98f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

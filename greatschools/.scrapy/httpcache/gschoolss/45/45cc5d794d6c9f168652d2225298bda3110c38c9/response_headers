@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 07067b4a-c3e5-4d78-b520-e6450a5d5a02
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffort-bragg%2Ffort-bragg-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c2l1WFFoRG9uYUpteVNPREF5cjBjYVc3c2pIVDhpMDlzZWVpa1MrWU5oNUZkdlg2alNuZ1RpTVg5VHpQTUtiV21mTGhvbzBkdmcrR2pVcU1xNGhpbDd4YVZHb3hIMGI2VGs1dUYwekJIVTZoN3ZBbm1DUUlvZWhmNDBPM0RiL3pHbnJaQUJUWTlCQmVMMThsMC9jeTR0d2lJQTNxU1lyMEpOaEczNHMvb0hYL1lTN0l1Uko1L04vT0hwV2Y0bno3RlhyVEIrMm5TWitubkp6Q1plSHlNcElGZGZFQVJKbDRKdS85bVk4MDg4eWd2czJJdFVSN0EvT28rMjBYUTdycXdpM0JUcG85Tmg1aEZ0KzJMTFJCa3c9PS0ta2JTdS9TVzMzcE02emNmZmZKdGZBZz09--79a830f92e14df6f3888a0f65ee21773bb014f24; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

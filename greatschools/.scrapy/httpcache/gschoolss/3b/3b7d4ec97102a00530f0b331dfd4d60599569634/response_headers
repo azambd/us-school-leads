@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 79e64f55-44d1-4b2c-ba7a-ba7ae8050391
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmonterey%2Fmonterey-peninsula-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K2pnQ3FCOEFuRlE0bkxjMnhNOEg1NUpsMGg2MEwzamkvNkxVbFY3bU81UnI4WTgvWVkvdFlTMEJ6L1dQaTI5ekVVTGNpWlVLMkZNbGxuNUpZNWdISjRyN3VoakkwWGdmV1NQT0l1N2Z0S1k0dW9sS2VYeDZDUWllalJMZ3JaWFcyb3JBYi8wR0dnYUJ4RGhLVkh1K1JHSVUzelVZSFhFOWFYOGdNT043M1BEVnVIeUhCb3VOL0VTc0YyZ1J2a2pNVnpZcUdqeUF0TWZoWXBER1dIR3VsL0Y2c2RaMGZWRmNCUXBtZjZUR2ZmdFl4T09IdFk2U2szOW45NGJoWTFuRy0tcno3WDVHY210T3ZQQWZEYi80Y085dz09--72dcff39b6cab08b9b8c27afac7150f62178577a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

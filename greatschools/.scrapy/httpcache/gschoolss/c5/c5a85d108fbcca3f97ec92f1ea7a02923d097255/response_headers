@@ -1,0 +1,15 @@
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: script-src 'nonce-3gFLrJ8e62o/8qQoW6EqPvJ7No4' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlusAppUi/cspreport
+Content-Encoding: gzip
+Set-Cookie: NID=122=a3Yms0KvUD0qQsaByg1u-fily4kYdhgcPaAY4GexZCV2dkjg-jWRho3AazV4NSqjj8tXw4OsjDdyZH4nyjrgkSuMV3C6rlTDyHlTVP28fQX05H-UmMKxfdEAFb5fqe_1;Domain=.google.com;Path=/;Expires=Wed, 25-Jul-2018 14:01:29 GMT;HttpOnly
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Server: ESF
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Date: Tue, 23 Jan 2018 14:01:29 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Content-Type: text/plain; charset=utf-8
+X-Frame-Options: SAMEORIGIN

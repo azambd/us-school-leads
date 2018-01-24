@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 44fab9d1-ff9d-4708-866b-2a6fd72aa0d0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feureka%2Ffreshwater-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WUtDYnU1N1RuN09pZ2pkS0d5d3RlQWowMVZ4R2R4VjBOenZFbjRjZytWNXJiREhFVncvTXJhK0NVM1pUNDhLVjJmR0M2cDNkM28xMCtXOWtvMzhWekNsVnJSNUR3THdSTkhSWkxVVkFCN2k1N1lBdDcvTnlGN3krU3hiRUszVEF5T0NhNWdSZkdkVjZMREpNVEI3aXE0ekRVaGNMVnd0NjZsWG9pN0xQU3g1SzFZSkhteUlaTUI5c3R6QTJ0NnN1K0NTQlc0Qk90Zk53MGlsWmtzdUdRaHhuck1VYVRVUElEaGxYblQxc05XbHhQMU1LYzNjZFVtNmJEdTJsU3MzNi0tR25YQnVnQjUzbnhjSkhJVE1QanN3Zz09--90b04d49c5684df0fefbe965aca84015af3e8d2d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b0f4c070-b824-4240-91d9-b6e23843cdcf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrass-valley%2Fgrass-valley-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VGtpS1l2VGZZZklKcm1zVjl5WjQ2TVFrcGtBclFSbEZvTlpjZzB5cFhqcDFHZFg5bWhPSythUzArVjNGOGhBd2s1UG1mQzVqVStnMTBJS0lTM1UyVzBJVkE0dzdtUmYzU0hEcjBKRFo3dm0vVkJOSmcrZFcyT01HaGdCYnlpQjlYa2hzcEZLL1hrcnZaN0xORjNLTHdvY3dld1cwSnFHUkNSbDBsdmh4V2lERVBqMnpEamJrdEhyTm5tQzNObXhhSDJyOHZWUVlCVDAvbENadkxOcUlhLzlFWjRNNERJMEJCYWR1Q3QyMTJQaU94ZW5jcWVSUjdSV3RBTnN3eGFjY1VydWQwMG9FbDEvNEpvR0E5N29jamc9PS0tSHdmMkVNL1JncFBHZzA3UWxPakY4QT09--4fd7daaf7af850497953da82e907fa1382b5dcb4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

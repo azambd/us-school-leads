@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c029c8fd-1323-4f43-9391-063cd3f2cc07
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpearblossom%2Fkeppel-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WTlodUVVTEtNdG9FMFVRdHVDbG0yN3VOMjdtd2NQT1lBWVZ0eU56SXlxbzFvU09RSGg0ZUpKVFErSk51cm5OakdnOVN3SjlQSmZtbWMwaWRuQTdKUHFyVDdFdERBMmtnSmNFMWRzK0Rtc0dZbXpsZVNHTk5YNGYxeDUvcmZvaGNmRmJoTmVMQlZ2WDFsa2RMYmlMSDRpa0ZoNjZEa2JzUUNxV1puQjlMcEMxUEJzMkVpaWxud1NSK2xEWVBuUEZCZFVlVkxCMTFmT1Nuek5vWTFOcUVvWEMyUFhHREMzVXR4SmNVOVovVHRuNTdpbGVxaXV5YVlzenIyK2JuWTZsOXE2Z3oxcTZjV2RhZ2RDd083dzdZakE9PS0tWEtSWW4rQ2lMdWE5L3krQTUwcnVGZz09--d0819a3e17ad6ec0174e7115a203b8a2fd36900e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

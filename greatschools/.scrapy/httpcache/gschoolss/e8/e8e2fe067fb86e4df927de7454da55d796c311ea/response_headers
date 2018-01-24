@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c50c4106-7f0c-41de-842d-7cb8dd626c32
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrass-valley%2Fchicago-park-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RE1CQjRmTkdRQ0J0S1B1ZlBkRlZseGc4bDBvbVJXWGNHWWc2aGozMHhKT3RBaU50bUhHV0RCNzZ2VFpSODc0RGU5ZTdLS1Bsd1BpQWFjdGZJc0VnYTR5VkFEQ1BueVdLNWphaDRDOUVQT2lXYzhYeFRxdVVybHRDOVNDVFF4SllFWS9XZDhVVEx2bHl2QXcwa2FQNlF3MG1rWkUxeHpuL2N0K29GZDhaaVNCcXl0SGJCT0owVm9EWENWV09LQXlwUkUrN21TU1VnTHpKS1AwYUNLQVljNTNndXdnZy9xT0Y5WGN5QUJaeTZieVpsdmdWTjM5K0lnN2dXUGloSjlnZHRkeXZmZk0rQzIyWlBZSHVMcEtCcmc9PS0tNTJuUDhwZC9lOTYzN1ZvUm9hT1hIdz09--4bd0e53050852307f532f8c1c013a0f08e46ba92; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

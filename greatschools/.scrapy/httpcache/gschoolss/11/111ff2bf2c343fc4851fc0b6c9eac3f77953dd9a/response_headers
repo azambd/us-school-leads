@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8df3ccd9-d112-463f-b673-148ae0a37e54
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fpleasant-valley; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=THAvUTVzSVBKWnBGRmxkc2NPeHUrek5ueWlacDBwcGlMOThTTkdvdXFvY2VhUExMejA4RDI2T3FIVkRRYWx1U0NQL2RGbGdacUNhUmlCSjJ6cnFhTHJmeGlCckxZK3FjcitxQk9GLzdETktVQzhuaE1UNGM1YTdTSXpHdjlobWtCTlA5aW1FOXlwSEFLSXRNMnArKzMrV05sVEpsamRJMzA0MkJNQjdVZ1d6UWNKTThySlJTZDF2VEdaU09RejlxK3NtVzZZUHdOY0hsTVJadXB1bjFhd05xeU05WGg0cEZoSWhOWTMralBNM2NpeW9wMWF6OUdqTW5xdkx4azRUcUF1MVlFZzBjWHpBQys2b3hmdk5BNWc9PS0telN2dCtNc1NSbXE1cUl6U3dHLzlRdz09--8c82a94a3528ae474fc4a03806e8f003efcf8929; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A27459%2C%22state%22%3A%22CA%22%7D; _gsweb_session=NXJFWE1ndE83TUpiZzAyVW8rTTlmVHlyejhkUXBiTGhqUW5SbVUyTmZzZzZFa3VVUmtjQXBxZ1BMbjBRaWwvckJEZThwK3ZzcHVLcmE0YzhVNGMraTRGSFV4MnczZzdSZmhKT3lRZjZnaGZmUjBzY2VtVktKY29BWGl2b2I3b0VINmR2b0pINEVYUEdJaExqSmlpZHJjbmlKKzl2NHZUSjJQVnZJOEgzbEVvMVpSNnEwdmROeHI5MXI2K283SXV1ZjlFa2tnclVCNmxYMDQyaENqUXJzaUZ0SGVwZW1tSU16WU1PMDcrTDNxWVlncXVaUHZRWVd6U1lSaXVlRnI4YUNXdVB0My83aElsWFlnRzdiU0orS0RwVzVuWm1TS3hKYUc3SThtRGJHZ0hMS2I2cWN0NHFUNStxc243ZmpQM21WeURySkwwcjZJd3Nyd2x6cVF5eHFyOTdZQW1KTENNcEhlbW5yaEVrczlodGs5V1JaMDdEbU03M3FYcTJMRDZyNGZybVh2bUtrMUlKT3pIOTFDZ1NUZz09LS04N0JwR2tIM0x3VXZRY1FIUzdrek13PT0%3D--e3894048850dd8541d06bc99fbdb04f63d34d903; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7751-Blanche-Reynolds-Elementary-School/

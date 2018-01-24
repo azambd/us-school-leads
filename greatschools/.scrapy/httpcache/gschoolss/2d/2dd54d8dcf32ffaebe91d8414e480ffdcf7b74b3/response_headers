@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cbdc363f-c30d-4991-a323-32ff60ee4436
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Femeryville%2Femery-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RUtPcU8veXFXb0dJckIwUWJwQlI5WlN1di9ISVZoa2FUM0trQWxXOHUyaXNzODkvNDgyczdXRC9SNG1ZTWg4dGwya3FJaXRzcDJSSUp3N0NPSUJvaW9Ya0VWZjBxQm5pUlNIandIblh0UzJVeFFkUUdQamRJUlVTODZwMXhTRHZoa3FOL1ROMGtVS2NoWlc5Y2MrSmdyUk1RdXFXTEdNam5STTFGRlZyMXB5djl5aWhHRG05QTAwVm05Tml3QnNTS2RCa1A4amNtaGVTbXJZVnJxQ1YwZjBIZnZucEdIYkNDcmlIR0l2K3c2Q0FNNW1zemJXZk1oZXl6WUY5cU1Zc29xZW5nMWpvOUVMei9FbC9yWk1kK0E9PS0tZEppWjZQNVNqMHhNckRibnplOWhWUT09--6ad3f843cd71c5b01b84dc5883cfd0be389ab931; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

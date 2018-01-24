@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dac26867-3eac-49f7-8b42-4fa065a8f471
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsomis%2Fsomis-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TUZtK3VQcTZidUdNOVN3bnJMbWs1UGxPaGJFY2JhWGJwSXRkbGxpWjMzR1c5WkZUVTRkd1A3TUgrdVZSZ0NrM1ZBSWdZQlpKbGI4bWRZNCtETTh1VGk2QmIvUXN3b0hXQS9UK05zQmJIaXpINng4NnlUTTgzSVVSQTdLbG5iek9IeHNjTndRbUluQ0dmZUl4bmJOWTVJQTdLMkN0dUZxdkM3L0N1SVFoYTBtUm01SFIvTjRVbUN2LzFJRHNVekxvYkJXTlo4czFEWGhJaXh4QWc3MWV2dkFIT0ZsYVd0ZUZtOXU5OE9EVm5OdVZBRm5tQVFKRVgrYllCbjNJQVdSKy0tWldlVG5CUmJDclZydzV5bWRHNDRpQT09--a1d7c7f6c10f343e8790047c05cd197b909c33e1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

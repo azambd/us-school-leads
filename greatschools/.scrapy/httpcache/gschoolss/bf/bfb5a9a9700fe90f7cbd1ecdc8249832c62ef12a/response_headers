@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c8637179-12e4-40ee-b944-863caa2c557d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcanyon-country%2Fsulphur-springs-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d0ZxdlcvSEdXZzdidlM4UXFIaE1qb3dpZU5ZTWJJcVlGMXBidDVyZUVlRUxnQlp1c1Nkbi9TK3Jzc2p5WEhyMXZIaUxxdzV2QUo3NTQ5NFg5QXhTUlFONW8xTEtVZFBBN2dIRnlNOG5XRFFFMUE1ZUVzM2p4L2ZqUC9KWnBmc1RmZTdxcHlmSnNDQm81Nk9KMDhDYlBjem5rZXozcU9GMTRhWDFuQkJGelVTb0xFWGNLQzYrVVAwVkRKQ2szQ3hkcnJTaUptZXNTUnhaanpESnhIUWZIdmo3Lzh2cEpldHhVOXE5aFJhWEk3TE10dmdXQTl5NDFyVzJHbE5DVmZjczNqRWhrNDA5bGxRbHNsYVp5MTlpckE9PS0tRGpabFhESTNRQ1NrQlNjWFhmT3A4dz09--bf1f3e331ce84715c70ee1ca49e2b913a3605b43; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2685880d-1dbc-43d5-9aa4-47cc1bac94e4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fanderson%2Fhappy-valley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dXZVNFh3TTNoS0R4anQxUTR4VnhXZms0dVQrWkpQc3E2dENDc01Wcmg2a09GK3ZSd1ZTNUx0RmJJQm84N1laa3U0dG1tYWkzYmZtNFJsS2owOURjZHBtYjFZVmFScWdjaklvb3ltZHdNbmpBckFTZjluWEc1MDQ3V0kzTlVWN1FJdUF5NnVzenRpUG1QR2NlUVBQTmZYWlBaVU9PUk9tbzlMOTZEL3BnbGRFSm0xVmpnR1hQUVBFa0Rxd2djcEc4ZzkzRmp1TlUyNkhlTzFybkZFdCtEaDFhRlpxbzBKMzJDUEM2M3RqVW40VmtVSXJYMUw2SlFyZTFZcWQ1SjdoOC0tV1czUlhKZ0dob21ZMUI4U3N4VnpSUT09--7fc3497a5659a991c2a18eb7b4ea18def0cfca70; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

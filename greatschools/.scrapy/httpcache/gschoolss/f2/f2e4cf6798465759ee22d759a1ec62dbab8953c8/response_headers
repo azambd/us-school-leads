@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 25fb94c4-14e1-4592-ba73-b1211a633850
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-centro%2Fmccabe-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b0FjRWtjaWVERDRSVjZSSEFsbzJLU3ZOelBmSjVZTC9jTUdOZmQ2RlBBdGNKbFpjYzRUWUNFTHppTHV3Wm5Fa2pMaDR2bWhlZlJOT0QwN3IxVzZ5UEV3VXZrYU9oc2hoeWpOZGlkNjFMc09CL3MrRGdOdGkwRGZ0QUVtRkxyN2k3eWJMRmNxZUJFNUYxbk5nVEF6U0xBb0drdmxTTlpoZlRXODRQbVMxcVA4YjBhU01vNjV0eW5FNmRjK204SHlsazZwMzBhV3YvbEg4UEhIc3VzWmZkY2VJdkJvbHNLTGtUL2tIbks4MlFkVkNFb3RsM0FvdVE0eGV1VHBRN2VzU3hCN2FKU0RkbFBKWkZCbkJvMkdJdEE9PS0tR29wWWJaQ3d2aWthZEZMZTRJcW82UT09--3f706bf577602af2c68084e304e3883eddfd6b24; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

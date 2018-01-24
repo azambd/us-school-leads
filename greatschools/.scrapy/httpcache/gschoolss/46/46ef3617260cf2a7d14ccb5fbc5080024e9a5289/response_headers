@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 5d33e774-27d4-4cd9-8e73-ed9150b889d4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fsanta-rosa-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N2hxY3FpZzNzYnRTMzFBMW9SQmtjckNyRjRxL1NST1dobHdzNERCYk82VWJZcTRNMWRvdG1EU1ZrL0NDMjU4cDlqOVdHVldtMWpEOXdyeXNZYjFwek90Q2lvejFyUDZWS3llMklUZHNzOVM1QjZEb0IxemlNNDFwRVpsUnJUUldEK295VmdVdVhVVDc2cms5VUN6cnpqSVdTMkZITm91UHBNNmVtTS9RR0xCS3FPR01KczdzbUlLV2dmQ3pudk5RNWRPVTJ6TlRiMUxUbVYvTDhEN0Exd0EwdmVGM2Y0cWcxZG1QajZXZS9sSDZwMlB4Zkc5QTRzNEt1MGErNkovdjZCYzB0UGRwVEZQRkVjOTRzeDBqdnc9PS0tcE5US1ZTZkxOYk9mR3NmUDhWaTBlQT09--70c18a32daa69985005eada6c7d12b334d9de311; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

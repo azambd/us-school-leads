@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: aac3e02f-34c2-43ef-bafb-fa251d284fff
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fberryessa-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TjdHWlZ1SU9iN1dYc29OWXRyY09kZzNCRk9IcEx1Wmo4Q0hHWVg2dXBQRnZhWnQ0dTJneGJ1azAydndTc3ljRTI5TE1ZcXVYTjB6MVFXbklyclhmRHRsVlpuekg1amRhZDZJV2lka3dIb3JucHp1MndsOXAvTlp4aStwUHh5RmRaTmprcVRWOTNCbGhqYWRLMUhSMzVuY0M1L2wzNmRzdTFKK0pBTnFxQ3ZUd25jaU56K2QrVWlZNGZ5dCtvVkhyd2NTK3U0akVFSWI5MVN3T28vOS9wMXJvVGd0V3M5eW9NeG54MjVDQ1VMU3V5NjFDQ0xoY0hGTUtCMnZTUkwyVS0tMHZCRWZ4ait1cVFOT2VuWlM0SkdnZz09--a1bd4e00ea44f5d4fd5bdb74a56c9ca680b2e9d8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 88705061-cbbb-4766-b3df-7480f992a32e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcupertino%2Fcupertino-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OUQrcjhXT0FveXNnMGhrNFN1UU9xL29BRForRGRuaTdOVHlhWHR0RnliWmM2ZDlicTZtTTdHK01NODU3bUJOUFY4QlA4eGtOenl5SHdjdFl1Y0hvMGZkV25LdU1NckR3ODhkODExNlJFeWJwUE9OQmwyTUpHMDNsaVRBeVc3bTJhNnVaQzNCTnN2cWEvazdzNE5aYjFSRUVSWmpTVXNHUXdwbWNxR25IZzlKVHdUa242UG54OTBhTmM4WURDeHhKaXNzODRGUnVkeGt6SCthT2U2RWVWRjlDYWVKQ3JhZE94aituSWhWSVpROVovZ2FhUlY1aHlVQ1lWdFdQT2poeUtYSENZTzRVVS8yOXBwQTYvNW1JWUE9PS0tNFlQNEtBSDFVLzQyalZtMUFRNHplUT09--a859eb73bca4074f5b8c1a40469de92c13d22a81; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

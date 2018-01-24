@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5cc4b28a-6a2e-43c0-b662-fb14f2b425ef
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fstandard-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y2ZkRUE3YUFGRUE4bU5vU2tLUXc3SDhJbldtaVFWc3Z1ZmNVS3h6L1l5T2JCaFBUc1FVc1J3NmdTeTMrVnErT1pFZjJ0NVhIUEdnTzBYK3lnQUhsWDg4UlM5TVhaOGV3TkorcGhwNTVmMUVBaXJxTkNWZ2ZZMGlGejV1OU5aVnpYVXMzZzRkM1BSNjFLNXpNRG9lbkJVRzlJZ3RaNTVGSUpBdXI1VmYzMVlYaWdQTnpPQkVOdmRmU0F6dUxlZHBDMFpndGJ6YUM4QkF4S2k4RHpmK2lKZzdWajUybjJRWGNpbXZNcGpvR2Q1S3pqNWVjMCs5SDh1Tk1DYnZaY3hsazVNZ1pFOTArdnRmQ3U3UHB5U2lnOXc9PS0tSUdWQUEwUytxbHFqSnBpSloyWTNJUT09--521d21f8a604a0bb4798b8212c97396cccc38869; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

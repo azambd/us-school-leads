@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f17272cd-f198-4401-a51d-e23603a2b231
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhitmore%2Fwhitmore-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dDR5QW1lT2hJdkpNRnJYNWNFMVZxSnZJNVRaTjU2MnNyenpVYktpemJ2WDZJelFwV1dqejlwc3dHRFg0RjRhK3Y4T1pnUFFZVE1NdFhwMUlUNDVsSHpuR3ZnYTZwNUwzeE1hOXk1T0xRcjhKdWxZS3p6UzlSZHJwNllhYlR5aWZSRXhYQ2lWMktkS3R0TFBtcEZWR2xJSzdXYzQ4d2dVZnB0bVV0Vnhrck1jRVRiaXpCaVUzV0dLcGxmWlVpTW1qQmFRVFZKaGJyRk16VVhpb3dZRVBsbHkwb3AxV0Q3MWNzdE5wK09QM1VkdTJIc1VORlhIZEl4UU5pT1Q4dUg5Ly0tSm9VanhrWXE3eDhhdnRwUkI0Q2U2Zz09--03b4d08cc8bef9e1cf842dc3d364613009eb748c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

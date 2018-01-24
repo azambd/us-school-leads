@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: e9d23272-0d25-48ed-83ba-fdb6f2d6ad30
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsacramento%2Fsacramento-city-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YWp5UitWa2EwZjRQZ08vRTBHRHRPZVR6TEJYK25WWEs0TW1yTjN2NEJ1OWpqLzBybDZ6Ly9sZDhldko5RHBZRncvWGYzdENzNitYNmliNjliNlB4NVpaakE0WnBIUmtoc3crVnZHemlBQXIybUNxUjlqdXhnUU52K2RkSjMxWG4xNUZhTEMzK2l4YlZtWTN1MXpBWUpZc25mTlpTWHI4ZVhaYitrM1I4L0I3K3M5MkRyTzdaeGUvcFl4WlJIcG1NeG5adGtZeFE0eG55aUc4YU5OSXpiamdJZlJKblBndkVpL2wrZ0VQbHZIcTUyTjFTRHNNTWVtek9JeDQ1a3hSQTIwc2xNMSt5UzRTbFNjVElQS2wyN3c9PS0tK21oU3J4NW9adFJTU21kTkpMcFdJZz09--9df7bbed4b13ea399ec9c14d0461f5060f3cb74e; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

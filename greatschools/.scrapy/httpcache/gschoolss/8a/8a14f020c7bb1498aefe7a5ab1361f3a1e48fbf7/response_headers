@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a07cab1c-7554-4a65-8f39-8e8fb4750883
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmarysville%2Fmarysville-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZTRMa2J5R3FaWWJuc2g2QzkxMkxVbXFMSHc0WjhwNFdqOEdCcWRocGUvNHRSTy90R0E4eEdzUDVCRUp0MTJ4RmsrWFY3UUF6V0NRUUFxL2Z4U0czai8vbEtvTEE2L0NxdExNYnpjcnFxVWZEd1lGMjV6SGkwWjlZWUZmK3kvV0FSZ05ZaDRjM09xT1Y2aTVoYjM0cEtnVUovVi9qWEtrV2NVWlRoMDQ0L2x1eER1T1I2YzVTRk1FOTlnWmZ4SnQvdzNidDBTOHI5MU8xZnM0YVhMck9nVGpiSUN5QzhuRk9ORThheXFDQ01BTTZUcU93N2I5QTNzRW1iMVBxazlxYXhCTk5QbitFWTBtY0gzMkxMVnhnRWc9PS0tZUtmdXhpZFh2Q2E3alROTDJpNkY0QT09--f20da06511c03a5610dbaa7a37b60fa3365d7331; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

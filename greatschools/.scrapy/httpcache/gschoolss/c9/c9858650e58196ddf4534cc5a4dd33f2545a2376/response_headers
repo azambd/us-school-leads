@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4f292f44-0ce0-414f-b53e-4d73b23bc27f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsolvang%2Fsolvang-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U1ZzaTlnb2RiNGszVlN0SmR3QTNkaUJlWnduQ2RQTTRpOUE4T05pWkJSUXJYN0dkS1dDR2Zqc2o0TnhTWHcyanVPVjRYWGNpSVR5YnQ3cS96aG5JR2JOQ0VkM1NTVFZzVkI5ZnM0d3RRZ25TdGhTdVZZZDA2NlZZdE1KU0VSY3VPbGVhNU1VQTlaZFJ1Z3gyYzFDMzZOdDlnUktPSzFHSmV1OGdpU2FzcjNlUHEvWmR4c2I3OE5XN2dEM3c0WitVZXJKZFNrcUVNMkpNK1ozL0dVakgxSURFWkdvTHdsbW5yR0pvRE9vT0R1SHhVRjNBaEowQTYxVExyOHVBZUpyZS0tMkNONEx0Vmwvd1BtWWJ1QW1YZTFoZz09--ba1e4357d15290f330f31a5d8b17cc5664bbfbbb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

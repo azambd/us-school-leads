@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5fa71cc1-4f3f-475f-a830-8eb309fcf986
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpixley%2Fpixley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bG90UTZNd2VVbktNT3lLUE55dVV0b2VaOWdvWWxMenB0YzBvNlVTTG8zcE9zUS9sVnBaU1lCalhZYXlUcWlTcVNVb1F3L255M1p2d2Jlazh0WnlYb2FCRFI3WEE0dlB5M2YrTk5IOXFHUDZuNEhmSE5tcnZmK21pZVBIaUoxc3o2NEF6OEN4U1NLUGhjVWZjQTYvdTNZTC8vSUY5Ky9LejFlMzZvZ1hIUjFybXFJVlY1b1J5WEVuNEgvN0N5cDNnbkxjUVdLdWc2RUVkWjExeXg4L1R6eDZIMDZTRHM5K1VWRjd0OXlRUTA5bDh0aUFXZzlIZHQxbFdra1kzZHAraS0tTGlvVVdQekZUS2tJTDhrVlhVWGRBZz09--371818543f75af2eb50e835f8c8cedae73c20b9e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,17 @@
+Status: 302 Found
+X-Request-Id: 2831da52-e2a3-43d9-bc6f-7305989ac6c8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdaly-city%2Fjefferson-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SlFXUGFmZ3EvVU93aWZtN0FrT2xDd05acHQ1RC9BLzNpVHRLVzFEcWRyT3k3RG5nZzZOL015cWVaMnE3RUtOam5vU0hyN2lzUmM1dVlqbmFndHZQazdacWZKcmlVcWduSHlTa1hNUnZFNFRid2ZLTUdwMlBORnlDVzlnaXlnOGdTclhCRENHOHFQVFRPWExJbExFcW9qOXNOeXlKMWkyU0xwYjU5b2xOQ0lkZmRraGo2aWJOVjFSb1BQcGRMRDFFdDA4ZDhPNUhjUzhIQnpSTjR3Y0NIUjVqQy82bHhwa2EydStGc1g2cVQ2TUtTSGZRenlDQnp3eGpNT2NzbHYvVzU2NkNkdUtvUWVwYVBLRE03aTU3L2c9PS0tR0Z0QnpHb1VuWjhhYUVzaitXQXQ3UT09--9bc7cb8c6b89e4ba43a7e14ad18d398a631ce3c6; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 13:43:30 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/california/paicines/jefferson-elementary/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

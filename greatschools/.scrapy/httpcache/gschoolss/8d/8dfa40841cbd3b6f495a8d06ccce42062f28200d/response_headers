@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c70ab2d3-1d76-4d78-ba62-5ea342c82430
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftiburon%2Freed-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MURRTnRKaWhQSXpIM2VweVYvajdKMDIrcFl6T1VZRCtHWnZoUy8vOSt5UzR2YndjUy9md3pMTGk0WndOUUNLSWpzbWo5YytGNC9CelFTVjI1SlpYcDR1RE5Fell1Tlk5QktxK1VvYWM3SzZzbjhUOVJ0QVdtdTNocm9YTlEvSVdoR3BOaE52T0lyODkwOFpqTTVmU0VCekUzaERhWStLdU42TGJQbWNNa3ZOYng2TmM3RHNFZ0pRR1hxVGtzekpOYUluMkgzVmZGcSs1TFkvaW5pRkw1MkRMbm9QZnFnblZ4UTJJdm9OSjlOTGl2ejF3dks3RDd2dWZFR1JKNHVpdi0tMGVWK3Z3Mmc3VW00a1huZVpydGttdz09--d136de3bdd6d08a21dbdec0971eca70b77db941b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

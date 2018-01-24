@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c32ba926-5f17-4483-9527-e1b86ca55a05
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-paula%2Fsanta-paula-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cTFNT2RMalFVc0J1d2xRL1RpSytnbE9KWkZtc3l2NE9WNEwvd3R0aE5VRks2YUR4Yit3SWQzZ21VWVhlaDNwWDBhSW1lRURobE5GdUE0NGw3RzdqVlNKY040L2syNFhHRHl1WEFUTUtqazZDbGxTQ0llcUltTmdLbFZMWTlvRTkwWlRMTCtMQXBYQ1A1dmRKNTlqYkZad2d2aEhjYU1mUnd6Rkpzbkl6WmozdUdIL2hqbzltaDhWdDJoZ2pSVXIzODAreGJuMTU3RGV1TVNyNUxzR09yL2txUmN4ejNiUUlXdHdyK09rYTFSU29pQXlqaGZkMWExMWJScDBVZGVxN1ZGZ0VyeEMvZGRLZHBoN25zditJV3c9PS0tMUJSeVBHNFcwMVJ1dmdLczJMeDhtQT09--1ec8e6997fa45e1f49a2dfb70450f55bd9e96a32; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

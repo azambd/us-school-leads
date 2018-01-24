@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: efb411e1-fda1-4945-b582-b09e75bbf4bd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffrench-gulch%2Ffrench-gulch_whiskeytown-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TzRjZFlScjMxN0NQd3BBNTNtMkcwckhxMFp2ekhnQlhLYmJvV0gvbVZrcTh0SVc2NzAzZytMdmJuT0ZZOHVjRU8xYjI2em51SmRucVM5KzdUd1QvNHkyMXJFbXJ3N2ppcjBuOHl4NFMwRk5oUUI5SWtIM2NtR3VPYXd2L3ZKOVVGWVc4eGFzUVpRYU9DNWRBdjN1V01sN1l0WkZRTHN2R3RhMk43UE96aEpaNjJKaVhPSlBIaUQrWUoyaEhKamY1Vjd6RHlkTVlnUFhiRTdpL3k1K1JIVmd5UWI1eHdkS0dFZVY4SW13dkRhT3FBSGVvczB2L2NGcnJTbHBGampISmk0a0FSUHFFeHluMERpQjMwd0V4dGc9PS0taWlnbzc3bFI0eVpMRlkvOTdWdjZXZz09--9df998afa715532d724eabc0843afa0eb5f6fb92; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 599faf62-3c74-42ab-894c-c90dc419c395
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpaicines%2Fpanoche-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TzA3V25mQWJSU3BNcktvTnd2RjVoS0I1OXppQnFSODN0Z2xPTkhTTUVDM0tHeUw4YjlHNGtCMTIvUFlLU1JDOE40cTdheklpYWRVbzVyS3lGQTR4S2ZMZ05UeG9la3JmTEVMY3phK3VWU09kU3dlMmVJNG1qK0JNRFNkck10U0ZaeVc4Y2Y4UjFGUkRMb2RNcnVBTFpRV214NVkvc1ZkMW5ZMGloVmxpcUtJQXk2S3R5TEl5eFhLaXBmc1U5TkZBMysrOXRyNFV3cE1QcnY1MU9wSFY4TmJJTEpVYlV4aW5VTEJmYXIrWFRlRi9ybFhEZjZDTEdpTDVmVFZxbHc3Sy0tNHAwM09lc1UvODQzRFlIeENFb2dKZz09--8ee73dfcd27c0be22df2350c78ed2fc1c2dc4ac6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

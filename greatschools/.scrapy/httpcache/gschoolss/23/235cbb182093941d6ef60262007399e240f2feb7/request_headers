@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=OFVKeHRhNC8rb3lTOXBKdjczdzVUZzJaQm9ZdDVIUUVFaUc3UndaMStJVmhCYitjNStOZkVzY3A3cTl5dXZsMGFLanVQOFdqNFZsYzJaeUFkS1NnbWJHUHhUSUZnNjdsZGRoSWR6Rm1qYm1aZHg5bVJnYTZYSG0rSnJQZldhcVIxcU9NSWhYOHdVZCtKbEN1QmVCMjg5RWd4all6azBNaDFrVTFKTlF6ZXFxbW5aUFpTRWU3Yzhlai9WR2J5UkhCRkRsQTkyUk1hdE9FVFNSK2pPOU9rRlFvd2dhN1ByaTVuVVZmT0M3cUkrOGV0SnBMS012Ym5nTzZVL24xREE1NS0tMDJLWk9laXVINHp3OCtLcnR2aEVVZz09--b4784b6853e9608d74a1677e2bba8d9aa42c1b9b; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonora%2Fsonora-union-high-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

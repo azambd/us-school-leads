@@ -1,0 +1,12 @@
+Status: 200 OK
+X-Request-Id: 4974b311-c831-4910-bcf5-5deca59e29d1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: _gsweb_session=ZFJjejRVeUtURVhMeGxVZjdKekhtblp5UzNIajU2QzBCV3c1SUl2VzRLQUFBOXRZT1BIbGRHVFhTT2J5THZjb2xZenAwNk1tMWtPV2w4SlhlSkJMR0JIa3BWYXhPdDhmN1c3a2xwRnNqOEkwYm9NTm5pSHg3RHFVNVRMQXNyL1VBa1FjZUFKQ2tFQ3h2cHRDOWp6NDREQkpTUlBUbTAvbE40S0plbHhGNXdRQ2ZiL2xnRXcvYWswSEtEYWI1L3ZMaTNZMEFpbk5XQUJEdHFOL1lNNDhaZz09LS1oVXZKQTNNZUpmMmFZa2x6dkVKeUlnPT0%3D--38998872abbef4077cd34e5f3c193955f992fe26; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

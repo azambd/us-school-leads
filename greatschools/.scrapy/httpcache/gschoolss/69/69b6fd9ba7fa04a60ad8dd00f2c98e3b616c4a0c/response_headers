@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d6136846-288c-434a-8bf8-4a0b1b55375a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flivermore%2Fsbe-_-livermore-valley-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b2pESXlKbFhoMG9mcGJQMGY0VS9Za1RiYk56RUJid3hVak1zRkVIU0p0WW9KSWczdDJjWFFNRTdVT1ZWRzhQS1dIbVF3Y3JTVkh3MVB6UjZXeEdVUlJISUxidnNkT1FJRlFPeEFrcGtxVER2TUhnbjFXeG0zTlFZbUtOYkpaalM1anZ2WUZBdFRJblNKZnQ3S1RvVUsreXZnMzdyZ1R1WWV1b3VjR1Jqb1BLSG9MRjV3VkJRV3lxUFplVFVoWHF0ak9QMllwbHFPb0NlaDVqRUpjdU1CREVFOGRNVnQ0SGVHSElweDJQeTlWVDRWQit4eEN5ZEJRR2hnZWRmaGlBWXkzN1o1L3o1dlN1d0Q5MFprMHNVQmc9PS0tUDZYMWFQRkdOd0JHbVBsbjVtY3JnUT09--14fdbfe973fe8d356fc313d5d43c0cfe71e4443d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

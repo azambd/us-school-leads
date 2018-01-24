@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d6ff77fa-3cf9-4e9c-bd48-d4a95f028d00
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fweaverville%2Ftrinity-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K05meGU3VkJ4WDJlN1NUN1hOT28wbzFqd0p2aUo4a2FoZUJHVEkxdVZQR3lQMlZuWlQwVmhyQjErcE4yZ1FkejBaNEEweTVPRlo4cWtUOWk4NkFlQzUxQmZCTElwblBTQ3Zabkt2UnFqb0Q4YldnajFFWnhBZHdIZlU3U0dhQWh0L3JyYmtib1VNN2VRS25NK2dLVDB2SXMvY0JmdFFxczY1Zjh2QUZYcmVKNVkxWmNabkU1QWhvSWhVY2QxVTlQQi9qYnYxTmZ0Qmo5aHRJWHlxY3hPMy9RU0l6Q3pvVDQyUXhtNUsrTmF3TFF5dnMyVlpkMmRXK1lRcUxmcllDdHdZVU9KQjU2bWIwS29GKy9ZNkRaWEE9PS0tRnZjb1lHMFhvTXJsdFE1RTh6VG1Xdz09--6c37bb4d28cbdd42211cdae6f9d0568424940be7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

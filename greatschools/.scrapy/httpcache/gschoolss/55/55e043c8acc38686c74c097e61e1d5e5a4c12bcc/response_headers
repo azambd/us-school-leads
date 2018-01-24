@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a4c5be90-f45b-4182-993a-82fc92e0e06f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fauburn%2Fplacer-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V2VrY3BpQy9IVWpWUi92TkJvVWcwRWNFWS9PYWVmME51YjJMWjF5b1V5QmliZHo5ZVVNMklYVVl0TlFJTEhPQUszVkVoQnAyck1uSUMrM01NVW0yM0ZhMjI0Q1ltdUg4M2JDb3Zac3J2TU5yd3hNVVRKQVkvQ1g0QW5qTi93cFRkZ3l2TkYrZGFqY29rS3BTTmV2dXVScnh3b0hZb2dGZ3JUWHpaTnlMY3RkU216VEhOSVJaVUk2eEQ0NlBXTExvWHV1Mkg2b245eEhLYnhGNU5KKzF6MERBUXlpL3FWMEY0YUdVc1R5UlA5MHpxNk51eTZ3d25FMkxyZnNJRFNFNC0tMmZPK0pla3FoUk1ha3VJWXFRbVI0QT09--cf79907bf5ca69c3ce7db94c860f0e836742ecb6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

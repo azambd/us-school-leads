@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: c3f7ca9b-fe8a-4aa1-920c-d67fd11a5261
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcypress%2Fcypress-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WEFnaWgxcUZuV05HQkQ1OXJZUml6bTNIOXd4QVh6TW9jQVRLUFZGbkEwRmVlOWxlQkJreEJMK3RCclJYRmpmVXNFTm1OYlBNVGdWcnZBUlZlT0k5K1psalZGaXJvUlRKbTFJOEF5ZmpaWVUwc1AyVktYWDhOZTIrR2pOUjNwTHVIRlFCcTlBSnhsNzBMMDhNLytPR3NOMERndXRZNnU4b0FCUnJIZDB2SFh1VTNPazVQRVJ0UjlMOTl1dnFuTmQreTVQamZIZkYxTWcwd0gva1Q3QlYyQ2o4WktzdGsvUTMyZ0J3OEJ3VlAycUhCcEozMXFhRFc4R2pBY3Zva1NQTy0tR1VVd28xaGhxakcwRFdIMEZ2QTNoQT09--f858fc1b5e75882b021753577e1b973af8dee0d7; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 254a1579-0010-4d28-a5fa-7fd9ab770c11
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Floyalton%2Fsierra-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ekE4ell0SzFlY0NPTjkxMFRmSXJORWlTbGR6eVVHTXBUbDBNWUxpUGREMzFDRVlMNHF6YXhiVi85ZG51TFY0NG1Pa3Ywdy9NSkZhNUNwWjJWOUhuRVcyT2ltVEJ4ZmdiMTJINmcvUlJpalE4cTRtdGZxNUN3S3JZS09KN1BxRWk0ZDhNTnVMSVY0RVhVdEdPNXV3NlBrbE9nd0VaR3FoTk9BRmRib2ZVNzRkSXg1MStOWkxuQlYxQklxQW9jc1VUbTJPdU9zLzRzZkx1bTR6YVR1NHEyL2s4dXVEYnlWdjdxd2s1aTc3VDdBbjJTajg0aENIanVYQWF5bVV5VkpCVi0tRVlwY203Tk55MzlmeWwzWkdHSG5WUT09--b00e0543bfbc6926b00be84a2d4869a5a732a8e2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

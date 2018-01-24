@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 06e6012e-0b14-4811-aee6-9704460d5ea8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fripon%2Fripon-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R0tSK2pjM0YxRkQ1b244d3p2T0ZSZlU5SzFwVDIwbTRVSkdJS1EzL3hMcU1EWnEvU3R4RkpjSW5aUUVEMWU1bVNhT2lHZnh4bjlPVWtJclNwR1AwOUYxMFEvMHFPLzFSVCtVL0F4Mk1zYTZWTk1vVkdUR3poR3V3eThGcDlQdDRHcm5kREtiUmdabDZWanFRMW1Tc1dsVTNVaFdYSnhNUDlSWGYrRU5wQ1VQeHRlTStBcFJ1azBKV3ZWTmIxZUw0Njd6RnI2bVpJQ2xwUHozTUhNV3pXd0JSQXR3TnFiV0xRLzgrYkh0bHFOZGdteVVxaGJCb3JlbTBBOEw0U0hXWi0tM21VU2hmaTNrQllualQyY3N4TGhBUT09--dbb37e623adfa85e7414d8d13482e98ebdf07d16; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 62d75c6f-b7f8-4c52-a6fc-640a41cef2da
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsimi-valley%2Fsimi-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QnE3cTFMSnRkNkMyMUFyMnpWRFFzQlNYbWJ3TkJib2JNZmJmZFFPY3JWSUxGcUtGdEYrNjRHUWJzQTlLQUw5eVBIWGExUzl5N0pWMjUwLzdpOVRLbCtmNjBPYVdmQWhEM2VoNzZpc2RnaHVKY1NCUy83VWlXVU9ONXdHRXFQSEtVZUZUQ2h4dzFRMnlXYTd0aU5DRWZ4UnJNTHIwYWc2UCt5N0ViYkI5SFhUT3NiVUczQXFzc0ppamZ5MXNlQWNqcGdodmNkZllxZHhFbXdNRHpydWpKOEhNSjh3Y1E0Vmo3WE9nWW8vUXA3NDhJMjhGc1BodXQ2VlVvQUhYclZYVDMyNG1DY0hxYzF2b3ZLOXNFNURqNnc9PS0tUmt5RGYxNUpkdlVtZXE2Kzdhc3BNQT09--b83bdd67c6626f667a52583b97f62af1e044fa4e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

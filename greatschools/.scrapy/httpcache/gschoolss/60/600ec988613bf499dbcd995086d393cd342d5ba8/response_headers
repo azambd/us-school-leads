@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 72b02839-9ce5-4276-ac58-93217175d606
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foroville%2Foroville-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UElHSmY1b3pHZkwyYjlBSDRuRFIrV3dZWXdVM0Ewa1dtNXB3NTh0elcyN3pqOXQ1TnFsNndpZlc4ZGMxajBhUUIyQmRKK3laRmo2aVZVZTduRm1UTTZpNkhuTDhBT1E1d05oY2JPanY0VWtmS255TGdiWEZNZThrZWErb2JlQlJld2tFdHp1cyt4U25KVSttMjFXcS9KMVJDVEpCWUpEV2ZkSGRRWFg2Slc3anAvc0xZSFVaYlcwVXI1OWNhdEEyRFQ0TXU3VkJ5YnMzNHgwMnd3NWVXU1JVUG5LcHdLL1dpSmxKNURrNEJ0NTRNVDBJeC92dnVYNTdwTUZDUnNGUS0tWFVOQlc4SGNqdlZxZkg1VFJZWHZ5dz09--e472638401bad7804e74b980b55e20f69307aae3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

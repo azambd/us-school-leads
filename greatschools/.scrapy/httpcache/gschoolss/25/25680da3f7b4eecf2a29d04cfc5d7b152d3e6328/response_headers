@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a80674c9-5899-4b9b-9621-9ea61cfe1d9c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbrentwood%2Fliberty-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NnNQMVB4Tks4ck5iTUlCbE9EbjBGOEw3TEpLMytsaVZPeFk1OStnSVJJU2NxYndRVFl6eUlWUVMwN1BuK0J0LytrNFgzYmZHM05PRVE0cDNsbThJaFUwbkNUUVdMc3VZWGdaajM2YXJRdzNoVzhnVVVCVUZRMDJpcVVLZkxzQnl6SndzMm4vNElrRW5kS3ZBUFZIUUVwQkxQejMwVWVFbTlDaUhFUGZCRHB0N2Qyd1V3NUNDVWVGRU43ZmpXYUxYRWl1NFR2cmhtdVRFdnBjNWJwODJ4Ky9BNmtpZnArdjZCSzFLb1I4ZVFEUDgybEZRV2lPa1JqU0FhQ25sY0xxZzYwcEdxaDRJMFZ6VFVNcW9PQUxwN2c9PS0tUFdZNHU1czcyQkNkbWlmQjVKRWt2UT09--a785dc322c2f6252a2476aac9dd308c3faa56a1f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

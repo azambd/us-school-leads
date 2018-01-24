@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1298adc5-0710-438f-ace2-6d7a60d6bf31
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fkern-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SlBoelhLR2FPdTRvZ3NKRzNBQzM2eHRVWXpDYUFDOXdjMVFKYWZpaDk1YUFzQnFVVmpqV25aRXpWRGYyclg4aDFhaXIrQVQ5bzR1WmxSRmsyTVNQZHRvRXhRK014WGdpNHhHSWdoejUvejVRV0RKOTViSzFiMG1CN29XU1pqSU1VdW1oMExldk01dVhRenlEMStBK1NVVUQ0R3RhMThMOFdrMWs1c3NqODcxNmx1NlpKbVpmQU1RUk1QQThLSFRZVGViTC9FakZnL2xJOW5QSEJoVytPRFJibEx5RUI5dFlMbHQ0RzRVRkg2SWhSdXJMUnJZVmVsRzJEUE15OHYySWVNbWgxVFpIR1ZaU2VaSFJ6NUFpMEE9PS0tKzFlOFprSjN3Znp3ZTVWVnJmUTMrQT09--b17904dcbe2357915f6b02688f17c124567ed8dc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

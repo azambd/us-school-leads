@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A18267%2C%22state%22%3A%22CA%22%7D; _gsweb_session=aCsxRWhERyt4RFF3dkhpZzYxbU5UNEhQS0xhOG50TStTWVd0cVliZmtHMEhtakpSL0ZZc25XRVRZV0ExcVRQamptQnhGNUo4cFpjbTh6Z0htbzE4MkhSWUxkT3MyZXZLY3QweGYzbUU2bjFYS3VsSko0cUVWNkxVN2U0YjJwWUZMSkdsOTZodVRZWHBZc0ROTGk0WmZBYSt5TFVFU1pKYVh6VDFlc1E2K3dSMUY0WUtJazNOOVVvcUhXNWFKY1JNRE9QdkJtV25QN0V4ZlJuNHhwdFpvb1hRK3loTVZHOC8ydXpWQkw2b1lNMDc1SUR3MDNpWXBNQyszUHF3bHpGVXVyeGVIMG5XTmVLKzI2Tm4ybHNjZjBoR28zZnRicHZMTkIyVFZOc0ZpSEFjbWUrMFg1ejlJSUZyRTNkSTh6V3dZR0dvZE5NMkd5SHpFQ3o2M1Z1UGpSWm9yYTUrOEdFMFd0RnZqQ2YyYzR5MjRzNUdPZkZIeUlUcWJjZW5pam1HRHBYaGlvYVU1bkIxNm0xUytpM3BDUT09LS1jdUIvOTZ6dmhKdWYxRjdQeWFTM0F3PT0%3D--e8d00718dda4afc7c49358213aad9737fe33db35; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/18270-Trinity-Day-Care-Center/

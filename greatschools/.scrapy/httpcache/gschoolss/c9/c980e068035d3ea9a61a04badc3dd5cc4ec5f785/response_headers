@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 69c1c8bd-1faa-431b-9bb1-59d025cafaf0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Froseland-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NkNqVWZGRlB3SGlDN3lSNmt1RlJDOUNVQjR1aDNvSjhmMlJpRUFpclRrKzBqREdEVytDdDEzTDBUc0Z6STEvZ0c1TU50NFNhUmV0U1lKQ1NUV3VseEZxSVZIaGVRL1hZNUNMV1A4Yk9wWCsxbXJZZ1dWWlpuS1FrNDEzdDBLZ1ZSS0FIWEtDYzB0cHZwcnNlcWp6MkZGcG5OdjJybDlIcFpPbjVWK1JDOWluL2t1c0JUZElYNXRqMWk2V0htbHRock1sWG55UGVlSEJOLzAvTmtKM3VheFlBdkdWdnRXenplNXQyNExzVnZKbi80VkN4YWk2Sm9FYS82ZE5rVS9sajlzTW9JalVrU2Z2S2JuMWx0TGdjb3c9PS0tM3RHK05mdm1YV0NVdjRMRi9UUEp4Zz09--cbdba4ff5ab1ddf8ab6fb297b0754556ea4f8842; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

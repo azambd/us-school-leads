@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bad0556f-a495-4b81-ac38-6a316af8ad62
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fparamount%2Fparamount-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WStjT1JuK1daOEpPYWIrU01BbWFXZ0R4Z3o3SlF5UWoxbTJmMCtLdk91eEN6Z0hJaDk0Rm5oVlFGK2QxbEZoN2hKYzlwbDF6SzUzeDNwSk1BOTZzV1Z3UUltMGl1UmpUUXVobktPK2xnS2JLSm0xdEFwN0I1ODZIRjNHeGRTQWkvdUJxdm0yNi9rZmI1ek9IdXdXT1EyWFlnTEEzaVFSZEZPRmlvYmRLbWd5aVY1VmhMWjVSbURaamxsN1M1N1pUM3RYMXBlR2VsNU4wMjIvdVJtZnpudHBLTEhsSUdKc1lFT3YxQkJBV2V0dE14MkVSSkFKN21LeEU3MWd1ZVZOaWRTSUpodzVnQzEzRlpPYjB5UXFzTHc9PS0tYlplMTFUQU45anRiZ2xXYm95cmpadz09--33371c7d7c29e64d71e361426b8aca27c88d46b8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

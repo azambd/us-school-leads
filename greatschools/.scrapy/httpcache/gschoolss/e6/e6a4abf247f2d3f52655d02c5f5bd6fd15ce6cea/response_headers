@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 72ae9300-381e-4910-b4db-c4ab890c3903
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcosta-mesa%2Fnewport_mesa-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Mm0vVHNjcVgySkZyN1VRVmNERkxaNWdNSlZ4ZkZyU25QNjVvUUFQWGV0OUtEOG9UZFBVV2FrT1dNUWdUWGc2MXNrWVBPV2VPUFNCNWxmUTJ1WWtiNm42d1V3cE1aMUozZGVTTFBGNDdpbTBjUGt6Rmh2UkxEcCtvWGN2RkJZbVZKNFptWitBV0FKZnBoOGgxZ01ab25tUGR1SXhQbjR1bzQyWlRxN2pDamRlZ3ozZEFDNWx3dFRlRmhIdkduNHBJQmpEc0JlSWNOclVLcVQ1S2MwcldjcFM5cDJVaVVKRXZ1aElSd1FTeVhPWElrRTJsK28vNEx0OEtNOERjRVNxWUhmWVBpSzNwTG8wdE9IekVScmtUYVE9PS0tVEc1QlU1OFZWNUFvTXI2Z00wNGpXZz09--549be5759affb6f791cf83fc7185593e128019d5; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

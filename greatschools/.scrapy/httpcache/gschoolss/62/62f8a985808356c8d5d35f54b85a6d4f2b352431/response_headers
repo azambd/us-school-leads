@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ebb14920-c0e5-4630-ae80-842294a6f97e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontgomery-creek%2Fmountain-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OTFJL0s4OEdCZ2Z4cGx2VXB5OEZoUVl0L1I3aDBHOUVYeWxSZ09GbTFTd0h2cUd1TXRLemJVeVpXTDc1UVgySEdENVFjN05SbGR1MDRMdDhUTUlaVUJVT01GSlBMNUdXTHlPN2VQN280MmYzTTJlZzlJYngvQXA1SkdVKzVXZDV5V0pYcmFveWJFNlRiTnpIRjBxckdYWHgyOXRHL2liZ21pRTVSRVdabFVpMHZmWnJMUVVocUpWNEpMMXVuajFrcnlpbmJWc2FyanZ1Uzdma3RoWFdnamZsTFJxTVM4Q1QrSTJ4dUd5WDkxOGdCWmdjN1hvUUF0dlJnckhHK3VqdFFxdGtMK3N4Vzh5OFNRdGhHWndmR1E9PS0tVWd6b0EvdFNWUWV6Y1RvVHJsVXhrdz09--52aa7ce842dd8d709df239112ed2259d4e85dc14; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

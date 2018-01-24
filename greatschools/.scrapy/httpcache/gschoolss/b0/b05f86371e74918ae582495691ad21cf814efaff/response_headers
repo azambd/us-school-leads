@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e0f408a4-17aa-400e-8152-af9ea7523b36
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcambria%2Fcoast-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YnFORG9ObWVpQTVVbGFxS0hnbFczOGF1eUdKbWVnS1FqeDJzeVIvMHRHSnVXOStaSkJuS05VYVRxOXB4ZU9JajNmKzZXVlpnRVFCQjJmdURqT21pbE1Sc2F6ZmdvanNkblMrNDNSb0k0OTg2L3hLUzlzU0VYbnRRRXZjNlh5UUJpdkVCZ25sSWIreUNWcFdtNGUzamVpekl5VU80TVBueENyVEpKeUlMRDJRVFF0clhMQlh4dUUxeG9MdU5qY3NWblU5MzA5S3UvR014NGx2eklCdTVuZmxnb3pUVlBMY0FEcGNKWk02dFRid0ROZXpBZm5KcE1DbEpDYldvdk1ZeS0tL21SeVNNcWtlNzQxV3E2eHh3WmNMQT09--3d26e35d504a5e415f68a94ade2b3bb2ca57fd3f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

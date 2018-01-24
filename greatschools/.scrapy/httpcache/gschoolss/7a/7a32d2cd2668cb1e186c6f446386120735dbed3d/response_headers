@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a5912612-76f3-40e9-a65a-ba4d4e68169e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fla-mesa%2Fgrossmont-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UExHcVlWQmRuNnpQcmhBOGg0ZkF1K1hvSlp1blFZcGF0SVN5Vm5pT0E3TVNXcmdrVC90ek1KOU1jYTNlOW9xeTFuS3pGVU94VGlVK2pFQnpYbzU2Q1ZReS9TUXp1N3A1T0xsVXVSYnhpOWxTY1l4NTRUN0FxNENlS2hkZyt3U1BPc1htZk4wcGhzT0ZVcmlPYVlwWDZrZVpBQThUTzI0b0VoSFZmeXhicTByVUZWc09rUEtJb1Z6aTMranRLeU1MS2ZRYS9USkNETjVWc1d0MmZVZTBYQWlIVFNOZnJidEVjYkdnSitEUVpjd09Na1NwRlpJZytjdit3bWVMSlloay0tdWYzd3h3cU9PR1dvM0dPUkk4bFRhZz09--d36ed2666263cfdc1d5941f264717f9993477c87; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

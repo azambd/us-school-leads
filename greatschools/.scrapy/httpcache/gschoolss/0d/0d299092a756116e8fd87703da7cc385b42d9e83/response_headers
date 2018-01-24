@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c9045e0b-660e-4580-b139-b8a8dc2337c2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fquincy%2Fplumas-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NXJHdjJ5OHM0VSsxVmF3d2FkZ1RKaTcwVU9UQkY4bGUySTBUYzlaR2tsOEQvRVpobU93ejdxMXUwT1lmakg5Tjd2Tko1WS9FNzJPd0d0RHhEdjdFY09yVEhCWGtZWW04V25Eb21yeDF1LytiaHN3R1QxNEk3Vnl0NytmbzRGVk9WWWM5T2RjSXhVMzlkQnVCbmJzUGtJcUJXTXkzWTN0RlNNTE5yem9ObnFFcXdISWplSG5JQ0xGVnRjWEEyc0Jha0RxcVlLa1c2bXZEc0c5RmlJM2Z3bG1yZnVuc0tRNWJteVVTbWczZGNrdlFZbmt2d1VkenNQUUorMW9wTzF6Wi0tdEhuZm1JMGpkVUd0eG1UUWx3S1NWZz09--f9a2697ed9b86b36d346ada0c3a2c22b363249a7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

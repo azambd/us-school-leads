@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9216b0d1-cc80-42e8-b66c-77c4c5d0faa2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcompton%2Fcompton-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RXppQi9qQ2VOejZPS25WaWpEV2hxdCtyd0R5WWVHbm1kWDRGMWhlZ1l4eFpqVHFueXJQLytZb2FxQUM5T1FxYmNOR2UybjB1Q2w2c2lmLzlmeHJja3RGNHFFZXg0c09sUzlBd2w3NHdvRmJpVFBrZ3NjbVRGTE9EVFIwVi93YmNHVWpJa1BtNW8yWTJFeUxFY2Zhbk1XOVN6NEIxN3V2S0p2WWE4QzNNOVlKdXNieUhBSGNreitZYWFSYTBjSDRUQ3p4YldiRG9KWEc3YVJiMm5RRm1weUlkajAySlhvYzBiM25Ndnl1d3VzQ0RRUGpQTGMzRjFQaTZPWUFTemZTZy0tcGNKaklCbm1VVG5DcWhKVDlKNS9ZUT09--9e629c678e86a9c4659dbd4efed58be6ac72a14f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

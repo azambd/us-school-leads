@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: df1810a7-7fe6-44e4-aa63-67eab0236e84
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-luis-obispo%2Fsan-luis-obispo-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cnl5ekJzTGRpNmNhTmUxZFo0SWo0UnBlVmt5WWVpeWxiY0p2cnpGRTJHUW9zcnYwZ0cvQzRwdlZraTUxRU1lc2dBRVhBZnJ4Sy9zeFZVbzBLSjY4eGFpZ20ydHJiUk9zNGI0cGlCWUo3WWRSSXhSRFc3TEsxL0c5aFl6UXQ1S3lEaENjMGNDVmxFSWtlQk9wVlZGUytXMW9mYlFSLzhoQk5YNUpKbVEvYzE3ckZ4Vi9yNndIdHpyUkRxaU9ocktLT3k4ZmxNT0NUWGtTclFNZldFYUc1S05vZUNTdW4zdWhhS3NZYmxjSG5GM1F2SjZLOFlDNHZ4RStoZk5QNUdIU0lQcXVMYU4xTkhJMU50YnYxbmhJMmc9PS0tbitCc1ZobksvaVk1dWlNUjZpaUQ2dz09--e6f768227f59e8fefc90e8661127f45113d957c5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

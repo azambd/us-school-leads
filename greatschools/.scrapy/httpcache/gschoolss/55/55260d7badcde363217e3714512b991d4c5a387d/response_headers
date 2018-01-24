@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e18a7376-739e-4b10-b569-4d74e5927186
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdinuba%2Fmonson_sultana-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cUtzOEZJT0pKdkcrNkFLTTRiWWtNd3ZrTkROTUVWazJ1eTI2MHJlMmFsVW1GQzI5Mm5sMllqRkZsbnI3TDh0MTZLc3owZ2cxemJRMkdGQWFGc1FoNWN4SjF4Vjg0cTh3ejZwckUzMnBvTHV6R2NPbHhvWVFncDh3K2xCU2EzdUo0TWJjRGtnMnZZTlhFbXFoZ3FBU2lMbEl5MVBnNzZFTm5FeUxza0Y4dDl1S09ldGJLMmVjb3V5d0h3SVdDNzRWMCtBeWM2TFkybXQ2NlZjVWY1b1lXZTBhcS9ZUCtOUFQwMEtPNGVNNWFldzJ1cEpFdFpmMkNscG9xTWdkMENoYi0tYVNaYUNEQURXTStEMTgxSkNndWF4UT09--0cb12f16f0591a18549b230f713bfd99295aa635; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

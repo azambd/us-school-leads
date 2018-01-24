@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 34afa4fc-a41d-4aba-b57a-417ec088b06e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjulian%2Fjulian-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WmQ2UERQSDYwMEZGMjhqaU5PNjFCY1BZRXJvZlBybFpMS3Jjeng2NkYrNzlqcGJxanZtZmhDTVkyQW4yeWJzZHJvUVNpdUlsSzJqWjBDcmMvTmdXMkdnVENDWm5jcXNWVUV6QlYwRFlVd2xQamFaVWZrbFkyaVJWQ2x2T1JaZ3IrRG1UZ1JmR050dENtMHUyNHRDSDBOMWp5MEpQNms4OHB4SSt0RDkrcUdGMDBxUkgyeHFXTEZzTFFrb2Z0SFBKU1NpdERFalZqUkw2Ty96OTlUSGtTQTZRRHdFSTBlSjI0TDVyM0RYaC90MW1qNmdMaERVeVVzZU40VHowaHFBcy0tS28xL2toeWE1azhkeHNSZjNWRzZRUT09--dd38661b29e84d921039572ca768072b4389b078; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

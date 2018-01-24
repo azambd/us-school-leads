@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fa7437dd-0cd9-47ed-8a54-49b965079f5c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forange%2Forange-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RndFZDBRSnBwMU40c1MwUTBONjQzeE43a3dSK0ZMU2tJOU9VYUJxNytXUE50aCtLdGVlVGVEcFUvWXJ3VWpPd3kxNU5zbFhXTG5uaUs0M3lLTjlEcm9RaE1xdTNUZW8vejl0eFlXR1hyNC9UZStEV1dVaXNaNlUyL3o1NFlETnRDQnZSTjM1L01MdS9BUXEzMDJHdTk5WXl0YnQySTNvUHFIZkw1QUhBZHR1TXZjUVhvZk5VOHo3Z0VEd01SeXhUM2hhQ2ZnSEJwZ2JGOFRXanRMOENFVFVjdGx6aXNZT0Y1OUNQaUZQYS8wc3JhZk5teWQ1S1AzM1c1Yktpa0VkcC0tdjdMWGdwNytndkhuTU9ZdzNpanFIZz09--7d83fd9c09683e879bd4ff923fde615e0558e3b3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

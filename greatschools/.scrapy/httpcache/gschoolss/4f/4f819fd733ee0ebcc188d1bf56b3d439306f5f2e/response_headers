@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b6bbf08f-1c53-435c-a037-08da29d7a239
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fukiah%2Fukiah-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Ynh1NEc4MlRuZkNqUTM0bFQzTU5Lc0tTN2xWZmVvUllEWDMrR2hMdXZLQzllSW5GYTQzRkhHSUdSQmN5elNsaytjdXBuK2VJRlVXaFl1NUhGVVJhSjB6ZlQwbGRNbVYzZ0pJajJMRDUzT0lvL1JEMFpVOGpPeHJOWW5TeE9aMXY0NDNyNllWemZlM3dTNWwvekJIK0xvUGRxcmxFN1UwUHZlbEJadGgwYnNlV2J4S05yc1NlM2F4a3QzSlkzSllObnM1OFN1QjlpeVl6THRlZVNscUNMMmlrdzlmTHVqQ3crODZHVUhvc1J6UEl3V0crc25qYnBGclhzcEpGOHNycC0tVjlrYnoyUjk4d3o0c3IwN1luNGFZQT09--c03a8952333df9ec157514aa86e372f599e5b7f2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

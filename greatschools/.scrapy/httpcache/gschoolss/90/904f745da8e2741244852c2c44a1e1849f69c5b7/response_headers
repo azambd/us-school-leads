@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e1c89b86-f427-4010-8da6-7b820c187efd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbridgeport%2Fmono-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bCtZRE05aE1CUnc0OEg1K1hxS3Vtb1QrNlBsSFNmc2VFSFl2U1NmN0Jrdm1FWVV4UWd1Z0tVL1ZFL0IydDVyNGgzVWNpZG5IcVlJWFFod1EvL1I4enY4YXdORkZJSmJZZHBkckpwNmJpSWxWVzRWRmRsTUlQR3pTT2RrbngzRWRNVDN0N3kyV0NjalpJSndVM2c0ZmllN0U1aTRNMmo2THBNbTFINjhBbEZoZWY1MFZESkhsWW1VVjFTdmpYNktEZHFtUW82VUV5OWZGRU1uUzJmaUpYTTdNZ3lkcVd0c0p6UHF6ZTRacWFkWDljdVliQllYaFRSRGxhMHNYTXIwZGF6ejUxTDdqVlpoSHlSRVdVYzhCcnc9PS0tbENUVitvU2Era1VxT05NUlpXbWcxdz09--1dbaf7adb1afea892e3373aa556073697d256183; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

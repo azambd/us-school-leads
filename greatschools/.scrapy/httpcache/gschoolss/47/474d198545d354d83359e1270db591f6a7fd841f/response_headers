@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 5b983e0d-ef1a-497d-82fa-c3c222662db0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TnZmMm9RVHJOZWtoa0h5VlR3M2ZnNTdjM2hMa3B5ODd0TGxPN05WWjQrL3VjbTkwTlhkS2E1MGl6WTgyQkJINGl1U01XOHF1K1BiK3JZNUU4Q0hSMHpvcC9PNWZqRTMxSlVWdmVJWTVqZXlCMG9LbTJ5amx0NUtKSGY0VDRJelRBeEIwdjNSSXVkRkpYVDBNZHJHaFg5OFZYZkIybkZQdXhnRzZwK1Q4YkxwSzVCYWhORVowN0NqbXFDeTlhbUI5bWV5dHVoTDBDSW5lWm9HN2lTOWJXMTB3blJhZ2xReWtTSXhSTDJBemVoSmRnd0p5eCs5WmJkcXdGSmVwMVMvZFh6RUhyUWVaQk9Na3FuR2w2WW5vZGZNSnJOTzNJNVlHSytrd0FHaFVtVGFVbGprYUI3amRmc0xyaGEzMWJXaEJjWjUzOFpDS3ZXMklBVTVMYWh6RFhac05JSllqZXllekFVU081OUMyYkpISjJ0ZGtnZzI2ZHo5NUsyeHRRNHdsdHhkUTdYWXBieWlMNHpDS3BPUnY5UT09LS1WalRDcWMray9mdVlHMnNLb3YrQzd3PT0%3D--ff4e57a8096fe4782a0de09e0f9c4537a89767b1; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=Y3k5VmdGS29qcld0L1RaMThDNlJHSktYdTRsRlNCYnhOdTd1WlRkS3Bvd2FNUzBJdU1ZQWIvZmpYSmR2NDRZeGtSd0FZTkllUVhmRC9jZnVTcnRwaTJvSUJzalJwaGU1ajZKQzcxeVRIOTZ0cWYwWEpBUDUzUFNPRituWCs4V0U0dUUxU1dVMVhTbkJqNEZRSUN2Y1VKRURYT05CSTJFNVBkaGMzQzBLYnQrMnlENE5SOVhtVHNLMzBzZjcrMXpCeHl2VTVQTUlaRGRtT3poLzN1RVUzZkthT1JmbSt3V3I5Y2VBOUVwT2s2Ymo3bk14M2dKVlZvdnRjMXJtUVgyRC0tTEJzNDlRNE1hbWlHYUp0STI4NzdxZz09--c0c8c84a549c737f8dd50f62c09d686b52939e57; gs_aid=cb2ceeaa-0e6d-4556-bae7-eacbc84d3b18; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farcadia%2Farcadia-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

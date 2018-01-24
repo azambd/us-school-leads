@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d3c7013d-3a7f-4abd-872b-73759c8a04f3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjurupa-valley%2Fjurupa-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eFNMdzJXZnNpSEZwWVNyRlBDRzBKdkdlRGwrbEVXL2xLRmtLVzY1SC83L0M1Nk8yWUkvWFZ3ZXZNOTdGcG9UWU9MQzI3eUxZSld5eHptRFY2eEw4YlJjaU01eXFyc0djellKeEoxS09jNHF5ZTJHdC8rdjNGYS84c3pyc211Q20vaURpNHZPV0dBSHBZRVZzN0dlQ0JiUzBMeEhnN203U0xlQkJHMnhKYzFyRnNDRmF0TmVMZ1BCdW9BNkFQS0FBQ3JZdEUwSjcvdXRvMDNqV0ZRUDVNeUluZjFtYXVrNFM0OWJvVGtvSXloK2pDWjJRanJwa1Jwdy9UTzFkMEY3SmFPTnZUWFpDMzVzdzBMc0xNU3lZV1E9PS0tSXBOeVF5YnpOL3pHTUU4cEhUeHc2UT09--4fd972128274457166043148244a4a57f8bd1b98; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

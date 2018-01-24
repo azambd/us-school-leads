@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A27459%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Rko0Z3JVSWRQQ2FoUmpaQ3Z2MTMraGI1TzVvd0xSK2VZOUk4Lzc1dmkxTzVwV25SUFNXQ29NS0NtbStvVmQvZGtyN2hVOW92YzlEcU8zeGQzU1pmTjU5ZzJTYzhWSnhnNjR4TmdKdmNmQ0lsRGlieGxDOENNSmtqWlQyRkJaUGpQVFNKYmxMUlJzT1lXQmFoNmJXQkE0QndWTHRsNFc0Ym93cUtQSExmZzNXd3JPRDl5ZkpsYlJ2YjBpQ2F5MXBITy8xQ3JsWnplR2d6V1drMDlFckF6OEtTUzJNUlVaR1l3V0pZVjhiTE1QWUNybzg5NThqU1JHdGRnQ0g1UjY4OC0tNGx0b3FPTDBPQjY1NDRvZEZ1U2FzUT09--de775db2738a37306589845150d1e159d15457a3; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/27459-Childrens-Haven/

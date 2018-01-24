@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ab91b5f4-b07a-46b7-a628-fa159cbea185
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacerville%2Fgold-oak-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L0lYMktwTlgyaUw2SXdFNi9vOG5xa05wbFp3Wnc3UC91NXBzNlNKK1hrUDdPN1ZIS1B6WWVNWXlqTG5HUWdvOHkzNEVqOG1IelNkTEh2d0FFYzFLbTNaYmpKR002enFrRVQrVVpNZStjanZNRjZsYkFLeFlta0VHa0xVSnV4a0FFWm5JY1RZcmNVVy9xMXhQWjVUUnlKY1FHUmNVM0EwK2cwaWtDbHhKOUVsWERtVFBBMDdMV01GZGVRL2MvdGpRMk9pMUdsbDlRN2g1ZUxyZXMrKzZ0eDM0K0g0dHRCZW5mSU8veWZPbzUxNFdSSis4WFBlb2NGMlFjNm5BcEpSQ2N5Wk5WT05ncjl2SVJKWlNHZnVsdlE9PS0tTjU3bUdwQUJNbWJiWVpJbVdoczI2UT09--7343a462419b2fc4a23bdab0252258ba6456a274; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

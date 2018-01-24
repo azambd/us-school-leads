@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 7949633c-c3fb-49f3-a995-4b78134d45f0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-cajon%2Fdehesa-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K2VCdjhFb1AzK3JkUzFmcm15YmR2bDFHSDI2TWRmUkpWdzlkSHF0K2J0TWdTR1NZemwwOS9lL3h0NkJreDV5UWhDeHhwOFl2T1dzbU1uMEYyRkJjNFAxUkdsQVVWOEphbDQ5RmZuR2E0RkpZN2l3c09vR0NPMkhlTXVDRUVYY250SE9YWlBRSEdid0VMOUJMeHJCeVgrUnd3T016QXpjbjF5Z29sQTBpd0dwUHB5dDQ0ZDFNWGhCa3RjSmNXb2d6TTlGMm80NjhqK0FWc3VqVzlTWjBGOVJITFVvVUFCcVd2cjRCajZ6NnBYQ09reEt3UmFMZmNqN1ZMcC9TMlV5bC0tZ08veFFhRXd1cktHMGJ4RTZvZ3VLQT09--06cdbd55e37f024dc4ae4633fe34c3c4b806dea3; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

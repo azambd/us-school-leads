@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f7e50e87-a24d-414d-8624-3f515cfd56c2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falturas%2Fmodoc-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aFpmOFdOdTZMWmtLYlBhWTY5YXByTU0vSEdiMFMzK1loTjJzaWc4a05MOXQ5RzliQjlUSjZ3OWtEWHZsOFRjT2s0NTV3UGJLRjN1RzNZL29Ebnp5WFoxRlF4L2N4Nm1BalU4bVN6WmNSckNtc2lZRHJWOXk4eXdsUzhtY2tnNVZhdURIKzVvajB5MUFpRERKcjB1YlRPVXV0QkRTOUJjS0FOdWZWR0NLSGdVMS84S0p6YjRUTndCK3I2YVdSdkR5UTJSN0w4YzNOUzREK0ZGR1ZzS3BTN0pFQU1zVk9idE1XbkRzUW1LVnZRRndzeDlZcUlwSmNlOFJJRW8zTnV4QS0tUUUrT09Xdk9idnVaTEkxUlB0VkZWQT09--99e2af9ea8f4de5871b72db018727d2f8d234a01; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:15 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

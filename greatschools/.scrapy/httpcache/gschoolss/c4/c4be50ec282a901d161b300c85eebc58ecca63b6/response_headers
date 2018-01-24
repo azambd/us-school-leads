@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0da3e231-30c0-438f-8849-a9d7803ae5b8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Ftulare-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QVZPb0Rjam9ZM051YXVUVVZVVmR5aHhTY3NWMVVZTFd0a2JMQ0RvRWdVdFgrSlJoTVZxUUJ0UWxob2lxV2wyR3NOeTJETDhkcEpTUGZka0hXVkpnTXVJMVgyVWxKOEwydGFpRklMTWdpbXdPNjJmQmhnNHp2OTAvclpUWi9GWlUvYlJLK1E1dzRCL0Q0M0QrM3hnQVp2WWpQRUFINEdQTUxvOURaOElreXlSL0dmaG5SaW44aE9uSlVvNmxHbzdzaklkVWJkN1hoWXdiV3MrUk9rUWt5QUN0ajF4YWFzanFwM2VkNnRFK1ZWWnhRS3g3T1gxNFMwTWJ1TE1Sams5YS0tQlpSWFRTbUZock5pYzVvZDhxQzQ0UT09--5a53aa45c7f1bb259a0156a288caa34eb338e36f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

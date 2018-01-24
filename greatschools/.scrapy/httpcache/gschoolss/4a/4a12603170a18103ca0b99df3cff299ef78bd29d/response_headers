@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 902376b9-bcc6-43fa-b51a-a3ab5614c612
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Facton%2Facton_agua-dulce-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c1J0RXpJcG8yY0xjQlhFN0twdEJUVUFRNUNnVE1BY1hWSDhvUXJjUldvODFwblIxOXA3UW4yZ0MzL05MTDB1RjcwZVlFSTAyR3lGZmNzOGpjTjJkVWhlT2VHWHVicjlWUVVMN1Y3NFhZb3N4T2VJaCtUM0tBbWoxd0dDTmJCTW1RbUhpOHhSeHJ6eVREcGpNVmhweXA5ZTlvdTF2NW1uUTdMVDJNVWZDcWpDbklNTExlOHhsT1R0V2hta3A0NTVjLzVYSmN4Z1ArYWx0eGJOK1B4enlBU3pvU0JwREFMU0FCN3VXM2xIdHo3YTI1OHdsanhBWXpQKzRSaTNPUnpVNS0tYi9aOFEyZTF5U3dTNmV6UWk5OGdyZz09--bcb97b93de4d85896e17991595fee1ee1a32cb99; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

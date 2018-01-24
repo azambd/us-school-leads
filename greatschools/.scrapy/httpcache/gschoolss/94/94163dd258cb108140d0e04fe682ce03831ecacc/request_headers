@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A25126%2C%22state%22%3A%22CA%22%7D; _gsweb_session=bDhWaEsyWXZZWWhVSm1EdEtNSWRsK1NjQStZYTVjZlBzYUg0MVprUVhTVkZoK2xHdXFvRXRVdml3bXFtT3RtcmJqcU84cEFNN2xmRUJKeFBCOElDcGNUZnRmOW1GWkFjZ3BoTERaeHhnaStyakROQXFkY1phOE9NMnpMT3RudWQyL211di9mdXpoOGVaRWVya3plZERjY2p4VFdwbmdqMzMzdmJPT0FoWUliVzNNM2xzSldYK1pIcmNlaTJuMXJHMVppWE4xU1lFQnUra25YZTdFS09ZUT09LS1Ka09EeUgzc3ZycVYwT2VFeTVTYytnPT0%3D--1370ee23e4b76a0dcf3dae30ee54fe9529f8a896; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/25126-Golden-Valley-Virtual-Charter-School/

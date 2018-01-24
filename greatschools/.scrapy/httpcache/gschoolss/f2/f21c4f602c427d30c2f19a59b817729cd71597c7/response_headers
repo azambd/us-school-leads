@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b58f12ac-2f15-4238-888c-a5bec632d93d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmilpitas%2Fmilpitas-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c1k3MHovenBmMHZRT0drMFdLRWFrbkQ5dWFsL3lTSkg5UFhlaS9hR01jdnIzQmFsaStzd3QwRTEzb0NXNUMraWMyY0MyQ1VUb1NjTEtlMTNPUG16VDBoZHhXYlBMbEdIWkw0eDZ1TU40S2ZnTmFmMGlXRUM2bjZIU3R0cjBjZ0pBQmIzTzNkb3NGRStDZzdYNTgwL2thcXdZSDFqUkhtdXZFSVpOMW55TkZjdEl6TG5kcUJ6SkZMN0ZkN3VBMWgvM0ZNMkt3dDh1eGhlbFBnTEtJM29Ubk55NVFYOVArc20wMFpuNkpKcU1hTmE1QzY3UGJnd0M3TVBSUXExYmlaRC0tVlpaYmIwT0pCN0ZLVURjakU5TVdmZz09--b1780dbc79089c302e1379f021f454ebecbb60a2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

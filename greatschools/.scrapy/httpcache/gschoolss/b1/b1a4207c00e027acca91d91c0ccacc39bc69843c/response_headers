@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 304cabc1-7c8d-4e0c-819e-32e98b648448
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Fsouth-whittier-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a09SQ3pMTWRMNjBkOWdiMit4NC9xb1dNWjBaZkhNZ1pvcXAwWVpoeU5KbEZzYTM5UFJaeENiZ1h0NktubFV0S3VNNGFMa3BISTEzMDZvdEl6RFl1VEFBOXU2R2lkMWRpTGwyQXpBUlZEanhYQ0xaS2ZhbzNIZk8rcGZWbXF4aTNWbFMzT2cxN05MbDF6d1hTTkdkaUFTYWRnY2lUM0VkcnFjSjl4Rk51TnBpNXorZ0Z6UDhFdkVKZDV2MVJPcVJIVzlyTEV2QkMvY3V4OHVZYXlMWnQyZXpHbjNPcHZPbThMeVUzRFVUWFV1ektaa05BazBXaXg3ZWVUUXhrRzd0QS0tY0t3SzJIaENzenVCN2o4OXVXT1B6UT09--e77571d5a20d2e5796e49fb18cf6362033aae549; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 589ff181-4179-4cee-9144-c5abc92b52e1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fduarte%2Fduarte-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SXJnU0xRUmZHbmJDQkNoZTdubDZrVE5FSFRoT2l2cHVNTERrUU40SGEyS3RVV25FbDhMOStJalFuZjBpSEw4NzU0OTVSMExCeWpQNUNOcERzUzB0bU9FaFl3b1czakdIRDdrdlRDVTE5c01lREVvRCtZS3pEMC9IOWNDclNhaWpqYTFTM2o5TFJkUXJYYkRDR29uN0sxUURUOEpDSXZJajY2cnlDeDVnLzQvYllTL2ZoY0hmNGsvY2JKeWx1UmEvZE5rNUJrelVWUmRVVDJSKy84WUJlTWRlSkNCZ1RGWDd5VnZyUXIrajNiUXZuQVhMRFhnbnhjWWJUZjdxV0pPdy0tMWhXVlVkaDVDM1djNCtyNWxzd2Q1QT09--426d706e7e09bd34763cf201faa83914dbea1973; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 68f58281-f30e-4357-88d3-c9462131066a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbanning%2Fbanning-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aVFoZnY3NG55b2ZlbFpMN2RiRGFiZDlGOWxjZnFCNjQrUHdwODIvOEFQcTg0dzYrMHZWZ2VGWnZIaDlaZkY5cVMvZG1DMiswcENlQm16SDZ4RFR2WFpwUnAwV29DZzJsM1haVWhvd2V6WCs0K1RrYlNZSlJFaS93QkN5OCt0akxQeEpsaVdGdDJtQkJreGhuaGlqSmtoMHNxVUdzRDg0c216NVFOSzZrZ0UrNVI2M2dCUkFnMDZJb1c2NDlMY01ONUc2alB1SFE3cVZwc21KbjNWYnFjQ3RpQk0wVkFFYzB2MkxTbU1EeFNpWEJES09nSklkeGxmNkxNOXJaMVBpVy0tdTFSeUJDR0JnVGM0Q1R4QnJvbHpnZz09--2b7700d0e2879a3eb87d3878995aa78b6d4dcebb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

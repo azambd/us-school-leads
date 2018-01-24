@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 80b8f0f3-7ac6-41d7-9ed7-fdf9c9e285ee
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fben-lomond%2Fsan-lorenzo-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VUFFMTV4UkhnUFBpVk5IZGFFNGZVcTJ2clhyRVd3RGtkWGF6Z2NyTHFtWVBxeTRXNTRTZlJJRnNUaGE2VVNncXlBNlFXK2pnaEE2RGpJdCt1VzRHOEJyNDBtd3I1cEZBcDVYNGhDTHFQeGc3azUwNkg2VDA2aEdjZGdEeWsweDIrQU82RUxRbHR5Yzg3UnpQYjdvbnlNSW5HRGY2NDlmVllGelFvWi9XSkwyYTJOek1zMEt5a2RmUXpsL3RwbVBXZCtxd3FjMzF5UlJaOGlGb1hpcE1UNmYzREVRU1ZHa0xsa0VOMml0ZXBuRVQyeUxHSERkbml3NVNzc01LVEpxeVdzSk1qM3FTbHhpQ0xpVlAxMkY2ZkE9PS0tSk9iRzRmK1FaT0VLMlREOXk0aWc2UT09--1c0d4fe514d5ca27ee4aa7ff9802f1b78b0af631; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

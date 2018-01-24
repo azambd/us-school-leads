@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9fa9acfb-a16c-42f8-9474-42ad84bec9b7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fstewarts-point%2Fkashia-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WVlMMlI2ZDlNS29hYUhvb3BuZmZOMFdMN050UXBzMjAzdmtIVnFjNUpTVDh0dmxjMlJIVkxyTHFxQnZ1RitRSVRoOXhJK3BCZ3huUkxoczhaWEk5djdxbjhEZXJ4RDdCUEdlQllQUW05dU45V1JjelFKdXhSb0Q5YzRMdy9DNHAzd1dmSmV3aHhmWjhVL0t4cEo1OFpQL3NWRys2NUVkTW5CUW1iQkNmeGM3aXZ5MldULzJ0Ri9USFA2OW9ybys2blIyVXVXNGJDUjBKb3MxYWhpTWlZT1ZzVTNlRXRiam1UZmR1MVE1N3A4VXg0SkZQemI1WW0xSjkxVER0Znk3RE12eEljT0syb2pHeXZWOWE3cVpUYXc9PS0tMzRzcmlOd1hFVTNDRk1WdytSSkhKQT09--27bae092fb6c8b201886f5f276b53273d43cbdf8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 894eda01-dd66-43c0-8dd2-0933269ec0e2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcorning%2Fcorning-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bndkNXhhd1IvdlM4cnZSS1BXb2x0Q1BJVllWRVBWbEVnUUh6ZUZYdU1yZ0VvREdlL1V1T3dZSTdXVS9lZTRQSmwwZ2pUNnpIZjIrNmovWDhyWERTVGoyMzFRblh1TXE3K0J1ZXp5aEFERGl0YVlhbzNzNXEwSmJxNWFPZVpvNXJMcnl1KzRiS0hrbUdrLzlUbzdxZzVpYTg2am1WZFo4UHJ2NmlySEhRVy9OcHRGUFFOUGhIaFVLMXFnTXRMdVJhMzRNNkdTZjJCQ3YrclVNNktoRTdRYVNxK0RKYkU4akp4WVBXUG1GMGVMbmpCQmc5dXBpYzk1azNCWGwxQ1JxNS0tUmVzSHpvaVdLajc1VU5CTzRtQ3dKQT09--8996b4429b1aaf44d8428f49896d41e41da43b45; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

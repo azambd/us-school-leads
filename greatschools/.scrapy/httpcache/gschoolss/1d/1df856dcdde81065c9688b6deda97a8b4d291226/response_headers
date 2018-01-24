@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a01bd10b-f897-40c1-a294-60d2433612be
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpalos-verdes-estates%2Fpalos-verdes-peninsula-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHlqMUNJMTdUY1JyaWxzSWpTU1M4N1l2eTB6QmNYaWQ5TlA5SjcrbDE0WnRia01TUmNEVUxLSGRycUhNcTVYSUFqaWcvQ3lPWFlXYkc1Vnc5VGNta0xYT3BxMW9vcXlNd1QzM3hVekhNSjQ1N1ZFWEZSc1doNWh5UzhNQ2c3eGZzMkpkT0VEVW1EWmZQNkFMS0Q2czVhalEyci92WDFQcm5QcFBrOG1QdStubmI0bDFoRm1tSzRXUFR1blR5THV0TjlhMkJKcGE0RUZtZm9Kd3JteHNXQ2JKcjRVSTh3MmlsQjVqQVpwc1p0Q1N3OEdjTHVVOTIxbVFiaEdna3BKVmI4NXA4NzB5Nk5VMXJnWjcyczRYdUE9PS0tN1ZFcFlDQ1RVQkx5SVpVZkdWVXJCZz09--2f6b64694c96b552401ab0db74bbb2c7503a0c6b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

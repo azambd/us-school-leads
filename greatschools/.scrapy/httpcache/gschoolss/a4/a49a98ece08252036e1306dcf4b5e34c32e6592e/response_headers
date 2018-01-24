@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1fb7d7eb-d448-4050-9ff3-9ec0a33e6e2a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fking-city%2Fsouth-monterey-county-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ejFPZHdkNXY0WUFjQW1mQmJlOEhWQ2JoYUR1SHNNYWo1cU9BdzNIUFdHODRlc2c5S1R5MTdTT21pbmlMWXF2akdBZlRlUWkvRENkVTEvYTUycGdBVkxlVzJXdmZ0MjNZM3lRcTB6ZHV5RTI1eUcwbmZWM1BhOE90bjJBWGVyQS9MZnZ2dmJxTW0vMmx0eGVIblZjNHU5M3ZjREVDWW9uTG5VNjVIMHBrOVNXOHRhSFRsaXpQODRtc1FuRDVRUDg3UFdCWFhXRkdDVk9uaUJyMnpkUUg2TUh6L2l3czNDMzBsY0ZyK0RybXpWZVEyQmRjVmlHMDIzMCs4cXVyRHJzUFRRSDBmUnQyQkhwT1lTMDlRNjhpdnc9PS0tSktFZGcrNWhtdGF0QnNpSG5JVG5VUT09--bc2764d0cbc5352d2072cc60c1dfb82b7b0c3853; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

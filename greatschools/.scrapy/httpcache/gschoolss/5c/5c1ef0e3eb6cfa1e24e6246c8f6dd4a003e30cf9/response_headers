@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8ec6a614-dbb2-4336-9e70-4391bada820a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonora%2Fsonora-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OFVKeHRhNC8rb3lTOXBKdjczdzVUZzJaQm9ZdDVIUUVFaUc3UndaMStJVmhCYitjNStOZkVzY3A3cTl5dXZsMGFLanVQOFdqNFZsYzJaeUFkS1NnbWJHUHhUSUZnNjdsZGRoSWR6Rm1qYm1aZHg5bVJnYTZYSG0rSnJQZldhcVIxcU9NSWhYOHdVZCtKbEN1QmVCMjg5RWd4all6azBNaDFrVTFKTlF6ZXFxbW5aUFpTRWU3Yzhlai9WR2J5UkhCRkRsQTkyUk1hdE9FVFNSK2pPOU9rRlFvd2dhN1ByaTVuVVZmT0M3cUkrOGV0SnBMS012Ym5nTzZVL24xREE1NS0tMDJLWk9laXVINHp3OCtLcnR2aEVVZz09--b4784b6853e9608d74a1677e2bba8d9aa42c1b9b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

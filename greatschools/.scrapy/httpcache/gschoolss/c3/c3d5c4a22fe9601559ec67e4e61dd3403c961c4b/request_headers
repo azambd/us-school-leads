@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=MUV6RVhJOVVqUDNaTXlBNW1FQTlPT1NCSE16MUVyc2Vxb1VrZjl6eGkzQ21kUUN3Y05SOExsczZOV0I3N1JxckJGY3E4OEdwaEtiVEVYa3piWE83a2dNK3M4NTdCNC9iNFRRV1EveUlDL3UwdTQzZFhPU3NrclpCSGdEVFB4ajM0alRKeFBUTlN5M2JNRW9PcytreG1vc0M4MW5PNmlvMWdVa2szbm1jKzZuQVlTS1h2REhrYk9iYld1cU1XZzhHcm5oeWg1TlRXR1BEK1NLZ2YwNTFQM3NpQzNHZm9HRnZSSHNpV3hTakFEMmVaYlVwVTdVT3VyUExuMS9kUVFRSStOVVpxdTA2bXpjVnhSdVMzT0NQUEE9PS0tckRUWmpNK3hFNWI0RVVGY1ZqQ2NpUT09--1d746debbd2bd4e509a233b422ea451f1760cb6e; gs_aid=f2d6b216-7e47-4a01-8d44-fcca59ddd602; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbaldwin-park%2Fbaldwin-park-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

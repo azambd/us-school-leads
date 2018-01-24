@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 98c63721-ed4b-4a0b-b9c9-92539f8a2214
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvisalia%2Fstone-corral-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Yi9LZ1AyZU5DRjFKTm5wZjE5TXU3QlVhOGUxd2ZRSlFITWcyV2hFM2xJdk5nM2VuU3VIQXJOMEFjN0xtd3o3QjgwN2pNTkQxNWxlZFJyUmdGNnlGcXJrclZJaTRvNURTcjU5RStzdnRZNEVyWC9IYWE3TGlVRkh6YW9wSTNOWjhuQmFOaG9DK3J3alk3UHRyS2dEc2VXYmlQZU9vNXhPZktnSVlGZjZTSzVaVnVxZXdnbGF2MXlEcWJkeVJDcmcrR3hZdzVmN3pQTS9za3o4elpLdGhjTUJJd0FGTjNYS29zNVBSNFdQdDNUZjB4SGZIM3VycFV4bDNJcVRVOE5MLy0tT0FJRVpSa2RiQzZQNENNRnRzdXkzZz09--ecb035288ff4c8901a16097cc1f23d29b7b9bf17; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

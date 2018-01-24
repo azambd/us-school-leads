@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7e07457d-aaf0-4585-9a7b-cc99dc7720af
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmodesto%2Fempire-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cjdzYVhOYlZQQW8xbFpIWlF1TDQ5VVY3ZEljbW1RV3c1bHZRTWNmdXg3VzdPMEtqa2cwSHM0M2Vyblc4SlBWWEhSVHlpd2NzblcyWnluSUtjNkhIRENFaHI0M3dTc3pYa3NqZkZYMHhNaTVUc3d3RFh2ZFRnVzc1dzdNNDJCRkJaYnp2dnF4ZDBaNEFWSlhVTWVtS2pYNGdUTDVEclpOTFozaVZSdGlXSTllS1h2cWsxejREZXQrVThkZGExL25KbjJnWEZHU0ZyVGZSV1Ntd1U2UjdWTkxFQnBESFBYTk9naE5vNG95ekljYVVBRWhnM2pkVWtuL3IwMHVhUGNyZy0ta0R3UmJCYTBEdHFGNm1tcmNQZXJBdz09--db009c799f3fd899cba56f692f75e83cb975249d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

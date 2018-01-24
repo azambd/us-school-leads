@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=ekE4ell0SzFlY0NPTjkxMFRmSXJORWlTbGR6eVVHTXBUbDBNWUxpUGREMzFDRVlMNHF6YXhiVi85ZG51TFY0NG1Pa3Ywdy9NSkZhNUNwWjJWOUhuRVcyT2ltVEJ4ZmdiMTJINmcvUlJpalE4cTRtdGZxNUN3S3JZS09KN1BxRWk0ZDhNTnVMSVY0RVhVdEdPNXV3NlBrbE9nd0VaR3FoTk9BRmRib2ZVNzRkSXg1MStOWkxuQlYxQklxQW9jc1VUbTJPdU9zLzRzZkx1bTR6YVR1NHEyL2s4dXVEYnlWdjdxd2s1aTc3VDdBbjJTajg0aENIanVYQWF5bVV5VkpCVi0tRVlwY203Tk55MzlmeWwzWkdHSG5WUT09--b00e0543bfbc6926b00be84a2d4869a5a732a8e2; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Floyalton%2Fsierra-county-office-of-education
+Referer: https://www.greatschools.org/schools/districts/California/CA/

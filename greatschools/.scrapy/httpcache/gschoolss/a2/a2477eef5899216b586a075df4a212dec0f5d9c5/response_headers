@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2f0a9c1b-1165-4035-9868-753433151d4b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fsan-jose-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Qnp0TUhyVlBqVnZhZ0RuTjJKaEhJelk3VmhVN1lFYytpMEdFZGVzSmhmOWIzSVJ5bU9YMXdUWUpYSXB1OVZ3elZScEVvYkNLbHpXdGs4cnYzNDVNSUVDaWFSYlBDMjVoNVo3TmZrUmNwcFFqVlMxRlpKZTIyNjM4TGt5UVhBRHlQQ0J0bWtUeFpIVlRpNEthcEFuSzlud2FOTXVmVUcyZVJHUnRVaVZOdXhXa3hzMlJKMFpVVTJuYjVHQW5uc3NzNTZsNlZsL083eU9VdFVWUk8xaDVmY3JEYlBPSlQvU0psRllER1VqZGhvdWtWbHRocHFuS3RqeHpvTlRCajdEQS0tWisrNndacnpkSk1zTjhBbHAxK3VpUT09--1f3c6443b1b14bb34e3795b5c346e0d879bded1b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

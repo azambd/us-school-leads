@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bd0317b0-f267-48b0-92fa-21490f49d7be
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-centro%2Fcentral-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZC9wSG9FZXJmR211UjByN244VHllWHE5eWZpVm9zNjVwR1dhVTlUaHI4bWszWmZBd3RDUS9ZVjI1N3NpZVVqaHRyUkdOR3IwdU9Eam15czJ2QkZ0dFJ2VllVdnQ5RVNaeGdrbVcwNExzT3FQUXlYOXJRbU9zZUtqT0YyaGx4Umtua055Um05WEoxSzdUM0lhOXNEWUNqSW5SK3VpYWZXbXRreUM5bld4UjZKVkxkdk9wMndTc0ZONC9PM2dvWFZvQWVZMXZ2bjN0Q3d3dzlLS1doaVpQdURoUXB2V2drSTlNR05mbHMybUVVNDhHNFFWUElCcjFxbGhGMCt4QlQrbUJwSUtnbnVZMGs4T1pQSjFGUmpxbEE9PS0tUWlTMjRha3k4c0hLT3hXK0NuZHdTUT09--e3a787443a451457c8adededc1e0dc636a7a7aee; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

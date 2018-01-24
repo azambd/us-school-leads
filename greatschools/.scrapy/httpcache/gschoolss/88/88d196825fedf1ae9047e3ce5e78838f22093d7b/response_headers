@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a356c69e-b1e8-4fbb-ba7c-52d5407e67c5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpacific-grove%2Fpacific-grove-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZlN6SkdqWVl1VmdEblpJVDFvY1BnbW1DQzJodTJ4ODhXS2R1UXNtd2VUMzBaM1VJRm9OM2psejJzMWxqb3JUb1F3QUdraTloVUQ2TWVRZUVpYUEyd00wYzFVcVkzUHNKYmRzY3dWZ3BXUjYweG93N2JOWTJPYTJuQ3FGZEZsZjZ6dkZQQzJKTnhHSXRqMkg3RHp5Y0x5WGVsb3N5L0x3aW5ka3FRbEUvbVFwTVNKTUkxL29MV0VhcC9YN0hVczhFWGtNci81ZXdndXVpWU80Mm15dlp5M1FZcmpIaXlUZEZiV1RwenRISkhQY0NBZ0IvZ1hQdnNTdEdDR29xeGNNSTFMd3Jxc1MvbFhuRnZQOFJXQXNtM2c9PS0ta3RUUFh0SW5Ia0dxZDVTb0dad3dZZz09--0aa2443e3cb819b2b6edfa99f18927aa38d652ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

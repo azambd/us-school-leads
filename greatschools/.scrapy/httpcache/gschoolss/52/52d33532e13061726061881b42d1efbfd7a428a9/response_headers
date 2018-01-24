@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 259459fb-79f3-4826-b631-360d45e1ce66
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmillbrae%2Fmillbrae-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VjFWOEtZWWFVNlhIY0hWUUR2Rkh0MGh6a3lXR1U2b1lkeURiQXQ5bGJmeUZoeXhXOHBITlQxUE10YWNpcDBHYUxjQ0JYNEdLQnF0ZVluT2Q5bUVGNHY5Q0JvckE1VHI4THk3K2g3QVpoWUtXRU00eTdFNStVWTRWMElYMk1Kd3V3ZHlsQXArcWxaQUtUblUzVzlscXA0RHFIc3VGT0Q1eUJFZUpwVEQyYXJtSk9jN2hacVh5aXNRaUNwUXlqeXEveTVxWE9jUE1TOXRDektNUmtjcVQ5MFh3aXE1blZUbUc4dGNrSnI0bkRGS2YwMUhZNXZpd1g4M2xHNytzMkQzbi0tZnhpbHJEajNDQlNXTnFvVHBSam5Odz09--5553d503cf020146bf99eb8ab5c2658f17e5a4b6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

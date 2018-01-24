@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: ed1a35c3-e7f5-468e-9e0f-920a527b1f73
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcrescent-city%2Fdel-norte-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b3pCVFRiTVVLVittM01qazloWUM4RnRYb1I5ZkkwME83VVlsVkJhZ0JSOXFXMHV1ejI2R2NqdklobzkrWFNUd09mTkJyajN3NzY3bEx2bVBWRDNrV1VISnY0N01PdzQ3Uy92dUYzdmRIQ1BMTkRWUnkrMVd4eHVpOVF6UW9CeDdVNW9IOHJqN3l6U01jMEp1Tkh0VDBmRmZoTnBrMTVpYmp6cDdCbEpNRVd3YXgwMk5Wdm9iNTZ1bjhXRjlTSzZMclEzaXRzdGNFaW5pOU13aW1KeXRwOUhiRUUvdDJIcWdMMDdoZEFGMk1sQklvV3Z4V2hrSnpXUHlQS1pFRFRpY1hrS0ZKQks1cnhBTXA0NWlORzNCRmc9PS0tclFyaWJyRlBvSmxHdC9JTDY2OXlLdz09--b9cd2de32e6bb4058818fbef5b2147661d0651c8; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

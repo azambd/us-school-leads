@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2f2ca41e-bcc5-46f9-9dc8-1cac933c19f5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftipton%2Ftipton-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ckhRRUtqWkd5eHFGYzhHUmw3OTVIK1BwN2laWUlBb3ZBaFRVNFRzSGwyTFg0dkNBWlh1ZFhpejRkenAxeXZVM1VSOGxZbGJiWUZUL05GcWpvZWg2bVE5Nm9DaHBrQmJSUTdnUWwwUG41b1RVSm1waTF0cTJjSDdCT1BZWDlwRkhsUCtrRFk2ZDN6N3NoUis5cHFOVmxsRGE4a2tOTmNNUXdnTGVEeTMvQkY0R0ltYWFZcVlQZmxTKzI4MWxwL3lOSmtYYmxYUlFwWGpWQ0N5dFZHTWFVWEJWRUtNQnd3QXh2NGJBVzlpSHc5UnFQdU9tOHdyUExxanNlRjVYcjJ5Si0tMlZYUnh2Y0thYkxreURmc1E5TFdkQT09--965e412e9939df3aae352f032c83b3325a5251d1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: _gsweb_session=cDQ0NXRJM0tscW5uaTR2dlNXZ1dsZjBFZW1vRVdYTzU0YXNCQUdVRytkVStrWjVXY3d4U3R0d0pScmFTdzBCcXY5RktjVEt3SXBvVVd3Qk9CMEN6RkY2alVGdDFHNVN4b0EranBmZGpDWHdGQ0R3c0gyUFBoMVpwbjhqRS9NdWF2RHY0RWNwTGJRU0sxMEhhbEdZZHJpelhJaXhNMGhMZzZFbDhlajd1SXlha0tIcGpGT2oxSlNHeUdaQllORHduQVBDR3JublpDT3pTR1dDT0dpU1l0TkhIVVFGS3VUQmZMeExuRU55WVNKNzFtTnJFS0RhRWlWdHJMd2doYVBLcWFrUC9XZTgxc0ZHZG03cTllazZkRU9YeDJRSDdUdTZBZEFhM1VpN0Z1SnJKTlJhOTQrUmZFMzczdU5TcC9qMmRNa1lWSmlWZ1V0c2t6OU1zVWU1NmUxL0MrREYxcmEyR0xleXY4dGxqWWFsVTFDKy9TZjQvdDhOaWhweUl2Q1N4WjhlWGgwRDNDWlFVMzduWE5SeWU3dz09LS1SdFcrcmI4UnBhditoUjJLSytKbGxRPT0%3D--f23bb14654220ce275726f0fec26e0c228d84211; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Feducation-community; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://blog.greatschools.org/2014/01/07/parents-in-four-states-get-better-school-information-from-greatschools/

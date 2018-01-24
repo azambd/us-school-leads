@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 70f13de7-d462-49ef-9678-cbe4f5ff2eb0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhappy-camp%2Fhappy-camp-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TVl1MnBhUVNtRGZoSFFTZUNvOTV2TXpjck0xMFlhTmh6aTlyMTk5Z3dqVTFsMUp1K0NtZUdLdXBqdGM1RzNpc3RlUlFvaW9ySk53WlJwZStjRUpmSldnWFRCY095REFFSldPeDZKUEVIcWoxdGpyTjVneEhKc3lmRjlwZmFBVHBzbjRFem92T1lOSkZhYWx1RHQ3K05UcVAyQWNVQWhNaXplT3U1eU4xRkFkSGJFQlBURWpRTkpxREZQUkdNcHgrTE96SjdzN0ZDWHlqUVBEaVFXWmNFTitZaElnb2tQdlRPRmtnZDJsKzRqeUNvRzcxV3dLaTJGLzdiSGFhSTZzdVF3MWxBeE9ZSkZPVnFKN2NkUUNMVEE9PS0tVXd4NVVSSS9xeU9uMS9KM0txMGsxdz09--4c2cb3236f56449ccbd8b54488a37ff3692f2755; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

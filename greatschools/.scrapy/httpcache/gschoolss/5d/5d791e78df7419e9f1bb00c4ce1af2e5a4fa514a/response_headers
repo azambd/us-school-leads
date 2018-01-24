@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bc2fea86-f550-48a3-be42-46f02b6198ec
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpalermo%2Fpalermo-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TlJaWVU1aEZTWHREZjFNeEtLcVJLS2xBVkFrMytncnNIeTFrR0NreUg5UjhWZWt2RmtlWmIwT3NxLzVaTWIxQmFzMDF3VFhZM3lkZUI5ajArK29BSUttWnhxWUhWV2RFRTMxYkdDdC9DbnFueHQrU25vSk53UzgwWDA5VUJydENGTkFQVWhBajBGNFpCaXY4ZjFTVktLaURTTytKSnVpd1piODFJM1p0eWp2d1UvNXY3M0p3OTFmME5Cc3BsSmdpTHg0Z1FjYWIzd2o0TGtHdG1SREt4TlNONXhxSmlDdnZrSzFSRDd2Y25ZT3B3c1I4SzhyamdTbXhRdVBUSWhtWC0tQ1JhcGd3NHYrM3JOOUE0dlJ2dFVUZz09--772d8ee594a65ff4d079cb93845ad1f70f4bc841; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

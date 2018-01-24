@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6f2059eb-ad39-4af7-8da5-32807b3cf399
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdurham%2Fdurham-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZWNWYzhIK3grWG5odWVLeHY1L1pnaitvSUZXMUF1c3k2MUgzQnEwQWZCODRBbUNrNEhEbXUzaVlKZGV6WTJ2KzF1WG9YeStUWUUweVN0T3lCeW9KZmNrTDlUU3NueUVxMlhTZ1pob1hZTUFLcVhDUmdzcTZnVE1RUXlMd3NQZUppVndhRWFNeUd2bnluOGszOWluMVY4M09oZDdwRU9IYVJrOGRoUEs3NFRoMGVaQjBIbk1Ed01nNXd6OTh5RWY0eSs3UmNkMWoyZjRWSWhsQVplWHhjVUhVZ0xCc0tVTFJ4SzMvSVhORThmWTYxTlREbFM2SlcxUFlzWjBab0l4MS0tZGNIZjBFZXF3ODBXc3RMYW5QYUR6dz09--0b8df726335386b17c7b99796ddfa7aa7952cf19; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

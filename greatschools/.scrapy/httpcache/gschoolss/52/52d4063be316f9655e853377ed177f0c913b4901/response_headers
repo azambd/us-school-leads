@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 79a6fe06-aebe-4886-844d-8cbd60e09fd8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnicolaus%2Feast-nicolaus-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eEVWSy9XV2Y5R0EvVVhCcWJFVlo5NUZVQjJKdFFydlZmMEZCUWJiUDJjUG9tK1pxUDhPQmtweGk1LzBEQ3I2dWdHNjh4RTMyNWtZbWVsY3o3eUIyRWN6VXFtS3cxRERERnoyWXRJVGgrWC90OFE0RGN0VXAxdUZOUmp4akt4NkR3azhXcC9UR21VQSt3KzdrODdRODdqaThER2VmQkQxUW5STDFML3hIM3piWE4xQThLNWpPamFzdytUMTBRZlVCKzc1eWRSVURsQXY4NEFtbXlXQktScXVJVmY3Mjh5aVN5MGJ1bkZab1VmNkQ0UlNSTDFvcWlZbGkxRCtYSUVvTS0tbU0xbHExY1VLSUErU3lQSmRxSFd3Zz09--0b48dddf318fedc9c74ed78559d61872e33f23fd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

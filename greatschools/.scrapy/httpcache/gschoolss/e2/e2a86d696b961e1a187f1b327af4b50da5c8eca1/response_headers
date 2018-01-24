@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 74a85772-3cdc-4fc2-ba61-4b6278d24f74
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpiedmont%2Fpiedmont-city-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eTdmeVZGd0VUdTRHMVJFa2l5WVRDY3VmMUowZS9MWm1zU3JpcEtlL2NDNVhodFpUeWtxTjRtejZXWlVmckJTcmNMYThNQVppWkgwTEdYTFpMb3BvWEt3Q1YwdC9Ecko1d0JjSEVNcFY2SXNXUTU5K1MwaVlWQm1oSHVoaWxoSi8yMEp6TlhQTWF1ZE1VSEZ0Sm5LalduQnNrazM4bUlFeW1sRThkenVzVzRMSHRzZUQzK1BkdWJEZi8rdWJUYjlna1dpaXhIRU42T1M4OTdlS0lxRVlhUE1CSlU5NFpGeVE3MFpKNTQ5TElQVFh6OStkVStBU09ORDFTMzJ5WkNITS0tZlRXd0dkc3RqajF3a2NrUFRwbUwyQT09--b68186c61a54467226e2ce6275f4c3e773d77a31; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

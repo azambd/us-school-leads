@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: da880cb7-bbb6-4488-9012-4c5305070010
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbrawley%2Fmulberry-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RUFwL090dzdCV2ZSTXJQUUlwZldlZnhOUTFEVlYyY3FDeFE4ZUdiRXY2UVp2enZ4UEJmNVV6MGJMb1A0Uzg5WkJJR3ZUcXp4eGtPZHdwc3hxMHJJaWp5Q2E5VzVXbCtZU2JqRElyNWxVT25YVElaZERDOEI0amZJZWF0dFFZN1U1VGUzZ1FnSWFvUEovRFpLR3BOWEVDQ2VBN2pUTlUzSitIdGZ4aU1Pb25jK0FhZjVESWdSdzVJaGtmYldweWxlT1BBU1BzeUovTDczZTB4RGR5V0tjODIzT2l0OEVvajJFRHdLWjJSbk4xR0dSSC90bkNCVDBEN1FCRWltNzFBeS0tMTI2YlZLWlphaG5oQ1lEOFRNeDVSdz09--cf61632fdd76d9c7f1afa872f4b72d5b32fb9f80; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

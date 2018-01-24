@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b14a2778-7be7-4052-b8e3-689d3fa93a6c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Flaguna-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L2paQjlmRURvNTVGaEt1SlhiTlphL0ZPdXdJNDcwaU9oOFFXOUlaeGtxendadVJpY2tybWdIQUFTckNueHc5d3pMWjZLZW8wSjlQSjhycXZRc3c0ZnJBWitvRGl6cFJqZS9Td3c1NU0wUlJZMzVpcXlsSWhrR0lCdDNwbGplWXorLzVFYmJlRG51c0RIWG5vcmVERk1xeVJjTlBYY0pmeTF0TllFa0k3UjZlSlp1ZnRCamthTUJOK2lJOCtFbmVzTm5UZk5obDEvbEUvR2xabmZUamhSY2x0a1RRNy80WGlOdkhvZmJEUWU3SVNvUUhXU0tMb21wQ2hqT0tidFpWWS0tbE1xREVDVFdNeE53YkVpcVlXS08xUT09--7da38a5bc1a8bf0eccf25275f2bfa70de36c819c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d66c804c-baef-4f94-a3cd-b9fff4aafe12
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flucerne%2Flucerne-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OEoycjYzRS9WK1E5YU9oMzVzam9ZKzlzZXFteE4xS2h4TUErYStqYjF5TTlQaDF6aTh1V1prTlY0OXUwT0swekZSOFk5WG5SbWR4Nlg4YzdvMFQzZWJCYzlVczlvSVRLODc3bytEWHR5c0NlUXVkWUlQdC8wYyt3TncvQ1Z5N0FDOExib1VXdFB6eUpzYTZVTGM0VHVwY241K3pVdXVPR0t6aSs5cmkzN29NaVZNTWl2eEErRFdqSXJZV2RaQ3kwY3c2Q0pucjR1bk14b1daMjVxQ1ZBVU9pckl3aVZkRXpRcUFacy9EZ3dTYlBlNFJQenBOUHRwNGZIOVFhYUhsQi0tN0VvdzJTNXJlVTFvNWNiYW1ROU9zdz09--c70bbb3580243c30d7e20110fd46cc814110ca2f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

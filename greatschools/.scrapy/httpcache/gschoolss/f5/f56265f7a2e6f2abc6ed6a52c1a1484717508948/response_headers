@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 47af484f-adbb-408f-9b32-b8eb52f07d7b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwillow-creek; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a1I2ZmwwdlJueGlYSnZDR3FpeEE0cThYV0ZnN0tvSjRHMk5KU0FabkxwbkJzVTg0aVB5TXdqeGZvb0pXUEN3RXBLM1dKWU1zQ0haQ3kwekkzbXFMaTB0L1FCVElVVHd3Sk03Y00vLysrc21LL2U5ei9KdmdoSUxWQzhMblZmY2drSXRKbk9hR21nZk01UURYSzlwOSt0aXVGSjkzQytpRFowd2d0NU1lQml2TzNNSy9rU2hwb200SUdZZkxXakhOdmkwbHEyOTREdldjamo2cTBzUGVMMmpqbDJkazUzZXZzOWd5dWdaUkR3b0I3NGdQemNaYVlpcWJKOTg1RVdGbmNkL2dIRjh0YUs3QWFUTVowV3dsL3RsZmNWZGtxWDdoTENWZDFrbWU2OXZiN3N1TE50dE1EOWJ4UWJsTHU2a2daUjRoUDJJK2d3djZZUGhHZHlZZXQvNDg4blJONVZPUTZlemNJUkVsdm5MOC9ZeVQ4UFRmcVpxKzNqYlhBOStEcDVVeGFYMnVyS0p4Qkk0a1lIbkl5dz09LS1xNFpMZWh3V2Nqd0J0UGZ1NlUyUytRPT0%3D--7b4ad2c7b51f644f45285a1c30cd614ebd83663e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

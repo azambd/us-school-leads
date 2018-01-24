@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 84a683f3-cebf-46a0-931e-323957c9d91b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forcutt%2Forcutt-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RjB4TWpqcFErbTNESTBvb1Bvd25oVTlxZEhrRTBndlhtbWRjMlF6K1NHUGViNDNBSGpvOWs0dnViUjJsMFlJckRDbW8yRFhKdmhuckRGQU5WV01pNkx0SUFzV2Q2cTVUeVRSZzJXZHAvc0VGdm5DWXZTZWhnQ25FYVVVV0hYUGJpaGhSQStHbDZVbndPa2NNRXR6M0hQODZITWUrTGpBRER2TE9CYzBWOG9lZTc1ZnU5Ny9qSW9jdTR1b2JYOTBlaGlRSkpicURHRDF0ZEJqRk1wdGZCZnpqbXh1eFlEK0lDTkZKZ0hQRVFWUER3YXQ0T0dpbGhkWnR4Uy9hdFV6MC0tK1RlOHVkTkVzV2hHYi9tVTFyZVZrZz09--51a8558abca64d328ad96b4ceca10f1a004b8de8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

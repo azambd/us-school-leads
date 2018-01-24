@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7a9e4601-52da-430a-910d-7700bcf52042
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falbany%2Falbany-city-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aFE3N3IvV01jZzJXL2k1NVppTTRhWmE3cml5MldTM1VqMENLNlN0anJFZ1hPMXljbUpWZzE2NVZpTDlGaUlFdUJXWk9TS1dEZm1wQjZpc1N3QXBTUTdNeVBYODNGWHRGVjRrSlJaUHNTWGFWaW5oUHpsM2FLcHdrWXVsUlZIU0lQWVpXOXlqYUJvTTdlbUpQTEs3a09od1pDenVONXA3RmFJcTRKekRGVGJpL0h2MXRjZ1RxaEFuMzQxSXNac1pKaVNJWVUzVlBCM1JYWUhtQmtSV1lGcEtkWDZSdGRjd243YWJXR3lGR1JYV21FVkhMNjAzMldPNlVYbmw4RnJWay0tOEJScnR3NDhhZHk5UTZWTXd2ZFFtdz09--beca2419384e35aa67841db233dfa6e9291103a3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

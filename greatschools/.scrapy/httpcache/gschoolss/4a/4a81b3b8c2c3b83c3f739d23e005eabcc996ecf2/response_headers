@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 06048343-afd7-44c6-aa80-eda1fa137ea6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsomerset%2Findian-diggings-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S3Z0cWhPYWVVWmZvS0FFQm5qbUUxbXJJSXdiWE55RHFQR2ZiQ1JySWZKNlBITFNDdzNOZ3p0aVFrTi9Kb1V2dmIraG11QklxMWhEa213anJVY0lFQUtWalMzWEUvbmxxYlcxcE0xbVp1NldWWnhnUXV0aDVhbUVRY2c4OWZVZWo1OUxVeGdyYTkveVlrL3JrMTFDZ1lKZ2RsRmpnVTduOGdnZUlsS2lkcUxBVktyQ3o1OWJaeXlkU1JRVXFWUm5LZi9vSk9iTTVkNXVqTVk2ZzUrbENTdElwMytFV20zY1dBeHpKZzNPbW5CME95MGkwRzgwMTFwR1lBZkJ0WEFsbi0taFc4UG1TS1hvNDV1Y3JTMGpMZ01RZz09--20611a35af453de8a12be2e03b7ce00f31e54950; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

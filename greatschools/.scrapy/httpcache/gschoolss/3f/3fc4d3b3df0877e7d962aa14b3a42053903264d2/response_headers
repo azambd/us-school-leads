@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: a879ff38-65c9-43cf-923e-cec4d81049ae
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhite-water; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eHpsY0lTanF6ZFoydG9jZzB2T3A3VW1iSXorTDFFTU9Ud2FacGtZbWk2cTY2UE9LcGRpWWxoMDVTUUowUTFlTVNXV0VrNXlnSUNjYUp3R2lVVkVkK2hwRnVxVGphckhPWEdya0h6Kzk2QVRtVTNrRFMrcGx0aEpTUEJEMmpRbFJsL3RWdkF6ZnVPbStmYXVVMkpVb2tlT1BrWkZEWk9ZL1BxbnN5VVMzNnYwTDJjMjVlNmh0TnVEMGZ0b3FvKzZlWkQrTldLdm15d0Q0TjNPN0w3aEthbTRjaitvMnQ1MDluZTk5OTFQQysvangrM2NXSzNFbEovVlh3T0hTdk9nMExjdmVNcVhVYjdTKzlvV1IvQ21NRE9yc0VPa0RYcnczbTkzN29STk43QnlDZ1h4NEYrQzE1WUlDQVh2Yjl5QS9zY2Z1enBzWTZIbWRiaU0rK21aTkRpcy9US016Z0J6NTRuNXYzSTVILzNabllyS0UyNVVWRzVvYlcwQjJvSDE4NWhRakVIYU5HTmhWK25VTEFVU3Z4QT09LS15bytweFJGWENBa29obkxKVjN0OTR3PT0%3D--77570dac477fbaeb6187cf520a49c9a3bdae4f3b; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

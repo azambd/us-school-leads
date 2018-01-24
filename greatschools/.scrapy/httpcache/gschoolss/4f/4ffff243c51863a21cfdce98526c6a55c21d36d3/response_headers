@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a77db7cf-d485-417c-8158-99e690c9a668
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbrawley%2Fmagnolia-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzM2MEZ4OHhmdlZWV0I0WlZ3ZlBHb3BGcGl0enlPY0xHbFdRNlQ2ajB4dWxvMmsyTVk4VmQ2empVQ0psOUtDaGJrN01pdkQ1L0hlQmMwZUg5Vi9NeGZGVzRab1ZRVUcra0JLR0pjNmpUQ2RWZGo0MzEyYnRNZEEybWExejcxTGhYRnFuL0pJbWNTa1pDNkE1OW4rNHk2QW4vK0VRQ3pNblJrVEdnS1pkdmxaT1BaOHZISmE2M0F0RjZyRGVNbE1pRUxUbEtBaHJGTy9DU0Nmb2lzNk9vMmxieG85UjYvYmZoYkFlSnkvaVBjc3ltWUp3T3UxR3preS85NnRpd0NiMS0tcTBSbXZkU1ZROG5vTWw5eldZK25zUT09--9ebb6f650b22fbc64fb2b352985efe8494eccc76; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

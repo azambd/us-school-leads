@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: effd9824-e531-4510-9eec-914ef8a176a0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Ftenafly%2Ftenafly-public-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NHlDUFRpajFKSUpGcC9xMzRUV1NNNGdsU0pGb2xzMFljcTRIZ1JrbGVGMkxUY242UitDckJ4ejZQK1hBYzNzOVVCYk10d0k1bnp2SkpPcXpEc1V1ZXgvWk9ROXZOaHNUSTg2T2VpT0JhZk9xUE1xWjN2L3dCY1NDU3h0dWRCWnJjYnB5OHowS2tqdXZMSS82dWRKYWlpeUtSMTdnRU5wVms0QzZDZEJVbDcvSHl2VFpGVkEyU1pvWFU5L3VRRGNEQkxvT3V5M0lrUHIrVTlkeFc1RmNObE9ydlcvaUx0UnFESGlrdU5TOWpOQmtPY091ZUFTRlBYbGJUTExFR2MyZ1pPVDVPZjluUnV5LzhMWVo4NnRKWlk1OFF6MzRpWkhmUnpNR1ZubFYzcTY0dTdsNGlTZ3QyVUhhY1Ardy9UNU05UXhCeENLemRaVVhuMXNObGxaUG0wWGp6N3d2RkxWQSsyYU00TTJiVTRPZ2dDRlo2L3I5RG1mTmY0YmtXRnVmVmRPQ0g0Q3VRdS9haWFLWHBDMXlFdz09LS1DYUZQbktOS1lQOEMzWUhSYzI4b0FnPT0%3D--77a829d23b81d022899fa969d76114bb41893f8a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

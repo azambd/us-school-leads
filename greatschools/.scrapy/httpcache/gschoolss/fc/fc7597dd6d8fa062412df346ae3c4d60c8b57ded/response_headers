@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b73da36b-a50b-490f-88ea-144bb313dfe5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farroyo-grande%2Flucia-mar-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UjBSNzZRUm4yZnVhazh3WWtUdWVhQTY0QmVRMHozVDlWT0JldlZGc2RHcnk1L1IrUkt3Y0dSc1lvSndrQzBBMUt6Nnp3OXVsNHk5elhBdUx0MlFXQ1ZuYThHUTAyUXppWTE0SGJETnlrb05iQUxBdEgvRWczb1hSTG0xRVFhdTQ3MHM2c1N4VFNxeHA5aVF3RGpPczgwQzIxME51UzlHR3g3aFhkYSt0L3BSNHVBNnUvd1QySDNka3BodUdQcXBoWkdVbmoxNmtjR1dMTGFvbWFERm5WcWNVSS9udFlnZmtaTlIzUXkrQVBXZHM4elRpVllScmVCTTQvZXk0dUwzczVtQ3lwZ3VCa0hEMEpkVXptYkFLdGc9PS0tWGkxbExTMlpXbndLU0RadEdmRXdLZz09--bdf4fe3cf8c374efa9705bd9350dba0d2842b0cb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f9be4554-5153-4acb-b78c-e5c0f47ef8c0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsouth-san-francisco%2Fsouth-san-francisco-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b2RYdzgzTVNmYjhhbFVXTjNoRFZjekJBNHNERmVQcXErMnExN2M4MTg4YXV0ajVHWFJVUlBzWnJFcVEyRlBPRFFmODI1TjAycmZQYWZxRUNBMkc3cjBReHpmS0lQYm5janFwck02Sk5DeDVrQ1RxaG53MG9odUttL29UOVU4ZlhLeFhxSGlYTDB5dTEvL2NEZlJ0TnhIMzJMRFF6OUhBUGI1NmpEVjRRZUtBUlVneFcvVnBrUmhXY3RIVm5oWDZKNkxWUkVaQ2F3L21XS1hoOWlMNFAwR0dyZm5wcERnbm8xWUROR0FGNVQ3UnpOeWY0OVkwNXVlaGFqM2haZGNQRnByTUxCeXk3cG5ocjVEWTZGaXVjbmc9PS0td1kxb0ZJOWxZV2t3L3FHTEltZjVvUT09--fe3f83fb929b1ac043ac2b86d0cb3a94d0a9bbf5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

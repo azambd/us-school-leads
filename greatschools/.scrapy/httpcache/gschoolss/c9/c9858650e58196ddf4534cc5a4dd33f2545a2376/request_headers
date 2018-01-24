@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=SnkxWDA3enNvZ2x1a1k5MVorK3JkMDQzU1grODZwUEdyZEtGZjQyT0JjTG9QUDdBSnRSbTNMRDBrVXlFRmFPd3ZwWVBSd2VYdlF4aXZpcGg4RHJhVmU4VHd3Y3JMM09GVnBGMWxZNEljZ0RReG05SVRYaEJUaVlIekpqTFJneER3dzYrYnN6dHlMQVpaQVp2UzJObGhJelEvaG9HaWJ6YUtWR2xoRnIzYXlMdk5sVU5nalhZQlNJQW0yeVZEL3NMWWlWbk9KbGtJdHZ3dzBERUFuYWRyM1dnaXFsM0RCbnI4cXl2R1c0NGZrdGFwcEhROUpsNStUcmFzaE5vaVI2eS0tclZZYkRpcjFCdm1iM2xHaG5zVHNIZz09--791313ed39fbb7bf2c2ac673742806eb374b4fe1; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcerritos%2Fsoutheast-rop
+Referer: https://www.greatschools.org/schools/districts/California/CA/

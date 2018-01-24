@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 303966e0-a561-404e-989b-0db916f0eb1a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flennox%2Flennox; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dEd5Y1hBSE92ZUErV2lQSGJxMWlCS1RkZFp0TmxIUmZUK1pkQlRSYThkRTl5VDhJZEs2dTg4SEM1RGE4eUtUVy91SUNESlU1cWUyR1BwaHJIQ0VyQW9jVnc0elVVUnZDVXh0YzA5OFNGOTM0RTl1UlQ0dUtxT0YwVjNQSUtUMkUyaVZGT29MSkdpbmhlN1BwNUgxWm54ZHdQLzF2MFBDNUdyU2ozeHZ4VUlWcnF0U1hRQmhGMTlYTlN4TnYxOVZVWmd4bXpaMnozUkhyY21wa2RmQmtWbmhjb2Z2Q3huWXkycFpON2VKQjVoWTA2WkFBSGo4ZEduVmxibHBHQThkbC0tNTR3ZDVWa0NHeHQ2QUZxUlpPVTdTUT09--984f7f797ef0a438d9a4728525daf3bcb79483c9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

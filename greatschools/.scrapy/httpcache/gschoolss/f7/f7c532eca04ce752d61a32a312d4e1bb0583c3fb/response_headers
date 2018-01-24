@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 54ea97c0-89da-43a1-ae25-c521d4ad5c28
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-gatos%2Flakeside-joint; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dHB6bnlGR0J5YUlYeTlwNUFtZ0EzQUVxVHNJMGdkME9RclVwUGFzL3d5aUFYZzdTZk1kb3NZcERKVk9tNHFtK0ZuL3l1dkFDbGt2Qk5vZ0N1UUZ0b2dwSW5GYzZxMEVjT3FIOTRRRHV1UXpUWW12a1pZMlJuOXRESVRXQW1kMGtyVkp4QThseGhIZEdoY1M4WkpicGwrU0JQVXZxMndGNHZmcGVWTFJCdFFuSmEzMlhHUTJ4RE1tclN6NXJ4cjFwTHlJaVd6RHhnaTZQM2RFZmNzT2lDMCtiTm1UQU1ZMjhaWG5FVHVBWWhKVTZqbzF2YlZDTHRVZTVWUE8yZHNSMm1zaE15KzF1SVFaSnR3cllwR0NuekE9PS0teG1TeWhUQTlJWkVoWGg5VmVNUWtaUT09--5da126794363c5004cab529ccb44e7a335814369; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

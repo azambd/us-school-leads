@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=bXUxSjd2K1JVOTdkWXR1ZkUzaEFxNUMrbEZqQW5ZMkxmNjhMMFJ3VmpySGVGWlRhVlNEV3QxcjF6M2FjV05IOUg0Nmk2OGlFZkNqWHhHRFBpMmZOcFVyR01oUVdJaHJPek4weW93cGxoRGdMZ2xWQkFncDZwWFB4ekQ2NjVDZFZOWlFId25mVDIrNVNVakNQZGNlM3dxbWlyRWVwcmdETnNwUTZ2WllLQjFKUkFWZGdPUHlUTEF2bkc2MU1UNlU0VTY4T2ZzM1JjNFNMY0NiNjdQSGtBanJoV2k5clpsQ2lGV1NYaWU1M3ZPT1hNRHhxK21yZWQzTHVnRE1ROXNhVXJFb05QYTdMbk9nNjA4U3R2UndVbGc9PS0tRllKUzNsNkx2Wjk4T29DZ1pLb2xRZz09--d79fecef80ef74c45e8f3f2a4e1d56520f2804f2; gs_aid=9273f755-4018-46c9-9c4c-f19d7ffc7c69; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fbakersfield-city
+Referer: https://www.greatschools.org/schools/districts/California/CA/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8f51ff76-3800-4350-b613-c8caa7519919
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Forchard-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZnR5NkVHWVlwQnNMdzYxWVdYQnNHb2FiYVFEQkdhZXc5VzdNVlorVWJXbGFiSnpVcjRNUjhTWllCSHdIbXloTGNSRm1yRm92WEgxeVRELzFHV3plT09PZG8wS3pRYVBXZUExWkNxQmU3clUxUmt0YmRNUHVOYU5RSWtrbmdBYjM1b2VzMW16L0J2a2UwaXgrOTlMaWRIWFVESHMrSkEzUVo1SkFyWkpOYUl1N0k5TTB4M1BoeXpid0JnTU9zSWt3Um5XRDRCdzc3ZjR0bGF5RlBobDlOL1J4Z05QYTRWaEdLbkovK2diN1lBZ3VDYXhwTmJUZUlnMzE4M3NSTlV3bi0tVEVHdjQ1ajBZS2c3dGd6VXVZTk4wQT09--e882f60731619ce15a4746cb52d4f4c0e12accad; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

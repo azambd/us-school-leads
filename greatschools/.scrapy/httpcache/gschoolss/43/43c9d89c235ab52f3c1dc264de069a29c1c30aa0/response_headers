@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e4faa2f8-4d24-4312-8ce3-074a35e0b851
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flawndale%2Flawndale-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eUZzS000ZWwxVlVtS0JNMDNkMkhpVWZSc1I0VUdteVlNTUhXVEFSYnBsQmkwL2pEd2VkMDUxdFI4SEZFWThxZkxpUzhIR2Zzb1lZTDZiWU42MDJWN3BHZmNEZW1mVzdvMnZxam14Sy9wcW1Ea2lscFZ4Q0FFTGJ4VGJ4YXNCN3IyL3NWd1RTU1BxLzM3OURpU1dCdGZtbHV1VnVRd21ucVJKSjRzSG45RVlHWUVlVzdsYUdZOUdvV1dpZUNJSjQvdmtKaFRtT2dib0oxNFp4R0hRaWtmNTRhdW9hM1N0c2VGTHRaaDlZVXVLOEdrVzNleCs4anZ2WVFBMmdmSHZ6aC0tekc5eUZXMG5WNGtPaUJ3V3BwWmEwZz09--e7575e0b5e9ee2d9701ef42ec493ee48728d124a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

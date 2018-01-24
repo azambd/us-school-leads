@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bc3d7e5f-7e0c-49b4-9201-ba767a3637af
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fburnt-ranch%2Fburnt-ranch-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eDVhM0NxL1NFcmhEV3N3WXNYN1U3V1JjNjVsekwxZkhXb1ovQlpFVEprYUVlaHNYMEJzNkdRWG9JdUUxNGZrQVE0bkkrbHVJcUp6WnBtR3lOOWRzKy8rUVNnN3RPU0t5a1BSNDBOWnNiR2U2MVNGb2EzNW1PNzBsZGp5TmVZTUVOOURJNGZDQ3Y0OGsyQ3FJYS93ZnNHV3Fnb2hiNG5iWmpRMmhWaXdOZGM3NTNyNERzdXlWTjB2Uk92TCtTNUZuZGJLQVp0bHh3UVk3SlhtRTFkVTNQVkJJeWlOcG8xTmZnZm93b0NjOUFURndaM21hcjNQdEt3eEl0Q1ZRQ0FReFVXOEp5dElsUjdQZW8yVG50UGRmVnc9PS0tSHNEOUpEcnZsVm9zd0FMeTVGQkhKdz09--556af6313c2b0ba97be7fc3b10c785a41c25da8d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

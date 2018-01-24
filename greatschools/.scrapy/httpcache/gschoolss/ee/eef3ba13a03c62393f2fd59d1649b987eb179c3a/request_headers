@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7688%2C%22state%22%3A%22CA%22%7D; _gsweb_session=UFNzaGZWR3Aza24zbHpPcDUwVWphMzl3L2Q0RHNmeGcySmVuZHF1Q3N4NFFITzdEUTN6Ymk4cElNODhxRUIxT0lBWlE5bnpTKzQxc1h3UWJwdFI2UEN1WklWc2dOQy9JWUx4eG1UdVFEaTF3cDZ4OGJqbmtZL2NFYVpnM2k0YW5MT2lYeFBSeUc5QWhHQ0w0QVNPSEt6RTlCdEpmLzNaRW11cm5qVmJsNHpqNmNLUncwZzUzK05veVBCMVhyL0tlM0gyYkRBWWVKak42RXRGamZXYTJORG91dEZReGNCMFRDQUl0WUJVcWlUUVhoeWFXTlFEemdGTUhZczZkSWtxcWtnRnBYbkQ4bzFpMHVlOVhhZk1WRjNYU0k1TzJqVTZhWjh0UklSRjg5N2pPaUxQMC8vY0h2R1R5dytYQmJHN0o0aVZHOHAyY25QUTRzMWw1Zkd0N0dYZS9kU2wyWVY3TGJxdHU3WE8xVzBPU3pNK0NQR3Nza1dsSktrcGZNUHB0bGR5T09YV0duMlhmWTVPc3FLZ3o5UT09LS01NU5ZdUtxd2NXK0tPYlgrVDgrRXlRPT0%3D--2ef868315a0cdae84a75deb172e50f564fe3b575; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/12259-La-Mariposa-School/

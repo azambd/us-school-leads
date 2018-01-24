@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 83c4ad7a-6d98-4649-b740-beda0e9607e5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkeyes%2Fkeyes-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=clpreE1hckhmeEpZYitSRkVvWTNDd3BzbVNxQW5MRGMwY0pRVEpneXJhQ1RYMERCaXdGNi9qZGkveVVEQytGZXN2eXZLM0tPN3FCR2V1VTZ0cEU0MzAyc2J2ZmZXMHc2L1UwQ1M0MkEydlBMQnRaaXJKdkZuUmxkbC83ZmhnV2dJVEQ1MHlHVjZBWTU1VTU3c1E4ZzNTN1dNZEY3dlNWckU1YTVnbi8xRkZKVTYzNXVGejk0TkxUalJBdjRRRFpPaStzZ0ZzOG9VZ1BPUEJ2SlZ6RExCRTdtRjJubXcvMHc4cWwvbFhBQ3RWM2FNMkthUXdtSWYvcGlUVk95WEdDWS0tRXV3ZVVudC9Sblo4YktQYWVoWmFYUT09--5cd0e9cc6f334d05236971960e2b0db706942d1b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

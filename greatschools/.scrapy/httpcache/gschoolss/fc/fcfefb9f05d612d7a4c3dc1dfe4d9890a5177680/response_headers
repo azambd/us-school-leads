@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: cd9c73d5-4e11-446d-a635-73208683812f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farvin%2Fdi-giorgio-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NGIwWWFoKzB6YVJSblJxQ2xZaWtpUFN0d2dTZnZXODE0ZXZlVmJ3QVNZMmNaWFZOVnpVUWlyL0dzdkkwbWh0bDJKUlRESGRrVmpqY2lqY1AxNkwrMlkzc0NjRDRETGdhdWlZckJtWTEwS0lKQWNJbTI4TC9pRmMrKy9jYkxrSjJYTzljKzJEOEtZbXhkSmdaeFFPcjl0S1p4MjdwQzIvUzlZUWt5REx2NjJ6YWcrenNneGl5RkI5L0lOQWRRamZyWlY2TUgzU3BmUHI3eTBHUVJsNkZQMk9teURDVDZ6TFlhbU1lWVNjY2RleFkwQm8vdjFZRzJ0ZHdqN2V2bzV6Wi0tVzl0TER5ZWtqTlhGek5wa0tHZ2pVQT09--532a64f5ff9b56eed11a4ab7a2854f5c60d0403a; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ccc5a0d7-8b7d-41d7-985c-0fb12035f3e5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonora%2Fbelleview-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M1V6ak94WmhYVk1tSE5zaXRPOFJmWWtOWUc0OTViazMxZHFjMVV0NHhrYytjOElqSWxYWkxBTDVpVlp5QkkxcGUxWFRERkl3a3NEMDliUE1lWS9xaUh2VC9PbUpwVHE4dDBYcExpMFlJdVBHNTVJQlI0bFh5NVpvOWVzb1NRNzRGYVRyWlZwQ1d1NWthMkdSbzd0MjR2aUtRamZzcUJNV1d1Q3N4V3pKNGVNM0NoOHhRQSt2clcrcGZDeU15Vkg4RzhEYVZsVnZML0NvWWZGczV5bGppUnQ5SFhmWDEvanpGbGtjMmxFWXkvZjBxTloxL2dUanRSNlM0YlRjczVLRC0tSVFGYTY0SVo4TW9IWnBjREJOc09iQT09--5e6baae8f7e401ee6f6f84344eab777cf3867e1e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

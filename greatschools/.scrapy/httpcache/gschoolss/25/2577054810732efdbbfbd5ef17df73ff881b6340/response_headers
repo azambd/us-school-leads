@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f0a60ae3-81b1-4648-8014-6d112fc1096c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fsonoma-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VkJ3b0xRWlE1Yk5RaUlYazhOellOK0hXYk5YRVFwNW9SQ2JmbzNmYW5CM0pnMDdlbmlkYW1mbUxscWtIbGpVd0poMVVvNmR3ekRrZVh0VEZ1VktsUGlCWk9Md1RMYmJDY2pjVmtyaGdSbHRvOE9UNkR2WVVJMHprakFNZm5VdW9xR2lZT2pCdkZ3ZXJWN3BPT2dEeEpGb3RNeWFJYVhrb0VWS1ZMdGdqd01zWW5seGw2WGEwelJxQXZuNEhUdk9iUlZiVjZxWDZGMWxyVnhHTFIybjBYU00wekNmamdBOEk1RU8wOGFmZEJ1d1lSdWw5a0J2LzUwckpOOWZqUXE5NVNBNjU5ZFlqQnNIbWNSVWNaSENKSXc9PS0tSjhIYXNvZkJCcXZERXVqOWM1SXVJQT09--b685d097229373c40c47cb234b7fa48f6323a38f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

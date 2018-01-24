@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: _gsweb_session=WnBlWDRsR0hoRTQxQnRFQ1JOQ0VoRWoraUJyZm9EZ1A4anlYZ1dsTmxWTXVNbENab29ROTJldmloNllhRmpreE5uNDBmK1ZGb3ZhMUlGemVLYWtRakZmMHU1N0c3TXExZlZxditXVk82MWFhVi9zWnF2bkZIU2lGQzkrNTR6SlZ2Mmo5cDkvZDJPRWd0VHhKNWlNMEtoSWFzRUdzYzZPb1hoTFl6b2tBa0JNWFhncUF2ZXZ4TUFIQnZXNlIxNTBjd1Z3N3VrMnU5cUx3Q0ZNV3JDcWREd2h5UGFtQ21pNkdPVnhDVGVSd2l6cDFVSENQMkt3WXRBbkRRK1huYlhjanFleDhGYTQ3dEpSS3dQL1pEazlBTzRQWTllN0EzN1dMUVZrNmZpNWh1SldXOG1UbDNOVnRjTlVzZ3BCQW5qYTV4RWUyTjJKS01GQ2Z3dDhpUFZUMEw4ai9ScnRneG9QOEpkT0R3QlRtcHl1aDE0TEE4Yk00OS9HRTdaVExFN1Brck1JUFZtazc0ZEprMyt6OGh4Z0hGdz09LS1TUzc4dWk2d3JFaW00SXE0SkpabzhBPT0%3D--f663c7113652a31a8755c4b2c79e113523ce46fa; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fmassachusetts%2Fmethuen%2Fmethuen-school-district; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/massachusetts/andover/schools/?page=2

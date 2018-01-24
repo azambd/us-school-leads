@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1892071e-5976-470b-be56-26da2996beb2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpescadero%2Fla-honda_pescadero-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aUo5S2Y4M3ZSM0MxUVNackVHZ1NQZHdrVHlUZlRlTjdETWV6Y2ZFYjdkbWRoZUluOGlqamZUdDJhQTRIQzZaUk8rV01WbkM5bk1sUkJDaGc2ZGdMQVZrSWtMbTNGaGY4NHpsaEIzN1o5QXNVUk9WYWtibGkveWMvME94QXAvR3ZQVXlaVXF3Z3pMZCswbCtRWW5xQnpLNXRUNlV5TURTWjFURjNya2F6MVcwelMzZlFxU0UzTUdCV2c0Q3RIZEVkazhuRmNVNklLSzREVjF2bWM1YWhvTktNdjMyWDhLUXRDWlpNTWFOd1lsRHlycy83aXNxMlovR0tvQ1NTMnpybDJGalNzUXpjc3V0N0UvZmpTS3p4Vnc9PS0taFVCZmFUOTZzaHg5bWg0eVBTRjh2dz09--94c4b24422635ee0c49e9b64ad3fbf3482e12f9b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

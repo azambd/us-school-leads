@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2cd12735-b8b4-4572-800e-d2dc3c2d896e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-covina%2Fwest-covina-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YWJBY1JsTXBhYlNEckd3eHZNMjkyVVU1dWdJME1CaTFTaTJ4R0ZNb1grdE1CdHZ5N2duRlhoZlpQblI2dmRVUVV0YUQzN2NNeHBXUldZMFdJREREOUxGZ2VRVmg4WG1mQ2RGU0dzd2ZvVDBDcVZoa0d2RkJVTXJKRTVjdXZIc1BhNHNjeWE4b2JqNTk0ZXZIT3FEUXNQNXRZMkpHbmFqQTdKNFhuOEoray9lU011QTlkTWFjUnBNWjlXN1dTS1ZMVTZZU0w5QjB3MEtXTzF1bVlxQ3JGOFBHV0FQdUdRVTRXVk4rRGV3ZU5ZMXVCOHg2Y2NodDBnZlBURXhudmlQK3hWdWhNOVR2MnR5eWVkdXZ5V09wR3c9PS0tbEZsOVZ5TS9qNzdSUzZPejFVUE50UT09--64bca4c64298e979619aaa81259cfc242e286aae; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 40ea680a-0011-4b29-b97f-b235ba7b6b79
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Findependence%2Fowens-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b3BiWW1zT0JnbDdSZmp0Q3pua2dVZUMyZ2dTZUVXblNQRzFnTmNGcjBTSXdibS8zRHRvUDFsTzgvRU1Fa0pCeG5oSXVkc0dXNWdrRW10Zlo5bDdSYm1EcXlLWDdFc21pUkp3V0pqUitQSjRzNWhMV1hib1BORFowZlRPQnVXTUNMVjBiMkFRaVhvM1ZtR0xHOU03VVRYMi9zNERKUVg2WUUxTlhQMmtiQ0VVUXRpYXVNUEtuUkFNM29oSkNWc1Jkdy9YcXJnRUluTDI5Z21UVHVWakxIUkdIMXJzbnowdnM2MUdhZ3ltQlk0ZCsxaHRSczI1NjZGL3B2eHo1YTRzZDFnQzV0TFVSM1g3Ujc3Y25lWW1pWWc9PS0tNmdHamtzK2FWc1FyZ3IvQnd0NlcyUT09--62f63f1c5348e5c2c078f8427702513c54ea2030; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

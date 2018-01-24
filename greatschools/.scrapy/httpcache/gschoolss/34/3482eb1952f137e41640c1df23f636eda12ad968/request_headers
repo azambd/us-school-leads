@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=S0tGVDR1dy9KSFMra1o3Rm52TEhxa2FMRmp1TFZaY3JEeUw4eU15L0NlNmt2K0g1ZWRCSC9zVVh6NTVqQUx3K2V1VlZrdFMwSWtYUFRDdFliUFpoSktwOXJvRDRyS3o0b01QTUF4bEdNSVptVWlHK3ZCOHBEcEs1aGNUV0hkWE44dDNwV3ljQ29EZVpaV3RBdWZYN0xFZitqdDhBc3Q3d0hPNHRXVXA3Y1UrRWl1aEpkODkwUTl2UU8zV2JQK2RsSW0rYUdrdmcwWkdiZUtOYmlZZyswRzJyQUVyRkc5NmJRTDhPbUFXQ1dWYk5OaVNwQXFmYTluc2RnaU9Jb0g5by0tMERXWjdwZHA0WVNERUZEMUJJMVVuQT09--042c0d37dd768fbe0cfde45a3fa17d5dd308166b; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredding%2Fshasta-county-office-of-education
+Referer: https://www.greatschools.org/schools/districts/California/CA/

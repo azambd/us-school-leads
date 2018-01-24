@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: db12f4f4-4fc3-49c5-ac23-3913176e2460
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwinton%2Fwinton-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bmtKSFBWY05LL0I3RnMrdU93TTljWjIzdUl0QXVvRHluaFF4TlZLbS92YTBHUHZqcE4rWlZhN1ZGYnFYVzZ2cVNSeG04d3p1M1NSa1BYaTNxRDVUdUMvYjF4aXZHR0orNk9xUzVQRzRBWGxMT0FhM2hXK2R0eW1TTDczbHdCTTR2c2xwbjNPdVBvUzBoTUVaeFhndERicEY3UnM1OUpIbUdCNE5OdFVWaEhGeG5NNitGMzVDZitNWjI5U3RVRHNycjVLaEo4RkhHUm02ZkZDUGdCWlFWUFZzUUIxcG5XY1J5ZHN6QWZITVc3NHcweEtsVENjSE1RV1dEMGFBWXNmci0tTlFmUmxmamNLREpYbDZYQkl3Y3hHQT09--002d088ee798a8ccd42cef7062b4920c1d45dc1c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

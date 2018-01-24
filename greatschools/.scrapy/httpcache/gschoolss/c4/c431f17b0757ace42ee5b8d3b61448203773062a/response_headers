@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8f6610b6-6706-4afd-8eb0-97f052e44ab1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forland%2Fcapay-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RTg0M1BaQ3dLSEI5dUlCNkhXc0hydUFENVgzUGh0NmQ2MzgxdGdyN1VTUFlNQXNKcG9JeXM2YzJkRXc5dmFpMlJYUlVRYXdnS3JjZGZ0Tm9DWlFDYk1KNFJPN1poVnZTS1IySWlia1NzSFpQZHg4WGtQbEFaVWEraE0zSHVySzVoS3Y4Q05JaWx4aVdEd2hma3d6UnJUMGhOVVlhRy9GQlJsRm5rbXRSNzA4a2xUdFRDOU1RMnN6NnlUTWRqVml0N1k0Vk9sbWZnMFBYazRBcXY3WWEwN0VEU1B2OEpFTnBaQUVjVGRSR0QzQzJMZk9WZ3VtWmtYUnB1ZlV6ZUxtMy0tQzh6WWY4ZlpJR0liWnNnQU9ScVFudz09--a8e60c024b81ce7c2a55c0ccd5fa12e96912ed14; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

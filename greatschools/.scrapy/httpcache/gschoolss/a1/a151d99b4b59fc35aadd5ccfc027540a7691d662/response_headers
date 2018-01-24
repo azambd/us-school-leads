@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 892b0ddb-7e2c-4b8f-96a3-364c33e2d365
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcedarville%2Fsurprise-valley-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b0tvSlB3ZU95OE9SblZid2JSN21MQ3llNW5WdWtCU3JVYVpzT0czcTJMa0tBNWhuK1Znd2tUbVNMd0lINlF1RG5VV3Fkbm1QRVMxN2g4TVlBUSt0SkFNb2ludUlGV3ZRbm1SOGNOYkV2UmJrUzlUNDVmaDFrRzFhL05pUmRScG5QcXBpNzBlclNORHRFT1NSRzBYK1dvQXBZOXgvSmFmaVdIcGtXajk2YmVEWlIzY0pkbXVxMnVTV0ZVTllUblhqck9rRS9tdG1yVUtWTTlrZGp0R1JhaFB3aXVpUFFFU1Iwb1JOWS91alREczNKeG83WDQxTTlWVzRiZ2FXcGdUblFVNXVpY0s2TTVVSXlXeHFDWEtHUVE9PS0taDdkT2hEYXQ0Rmw5bTJ4MHhsL0RXUT09--9b1439be7a0fd3924db1f5a8acfee90f5f79c51d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

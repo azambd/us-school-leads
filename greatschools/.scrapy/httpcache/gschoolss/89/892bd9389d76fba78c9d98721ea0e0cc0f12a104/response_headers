@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8c90bdcb-28bd-4a2a-a15b-cfa995126896
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flaton%2Flaton-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Uk1EcllkZ2s2bXdNOWVvWXFqSVNEcG5BR21xSUFzK3RqekY2anZ1UnRNMi9zMURuWFNXYUVkUTNRREpUN20zaldjeU82QmU5eFRsYVFTcHY4aWdHSHBEWmF1UC9YbVYxdjFKYVBWOTl1d0x1Q0RSSkd6eVJ2ZXQvZWV4SGtYcnZnSlJhYXFtUEM4WXlCZElEaTJ6OWVobHlURkRWTG9GNUwwMGZvVDAyTVVIUzJaMXNyT0JFclBxYlY0SW83emF4bnBFb1VqbFVmSVBockowR2NZR3hUeEtqWFVDN01LM0hGZnVHVU43bm1mbDZPMnNSdmN4N2tKdU1objY2U29yNC0tOENONk9aaXh6VVZEVWhvSTU4cnZBQT09--f7c78cd94394b7a05db18b2ef551d5d1a86c258a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

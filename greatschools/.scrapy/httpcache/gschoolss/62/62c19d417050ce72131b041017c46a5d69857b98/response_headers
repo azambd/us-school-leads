@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 595e55d2-7c94-4640-8178-1dafa36f3773
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftres-pinos%2Ftres-pinos-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WVlnL252Yy9vS2Q3TjVscGFCZDBkYk01dHJyUDFDTXFzdmxHSkl1aXRQUUNHaWNqYXpDeTNKYWJzQmNvVjAyYWhvdjNNWitaYjNPVDBtcmRWMmx4c0RwanZSaUZ2RXUvUkFPRnRLOHZsaVZOcDczZFpsYmc5Zk9lczZuYlR5N3I2WFJwUWlWUG1IMFl2MEk0cERQbll2UzNBMUQ4Y3ZhRHhWQWVqZ3BUdzZ5UXNjMlBremc3L1J0Rm11c2JseWUyUjNPRVU1STdKSXpKbzJCQWY5cXRoSEtLbkh2T1ppRVBhN29UMG9hVU5pT2lBR2wzN3c2SnhUaTZQVWVrejg4eTRISUJiT004ekE5R3p1c1BBYUVISVE9PS0tajBvcldKM0FuZjF2RGNSa2NJT3p3UT09--2247839e8f8068ff114e311cbba26f940fe79a6a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 00a6197d-42c6-4f65-a56d-a4e83a02857d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhayward%2Feden-area-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MFZWQkQzVnhFZXRmdkZidlQ1bDRaZE5rRGxnYlAzb2xNQlN4VE9LWW84WlBqQjBBdFhMTXBmaXBONjNPdHJ4NVNnNTdKMjE2b2xweGZzUWdPN29HKzJSdWI4UUYwUkhMZ0RMa0E0bVpHdGx3bXdnQVVyYXVrWkJQWURacVBKbUJtaTl0a1lOc1ZGNGo3UVFNSElhanBRTXFSOTN5MWZ0cUZubjZhS1VRdFJNY0NCdkRiWUNlb0FrK2JKR2VUdlBhVGt1MXBqc3lsNmh0TlI3V0xvRSs2UVFaa2xuSkhQYXRKdGQzQ2tCQjBTOGtVcDRyTDBERXdJVExvZ1h4WlcxSi0tNnhKMWxCWDhDaWVVZFYwTlgxRVpsdz09--649ccc2b25c3e9f2b33c1af0bf0505ce44ff65a9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

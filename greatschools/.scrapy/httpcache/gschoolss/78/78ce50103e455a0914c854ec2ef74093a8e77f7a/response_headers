@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7ab7a0b8-97cc-4196-905a-f1f1912d738a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fspreckels%2Fspreckels-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ckthbE0wV3kyd3ZSNDZTb01XaVJoYm93aEpLL0lDdDBRZmFWK0k0dkZQRStrOGRydEJPTkxvT1FMeHhYOUhwY0pCYU1leC9KNHpFYklWWlBva3NQUmRpWDY3MWJJTE81OXdLUEYrc2V3N3lVTmFDNG9La1Q4aTE1L2JPZG02NkNramRnQ2k5a2RKQnZENTMreGgzYVdpT0pWd0tuWFVYcnpUaXJKTUFHa3Z4S211TGo4OFZtejFONEJrc1RvbkNoSEZ3Z05WQ2l3WElYeGg5WERBcTd1dHpNME9EY1NuODRaREdNTlkvTU9hcFNPU2tkeENWazAyTFFKUnZuZlBqTE4zaFcwUWF4ODdsUEM2Y2htakNleWc9PS0tbzR5THZuK3BlK1BqMSt1UVg1ZGdjUT09--13de7093ed1fac396e36cde1c35e51c1ed6b513a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

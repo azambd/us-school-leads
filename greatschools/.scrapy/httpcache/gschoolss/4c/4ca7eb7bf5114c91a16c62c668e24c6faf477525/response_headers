@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8ebbee21-51ce-49a2-9f33-c4953c04be1f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fparadise%2Fparadise-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z0h2MTBMNDIrdjY3eUpqSDN3RWJKNWlTcTZGZ3FBZ0RWUnUzQmJPcXRmcUdWYm5RdlNlaFdyYTVmUnBMUHJ4ZHg5SDdJMStXYVJ3b2FKWms4aWFFMTJjWm5KRm5zbFdhK1EyMkxVUDYyR1FHN2hQbjV4OXBGMHdiUklXM0RWclA4Ly9pVTg5TmthTEgzU1d2dTl2ek12MVUyNVl3OEwyL2NOZTFHdEkzL1o0MVd4c1MwN2R2a3BhYjZ6QmdLWjZLWUNJR0R3SkhGeVZROWVKekJxMi93WUJyalVlMWNxSnpONTJuVkVmTFRxL3RIVTZ6Q0N4TlllcFdNNjhQQXhwVC0tcExPOWRWUXVYa0NvdmxFdGZPbWtXZz09--a5928b21d31baeba67feead8b7e4b14e9879c90f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

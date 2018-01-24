@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 01c0390a-56e4-440e-8242-81e644b7fa2a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Funion-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M3BCTGU2WGJFQ2R3MFBtQ1NQQ1E3WCt6VGVpZEJoQzdaK3JNNnBOaTZsNVJ4bERlMVMrU1ZYdFlnL2cwNWxSMWRiU3hsNG56T0RvdjVJdTcyRzUxVUl6anlib3lab1BNbU1ZUDVrYTBIYmxPVTdGcU5LMDBldEROdnQrWUlUWG5sVi9BNnBjMVlXWXFqdW5WQ0ZiWjhxOU5LdXpVVFI0aEZycS91NHo0WmZwSlVLQnNRNXBWZS8rZEJWT1lUQTZMOXZ6TmRaZnRhNXNEOXg5MUFtTnY0dnQwVW5wTUpoM29vbjFsNUk4S0d4eW12OWhBU1lKMkJzZi92UW5TL1RJUS0teGo4OTJQbG03c2U5UHJPYjRGS20yUT09--9bb3ba4d5ab8c67a204f165777d85f5ae0c40b32; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

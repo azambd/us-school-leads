@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b2b1919f-c573-4283-a1c3-502256be9b23
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshingletown%2Fblack-butte-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=STZMaUFBaC9LOUVLQndHZXJKQjVOTnpTcDBxR1gySFpFcHYwYXZ6alltdGdTTVpTR3BQOURqMkJOWnMzQTM3L25pVlNzbVFjc1VvbWJLY2RuMHQra1p0SHZQaTg5QVdzY0ROc3B4RHBLOHo3L3VoRDh3aTB0OVdXeGRnYmtNV2J3Z1ZnUWkvTmhndEF0VUIyeDBaTlF6STRlcXBGb0NtbXNHNE9KM1YwS0RLVmdsTExrbnZ0VkluNWxPN2h1U3lnL2dWQXRVK2xGOCt3N3RncEplYmF0L0h4SHNxaWhIOWliZWJobEduUW9OM3h4aUlkV1c5aGZydysvS2szcjJPcnBoM2puZ0FObGdQeFBDaFZsTGx3Q1E9PS0tTWtOVjlwVlR6bk04M1R1QjVKWnNPUT09--b98286b740ef5b41ceb2569a242915ebd0f6070a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

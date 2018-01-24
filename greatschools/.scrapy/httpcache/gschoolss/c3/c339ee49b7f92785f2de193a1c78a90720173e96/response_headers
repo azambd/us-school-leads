@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cfeac31c-e72e-41a3-a5c9-ee21de6054c9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fmassachusetts%2Fandover%2Fschools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RXdTTlF6aU1iK0dGaEtVczBaQ2k1b1VFczBNWkJIQldTTlp1L0JKQVYwZnZ4WUt6UkVmWHBKR2JPTVR0bCt1TXJFcmVSdDVRM2Z1VWlkM1Q0R3Y0VnFtZEV6M045ZHMrMVc0UENyUHEvaSt4dGZpSlRneUJtdnNCR3liMmFHejdkTXBySEcvcGZSd3ZSZTVkcU8wbGp1SDBnVnhlUnpkckxzQ3pGN0o1bERHNkZ2dE83NFlwNnpIdEVvUURUT3pQTHFkN0lydGdqNldSVzY1bXh3eGVLMXZ6Ry9ISzBwZmhXV2xpd3RsSVU2bjVwNkhIK0RlVGlHbHVqS1p0M1RpOXREVm5HWlVEVzVybzh2N1h3aVJnMHRva012dDFqZ1lrWlNTQldrbks1bEhTcUpiR0ptNUpoN0FUNnhEd3MzaUo0U0pYNW1ycUVtZkZHajRUZTU0eDdvOXhoNlQ4TEtuYUZDNS9MWHR4MUpVM1hPbWVlUE5uSXZ0RVlOcEsvUitoNndKT25EQldCc0F3QXNBWFhPd25ZQT09LS1nTWNKRUdoSXQ1QWliOEpUSjN5bEVnPT0%3D--30a5aaa6e41040a83b09ab1ed4504502fb51d190; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

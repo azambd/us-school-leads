@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: df730108-f8e6-476d-909d-c8a47bd244d5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fsanta-clara-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OStTbnNOZ0lXZ3BVbkgzUkZnZitIamdOYlJsdkpCSzBVTUpXUzU4c0htOUV0VzVGZUtaVmdqY0FBMzIyV21oRlU1MzE5MzI3WElvVWVjZHV5WXM0ZE02TzFPY2pjMUplTEdKYmxSVVViaWZCbHdYWXhISU5lMTJxbUNkNFpBWmM3Z1JzNlQwNXFXV1UrcFk3UktLYi8yQnJabi9jUlMwR2FKenU3QWYrSWNwWndOWDFkbitiS0c4V2JlcnMzbTlmdGFUd2NZSGpjWWI5bC8wQlRUbTAyUVdQZzNqOW9NZDZoSyt0VW4yam1oUk95SXBEbXkzcTdXaVFUL2tUNGx0bC0tZ25LQ2t0WFUwbnNmZnk0eDhFMmRRZz09--8e19dd30a56c1fdc3b56dafcc217b41c3f118ac6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

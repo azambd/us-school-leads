@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 139d1177-19ce-42cb-9e2e-678cd4d7eac0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwestley; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VVl6NElqOFRsS3lNTDUwRGNkaCsraEE4ZjZlc1IxQmZFem04ZFRKYUp2MkpaajBOR1Q5ajBlYU12WjQ1TFdhY3B1Y1ZLVThoalFMOWs5cWcwTVc2aDJ5ZmJIU1pFbjJ5b29UTjVkeU1YaDJXM01Vc1hnREg2anFZU2czOFBZeVBPeStlY2tEbC9UQnRZRUUrZ0c5SS81K0I0Sll0SHk5YWV0MEwvYmZocUYyQ2VaVmIwYitWcTZHUEl5aFk0OElHUFJkdXFCdlFXRXFZRzZBUzBlYUhGSmFsMDVpMlZabExWYUpZU0NoT3hlSTFnazFXWmc1bTRpV081bXltRU5Jc0ZXc29aOXp3NXpXcW5hcURCTld2RXFIOFBKVWlSZ2RBRDAzOUZrVnlVQzdUSWxLc0R5cWc3Qjc0U0lrZ1AyK2VlQW90a1U3UTY2WDVISU9aekdsMEZ5cVJxYzVkVWNvOExXb0VWK0RNR2x1ZjZtNlVPam82U005aFJjUVIvdkh3NHpMRTRudzE0TjRoQkY1cnRvVnhCdz09LS1XeklSd3Y5czgvUDZWV21sMUdTZVV3PT0%3D--9951ae5c145998336d187462796165c71072fdca; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7744%2C%22state%22%3A%22CA%22%7D; _gsweb_session=NUVZMG4yME5JcUhYY3FGTzI0TWd6Rml1NlFHVkx5Y0lHd2lsNSs4cnUya3ExYzlGUjh4ZkR0TjRMUTE0TDd5R1UwOFcyS3NSWWIyQncvcUdTcDRlVWVaK0lTcm92bXFva0hVRzBLSFRTalBRUHpZYWVoR2NSL3dUdHlFc01RSWFyVmt4M2Z0RktrZkdQeVpSaHlzcjVCa1FyMElaS2VKN3hQTVpzTUVDeDVzd3h6MFRUdkdabFVydVljd1o2ZEt2bVhUUktiTDdkN28xMHlIYmsrMGNOcGpoNHlMWFdTVnRKbCs5U2hhK0tuOTNXL3N6WDZlUEtGK3VST1F2RjkwTlROZ2J1ZHNDWnJuNE9iRzkyNUFlTVQybjVKc3JITkJIMkcwanJsWS9rRmVkdE1UQ21ZUUZKckNwT2xHYmR5REw4WXN5dDhDU1FGN1U3RmROV09KdWxnOWprbVZ6WlVRaG5QdWZlT0tlUzNjPS0tM3NKc0o3cDBFVXlIMFh6Tm1CbmVDQT09--10ebf1852a87553f0023de3b3944ac4ca41022c5; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7753-Academy-Of-Technology--Leadership-At-Saticoy/

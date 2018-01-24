@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b5de891c-7b18-4897-ace0-17bd88383e5e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcolusa; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b0dnalNoZjA0V2xLQkZldDVidUN2Yytsa3laSWd4VzlRcnlTeVE2ZzcyNVQ1bzQxU28vSnJKUDBJamd2emRrckRqbVpGV2puNUdBSEJNQkhFNWcxbVYvMnkzeXhBTGZua21RVWZSbGd0Um9hUTNGeFRyZmhDbUtYbnREMmVYbEJWbkwyeWZDaVB1YlhYdUp0UnNBbmltb1hVQXJVNnVORTBKMnJQbFJzUTdsd0hiYzhSelUzS1RZdjNCMlRUSXN6TXk5T0FxTTkrSEhHUmNaSmNLd3VQUlVoVEI5UnlrR2NWbjZlQVB2V25yWnBhTTE5MjRrMkcwKzRHWWMzbU5CWDhzMlhUS0k4dUZzRG5Na1RjL2lzU3AxRXBWYUFQcnh1R1k2TWlOMytCTzhUMGpjTHVOb0g4N2ZuLzd1UnJ4T3YzS1pJZlM0MzhqRWZEcXBWTDdlNDc0a0kwWHRQbGUwRGEvakU4YlBtaDAwck84Z0ZHbXA0dk1wQXcvTVdRaXV2ci80VDFMM0Q0THhkOUgxUFRLd0hZQT09LS0rNlpNZms0blN0WHhMUFBxWGlnejVRPT0%3D--6ebd8e67d9baf71053e89b4b3b168e9f28e82e75; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

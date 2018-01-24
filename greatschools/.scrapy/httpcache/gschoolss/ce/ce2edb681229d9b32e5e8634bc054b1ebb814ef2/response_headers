@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9f28afee-a940-4fd8-a561-800445f24c04
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhydesville%2Fhydesville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N0YzRVhBdmRRNW5Wb1Jzb1Myb3YrQ1A5Y3JGY2hwcDZrTk94NDF2dlRwdW5GT0RnTEVaMjdSRVp1K1FiK0o0R0llbFB2bWg1K0VvdUE2NEFpMkd3SjFiSVVSdVUwUWV4TDRuNVZyRGRXeGNPVXcvZDdpb2w1ci95ZGs1cFhldThKTGJHVUZUbWk0dklkS1dtOVZHbkpCSngyV2VBZkFBcnd5RXY2N1F3bDRPaFI5S0ZqK2pGdXpSL2hzWEN5V0lkZXQvV3VOL0lrMStPRFk0a3U2VTA3b2ZPeGdYV2lyRno2S0ZvZlRia2hpQlhqeWJsdkNGNUlERytUMFNGZmliQTFxWDVlbHp0S0o0SGJ6cVhLcnpBdnc9PS0tT2F1d0VKTWZDc1YyRm01SVJFTHBtQT09--aac40d60842285acd8994f41b56f38f7af251557; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

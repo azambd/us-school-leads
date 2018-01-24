@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 103ed2d0-1674-4c95-8fcc-667cf1a40938
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Francho-cordova%2Ffolsom_cordova-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a0dNb1hnOWJsMCtVRzN3WUxLT3FrdzFKRnFFUE1WbDZ6OVYwUFdIWnM1QzZ0NmROVlJTaXozNDFZcjRMN3RVRldXcXFZeEpXWVNGdG9CNkpya0Y1T2pWYTRuc2t6VmliSXRrOXAwWHFLTW9ZTmdhVGZoWFNVbWwzQWRwSld2U1RQamVUT3hsYStjY3V3VmxvSXhuY05CaVhrODZSSitJUzJoL3YxNkx2ZWlxS0M1SG1XR3FQTG9SMWs0NzJqVFpjTEpCai82NitsSVllNllwcXJlUE1OeXRwK01PQVFjQW5taTU0dWVvYUNUQTZ4T2hJRmxQQUw2T2JQa1ViYTVobTFpeEtxZmhNbTVnVnRSZnA5QXAxbkE9PS0tZkVmR28zWURUU1d0b2Q3U0ZCQk9ZZz09--1b786cd62e4474bfbd9a368fbf1c48fbfa66b292; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

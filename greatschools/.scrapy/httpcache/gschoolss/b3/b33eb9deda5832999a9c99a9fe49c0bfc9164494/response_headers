@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cd007898-fb1e-4ce7-8686-e21692d99498
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhanford%2Flakeside-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eXo3RVpUVFo0SWJoK3ZaK2hWNzRQK0JZOE1TbmRZVzRZSlJadHRoYnFxSDNmMitZbUJ4ZlJIRmNkUHFQaU9KNlVrekJqRCtTd081WWVQR3p3enBHR0I4UlhDNVY4NmUxNlNMTVZ5VGhnZG1xaUtQYlF5bGdsUllRQkRKUXRmdDZnOXFyM1A5RU5RR1lneXVDc2wwVTVCNTRtVFAxK2ZmWXBBTHh3aVBZYnFGY3lLMUszNVlMWlVaODlOK1dwdEJYUUdhV0tWQ04wd0NCWkFXbkF3VlpxMG9BckdaZjF4c2I0OFgrOE5QQUVjOU1yTyt3MTBtL3g1ai9CVjdKTS96UC0teGhRVEdtdFMvaGNVdy9LaUo2azF3dz09--382948f8aa1a203533866acb8eb2f694e963a958; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

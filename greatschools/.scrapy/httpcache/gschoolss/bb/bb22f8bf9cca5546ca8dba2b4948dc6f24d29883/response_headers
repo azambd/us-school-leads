@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0f3d24b6-ccaa-4ef3-b88b-a88b17975537
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbrawley%2Fbrawley-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=THVZam4rSHVEbnFVTWd4YnlwKzNKeE8wYXlvbVBObW54aFhhenlCeHY2dXBTVVBTemlrQ1QyVjhxWGV2Q1FoUUkyL05Ob1pGeXdFVVM5R0k2ZTJjYTR1QkhKNnk3Q1loSEQ1NTcyd3JSUE1VaHJEK1hUQlNlcXV2aEhVemxhd2dEL1dQQ0luY1dWSGVDTG5adWxtd3EzT0pabEUwdU5nb09LUGZ3MXVtNzBnNjg5NlE0Q0czNzU3cS94d1AzV3B0R2ltQkJJRjdibDJhUUlmd2Z4SUhKdEg5NldRU0xUMG9DeUtmSW1zWk4xNEFBQXpCNyttcGlybldsM3k4bjdpeS0tM1lqZWZKdzI5M09VMmxGSnNGeHk2QT09--3632c27b7d2960cf238843f8e1422f48e029ebe7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0abc3f24-3d26-43da-8034-7fdddc10223d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchico%2Fcalaveras-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Rm5pcThUL2tXd05IQzVqYksvNXI4Q2hONVh6UWIwcVFtQkRiMFQrS3pXZzdTT3dNbm9pb25pbkVncWlhUDJuQzJGaWxqNjRZUkRRTVptQk9pVmJOSjVod1E4ekh6T3o4eU5Da0c4Tmg3ZjJJTSs0UlQzNTlTc0VTaTN4SjhTT1J2cWMwdjhkOUxqU0xEcUlxOStaTDBiOGNMRDhrK21OR3VWeEhlM0prWVJrN3h4ei93dFRtczIrZ0JWMnp3R0dtcmgzeHYzcVhIejNaWU9jRVRWcXBwWHNwU3I0TDZxTVRjSDdoM1RpcDJzcG9mak9PUkhMalZaQzJ6dXcxL0tSNC0tY0JUTHY1aGltNU0yaGxqaVhlR3BzZz09--e1f980728ea3ccb268ee90e477f19edd494ae7a5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

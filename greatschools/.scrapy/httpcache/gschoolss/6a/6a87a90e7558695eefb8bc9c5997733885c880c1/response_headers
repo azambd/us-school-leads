@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: db1f5456-82e5-456a-b6e3-23ce92e01ff0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmarysville%2Fyuba-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eVJXOHJJYmNFY3c4MHFoYWhZV2ZwcWVjSWlIWTBHaGtndlFMeUN6VHJzY3BUdm8vVnBSVzEzRWxFUmlXdEVPM0NPOHR6d2pvYzZtR1lmUjFQelNUb2R0UVdXWTZ0RFpnSkhDeUdoV3Fack5DaUdsbE9xQmlpVXBpeXBrS2UxVlR6a3FFVzNGcHdaYmxTYlo2a1FrQXlpU0FOL3BBRlYrZWFZU2dabHk1TTZ0WmdTMUJGaUNLNm1YUTgxZ0VxeU5OOGZmKzdZL2dlVndEZjN0VnBJU2pmNmlmT3BRaFVhQzNTTGdpSVZwUCtVVDB4UkZmVHVLNkExSFA4bll0RUdmZnhHM2lsbW40WTRFZkhJTmtYeHVRSlE9PS0telpibEhkZHRoMXpJVkhDM3dvZTJTUT09--5a255aada517f30ee58e5b019be5ea406407ff53; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

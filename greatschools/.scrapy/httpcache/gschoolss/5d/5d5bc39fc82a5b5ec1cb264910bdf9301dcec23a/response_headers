@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 3befb1bb-2ce0-4f55-9f22-d76433fa0475
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=f99c09cd-6c3e-4acd-be5b-61706b963e3b; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fatascadero%2Fatascadero-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WllSQ0ZtcEJ3VG1lN3N0Mmd1RUtBWEw3S2VyY2pZaXZUZ3RaZHpGeGFOb1pabmxqS2NQOS9GWTlOTWpmZWl5Y3IvNlJSdGlsalZUcno0ZWtNaWFIYmtyQjJ0VUdCbGpKVmo0UHNBZkROcnlwam9oVFI1K0ExemZPYlhhYmpFbFpybjR2UmRGRDJvMC9pdFVjaU16Q3N5OHFjaTdLOFRnaU5GKzF3MmpmZmhtbkxROXNlTm11clZEdTQ0K1ZZeTQwSGpMc1E4NTh5enlPVURxWXZYUkR1KzlPN2M2T21ONWl4R1hCbmZtUHlaQ1M5bjEybE1majkvM2YvL3M3RUpjTE1XVVdhdk9tMnFhck9tMTdnZTE2dUE9PS0tNmMrZ01hczA1NEdvVE03T3F6SVIzZz09--82add7791f46f1b6585b07a60a523dc90be3e60d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

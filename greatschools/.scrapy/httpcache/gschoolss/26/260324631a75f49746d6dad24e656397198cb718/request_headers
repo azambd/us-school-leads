@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A11218%2C%22state%22%3A%22CA%22%7D; _gsweb_session=OGt4R1ZjU0pvbmJ1a2xDRWZtQ1BmMXBMQ2FtSTBza20weUR5VXE1NFVtNG10Z21mSFMyRXNGYmxnQmw0a01nMHpsRm5OZjRmOXhyS2FXU0xHcGFkTEFnU1NPbjFpaDJjNkxOaW1sSTVlcWxRams4dnRHMnFySXkxZTQ3ZnVDZjZ5SGFUN09KSDBBOGwzUEhuZXJLd1NZRCtYVmZKSHVmT3A0bWRFY2xKYXlLbm5VRGtjOGxEN0c1enBQeGFhSWVYVTlLQjRhSlE4OTNYOEt4cmJMcGR3TTNvbnZkSlE2enczbXBvVDB4SFBPYVJzN1k3SVFoN2ZYWDBheWdscjB6bktCUUlJV2ZHRWNGUWYxV1lGTkhmTmVPMzJJeXFBNVJxc3AvS0RDSlQwZmtJRE0xdWxqeUFOelMrTXFTQ3JmWlBKaFdtYmVORnJRSkd0THNIamw5MEVycVNnRGJ6Ymo5N25LSzhKTWtPL0F4WHRmN3JWU3krQVAvUWM2dWxXTmg1Um5POGJHN1p6c1d1WDRWVml5YUJnUT09LS0vU1c1VVQvelZhNXFOalVSNWlyalVBPT0%3D--de4dadd2d059b6545b9136756728dc5f96d40c7b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/11218-Citrus-Glen-Elementary-School/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e96b0180-973f-42af-853b-b21cda43ea26
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fojai%2Fojai-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MHBiZURXUjBUMnAzNG5wMFlmd2JDQnAwamlCOCt5ZzV2SDJBY0dCbUQ3WnAzZzRaV1Y3WENzeDQvMGViS2tvS0t5STVIYmlMVlZzM1Rqd090cnYyRStuNXNVRFhYVHZJUkJiM09Xczl2QTlvVS80WkJmOS9EYnlWTWxoSlplWFF3WEx4UUhXa1J4dUpaVGRGc3c2eC9kbkY4SjYzd1NMbE9DWVhJRVVlSmZyVUtTYld0d0t3N21rTTZzN01UbitCcTFvdUI3MmZFOWd3S3k5cGhqMlYxSmZmZm16VkVmL1FlNjJNdVlhVVhTTkQ1Y253UzFxdWo5alJhV1pPQitaKy0tT3JHaEp2eTVvaDZ0Y042TW1EYWdIZz09--f6f4b38f81df8e882414842d9b5fdd2f30d80f2c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

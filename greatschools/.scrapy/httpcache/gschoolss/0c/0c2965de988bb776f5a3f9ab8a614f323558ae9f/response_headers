@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b924941c-aa68-48c5-a495-c8e8ae1dc0e9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fla-puente%2Fbassett-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UThCRWJYMGFiUWx0T0R4ei9tK1M4T3JZbmJQNlB6bWtUWWQxTEJaVjJpYU03cStvTTlIY3Zwa2d0ZGZ1ODZpV3lwZVluNlpkTzdqRkQ2Z1orRGpzRVJTeDdNWDFjeWFQZDJOb0hSMEVYNG5sNHBBYlMwY1piWm5Oelk3Z1VsSGhJUnZmZXZEcXFBNzhHWmZJc3hOcER4RmdjS0VYWUFVNDJBTVMrVDFwYkZldjAxQW1XZVlObGtuWlloNXg2L3RFY2lKWkFIajEySW0yL2J3OFpnMjBHdkNWdzMwTktleThGdkx4VitZTUxUWHdxNzlLaldIdWhZSktWcjlDOHhhU05Jd3FRQXhHbUpwNVJEeFo5MjFTWHc9PS0tRjhSQnJMdStVbzZMTEs1VzRrSDIydz09--a614d9fab082ec44a091d3b48308437ce612b658; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

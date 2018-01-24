@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 233d2f8a-164b-49ad-acab-ea0ee73c7769
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgazelle%2Fgazelle-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OEFtcHFxWDVGTXorUjNXOUVJOG5VRk1IbFF4YUpWYXBzTlFUdEtYb04xdmhQd0l2cFZMdHlFNU1ibnBacWZQcGFXQVZRcFRYOVZvRlZ5WExXQnMyYlkzQW9qNXVLSjhRYVJEZXZWeDRLRW05cit2UFQxUjB6cUc5aGJQb2lscTVaZ1pIblp0TWFZbk9UTGwwT05Ma3UxZmt2MlV0RVNuUmRWK28rMUVpaWdndHp5VWtTSkdRQ01oejJIZVJUSkZJN0ZGTTB3LzZNeHZLVzhJNjRXdzNheU5haW9kY3BhbWZEM24zU24xMkdEUWRNL2tGNjNQQ3RUWHhuNmFHbmRjQi0tS2dNU2s4L3JVa2VBaVBabUpPZzZPZz09--f057110d7a9eb26e0aafc438e804768fde2f134a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

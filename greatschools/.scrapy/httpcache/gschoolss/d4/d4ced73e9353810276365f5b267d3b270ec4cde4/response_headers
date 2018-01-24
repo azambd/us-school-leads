@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3c97bbc5-d586-42f2-88a2-0f5b926df1df
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foak-run%2Foak-run-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TTVndHpQMXR6dEl1NElidnNtNXR6aU5JR2h1bktnZmRQcFVZKzFtQzIwMHN5MkVabmRqN3l2YkdXcEVsa281NHRHTDR3UlgrdFpJSVhiRTRaaC9pRDMvVFk2VmRVSEgzbVZlYVZUdVpmcXBpSWtQSjJ0TEUxem1xUy9CWlB2SjJVTzNsdjltMnV3MXJQOEM3UVZzR1RVZnNJRkt1c2xuVG1tNWJmcGFuY0I5NitVUTA3OVFGaUVFY0lLVGQ5SjZhTDFRWGJ6K0dQRG5ualJNWmdvanlRelJ0a0pWNWt4YXF2dkFWeTZBb1VMNlFQa2VSWk9XNStsaDhMR1JNT0xwWS0tOUlTNDJmenNDeDNoNEc1RnVJVlV6UT09--8ab12c2a38f644702a77d4b979c2695554b78379; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

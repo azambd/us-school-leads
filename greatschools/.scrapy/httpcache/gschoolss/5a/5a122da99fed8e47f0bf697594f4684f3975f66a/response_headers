@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7b535968-6a30-45c9-ae16-b0b92ce4dafc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fkern-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NjZjZ1YycHVpeFFVSUhLQ2tXdTJpUDhhYnB4bmZoWXFzU3RsMEZxeEkxNHE4dm9KNkZiM2hrNmt0aGpxZGNXWVo3c2FtQ3U0S0NXZGhMT2FxNTZWcll0YnQwY3VqMVc0VjJ0RFdtUzNoWkRqUk9JUUNCekplMGRwb1Y4UDU3cDZwSXE1SThIUTZqcDdDaFNoclJhUXZDcFREZUg3RDZ4VTFlVWtDOFRraXFFZU9HcUhJYS9vNXZ5OVNyVjNNa2E3QUNmbEFUQ0NZZTJRQ21ISU4xcTJIRXdhQ3JXb0ltVVZlR0J5SFZDYUFpK1RLenlJNHZ0MU1OQUcvbGVpSWQxRlZVK3J3c0M4dmQ5Nmd3VUgxc0Nud1E9PS0taC9zWEFZT2ZRM1BNa24xVzhJQlQvdz09--5d7d9a89a60dbf6ca51dc61c976d2f3f8cf01415; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: c554a040-bf51-4286-ba55-f749acce5a08
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-clarita%2Fsaugus-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RlI2NC9YZThySC9UM1h5c1YxY2QxVXA5WkpqMmVhVkNOeFNvTk5Bc0djSStYa1FocVFyZ0xFS01ZdUFVNDEyczQxVW82cnlVdzd5dHRzNTZrT3V3U01BZWh0NTR0QVA0cEh1c2hMT0t4V2srWWpGeDVQNnFoQWpKRnV4V1kxVEFmWndPZXFsMmMydXBYcDVGWjUzSTFxa1pLM2Q4cDVFcmRqeWszQ0ROZzIvTG4yalRQOWJyb2xaWVF0TXY3c2tQV0VUcWp5S0JjQ0VBdVo1eC9QK0RTam44RGZhTGJZa0Z3VGRGc3hWYml1dGRreU4wd2s1ZzhOZUxHcmtHVExSYnA3TFd2QUQ1TUlpcCtIY3VHa05BdXc9PS0tcTZjTnpUS2M4aDZIamFqaDRqc0tVQT09--eba153553e10b06c9cbd2235348cb40dfb576a39; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

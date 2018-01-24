@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b7391a97-ef63-455f-a3a2-82a271c91309
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbridgeville%2Fbridgeville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L1EzZkQzVDQ0b2JpZHdXWE91bTFzeExIa0hTOWJ5QmgrSk9Cb285bFhyVEp3SjBKS3RUb3RJeEVaSktNZXEwT0lNTGJ2SDFVQzd4bU50Q1lFc3gvRGowOUJTckdaNURQdTBxRmRzMW54c2I3Q1U1cU9sbVhLNGJxcGVMMFRURU9HbURoNzJQd3ltZ2dnVVh2V2cyZWs4N0Y0dkhsTm1PeFQ5UnVGRitSenRPK0R4M2o2aWV2L1NxSGNETjFRTzNsbHFhN3BFR0d1Q2JLWlZUUUMrUUd0elBMNGI2VElRQkFrRFdzTVVFNEZzcDZEdmN6V0V4Q1RFZnBCRk5vbUhXRkgvOEdrSkptRCtjeEZyL1N5Njl2enc9PS0tMkNuQVZ0WXFSNy9Zb1ZsN0p6V1h0dz09--b46e679426b57a35bc9f6826d023a027d3605f71; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

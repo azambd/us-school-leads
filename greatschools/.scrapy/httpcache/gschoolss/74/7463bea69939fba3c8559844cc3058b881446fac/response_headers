@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f615117f-7cb8-43eb-b729-1db8a269ffcb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fauburn%2Fackerman-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QWhLNHFaMHM0ck5jMENGS3d6OWx0aG5EQWwzMjNmL0ZjTWN4WENQK0Jta1JUS1hvSytLZXBmZHA1cWY5VjVEbHg1NENJL0xHUGlvVW45MC9ROW1WdC9QcUFsZDFobWtMZjEraG5wWkV3MVdSNFpzVnp0SWZNRndwRisrNng3dVAzeE0vT2dLeEJ6Y1dJWXlEVHhYZ1lnNDRnS0hnRStBVFkyeHZoWjZ5ODVkNGVwVEZtd290aGlybngxWU1wRG1CVUZ4eVpmdjkrM2NZK1pvbXl0RlVLL3pkeTk5MFY2L08wdTRhVmVnc21ZVU1GaG1rQVh4V0tXM2VHOHpQR2tWdi0tMUIycm9FVndmZGwzWVFOUGZxTDhIQT09--0b56b2958576ef0b97a44663ace351c98bb052b7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

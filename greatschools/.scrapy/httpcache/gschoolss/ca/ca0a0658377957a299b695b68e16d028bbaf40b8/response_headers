@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d2bed61b-9257-4b78-bc32-bf757f763e8f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-nido%2Fel-nido-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VExsQ0g5cGY2SzdwcStPRkw1ZEt2SGhacGNaQ0wvcThxWDRrQU9iMGlFL0dmRTFiL09EUW1JVk0yVHRXcmtRU0JpbEJHQ1FhQ2M2TjduV0hSTXJ0WGg3VzhtUDkrcENVSUw1eWdlMHEreC9kWnkxSnQ0NWxUckJ0cjg4REtrZGpFZ1ZUNnZ4ZlhhVUtVc3JoYmwzV1Rkd3JidTZNU3RiUmJGeXRoYzF5MEFoMkNSbEtCTjRESXpLVGJ1NUVQTEkwTHRDOUZGR3MxUUZPQTdsNitRV1UrUGJUQ09GSG5tUGdWT3BWKzNFWndqbHhVd2xxY3l4NldkMnJTdEJFQnlHNi0taVNmVzJ6b0dQTjRuSU4yaSt0VWlMZz09--600339671648acd66bd8596163bfcb3560346120; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

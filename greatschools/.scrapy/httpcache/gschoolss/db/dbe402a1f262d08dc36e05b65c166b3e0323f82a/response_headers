@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c6e83b88-0c21-4bd3-a708-033da879c89e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Fmonroe-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZE5aSHQxV2JyVFlPWC9GUTFCV2NURnBLWGdPQUpnWkpkaGpxQjA5bFgwbWx2NGJWTkw2Q2Y3SXUxWXdrMktMRWpvUnV0S20zOGdydzE2amhMdHRpMFJoUE1GcDVNSHh5bTdIQUtrNldaMlpvU0Q5M3FXcW9Gdi8xVHZKRmx5aks3dlM4VC9rbGh6QWxEUEY3enE0SVJEMU1DVGZNcVpmajJRQ0pUUDN4Zks1MFF5TGVFd2pkdUdBOVphVmY0TUxySml2QVlUSFI5WVk3Ukg5a1BNVTBxRTE3c1l2YUJDRERmbUV3Tm5Ua0EvbjQ2VFB2ZkJqRHBDampLVlpLQ0Vzcy0tSHNJdXJrOHRyY1RNUm43MWx3YWNUUT09--6a9e8683a5d2014e57ec747a1d8ffa886e3a2171; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ee442dd2-1c0d-428c-81b6-aefb4e1f8439
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flamont%2Flamont-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NDhlNFNSNFp6TGN2dVVtSHEvdFdkQVAvUnVMT1Z6cUFISXQ1dXJMVCtROHArbGF4a0c3QkRPVVR0UFA4bGtkZ1hXdjBoTnBNNHlmazg1TDAyUXBXTExPUHQzOTh1RExBS2tzTzdJR1d2UTFubGV2SlR0Y3ZpTzl4ejJFcDErS1JPMG0vRUMrdTEwbHNvaEZIWFJpNnFubC95V0tENk95QjRtR25zdVY0VXovTlNpdG5jQ3ZRQkxXUUxQT05WUGE2VVZOVWpuQXorTVFicXM4UmVNb0JJanVOVmJmWDVCYWFmRGtzMFRPdUc4R2VvdWFqZTVWYWpTdWkyNzNPUVYycS0ta1Y3Y3NuNVlRQ2NUenhhcDl5SHlsQT09--ed4c58d92fdc5d80f1022149d31faecb40a91946; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2b9faba6-06df-4c5d-967d-d32bada1a94f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fridgecrest%2Fsbe-_-ridgecrest-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z01HWnBQVndOSWxjSWx6QVd6dElCaWNmZnRNQmUyRVRCM0xqTEk2UitBeHQ1TFZ1MkhzR2dEa1BYYlNKK2tVNnhQcUtlZ1paT0x3L1RmN1BBU3hXcm5NN3ZyL0JCU2daS25WRUpvdmwzQUg1S2VuTjlpNmticE9VejBXVFNpM3JPSWxybFRERXNMRFlBa2hOT1lhMlYzb2FCZExuRnhqdGxJNVMrMHY3Y3BCNGNyVCt3RTk2Vml0Vkh6c3lPWHVIZnl2YS9xT0dhSFp0OS81T1JrQ0kzdDM5OFpYK01Pc0tqY1k4c0twa1prM1VMWlVJVXFoYXdHN0U0V2RkalBzZ293QUVXTHJuNFlxYVYwekY0WEhPU1E9PS0tb2p4ZTVHaTRTbSszYjRpUDhlNUZRUT09--7d8caebdd69ac165b94d8d6da9e3cb0a9e81d225; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

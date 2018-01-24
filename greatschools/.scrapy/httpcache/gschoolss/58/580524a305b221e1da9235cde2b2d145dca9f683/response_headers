@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dee86c16-f0ff-44d9-a659-6d448229de12
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcloverdale%2Fcloverdale-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z2g2TlkxYlAveXY3SGx3ekc4djhWMEYxdm1BQXYrYmlCVnZWb3NMdGQ2SFo1WlU5REIraW9rM1pObGJ1RFVGRVJEYnovL1UyQkJvOWMrQ1R2ajZvSThOMHY2cGFReHZLZGJYY1BDMDNpQjljZXBmWHlicElQVG55NTI1TXhJYkVQSGExZXpST3M4SVU5TzB3Z09xdU9uUzRPRVl3a2JKZkFSY2Y2N1Z0U2pBbWliSUNZZmF1V2pBdDBiRGtIcG1JdTUzenVBTG9EM0ZHNjJTaHJWSmR5N3ZidmRkM1JpL2lYZnRPSU56dmpRYkQyZmZoTVpnK016by94YlVob2lUZWZmOTBXSzY0RWRJZDYzOUY0VEdEVlE9PS0tWStyWmVvN2MxRUVkMUdTT2hyNmZtUT09--dc48de2561027fbe06ba7851dd19e8666a67936c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

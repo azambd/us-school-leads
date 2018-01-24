@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ec0ded0e-2624-4180-b314-70abd4033f61
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fpalisades-park%2Fpalisades-park-board-of-education-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bjV6K3NOajdxRmVvc3RZaC9ZR084LzQvRVhYRTlsVVd0aVF2dG91clB6VlBDMm10aG9pUmtVUDZjYzh3eXdNYVhJRWc4MUcxd09zYXkrRThuczNzTWQ3YlgxVWhrcngrdUVuM2laZXdvNHNtTnMxNzI3WWl0dU5STjRCMEYyb1FtL3ZBWmRNNm96NmNoMHRRNnZzek9CWHhiSUI4T0xaSU1ZdFBxdmFZc1F4ZXV4bHpvQ3NaNVEyN096UHlScDlLOUpjVHZlSkJHT1F2Z0xacGcxcDA2UldJT1cxVXl1RjVFdm15c2hlSlhXRVcvNW5RckFBTlRiY2YrUExYT3Zlc3BpOC9TZWJGZkFNMnltc1lMcVZ3eGxjQ3RtZERSdExxQkE2VnZHMXRtOVVxMnMxZ3BjUFpYUzVCMlF6TTQzTSs5N0s0d3o0eHhPRFJqRTdsTW01V3RHSXNsUHpKM0ZzWWNwekxXM1lDelpySXNqK0M4MjNYbkNLQUlzMVBtT1U5ekdJQ2tVd1BtNUFqd1YyeEdsL2gwWnhMMEJEL2xVcW1VQk1pM2VzN0p2MD0tLWxnM3F0UGV1WkJqcDNGQnpPbVdWVVE9PQ%3D%3D--1ab8315bdc0d30a138b178c31d308bacd784ba38; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4558091d-1dd3-4bc6-a02b-3784c1a4bb76
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Fwaugh-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MENxZTZHRm5SL3YybW9sNVkvU25sdFNSL1J2aHdFMVVTT2ZObkpHWjkxL2xPTElJMGhld2dScnhKQnJRTmtnekZrU2o4bVc1QnRwdkFDaEVEbGkvYUlyeWpZV2N2Q21mT095WDcvRWp6S3l6VEhPRFIyYmpPbjlIRTVFZHBCYXcyc2lITXp4ckVJZ1N0aFJycHF2cUpBNlVrNGt5aWVKQzIyVkVWZnR3dUlDWlg4aFpSQWpFaFFoOG9Qb1NVVm1aeEJzZXB2ZFJVeFRCUlpiUkwydURRYmVIckdjY1hLK29ESEV1N2E0c0lIY0h6dWhRVVNmeHdSTW5INXgwL2pmLy0tVUQ3bUpabGoyOGRTZVk5WnJXcW9GUT09--a02e00de8f2bcb3c951905d3a4b7d02154c3ca25; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

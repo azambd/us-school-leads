@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A31987%2C%22state%22%3A%22CA%22%7D; _gsweb_session=bmo2dkRPMFhoRlRTTEJCdFFOOFViTUVNTER3c3VKSk1SZ1hOb0kxbWgvRDk5eVFDdFRrdURINVFPWDIwQncxckc4K3ZzZmRWdUpPSGtUZGN3LzB5QkpYSGQ4V1RMWDJRWWRObW1KOXRRYjZybXpndG5BRktqTnpiZ2NvejlJZmxxbm5NWU0rUXErZ0dqNHZRWWVIMFdTV2hOUUJpNjdrbnA2UjJGNE1nZ2diSWQvUm9kMFRoK1JYeXRIWTY0dHAxbWtFYkpYY0FINnB2YnhWbnNkNkY5cVIzZklHZUxJa0FHcFErejRXcER5MFprdDFVQTZUR3ovQlBKSzJFTFdFZ01XZU44d2RLNnZtWkQ3MFQrNDdkUVljQVJlMklFbkZkQnBCVVZwTy9QbGpyTVYyZ2IvaStXUkY5amtwTnNxVk9IaGczYjVKWFlTcmRlclBXalo5ZHovaGJxN1FGSEF4Z01DSC85dzlHd2ZLWUIvSjNLOVd2aklHek5BWmw1dnFwRmtLOTl3TXN5OE1kWFB2VFliaFpNZz09LS1PeXBkUHIvcEFnMzF6RE9OVnVFSlVnPT0%3D--bc64ad01a2a661b4ffdf231d985d2b44ef66891d; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/schools/?page=3

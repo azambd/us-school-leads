@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2085f273-a8f5-4340-863d-494c8bc68322
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fearlimart%2Fearlimart-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YkVVaG9PUUdJS0o5VUVPRlpoV2VBMGROWCtId0lZUEU3dXh3QVkrejV6SzI5dmc0WldRYmRpWmxUaXZhTDUybTFjdTM4eVZ1UzRvdnNJUWZJYU52cHc1K21BMEo4Z2JiWmRTNWtxT0xtbGdTczNkT0RzS2pGV1FXLzFIdUtiQ0hZaGwrMFoyVzM2b3JiVE1jYzh4YVBMcFpEcnRLcC91R2h1bnpveEtlU3FNU2NIUEdDdXNUUzE0SkphWE41a0xmMHRiTEhSTi82T29NL0JGNlk4UGdvcUJUMmdKT0h3Q1N2b3RIdmFpSWhLR09nRFIyelZUb0dJSWdsek80bVh1TXl3L1Z6cjlxMVdlQmpvT2xLakwrWmc9PS0tT0Q2TXdxWEtXSURmOGluM3lBZ3ZkZz09--b25f1338fef2e73149bc5c0381122460f99548dc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

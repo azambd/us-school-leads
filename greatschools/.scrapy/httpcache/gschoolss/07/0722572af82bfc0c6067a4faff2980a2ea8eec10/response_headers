@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3974017e-6295-418a-9b52-707041d9c1c9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjanesville%2Fjanesville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SVl6V2xIWitzSUlxNU5VQ1VzVE1tcUFVWCtWK1oxZmZlOFNnVU5Pd2Z6L1Z2ZEhkcUYxeVcrUEhjcVZvVkRQSHV5SHdlN2R5WlZZRndvWmF0RnJacEwwY0o0NTluM3QxZlM4akxhK2lab1dqdTllQ1czNDVDWUdYZVQ4RUNsZkxRU3A3dHFjWDFSTnFYZkU5QTdJTnJYMS92My83UXdBN04zRjV4MzlzTTV1ZGpMNklOZ1ZOVWMwbWVUQ0pvWVZ0bCtYQ3pWL1p5TkZYVXkxMGduRUhtaWVwZHMvalZiazRXbi84MFd6WkdiOWladFlwcHZVSWFuL3VBRGtQWkVYc08zTlNGT2dHbStUYmIyaS9ZeHJxYlE9PS0tSng0elFrWm5kUjBwQ0dTTFJJaUpUdz09--ab33e7bf9ff2efc0b7d64fa673ff1727be8c7ac2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

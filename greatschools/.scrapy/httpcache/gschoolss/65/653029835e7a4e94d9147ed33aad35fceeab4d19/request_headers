@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7677%2C%22state%22%3A%22CA%22%7D; _gsweb_session=eURWYUI2dDBOYXh4LzJSYlpRVENhcHozY2pzVUdVcWxPNW53bjNlYVRGVDFFWExuVEY2ZnVuODBka3ZNbkxRYnFiSDA0WGpodmlxd1RPQllNS0hTRVI3U2lGeklzdXZDK0JuU0xTWTFuelJTUnJjZ2VnSjNBcFl3QitSN2ZWbW1WOEFwVTJLWktLUnpnMC9wcm5lMVN0VUk2MzkwSjVvQ256SEU0c1lidVF0SnRaTkZiWGtoSEJpd3gzMFVVa1JvSlVsQU5aWTYzazJFL3VwU2xMQkpZbmVESjhNYzJwQ0lkdWJncXV4Q1hlQ3NHV2VIQ3c0Zk8wOU5IYmhsbUN3RDNxMDZNUlVXWFA1c2dKY0dZdFJ3RnlyQUFKdVNQdDRPdWd5VGowdFNnOGtuUnU3aVlzRHVzQ3dqWVRxZzh0VktJT1Bab3liQU1nSWJFbW9Rbm1RTldtUDFGZ3loT1dYUmI3c1UvY0Y0RzFmVUVKazlCYkJqUEhXOHo2NHVMTTViK0YrNVVSc2x4bTBXNjVvNmd4LzdqZz09LS1HL3AzMEtaemgzZDJHZ0k2VVNmVUJBPT0%3D--5301b63250ea83b8347e166de3f6e971dd139c0e; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/7682-Las-Posas-Elementary-School/

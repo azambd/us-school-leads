@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A9307%2C%22state%22%3A%22CA%22%7D; _gsweb_session=U0J3Zzc1cUtqTUtTbUs4NTliT1ovUWROakRyWXVGeXQ4OGp0SWZaUU1CVStaN1hGd0JkOUlNVFJiSmFyeGVUeVVKa1d5OTdNcEZUaDhkSC9FdUJQaEhyTktweWpwR3lJVHRhKy9IeVVvVFM5TEtLME1kR3RCY1F3czMxYkpkV0U5NFovWGVpSDl1YUlSRXJiS3o5N1FkUWtRUGNKTm9VN3FTQjlVMHZSTWhWb0ZGakZFNFBtNUs5M2tnckE0elN6MUh3eXZwZnpRQzZNcmQvWmVKWTAyOERaWkpQU0VCVlVjUGoxbXZRMVJtczhSSWxGNnNKOHVWQ3R3TVlKb0w1RFBuZFVEZnJQbFl6Y1d0YVJUbE1sVlppYVRqZEg5RHVUbXFUQ3hiRHU5K3c0TXdtTVhUTkFrVjBCcEZoQ0VMRXFrZnFZVWJxSTByWjY1R1FCRVBQUXFLbVZ6TzJIU0cvT2FmWTlsWWw1d2FrMVdLNktmbm5Va2JjU080RlQxY0pUMENaUklxQm5EOTFIMFlacC9nc3RMQT09LS1TOVFkVW00UWF4NHVJR0xkYjJ0SlNnPT0%3D--a642c1457754fc04da2505e1919dc2ad284ab02f; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/32279-Magic-Carousel-Preschool--Academy/

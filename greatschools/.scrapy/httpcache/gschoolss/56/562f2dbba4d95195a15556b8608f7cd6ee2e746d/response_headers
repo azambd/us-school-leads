@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: baccc45e-5e5e-450c-9673-4e3ed812d0f9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcastro-valley%2Fcastro-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MkJKcU1wVFNrcGxpT01aUjVpMlVSRXJTZnJsbXlIc2RKN3pLeVBSRG9HaFUzVHpURjB3c3JaeW04MnFRbDBDRTg0c25TM1RpSUhXR0V2L0ROYmkxMzlsV2lIMDlETHFlZmQ5MGZZalh2emJ3WExKOWVSWWtrSTFpREhhOExVWDFVcFYvS3ZTU0l5VDBIb3MyY0ErNUFoR2lrWHZMUEVBODRIQmMwSUhEUW03V0puUGZWVmZ2SWpSQ0RNTkpQZG5sZCtpaEN6THdGbkRIdzRRUUZlc1RlVUVPbkxKYWQwKzE3ZEhTZ05KMlV6Yk1aTWlZZFMxZVRqM1pROGxOQjZmQy8vNzUydWx6UG5ja1pBK1FGbWVCUHc9PS0tZXZxQkpiTjVlQ2VIeVNWWUV4dzY2QT09--0b1e0c50be20628560f78333bca57ebe51772e31; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

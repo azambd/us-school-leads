@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f7da1ceb-b0e4-4a93-88bf-cbc890cfe276
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fanderson%2Fcascade-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzVRTlJJZ29sbTNHd09oUkxGN1o5WXgyQytQdFk5Um5XTWttRWRmZzd4ZUhpaUlJRmRRcDhhTkJVQUhkQUkwKzNkOU5OUWt0L1hWWSs3M3FuMlRwSXdKRW9xdCsxclUrOTJoS2hvM2hGRTVlZklQSlpHTnJjODZMcXNnNFl6aGMyUFduVjB3WGFGb3RkVGUrVFgrbHFETm42dGxxK0xtTnRmUWJqWk5xcVQ2VGdRMTJDNUhZbHdZYUJOMndzK2ZmcDdmTURRK1hPNjIzL2FHazhXdlBnSENpbitIenp6c3oxRFhsMmc0UDRjVkJDMFJPUFlZOU96TVhKMG5BbWxKYy0tOHp4STl5QU8yT25wM1crSkcrdEs0dz09--0b4e77f6d24700dafee8c13ae6e49245dcc287cc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

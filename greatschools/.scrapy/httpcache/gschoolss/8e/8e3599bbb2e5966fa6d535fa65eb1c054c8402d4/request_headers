@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=MnRrMis1Q09WUk5uNXNYSlJQZDhMN3BPdEoyTHAzSVlvdmFxYWhMRVdlYmVrbnVXMFBCQ25sNnVZYWtrOFFDdExoY2ZEQUFvbVFkQzRvVnJsOXhEeEwvdCtLSmZPN1M5VWZUM0NRVkdOZ080UXp3eVdhdUNYUGFKRXo1dEJwMzNVZVpvWGloU1R1bUY3S1pWYVpyVzBnNWV0dlhGd2p2cXg2MTRJWVRLZG9YUkNhWUlpb2U3YTFjVzhHTzFEYUNFOHNFRGY0Mlc5S2tZVnY4VndUdW1WYm5oZDljWkV0cXNaUFg2cVorSmJWMTZScHdJV2JFcHJwaCtNc09XS3N0ZC0tbUN0M1J6ZlRkZE1JendVbkEyVExUUT09--27d4391d4cc5ff8eb063c908f8d0d940ff1535cc; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fprather%2Fsierra-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

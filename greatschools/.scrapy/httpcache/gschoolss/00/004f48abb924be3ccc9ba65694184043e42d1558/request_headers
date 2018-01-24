@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6898%2C%22state%22%3A%22WI%22%7D; _gsweb_session=akZ3OXN6dUlOeHFtSWRiOFZIZTBnVDlIeGhMUytkeHB1Z1Bta1lScEJyNkJDcXo1TlZVKzA3dWRkRldXbGplelVTb3VCQnVmY3dXRG56WHhGRHhjc25CYUtCZ3FQVGJBWEVSdHNoT1MxVGVuMk9ESXhXM0hVTzVseFNmQ3RuVlJCTU5ZbmtFL3JHSDNUQnpaM1hPVGp6WldhelN4YWtuTnphdFU1N1Bka0daMGxXRXJqRTJCVDl1VUVhelNsYzRFYzZKRnUxN2RGd1lzYkV6dW9uRittZi9SOEZYaUhiNEU1N0l0ZnhaK2xDYXppYTNGci9jckNYYkVydHlHbGJxd3ZFTGFhSEV4VmhtUWpJd09zY1lJSlNCWFdyOXl4Z3FlR1UxK2hKaDQvTWk4TXBJcVdiRi9hUkVGYm9SZWRSWGxNdzIwUHRmSVVwSnFwa0NFZVZKYlFQYTlmY0s5OVUxd1pzblYwL0ZYZEZrUUxMdTJCL1VBbndNY1ZPdWtPSVpGNTIwclNqK3pGODh0MGdHakltTG85dz09LS15eWh1eC9BcHUrUUNWVzJMRFZXWDJ3PT0%3D--dfd31d3a515904e2f0dadda4556b4bac5e3c62c2; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fenglewood; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/articles/improving-sat-scores/

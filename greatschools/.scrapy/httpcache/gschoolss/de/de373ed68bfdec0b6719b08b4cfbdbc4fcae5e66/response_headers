@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ec2c0727-5000-4a7f-87e4-c3de0ec67f4f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilmington; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dEEwN0l3cEcxUUl4WHFQYWs4WDAzUzJja3ByVkdzS2labWR3TDJOaVhrVUR2eVpXeHp6Z1lQMEdPbWhTWEVQOGFtQkpybE9vVXRWYTRhckk0WGNYemQ5SEFNcmcyVTBZTW5RT2lBYWxSR2NIK2VKQTJ3d1QraG13TXB1d1JWMmc2OUdLYi9kLzlzWVdHcHV5QUI3aTdEN1BrV0M2ZUlubEU0V2oxczJFNlZiM3MwMkwyTzYrejg5RVZLTzVXZDJXM0hTQ2hsS1FrdW9WS3lGb1FKVk9XMkxtTCtkL3h2K2c1QXMxMWdxWmJZbk9yLytBeCt5ZGIyclZZR3RYdmFPdU1VSmZ3c1gzK2JJNjBROEgxK1h4OXVodlNkc0FZajY0RW5FYlc1V3dUZkhuNzkveFV0NGhPVDFEU3Nxa2NQeHBBSksyNm9YeEtocW8xZEdseTEwaG1sS0wyRnFZeHhDcVBMckRPTG04T2JwQk1FbVFTbHFod1FSTHhIemw5b1VMYVBsbkpFa1phS0hWM0kraUV2TVZrdz09LS1LSUpmeFlyNGFkUlZ2Rk5KMkVxQ0pRPT0%3D--646a6a843b87768fadd211179847da6fefb83cdb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7611%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Y3BETndKTWtadFJUT2d6bEZKUFNQcnAzSU9MaUFGSVQvajFNS1hlMDRrd2hMNWEyR0ttRTFuZGhGU2lxUkpnUkJoR0ZQTnM1OUNOL1NUY1IxL2V2NGdUWTMzSXdHSmd6RDAwN1ZXcGxhSGdZc1VFdlh6c1BrR3ptMlZHYjdZY25jZStlaHFndm9vemh1QlN1QzlWeWZ6dEg1SW1ldWlteWZYdEdWbjhKamk5blVqVytTVitid2hpbzh1VEpwcmdxZWhYQnY0VXRCTTZ2WXR2YjBIU2ROKzlTNjQzUmRKVVNQNnZIR3V0S284RUJxZ2tEY3I0SmtLZlZmYkZ1ZTNHUHBON0xtWVdyWVE2Y21GT2xrMk84M1ZzeUhVT3lEZHhOemhQRnRoaStDUE9oRThiSFFjdmdhRWdKR2NYQTJ0WUdHZlVmcGdzS21GMDNpQ1pWK1l5cEd3MjZFTkl1RVA5YlYzM2tlRU9QNG55cGxsYWIxWEQ1TnhDVXJMSHIvemVIKzdKTTZWNlRnZlR5bnJnVHh2ZGdvQT09LS0wS3ZWTmFJdkkreGFaN211WVBJMVhRPT0%3D--76a098d0f14cedcedffce5a3cd33396bb8111354; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhitethorn; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/oak-view/schools/

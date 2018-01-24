@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 06d3bdd7-9e47-40f5-b11b-8e55b8f21fd8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-ardo%2Fsan-ardo-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eVRUWjhXL2gyOC9UaWNRSG9TdjlaN0JIUXhHenNXU3NkbzlZSmNaS2MyR01oc2VvWk5iQkYxdVpmbmZVbEZabjFqU2xjV1lzNVAvR2hLaEVSMzltY3lqNjVpc2I3R3RWTVlza1VGNFBpUnRHZWQ4SkNBSjQxamkzaTVUMEtqNklpcGp3T0Fqb2FDVmJ0aGZ3QWpySm9QTkdHcmh4MU5IZFcrNzhDdUI0SlhhRThxZ3EvUkVHUGNCTmRrTUhPMmQ1dDhSZEdsRXdlSnkvb1J4UDQ1U0d3azdaTzJZOXVJUTdSRnBvbHRHRHdsMEt2dG5rcjFXUDRJWVQ2YTByYlgyUC0tRTZUcVpqeDZaS0UzQmRZT0FqclF0QT09--7808e0b337bb3ad278f873d303d61c481ecd0898; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

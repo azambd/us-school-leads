@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4c2997de-0cf4-4dd0-91ef-24a9b3d8b039
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftuolumne%2Fsummerville-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L2tqNFNodlZtMVJwT0pDWS9UdjJoMTRwMGg3dWZYQjlGNElVNFBKUHVORjNFZW00ekViM0pDb2ZGRGtwZThoNkpJcEhUaXI1NSttNyt2T1hVNHpHTTQxbjUrS0YxVFA5enRHYnB0QW5EdVc4dlp2d285VUFSVStybVRybE5rSVNJYnNXTjZ5RytaVnEwUHUyaEZHOGV3T1puZjBCblRTdXphM0ovUGMrclNvUVVQMW9NV3FQUm9KaFovbmI3OXRxMU5aTXl1eDQ1NlZET2duVlJQbGpOM2FnSjdRS2tLeVpGenJnQ082c3J1WTc4cDRzcXkvaDBkUnRxR3lSNEEwOS0tQ0QySVhRRXZTWDJWaE94dUE4ZXhCZz09--3feac532905a0c0d36832324cd517c3546b13233; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

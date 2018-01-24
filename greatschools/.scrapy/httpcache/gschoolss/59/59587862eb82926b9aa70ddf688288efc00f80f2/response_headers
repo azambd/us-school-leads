@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5b7b367a-0765-4ebf-a88a-82350ecc6941
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwinton%2Fmerced-river-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TEZQVzRRR1JuNlJtRGFLbXg5ZDh5Q0pjNDVBdVV5b2RQTE05MDhEcTBKa1lBZWtZNTh2disxQmFqY1ZNYWl3RW4zaEQxRVRON29RWkxSNzRPdDBwK1Nrd25rVlNTbmdwNUhxZlZQWXBidDd3WWVPQzE5WjFSeTYrTEsybGdGaTBEZ2E0cWRhYlpldGQrcTZqZFJ0ZGFYR1NaLzgyanYvWlpTSGVKdzR6ZW1mRWpqWW0zSkhPbUlxb2ZXaXk0c0JHSmppM1ZFNThvMVhPbjNVVlBSY2RBeXRpUGlVWENJMUI4N3Fma1VzSVRaVHljWTVlQnVlMGo2a0tWcDUxakVKMS0tMGhnMFF2YmlxOGdTZWc5WW1xeVROUT09--d4d5a33767c6ab37388e4741d6bcd541aa56f536; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

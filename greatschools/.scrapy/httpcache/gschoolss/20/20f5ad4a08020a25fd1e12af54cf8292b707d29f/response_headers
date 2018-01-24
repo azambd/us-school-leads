@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 7176d5d8-a8ba-4099-80f9-f73ad09d79d1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvalencia%2Fnewhall; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VnNpZzF4Z01CVzZQVUgrNk9zeEdBUWdlUDZLemQ5ODhxM0hzZlRaQk1yWmd0d3hFd3pYYytSdHJYamF0YXFBc3NsNVY5Slk1MzM5Qjdrdi9MU1l4Slh4OTYwL3dNVzYrYTJpbm9KVSsxRi9USXYyM2ZIb0hCNVkvWUpWU2VtQXFTRkNvN2FzQXRrdWIyUXdRcTNJWUJuWFpQMWc2dTJnS1JKd2ZjNU9Xb3hlb2Vob3pXVG5uR1pGdW1JOU0vc211ZnZIOUZSS3hoQWtrREF0UE1ucFpmVkNSZnhpajNtYUhUSGFxMkVObkd5UG5aQjBBT0xDVWRCQUwrSjE3U3dBbC0tbFJWQUpxa21VZUZ0M1BpbEZYQUUwdz09--1807976ee795200c39cfb7a2def08cf377812da3; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

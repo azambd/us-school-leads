@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4fa4f588-c08a-407f-a175-368edfcbcde7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fannapolis%2Fhoricon-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QlM1WXljNDQyRE1zZ3pzQ2duK0hSRjgyc056VVU3UDR2dm1hemR0MDBTQmhvc1FxcHVrbzNTM2RRRkpXcmFCemV5dDdyMHJraVlkQ2YvUGwxd2p6TnpVMmM1THFTdXZCK0VydkZYNHppQUc2aFlCUzl0ZU9BTkNRNTdQbE4wVDJoVVZ1L3pLQ0UzV0psR2ZkMjhzaXUxWU93M1ZYYkRCeEdaUUxkSnhISVlWQnllVGpvcys1R1J5bmJOQUtCc00wSVNpMUk4ZTBkdStYV1d6U2hRelBZd0w1VHdQSU9QK05qdUM3aFkvamhBeXFnTEdvUlBzUjdPaHBNNHlSMkFkMXRjM2k0Q2lRMmdhZVJ6ZVpScDZ5dXc9PS0telRZaitoZlZRUk1JSnBjQWJVamtlQT09--351dd176ae413171a8ab9ae6506b8ed3a3e63004; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

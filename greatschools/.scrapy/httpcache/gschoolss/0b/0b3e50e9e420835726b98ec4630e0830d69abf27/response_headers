@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 51ef333b-ce97-4a66-8aae-2420f330c117
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Froseville%2Froseville-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RUxobHRUWGRQRFhFUDd6clpwbkJFK0swOFZydmVwZGkzV1F0bHlQYjNoaTRoQVNoSWl0cUwvQ3ZIK2hRYXRnVWRNUVlKU3VqVm5wczdqVWgzc0pVUXFmSGhDOFNsOG9IcjZ3SWJOMnVEOU9vVHAwd2tSVUVaME5CMHhudXVWblVJdnlLOVVJN3VobTZFdTVER2pqbGlUbnVBUzhsaGxWVnZ0aGtZb1NnTFFSNG9NcUFScjkzWjNZbkxHNmkwU0NSbmQxYXRoWTV0aEs4eVFMSWJFMmZxa0svVytWMVRMcWdiM242aTUwM05tY3EvVnlkbkxjZWdXc1lkdmJPMUFmSnVFSjlycVpXMDNmT0ZmSGFSK21TWVE9PS0tSEUwc25zejA4MXcyVWNaeFNIV3F4dz09--d75f972c274952e76683846e4add102b2f34001c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

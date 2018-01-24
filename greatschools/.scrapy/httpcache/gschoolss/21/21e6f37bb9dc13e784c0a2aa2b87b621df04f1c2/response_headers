@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c01dc9d1-8366-496a-955a-430eba94b95e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodlake%2Fwoodlake-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T3dZVFV1TjlXcGcwNUZYdDE1NDk3cmJLVFhuQTRycXByN3h1TVA3S2w0OVhEY3ZCVkRLRjVZSDVkWTVuQ0dhMytqNmtkbVZ5c0J0Q3U1NS8vcDFJY2ZFejVlQTJqOHFzQnB2T2dHY245UVNtZmo2dFN5V3VFSy8vRFpSRmxmNzYwMjJnQmY5ak9aQ25lRS9pbEZFeS8yN3Z4eldoR1lwbk1JUUtkcmErS0ZxaXgzM3FYMVdXNFRIU0JSVk1XYzc3RFBDWTRaVFJkQjZ1anRxNDMzdGVvd0xtNndxRTk4OFkrVHBRN3JQM2VHd0FBU3M2UVRCTi9kM3hvNHdzWWxSaS0tMlFvaHFIL0QyVjdzZG5Genc0Q01ZUT09--027ccae75cfb8362b500e4ca6e8f20d2336b3e36; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

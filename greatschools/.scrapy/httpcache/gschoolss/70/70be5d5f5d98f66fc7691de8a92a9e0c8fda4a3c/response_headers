@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: efcdbf92-96de-48c7-a084-05dcfc5ce9a3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdouglas-city%2Fdouglas-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=REhmTGt5akxmN0x1YlJJNCtkUkVsU1Bic251QUFaQmljSnh4SmhqUTlqRFBqcG5RK3BiOEIrS0FZNXkyMUZiaTBST2FKcldXU0haeW1NY2xvNVRuRTAxWnVFNklUeThzT011WmppZTJkUitpWk9Ob3dwTGVUQ1VDL0hnTzl0cjhYRXVXbnhlUWgzMnhlVHB5QWt5WjhRN0tZRFFRYUtXeldIRW9QbGEvY2NnQlJrWXNWSGZIZVRxK3BKcXE0UzVZOVFQZDB3WDZ0cnNCcjhtNUZ0bkI2UFIveW5Dc05FcWNLNzJtLzM0byt5cEd3MFVkWFVSbEdtdnN4dkhtbEpnaURmK01hbmIxamtrU1BBU2lSVVF4QlE9PS0tNG5yaklQRXNnalNOSFM0QXcxL2lEUT09--1191ae924e4299349b15e82bdd6d0f407530b186; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

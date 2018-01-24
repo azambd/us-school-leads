@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8d27d86e-32f1-4de9-88b7-c34b8e6a2547
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffarmersville%2Ffarmersville-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SWEvYXN0QU8rdU1pUlNySktrNUI2ZGYvSkMrcklibmNTZFhtNzd2SmppeEttWllQODdlcE1ZTW41V2NNQ01BTTZJZ05JNW5kRlVHbHl4UHhhSmRmallwL1ZYSVRJSDB5Vk12Qk1oTjF0Z1VaOE1QTFo0djBHZEhieUZrR3FiZ0xRbnh6cTJ0WXErOHJmR2dBMU9nY0pXRFhqNFVJT0FLSUt5TVZuVkYvSTVBNmNlN2Z3eTZzWExIcGhReDJyQm1rMWpKT3Jza1k0b0lvbVBvUFViNktJY1lmT3RGbFZtSlZ3amlKdi9VcThsSmVlOVZxaHFWZDVSdEpZS1FVQmt1N2kxUVZrb1hXeHI4QXdXdm94NVo4WXc9PS0tdXFFUTZoZmlUV202Qmp0blFnRVB2Zz09--7f59602158aec0c9c85bcdd88e5ef6bfd6b7ae61; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

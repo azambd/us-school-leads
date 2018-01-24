@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a348908b-dc12-444d-a44d-49d5f8a8cbe4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbig-creek%2Fbig-creek-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RCthWSt1M1pEMDE2YTlneFhoU1JlR2FvNENoamlLc0cvTk1nUDl5L21DbE5CdE1NbS9UdWI0QmJLOUtKR2dTYS9Wb21hWWNzMU9nVTlsdXdyVk85Zk5Vc1cvWCtRcytoNjNUVHZIR2dyRWZkcHJnd2NLbkxQNG1lZGtwV0lXUyt1dGYxbHRwN0liTjFFUDdDL0d0YVozYVlLQ2p1TFRBajU5cjN0WXd1VFZUQlV6SWd2aFFiU1NCK21kTE1xeG4wNzFVUUtGc09KMHRQTHRtZnkxSXkreUJZWWI0Wm1JdzJMWDNSTmRTR1ZvYURGNzNZMHdQcGJOdzlYM0haM1FhdElwNHE2aGtXeXplQm83Ym5OQXVRSmc9PS0teGV2bDl5MzhZNmFyTWJRamc5bWJEQT09--6a49c28c1af4f3a0f936f50d630e9a4b97f99468; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A29230%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Sm5JRCtYTnRnUEVYMHJVcnAvS3lFRCt6ZU9ZcjBzekt0WTdFRkpnWG1FUlZMQlQ0OHh2cTN1bHVEQ3hRQ0dISWVwN3I0UndYNFhlcmptTEQ5TlJ1aUF0OHY0VFZpWjY4VDlVNkJCWjU2MHBXZzhLUk9CQzAyeGw0cFplTUovQU9HUWF2TmkvYXFEa0FUbFRnZmVvdlVpYzZNOElTVlJzOGwwQngxdEYvYnBTUWI5dTBXWis2cnRLbkpCbXJEZysxcWpBcGIzZkhjUDcxTUFxSVdyZjlDNnRwVHB3bWkvT05vMXk1V0RvN29PQTBXRUhyVlV3QWd3YTFWT1ZUVWxBTnFtbk5aUjFUUXlZTGlpUVBlVUtrUmE0WFhWa2U4ZjMwdlgrMHczUCtaZmE1NnJib21pK21Nb2xoWVlRcEY4NHJPSkM3aXZnbEZhVFBJajBFUHEwazB6amp0ZjJLcmVIaUpRRkJpWEcvTEdpZDh0bEo0NC9DQ3FBbVBFWHkyb2Y2bzBER1N5aWw0REVLR2Y2V09VNmg3QT09LS1rWXgrbDBwYmJzUW54RjVaMEovOFhnPT0%3D--fc3e8ccb18ceb3b0b788bc4812dbf8b53ab41335; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/29641-Veronicas-Tender-Care-Child-Care-Center/

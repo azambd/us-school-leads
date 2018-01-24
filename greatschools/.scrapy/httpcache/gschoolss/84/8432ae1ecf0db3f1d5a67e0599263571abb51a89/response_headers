@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4b039397-d468-45c7-a0af-7b9a4fde6f74
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fglendora%2Fglendora-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TWpGT0dlbTY3R3c3QVBTV0NETUNVcnhhSnRKdmNGZXFGU3FnOGNhM0dJb3dSbWJiSkZPbUNoU1J3UEVudXRPT001eUZOWEhCMEc4d016aVBtQlRtUkY2TXcwUFZCcFZ1OU91Nzk4bG5rV2pCRDl6eGZpaDVCM0lTYXpQKzZVT1A2UmVlNHFHNlRhaWtFa012U3Q1bU00bGFpZTdrbTM4ODY1VDMzeTJxVFlDU1NXdGJ3NjZtblUvRSszZmZSekl4YmUyT3dEMkxBa2dGMWxra2ZuOXVoZlA5WkhNL005WkFIMm8wcWtGUTR1QnU5ZkZTWk81Wkpta0RQZGhJMXZQdy0tMTBKaGRjVVlRS2Y4U2M3d0tobWp6QT09--e62e5182f9c6b0a74c3b47cf670ec1e06a830d98; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

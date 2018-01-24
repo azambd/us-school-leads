@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c0c94de5-65f8-4789-bf1d-6c60125630dc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-lucas%2Fsan-lucas-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZC9haVgrQkFRdUFCVlZwNlplNStYc1NjT2lPdFRoYVpIR29Eb3lSTHBBbGp6Y0hIdEtrSGdmYldHLzlmRkN5QndJdXA3aDZvYS9tcFYxcFlHOGgwVy9QYmEzeDdDQ3I3UU9OT21ZMXhFQk8vR1Zhb2NvTHNJUzJ6ak1NTWQrZHJPQk1jNmtVdnE0Zk9ndEoyL0xuQzUvWHMyRGl1em8yZHNBKzEzVVlScFZaR3BjT1lzMWJGWHV2eDdUTWQxdFF3UktacEtIc3RBQk9yZ2J0UUFOaGVvcy9FdUUvT0lUbzdCYVJmb3Rrbk5kZWxZNkZ5STJ5MVdWT3ZiRDllOW9LQjNHYkNkTC9EQVBTdmhoTFlWb2g4dEE9PS0tTUlMTzVpL2Nvc3BMUGJYUnJxdnZ5UT09--a8d9861b4098c419cfe55faf4b38e3c3b1697e2b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 79bda68a-707b-4912-a68e-e340d3a1a97b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyucaipa%2Fyucaipa_calimesa-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dCtFdnhlT2I0WUNxZEI4ZDBzNzByMGZhcFY5VnhIRlB2cHQ1L3RUN1RGVFZ4QlppN0dFVVBhUHNuUGJQMFpWSzRQai82MmhRM2pSd2tyU0pQaEJXOC9kNTZRRThFY3NuK3pHdXVQSjFXTkhITHFnMDNqVmJzRUphdXA0VFpNWjYycFZDTG5KT1YxTFpSOWZSaUJHR2taZS9qeUJ0aVZqalZoMXZva1dON2lSNXpJeEhzWWk2NFlKZXd3RzNOamRlUDJPU2xkeDVhTTV5emVwS0hWSStVTVIzVU5vUEwvdWtIeTR4SkZUempiNHRwODVTa25NbnBOeHVTS3FGdU8raC0tMGNVcnVLeUhqRGlKQnhWVUh5OVFoUT09--360291301c0ae099eab828657bd76fd82ca5b6a6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 893ad30e-6043-42ad-9fe2-4a3e7f75da97
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feast-palo-alto%2Fravenswood-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VjkzRE8yN3VZMlpicHcwL3JqSm9lbTh6OXZydlpuMnI3eFZiTUh1VHFqT3QrQTB2NlBmaVVVUU92SEwrVHNZcTRyellZVkVMWEUxZTFURitaanY2dVF1ZGdZZGMycFBuWnhDMnQvSVZVOVJvV1JWSFNqdTdTMDJSWE8vdzhXZ3c1YlRJQ2NqZERCOE4zd01QUnZRdXYzZmxST3krTU1DSW5oUkpGdllLL3YyeXhrQzVXczA0MFVPNmJVbWxHQkpEZE42N0dNRkZIN3ZBRGYzUkp6QnpOV05WeERFTnk1WHhFRDhxZTVSeTJpb2V6OUxZMUhkV0MxZ2c1S0xaMXo4M2M4RnZtZGllK3UyaElDL2NPSHBNMVE9PS0teHQzTW55MndWak1INzFzQU9VNVVnUT09--d5c48dc6ac1c274f84214c39f06e76100cead505; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

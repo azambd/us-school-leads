@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 092639b2-e723-4d97-9367-80efffdba021
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=San+Francisco; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-francisco%2Fsbe-_-san-francisco-flex-academy; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N3ZBNmhyL29ySVE4czNCRGtjUERCWWt0UjI1dUpBQkZMNjZYYXR3S1ZYWkZ2MHFNblhIaThBalMyYS9uODR3VVRFRVI5UjJWYVBLMThYdzNHRGczaVBPS1pzZHZtMWhMYU56NHBubmlvMkc3YjVPRGl3SXlQSXlia0pvOXlUaUdEaEliMUVTa3lMY0M4SEUrb0Q5cFhuckFBc3lEZHYrc1RJYXlGT2gxNkVaSkVmOXhHaHJzY3o4M0NibE9jM3QvaFIyelpHTzRqK2hJSER3V2VYN0djcUJ6djNDR1dFZ1JxcmdYaFVpNFdXY25RVEcvNUR1QjR1STQ5Q1FEK202cWdxL20yVnc0bitIWTBGZExxQ001dXc9PS0tazNydlc0WXJFN2hIck16VkZnUUprZz09--d6e2a3994f9f21fda54670078dfd8df9f489f387; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9e3e7e2c-e2a4-4777-8f8d-abc984a6cc75
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcarmichael%2Fsan-juan-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bGtxNjR3VWlJMU1WOE92ZHkzRnBCdWV5c3pNQkZFQzNHeTBkWGJEOGhxMkxuMUhvNUJDKzJKYnY2SG9NTUtXZmY2QngydkUrc0s2UzFHTjZQNTRCWGxEcmF0Mko5MnVna2FlNnA5RFRjbjZJbWloVFozSkQyOW5iZDJtZmd3QlFiVE5CVFZyODdRQkZIa1g1M3FBUms2c1BUVVFramI0WGluZWVENEszLzY5dmFaWW1OeEJTQVpNU0dwRFIzbm5DVzFOWVNqQzhUZDRBVVlTLzdDVmFMN2RXS2MzWlRsTEt2Q1FER3VhdHBZbXNOcEVjd1dYcnBlYU1FVVlxMFhWU1Z6dGxLcFZsYklETzkvZDY3MGxWeGc9PS0tVnk5RHJWcmVQN0J0Y1pnalVDdXdqdz09--ed10a47b3421cb2a64f571f8baa39ea57c286156; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

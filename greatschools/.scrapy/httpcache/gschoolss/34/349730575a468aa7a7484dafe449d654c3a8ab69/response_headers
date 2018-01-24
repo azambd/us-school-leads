@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 82870ff0-80c6-47bf-94a9-33e45c078ecb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcalifornia-hot-springs%2Fhot-springs-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OTRIUkZyUmRCa09JV0JrOEdkUW1Wc1BkeENaa1E0Rm1UaTZ4MER3SVpKMjIwckFFbzlhYmk2bmNQQmRYYy9mTEFLV2psanVTamZNUmkzc1hUdzNaN3dhUHVxenRUaXhLMDVJRkt4UDFoNCthb2Q5dFNLdW4yN21iQ3ZnSWMxZHllSFI3QzBTMTNCQ3dDRFY4eFRFZ1psanBTVkE5Zjl0Y09SeFBXOEpXWU9PWEt6b2VzWDNGWTVlTDJlc2FhMFQvUk9GZk8ySDlGeE1NcDdxeEFwUm9rQ1pHdUEveTdzNVdrd3ZwNXZzTlBSQTRlaldwTzNwd2M4bTdpYlhrMmtRN1dqK280cDIxVFZjN211NVBZWVFYTHc9PS0tZFlBb2xnc3pkWHc5NkozeVV0bVdaZz09--4854df2f052264caea3f0118f25daa704df8e7ff; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

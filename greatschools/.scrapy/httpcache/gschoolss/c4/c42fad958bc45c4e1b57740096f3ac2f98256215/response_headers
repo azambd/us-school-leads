@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: aeadbc90-8ba8-4044-a506-9af03174b2cf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falhambra%2Falhambra-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VCs2N1VISXBIbG1YR1dmcFVJS25jNFIxQ21lbnBXaFJScDIzS21RV0NFS0haZnVGOFYrbnIyUnBoV2lCcGdtbHBqRG1HOVM1MFB4M0IwTjBWcTcrSHJNZU5RaXVwS2Z5bU5GeEV6cHBnOXZMUVZEQ1RUMVdBcytncG1CTHJKM2ZVbWlqQjYySS9uNmZ6NEZEUUlPSjhIZWNseFcxTks0YjVzajNYa2kyRUpiTHJWYjhBd2JoYmVOOFJFY1ZOY2Q4Myt6TFY3ZDNhbFYza1FvbndBQmtQbFZVdkhyL050a2dDRTVsOGhvQmxBMnBSSWNmNWVpSmtHSkdDT0dnTWZlNC0teHpkTXZ3alNFZ1lESDlKRmI1Y25Tdz09--d8adaa1f8169ddbb4e1012e503655fe1196fa2cc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

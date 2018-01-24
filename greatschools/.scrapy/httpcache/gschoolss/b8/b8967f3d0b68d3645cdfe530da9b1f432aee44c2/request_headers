@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A21358%2C%22state%22%3A%22CA%22%7D; _gsweb_session=aEdMc21aaFFWTFRnRm1jbjJ1TFpPYXdaRlBKVmtvVlE5ZnNxV0hjaFNpWmw1ME1hczN0ZDdyNGVkWXBZYi9HU282OXZMVDlmL1RnVmR4cDJLelR4ZUx3ejl6TWg4RnVqakFmUWVXeU9NUDJaOUx5Y0NmUmZpRkh0NEMyc1paYy8vUk1SYldhUEY3MmxqVWFZclkzNGUyYXdqV1phNEY0dWQyQmRuSXN1V0RndSsvRHAwcld2VDNJOWFZenhWdnN3K09NWXNaNkZLTTFZSXUySERhZHNaWEhlZk9iZUpYbmR1M3dmNktzbU1LaGVNcGF4TVJZOE8zREZYNStpRnYyc0ZzL3hTNFk1Y05haVVNRTFPRVZNRjlGZFV2UHZFMFBPTVN3Z0dhL2xTaEVjU2J5dWUwNk0vTUZIR0hjME0rSGtVc21SQXFKRVhEUFVLY2l5OFFEMm5UTTVXSWxGUmwwYklYTkdhZ0xNclRvaDJHeW4wRGtmL2owVERsc3RmV3FNUG1aYlNsbHJrQkY2QkRDS3JBZWowZz09LS0wUDdCRVNuM0hpTFdkYm1xSkJtdXNnPT0%3D--4e3df4ddae3c13960fe930fa4d4832860b841f71; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilmington; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/california/port-hueneme/29610-Martinez-Carmen-Head-Start/

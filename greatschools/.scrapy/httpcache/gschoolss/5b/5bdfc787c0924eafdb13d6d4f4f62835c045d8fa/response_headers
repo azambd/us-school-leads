@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5f9607b7-d1f8-4f47-a900-2d9f245cd7fe
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsacramento%2Fsbe-_-paramount-collegiate-academy; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cVpHSVQxU2cxWVRMWHlKZWVDZUNsRWRTdjlmVmJnaWJIU2JCRWlXMlduRlNGYkRXWHNUODhyWGx6SFhOL3k3eVd3aXluWVhFdFlEUStFUEhPUmlQUE1ZemJXVGtlQWlIV09qb05oMXdGWHlUVjNFanNjMUNZdENQUk00SWxJYzNtOHI2cVNHQzlGa2cvS2NIM0FkcTU3dmpWZ1BabmpwV2IrcFA0WDZaLzlzRTNrM1lRSk9ZU1ZiNmRtVUxFREIzSFRiVlJVRXU5VjR6bGxhLzU2M2xEclVISFVMY0ExY2p4MU4xOTBzYjdRVlp5czBSNkloaGlTTTVRVkl0VTdjMmhVUzR6T1V0VkxPRzk3VUZna2JDeVE9PS0telgxTWNHd3pMWHE4bmd2ejZaL09YZz09--9b3b5ab07eb77926cd12f6ddf886885b78a480ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8d9d1dc5-cf67-490f-9a02-0e3e69f57868
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-diego%2Fsan-diego-community-college-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QjU1czFhbUVwZVBjSWdEYnNwbWhBRk80Uy9LRVFrQ1hnbUhnTHFkS0JJZ21wUzF5T1Q2cWNzaW1FSFovc29ZcUdwTitvbVpoMk5aNnMyRFVoaXhHVUtQV2N1U2JVbG5TdFd2TXZCeFI3RFh1bWZxVnRlWklabmNXUG5XdmR5bm9lWkthOXd4YmJVRkZyVWVVNnlSRVE5eU1yTFUwOTJnQWlXbFhxaDM5ZStjOXJUN0o3cW4zUFo4cXVLUEdJbldld3A2OVovRGNzaHdTS2gvb0xrdDFjcW83Ly8wZFlFNERXMDBka0FqVWlFbHJFZDRuUURCSXRpdHEwa1B4ZmthcFE3Mnk4VXVibHdDRGkyVy81ckpXcHc9PS0tVHBXYlVuYlBrcGZMY0c0dGlDYlJIUT09--76125d70d24bd4ab4aebc21f5ce7e8e0601881ed; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

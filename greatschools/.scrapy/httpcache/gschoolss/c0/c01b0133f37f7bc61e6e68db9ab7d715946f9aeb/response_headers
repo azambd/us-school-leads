@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8e50e5a4-7f1e-42d8-8f5a-fca258fa6d74
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbig-sur%2Fpacific-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y01LeE1xckNWVWNVVXVPQ3VxNEtTcW5xVnAzLzVWbmFCcE81VFlPUFhQaEpSdXFEcEpTcHdCQXAvRElrVHdvNzZXaDFBM2pYZTB2ZVREL0RxOUFPUkZVQ2xmcFZmay91OVVVVjVpb1QzNzVsbWVJYVBXTUhTWVl5d2xJSnI4VFB6aGsxRHJlbmM2SUtHeDMzSU02Vk5XdnRzY3daYXljOG5hVWFRNzRlaHdrcVhqT3ZoeWpQd2NFOUxpcHFmem9yWExqU3h2cVlaWmZGeWd2bE5ndjI4UFZVelJyQ3pVSDF5dUNPWkdpVHVuOVJRV3FxUWwwbmlsYU05dHdvb05zNi0teFJXeE1aenc5eThueXB0QW9SZXFqdz09--a498a0545b82fcf56b25bf7ed33c5e18584fb082; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8c271cf6-45ed-45b6-8ea6-1a7370e21858
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftustin%2Ftustin-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YkZiZ2RzOFN1ZjlhRVNtSlUvaWFoYS94KzNEeE1oQ2ZuTnI0TEdJVFJ0TC9HWUtYNGJGMndUK0ZwUVJmN0dKaXJXbE1wbHV1RVh1RkRJRG00NlpraVdrY0NwVUpHRVY2cE5LSVJLSHRRNHNqM2oydGtRRm5wSVdFNUQ4SFNQS2JtTytEWFVjQy9SelhHUGwxNFM2TW4xUE5WTURaYlU0VnErM0Nwb0w5WUhIVmszMGladG0xVDNnM1lPWkJQeVp2dkRtRnRGOUl0UHhlVFZmNWdmcTJmREJTbkVOcWRUeUZyTTFJSWxaenZsaDY3WlNCVmpnZTBicmFhSEdEVTBBbi0tQStPZ3MyYnZZUzM3M0cwaVJWS3BsZz09--d66805c8fca7e9e55d6df1d3c11e4ec665c3bbeb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

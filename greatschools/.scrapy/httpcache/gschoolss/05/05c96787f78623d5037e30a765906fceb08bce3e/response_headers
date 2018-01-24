@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8a505c50-6fb2-4669-8b19-602241f1dcb6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Friverside%2Friverside-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NEFVcnZhRWdkb2pydm9DQjlPMGdBRW54SlY3Z09jSXVkZDdCVE05SXpzZURaRmZiWXovWGsvNVI0cEtNL0xmWnZNVzR4MzljeHVyWHBBaG1LMnVHM0FjUnVnRGNHeTdCRzVlWFd3ZmZ1UWRnSlN4Y3UyK1R6RXBNdlpsanZrK2syWGpsMmE0N0liRklpdGlGa3FDb1pPYW1kdjlMb3MrLzc0MktSSW5oTTNoa01scXlJWFo4NDZiY2pPWVNHbTJwWVBLYkttOXJLTU1COExXTWlxUUdhTkpIT3JtZy9rcElpYjE3eUNnN1R2eTBDRXptaHZnUDRNQkRWSmFpNGxqQU9Fb0UxOGgwTmE0OUppbHprT1ZXSlE9PS0tZzB1Q255S0NrMDMwYmlSQWhzVXVHdz09--8e58d2ef406e55a35b5a383313706153b3e8baf8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

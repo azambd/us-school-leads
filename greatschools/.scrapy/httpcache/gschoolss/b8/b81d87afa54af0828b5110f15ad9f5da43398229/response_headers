@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4d72bd95-665d-425b-8e49-bb1afc89cf37
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-centro%2Fimperial-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L2Q0a2QrQWlYRTdDc0tFQ3VMeEEwNlc0TEZPTGMwaWl4S3R0ZEVHbkRIME8rRlNnQTlSenNmZzVJdmZMcDZLeDFWeUlnckpVV1hXaXEyUzZLL2pWNzNxRktMeG1LNHVoWU5qUXRTYlBRdHFlSER2OTRUay9JZjVMcGx5cWM3bWkrVUNEOEZyU1RONFFrZFJSRmcvVnRERFhxYjZPUzlZNXZjM3NnSHJBZGRzc0puT3BncEIrL2taU09yU0l6ZndzbjdhcUpBc0lmdWNESkswUUFJMStuaEM5TGhDVEdqeUNaQ2JsdlcxOVUxeFhzK1ZJNGd5NGhYVW54Uk95d1NJdlRFWVplQ1dSMmI2NjZTK2x5M2JFVVE9PS0teXZYeFo3WFAvQUVaNVpoWHVweW1nUT09--31f4ce1b95e75b2c03696dc5697bbbc5a1f8edcb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

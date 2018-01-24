@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 22d80151-6aaf-4f18-acc9-ea7890dcff48
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-bernardino%2Fsan-bernardino-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dGZxUHp5eFV3aFVIRzFzVHQxdUpMaWRFZFBldlhxa291UnBSekFoRnJGSDdPKzRWSkd4TW5KelJ4WWFrZDVPeDlIdzAwWEd0c1pkS043Vi81NzAvTzFrSjBQL0dtRmlDVmVJODdLN01PVHhKWlFodUkzRmJya2J1SEUyWWZON0t1SkQwcUNjVm9nOGlSU2dJZ0szT1JpVUx6WitLUk94bFZKdWJNZDhieFp4L1Jna3FxaDlrd3BtYy92UHVCMmRsbEdHZ1N6d0JMVDVMT3lVanoxcysrVDROdkFJZExBcFQ2c2puajBZTWc4TlhyREEwdzVuNjROYnFzT21CbWI1aUdGVmRHYXB1V3A1cE5qZ0QzNzdlY2c9PS0tZm9WZHYzWWY4V0QxK2djWjdwQzh0UT09--e8992642aa00e99b043d9e008363aad47aecc777; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d6bde936-9e70-4e85-9043-57e6e2b5e063
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmckinleyville%2Fmckinleyville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Nlg1NFZycnZYaWdPK3lFdGhuSlBVSUw2YzRHWU5QQ25wTitibytwMVdwUW15Q0lBck1BUzhvN0JiTU5QcFBNZHdGS1ZaTUJYMEpjd3FsdlBVZGQzU2FkN0gxb21HSnBoTGNCUFhCZWIzNEZab1U2K0ZwSWJ6clEvUmNOdjJ0dCs3Y2YvV2hmSXJRbEhsN2x5bmRmZU80MmZjZ3ZsWktzUEh1S2FiRzVndE82K3dQa3VHelM0TjNCVGtmUTBvMHpYQjEwZFlDN2NPb2JRb2U1cHNUVURXeTRPenBSVFJRZkN5NjcrVUNoQ0puU3dmQ1FDS2drYjZBOUdSTmx0OU8zVWVRT2JEMy9Nb0JyN3hpN2wzMnlZbFE9PS0tZm84Y1BIbjBzViswelVFeHJqMmM4UT09--540d478e74519f1a9fdd67f126da0b3448f58141; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

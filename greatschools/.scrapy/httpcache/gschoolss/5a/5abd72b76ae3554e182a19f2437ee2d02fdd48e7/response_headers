@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4cd2fafd-9c74-4732-82f1-80a296143da1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frocklin%2Frocklin-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cGdjYjFmVEtTK2graitxVnp3S1g2L1lSUkozRitYM1g3V0wza0N0WVVXZ2FRYUpYajYwTTMrY0VZMXpVWnRJeDlhMzdMeWY5R1NyQUJqRm51K3l5ZGpMdEw0Ym0wcWtlN3RBVVpSeG5UdnFGWWxiZkQxZnpYVm9YZ3Bmb3dkcmJlVlcvaitTdXJqRzhGaXhydlFOV20vbTNKZHl3cWNoSCtFanFkS3VTSWxHRlRTdmJtNERoU1FSVGsrK3BtemlXWWppckJ6dTd4Ym93NlFrMVlncmxXWVJ6QW9WQ2lvV0dzenFRdU4xV3VXcXJ6ZStoTkZRZGZUWlpEVkVESHZhVi0teDhWeU9Db2M1aU5pQ1hJclpDd0JKdz09--60c44d9612920c9c1c3ada83efb207162d7ee756; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=dk9mRXJxWmVwdzROL3pvT1ExVWlQczR6OWhHOWJyVEVjQWx3eStWTGoxWStiTHFDS2xJUEw3YXkyTDU2NDJVRHp1UGdkaXUvTW1sTDh0Y01aNURxOElmQmVrOVRNejdmblZ6YUxLRVJya3dUdzBWTkExRmVZc2d4ZEJaeTBNQ2lWTTJRY0Q0VVNPV0svU0FkWnd4eTY3UXhHNjVRZkROYU9yVUlGRmpYbU9KdCt4SzRLczgvc2QyTjVPN3NJL2taNkg1VXVMNjA3NXd3L2hqTFdISlNmZ2o3aEpuUXlvM3h3azRxNWV0VWdTdWZNZTRxTHNNUE9yNStpTUNBTkNlS3JlUW1wbkdUSG5tOU85Ny81T3N3dEE9PS0tZmRkVUxGd2tyc0NoTzAwRUpaMHpyUT09--1962a8b76767d2e81d9b4a56981cb064bf230658; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvalley-home%2Fvalley-home-joint-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

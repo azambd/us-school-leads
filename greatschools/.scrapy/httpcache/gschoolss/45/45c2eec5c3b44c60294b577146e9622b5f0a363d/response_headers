@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: 424d10d6-2ef3-4f09-b9f1-d5184d08b675
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fmassachusetts%2Fmethuen%2Fmethuen-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WnBlWDRsR0hoRTQxQnRFQ1JOQ0VoRWoraUJyZm9EZ1A4anlYZ1dsTmxWTXVNbENab29ROTJldmloNllhRmpreE5uNDBmK1ZGb3ZhMUlGemVLYWtRakZmMHU1N0c3TXExZlZxditXVk82MWFhVi9zWnF2bkZIU2lGQzkrNTR6SlZ2Mmo5cDkvZDJPRWd0VHhKNWlNMEtoSWFzRUdzYzZPb1hoTFl6b2tBa0JNWFhncUF2ZXZ4TUFIQnZXNlIxNTBjd1Z3N3VrMnU5cUx3Q0ZNV3JDcWREd2h5UGFtQ21pNkdPVnhDVGVSd2l6cDFVSENQMkt3WXRBbkRRK1huYlhjanFleDhGYTQ3dEpSS3dQL1pEazlBTzRQWTllN0EzN1dMUVZrNmZpNWh1SldXOG1UbDNOVnRjTlVzZ3BCQW5qYTV4RWUyTjJKS01GQ2Z3dDhpUFZUMEw4ai9ScnRneG9QOEpkT0R3QlRtcHl1aDE0TEE4Yk00OS9HRTdaVExFN1Brck1JUFZtazc0ZEprMyt6OGh4Z0hGdz09LS1TUzc4dWk2d3JFaW00SXE0SkpabzhBPT0%3D--f663c7113652a31a8755c4b2c79e113523ce46fa; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

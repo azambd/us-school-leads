@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A3393%2C%22state%22%3A%22MA%22%7D; _gsweb_session=SGVkU0crNGZubDlzOENFTE41NXprL1c3RmpLVFNvK0s1YTlab1U0cmJZaGlkMWxGdksrRSt1NFpBMlN4YlN1Wm8xZWdJbExnQnRIbFNmL0FXWjU1ZVlybTVzNWhmejYrdHkvZS84YlltTGNBZkNiMmRlNDAwdm5vZk1lallxeVRLaHJzQnlVaWdQekEzS1FZLzBVekFnVmh4QmxjNnR1VXU4RTZuOUtDWGZNb05tVFk1OVNQSWc3cWRQQjhaZnEvRmt1Q3ROZ0hjTzFrY1hBSHdvb1F3NHZTYTk2eXNvMlhPWVppeWd0a0x0dXc5Nm96T0p2eXNCYkNRaU9zd1RxSXVIbVBxek5QaVVURS9sRHBFOVJiRDlyMVVZNm9LaHBsdGd6UVZiN0xkQkJ6Y1NxRjZ1Um1yWnNUd2xJYzZweHdPbnNQaEliQVVKOTNJbGRmSk94UnViNGRKclViaVRSSHRKOWl1bFNLYlNqbkVjVE15TlR5U0JLajVONlRBcUFsL05PKzBqKzBlQnBFTFhJMFFzWE1kZz09LS1jNmh5bVkyNWFWUlFENFp2bXRzeGF3PT0%3D--d6a79344243e6a12196cfb1b255de49517e3e868; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fleonia%2Fleonia-public-school-district; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/new-jersey/leonia/leonia-public-school-district/

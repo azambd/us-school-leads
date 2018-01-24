@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 494e26a6-76a1-47f5-8e63-bb68a2975d05
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkingsburg%2Fkings-river-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q0UyK2ZYWUVDM29rTXhxRmZkblZ1WmVHUUkwRnc3ck1GeEtBN2Z5VDEwcGRGL1NlbTdzL3VOcGt5YkdxbmhITGFMYTRIbkJMbmhyMXNJSWQxeWFZbndyTWY2M1NscVBaSW1JNk4zZzVkNm9RWEwzQVVhS2gyWTJSOW9tUWlWSmp2NkhucTJsZmd3STVHRm16SU1RdERVSkNYVHR1OUlZQ3hTVEJIMVlvMlNCN2tLYUJ6K3VuMEQ3STFHc0gwbUhiRWZyVUZlTnVnZmFOVlRKUWNXc0lHbVBKYmkwM3YwY3p6TnY0M1gremRiYnE0UzdKcDc4T0JCaGVuOWxWMGo1R29iR2NQV1UxY3BWU2RvaE1VUjYwdlE9PS0tU0VDSk01R3RQMGVTS2pJUWpIdVhUdz09--41c4a2acb4338c18dcfce9d22a61444256644240; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

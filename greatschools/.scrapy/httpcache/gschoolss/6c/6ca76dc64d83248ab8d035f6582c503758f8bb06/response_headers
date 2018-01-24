@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c8a0371a-01fc-42a4-86ca-88f733688849
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbishop%2Fbishop-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c3c4WVVFMnJNUFZlb05iMEZHU1BBcDAyY3RBYnlHUktqQ0h4dk5CUThBbmpSMFRydFFEYkVyZ1AyUjBHTzRITXNlYTJBYUt0UWIvZk5zSVMvT1Q3N1ROMVljOWpaZjAyV1c2Rmo4TmRTUWY2bXplYWw0SVg3VkcwN21pcHNQYVpIQzVVV1JkZU5NUmx5c0VQVFJMc3R3SXJoZHFQQkN5YSt6TDNGTlRYWkc3LzRWeU9nWVovNnl1RWpUSHRBV0dHRWZiUGlFRWhCc2VGVk5CNElpZ05hNkVkSzQ1Q3FHUWdRRW16dXZTUjJNTFhhWnVoYXo0SmRPNnFFZVZoeFY3Vi0tUkVZRUhCNTl2VjRqWFhJUW5UK2xLdz09--464273728d740415400aeffa403ae1925a5351b3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

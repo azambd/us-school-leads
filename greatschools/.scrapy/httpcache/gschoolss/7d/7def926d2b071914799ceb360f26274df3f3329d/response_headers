@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9af87117-142c-4b8a-9414-a87e4eb8141b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsoquel%2Fsanta-cruz-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UUt2SWNkUkx4TUFoWGd0UkpCV1FJaThYVUI4R0lWNUFiRW1HTkJTZXJiSHhpamJNN3U4Yk5NQUhZQjkyQVJ2VFFTSGdtbW1IcVhKOWllN3BGKy9RV2I3WHA3aUc3MkVLR2Qzd1pGQXJQZkFXZ1plMWlLRHM3VFV2bXlZSTVnNjZNYXR2RkJhdW1WQ3NTbHptVWxXYndCdDZZNm52UUUrYlgvSlRrV0tLY25mMTRoUVNZVzlmMlQwbzQxamhQaUxOd2NncTc2KzlYVW43MW1RL3NOYldoOVhndE13V3p2VkFYeTlVRFlVY2VMOFpBUHBzS2oxVDFxL2RmMitLY1NWWC0tR2tZYmNxbEhHWmtsTkE0aFpjMXdEQT09--7ff344cdd027ad0bdf7a8d0498c8435a02fd120e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

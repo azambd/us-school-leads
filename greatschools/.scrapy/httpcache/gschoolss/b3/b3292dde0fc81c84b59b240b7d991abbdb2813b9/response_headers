@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c7af3781-7f16-4b71-9be6-62a6f78b7610
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foakdale%2Foakdale-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RjA2eUxXaVV2R0luaTQ5UWJKUTB1UU92MHRyZFFIMmc4WEVVeWR1Q0txMU1zMVUxNkErN1pjZE9yZytOVHhQTnBRKytYOVU4VUVKa1VFVS94MTVZeFR1VHZoOTdDR0lnYmZ4d0Q4OGdab0I1QVdsR2VEWTJXaWx6eDRoaW8xUDNWMG9PMTQ4SXp6NDJPSHFQV3AyWFZ3MDFqQnptN2k4SzlPeEp0U0tMemRRVWl3dVIzbkJyRWFaaUNjU1BIZkUwUGVQbzNsSDFQRFdaelNtbmdsSk5WMkwweEVDdEx0cXQxTi9ncGlsQk1XV2Y5K2tLazJwU3VLZXpnMnV6ZmJwNy0tSmJ6UzdkcUljSU43bHc0cWpZZ3lIZz09--1d9dd4e7be5741e1c6bc606d5526890a0275b492; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: af58ffd4-e81e-4002-aa53-7d700eba95bf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsunol%2Fsunol-glen-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Umx3WjhRbjZNMnphcUdQVEczd1VYKzlaTVJ4YitHbVR4QWtoMTRBd2Q1Rmh4d1M3K0tFQnhFbVhLaDRGdVIxcHhyRGpoSTZVamxnVkNobXhpV0NQakt3dUZZclJFMTNNQnZOVWZHZ3pjLzlkT0tma0xoUExIZENVdlA5U2kyd0lFTUZJV0JhVDBRQmVpRmp4U3dOdGljNmRxdzhhVmhsTXNSL3k2Sy81WFUxMURhZkZ3cVdGTWJubHl0NkxjWlNSR21NOGtLUjM1VHg3ZnI1RWRpRk5GQlA0MEFKY2V5RHBJNHdyM0g2SHEzeEl3cXJ1dVNKZTE4MUZ2dkplSzQ2Ry0tV0RDdlZrRlBRcVp3aFVUaTN0NzgxUT09--bd66b0e12fed5189e6e2115bc87ba7bd3183cd8b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e893ee24-84d8-4774-9a94-4b82f4b757ff
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fballico%2Fballico_cressey-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cDlvaEM0cnNFS2ZJN0phVVV0amlJUlpnS0p2TGpxYmN5REU4U0dlblNZWjc0R2ZQOUVvTVN5Zy96Y0wwWXo1TFpZeVcxK3NTTHdTaGx1M3BsbXNYRmFKM2FUd1VHcFZGVE1weVhkYXJGQU5ZTkE1b3NaNHN1SEdBVmRmRWlLcHBWdEpzWVVIMC9EYkNmYUNjazIrZytXVHFsRmJDN1lrWWU2YkhaTWEvNHcyVU1EaktETUVyK1hwRWdKbUJxRllXNmJxUzhYY0J2akRaV1ZNQWtER3hYb3g4QnpTTHBWdTN5eENHdWlwTWs1dUdsajBGTmdCUGc3UG5sTVM3VEFWRy0tb2dON01MaTVNNHFnZTZhU1NlRkx5UT09--1f2c3e4208a179e82c03c887f0396547df8edb46; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

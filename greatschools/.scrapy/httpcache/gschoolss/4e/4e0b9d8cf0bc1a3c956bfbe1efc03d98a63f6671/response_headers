@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1d12c195-7316-498b-92f6-1d712afda685
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmodesto%2Fparadise-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZTlrckxtblkyOERTaGFxZFJNQzBZR2gxSXZYalowMk5xTHV0V2xwMnYrL1N6dU1CZ1NMaDZtNHRGMWFZc3hjNVppMUwxZDB5dGNMU1F6N3F3R3hPNk50YnUrZ1ArdFpKWU1YWXN2VlE1R3dCQWZKVXpBRjFib0xaZ2NIRDRWZzlyOWFlbDNTVUQzTm9WcUJoSXZLVnc0S0pPS3VGWGtycGJjV0V6cDFWNFdzTGkraUU2ZVZTbmtmalVsNk9mbHVFeXlHUjkwVDhjczhyZ0NHanByODQyZ1BxU1VHK3hKQVo3OHFQVFhQaU8zczVUU2JOb2ZLUG1OTGJya09ZNEtVby0tQ05UZ0xiS1RDS2YwWGpobG5rY0JRZz09--ef18b2a6b70f644cfe475a7a3d97f15acd9723e3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

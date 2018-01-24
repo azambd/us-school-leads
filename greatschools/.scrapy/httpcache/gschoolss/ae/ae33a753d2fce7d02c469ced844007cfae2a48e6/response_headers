@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8a97dce2-6811-4700-a3b3-959c5113670a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falameda%2Falameda-city-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VWM2bnVFcldCTDFXaTB3eDZGRVJ3R0w4UXZCbm1HWkV0SDVJSDRVWXI2V3dCWU82QjhsaDhXMzluRTkwbUpEQmtaOHZxc25VS013S3NJMHdrbkFBT3BjcHlhdG9mQ2Q1NGZjd0VwVVFxSzNsSEt0d212cWh0U1QvN1h6dVdnQ21uWnpMOStBT3l0Z3U5UHM3cHZnekp4T2plUFBTNFpobWwzejRjL1I4am42Y0ZsVWtiVHFzRnJDMzdpTGNBSTkwUXRFdUUwOS9iNmRnTmlyWVBpR0ZCSlY4UHFnTGZzbHJ5RFlQSnRsZzhyWWZERHVzOU4yd0NIWjJMZm5YZ3RzMi0tbk91RlhlcXdpYm1HQ3lpVVZ6ZEN6dz09--6d72b8801df64cdf700681f5110508227e45e109; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

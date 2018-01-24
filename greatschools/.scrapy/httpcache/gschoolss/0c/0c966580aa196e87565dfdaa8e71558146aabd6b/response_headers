@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9798a3dd-6147-45ed-b356-2928ffec405b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmountain-view%2Fmountain-view_los-altos-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V0prOGkwVkZrRlY5eGRYbWcxL0J0Ykxzc0lLUXFwSWFRQ0E3Mml3RXlrcmpKekdrYmtPakpUa3lXTEEwS1R5dzA1TXhXWStwWWtyT2sxOVBhYjFtVnJPZVA2VkZoNXh3T2xvSUJBNEJwaXUzMVR0YlFUZXpZczJQMktiOW4vUm1jcGNNTTB2cDRKVkxVQW4zM0JFdVF0bGxycUVod0JJcm1hbFVneDBWRFYxNVpLaHNSVzJPZmx0WWQ3QlpoeVVXSWNBQzB1bmhacTg0TDVBVzVCUEthdDdHa3JYaXNzYy9oNWgyczdMTmZYRjFPRE1ZY2JrVHBUS2x3aGROa2FVZ3Y3dmlieVVEY3gvM1pPSkZDZ3JhUmc9PS0tNEU0R1AvdGZldDR2dTJLQ1ozQldnZz09--5e6c37b249172f785f967255cc7b179c06a36888; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

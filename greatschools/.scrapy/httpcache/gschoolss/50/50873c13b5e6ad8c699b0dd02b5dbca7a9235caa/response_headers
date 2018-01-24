@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e0a063bb-1ee9-405b-8842-1e6ca9cea960
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flindsay%2Flindsay-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dGFod0J5TCtOVmJrdmlTKzZWY2NJR3NDbi9UaEQyTmNlWDdyUlQyc2tZakx5bVVIdmZheTNCbXA2Q2dqQ1JzWVRtY3VCMko3NHVnZnR3dXhETElHU1pockJCbE5MV04raDhaZVRsMHFjbDZMRW9BZjVoREFUM0EvM29OKzcvU2liRFRudFhBKzVlTWJPQXpsc3VMREdySGRUR1N6cncxWjB2T3pRNXZrRjlpZjVuR1hNdi9ScFA4ZjE3aHhJYXB5SjBWT3dTSG9CUnhRT2IvekI2SkZ6Z2drTGh4czNGWVFqME1tR1RuQi9aRklSRmhWVHU4SlcvYmxBUXZWYmd0NC0tZGVJNGFmcDNwbjBjTjhsck9SYytNUT09--85846ebc6b932638991892f27c14ca6bfc7d5bcd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

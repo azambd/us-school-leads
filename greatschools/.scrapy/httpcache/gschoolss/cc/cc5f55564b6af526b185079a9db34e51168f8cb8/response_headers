@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3fdb987c-5f2e-4698-b47e-f2a9531bd37a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoody%2Fblake-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZVFZMVQzOHNINnRnZ2xqRWhHWFVTdmwxRXV1TFVVN0hJaUZIbjhnQVdDR0FKZGRYQloram9wN1hjY2dPMXg1bFFETnlHSmJNLzhkN1hWS2RHV05IWGhkRWhya21HcldXbnF5NFFZamVyRzhPQlIxakdBSG42bEl4NDlRYzhsRkhEcERiditXcnpvSnNBUjdNVi9ad2x5TVBDaFZ2UHpCYzZORHM0UjdQOExpaG9lcTFkNnJUdlA5alpienorR1FDM203Y2xaaDA2bDFiRGNDdGlLSmp2K3pMc29GUTMrRzJUa0Vkbm9mWThmdENxaDB3bkRnMm5zMlZ5UnFMdlc4eS0tL2diK0NySSsxRnhiM0czWlM2dURKdz09--69ef9c7bcdb1cc007796deeefd3387fb21378300; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

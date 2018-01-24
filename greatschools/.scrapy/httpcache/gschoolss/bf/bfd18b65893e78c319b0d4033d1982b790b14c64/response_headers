@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 506eca66-dda5-4f6c-8790-a2b2b6d7b2d2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Foak-grove-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WllZUVBzY1pzSW5rME0rSVM1T0R5MHNMMENkRzRpSkdON05LaWJ3Rm1KY3I1Z1d0Uk40Wm01S3lnbjdXZDNVdk5YVkU4a1JvOWZEcHQydS9PVjVjR1ErQWkyYjJjZUhCR2prN241Rm9ubXdMcXRXSm1rTXluV21UZkdSd3pRSCtYaGFacFNoa0VXQkZqWFR3NTR4SjJHY3ZNOThEMmdIaWk1YUF1UTN1S0xZckZrcHlOYytMcW83RUJLTnlnRlMzU1lLQlRJSjF5VWFQTzJlL0lNdE5JUm1RZ0JWYVJuU0pOTTU1a2gvY1A1V0krZ2VLMGc1ZnYxWTdkditxMS9lUGRRaUxYZHRza1pkSXBHMnZLcHpoNlE9PS0tamJlY0lTWHVSRGlnUDdpZFNjeUROdz09--43a7cb80efab0dcc49d9d60f4543a841a9a4261f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

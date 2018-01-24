@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fc08f48d-8c15-4ef4-834f-1e1e0086dbe8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Firvine%2Firvine-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eDV2YUpqQm9QSGZjOEZOQnF4NHpGYzl4VXphRnpQRFAyZ29PUi9VVXFOVVRYQllHSG1waFhadXNFRWRjWlZON1JLek56MkZCa3NQTlVyVXpXVGR3YytyRXVUeHlxVDc3YllyYm0xQ0NMVkJpdjYrc001WmlZTVdTVWVhdy9nOW03Q1N4UFRxcEdLKzYvMm5nWm5aWEpibW1XclVjN2ZxVUY2WFFmTHBCdlczN1d0cDd0aG1rV2NScHdyYVJDN2dzeDVXdFB6dFVIWDVFVjJzRTdodS8yRXJTTFlRUFd2emxzR1U3d0xCcUh2bXcrMWFJSDRXblFFbnpieUw2b2tTQy0tdkxQRjFZWHYvRmNiRGVvTkxyY3JUUT09--dac59a98f623f5a2c7bcbfea4eacffa9ee0c68d0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f7aa3f0a-09f8-43d5-aa34-ca8d44511059
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbuena-park%2Fbuena-park-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YWF6bElsS3l1OGJjcExLTWNOUEUrY2o4UFEvb3MyOGIrdjYzYU5ZQUlUQjlSeXE4WDhuSXEzNlN3MHpNSWMrRWdvdDA2ckZvc1ZhV2RuUGFiM2JtZjdmMUN0cEVid0UrQkZpTmNES2dmNUNuZnEvUFVBR0xRbkliQ2FTTjM3blU4Wkd3M21YVjg2V29FOGpESVUxZmVUNENIT01xK3dJd0wwbThjSy9ibUgwMnBEVm9YeGp2TEdHZmFKdUlGbnZ1V0x4eUNtSHlRTnhaaUUxcEJiV2ZGOTdCei9kbmRxc1ZJTzY0NXJGcUZwbklUbkhEdXVXSzNzN2FtaVgyNUVLNUthcm5TcGl4Z0k5dE9lekFwbXFsWEE9PS0tWlpEVjhlKzJTWisxNUJvekVWSTdlUT09--e58797e700d6911b3419a6f32e565bf7d3d63547; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

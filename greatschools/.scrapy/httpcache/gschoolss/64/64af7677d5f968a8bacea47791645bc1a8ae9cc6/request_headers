@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=WkQwOXNEVi9QNnlVVm4vL2xhYXlUeGNzR09NS0lZNDRqRGZXVjNWWEhLUURWaUVVYUptUUFpWER3Z3Z0T3FONnhoL24xNGRnSW1NQXVWOUZwVWMrWmpacDNjdkhadzY5ZG5QbGNxeS9oSUNmQzNsN0tDN2dyZWZjNE01UW40Ri9NNEJnS3RSY2FKZG1SU05JOTNyYmVNVU9zSCtSRDJBRDkwT3BxckhqeXlaRGZEbzd2Q28yMUVqYWdZcGNYcDVHZk1seThLbHpwV2ZzWnZUY3MzcnFqUzVaMFVVZkFSajc5Vyt3MG9VTHNobjRMM3BJM0xJcEtBRGFYRnZNclpuMC0tVzV0a3JFRWU3YlI0bk5qQXNxNzU4UT09--f4c3fbcf77e35d3ef705c1e299f3d83c03866781; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwalnut%2Fwalnut-valley-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

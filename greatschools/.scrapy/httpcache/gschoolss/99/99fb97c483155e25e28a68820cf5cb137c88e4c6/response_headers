@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 87f47ce5-4f9a-4f02-8a09-3b51e19bcfa6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frail-road-flat; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y3pLZG1sNUtFeXl1aENaVElxOERhUXdEODVPU2N4QllTM3RFQ3JKbzV4ZVR1MU1HN2MwTmErbW9leStRMHdSY25mc3pmalg2SlVnc3lKaEJhQXFkd2NGUkRBd0RjbmpBcENhU1plWTg4a3M5TGpQWVB2dTdUejl5bHJoaVhHbytMK1A5NXJyMFJwbXluMjZiQVJSclpSbWhTa3VIT0NzRFBCNW1sSFliNzY1R2MvR0xVVDc5NmU2V1hKQnVVZjRSRUNkUE9iUVQ4a094blpuYS9BUTY1a1U2R2tkVStzOWFpL0QyZ2I3S0ZGVWNGT1F0MjFvKysvWFFlSGgrNjBWaVQyOGxDRnNIOEFzUVNJMjRNNHZYRzNxdGR3YkVHUWJjVi9lVlVQZ0xRSVpPT3prTVZDSWhkSDY5NGlZcXRwNVNxdzR6MWFMdVE3a0N2S3ZVVWZxd3o0cXZtTTRPV1NaUEE1T3dUWUhXWkRZalRNT0l0UmZwSE96QkVQVGhOcFdjazNVS25zNUxadmdpNmQ0MmpWYU9UN0lMczlFUTVMVE5UWE1XVFhvOHpQYz0tLTQ2c2craVpQVUp0cEVOdkRTN2podFE9PQ%3D%3D--ef5f5fb6aed271e3394b4c99c9c1d9870c31d207; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

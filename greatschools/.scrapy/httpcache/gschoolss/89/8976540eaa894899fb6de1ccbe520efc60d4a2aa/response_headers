@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9acc1a22-beba-493b-bd15-e98d01546e1b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgonzales%2Fgonzales-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHNtalhMbWl4ZG01UURvQVJzZ3ZOWnc2R3NtMUN1VFExbmNFUWw2Sy9jb1d1YUp2Skp1VWRjQkhwb0huSWd1d3dQNUZIRXJIL0xvaEl2SGYrbC9iMnpFYkF4aVJKU2U0MDFZR2hKNEFZM0pqS2FOUWZGL0d6QTMrMGFlc1VTdG11VU4wSWhJOGlZSHlVbEtCVERVaWZRTFRmZlNodmlrMVBmejZ5NVpzVFpaSndYMEVZdTQrSHhzZ1FSNy9DeFN6L1FMYVhhcG11MS9md3pOSWEwRUV2VEF6ekhPTWluQ1JzckdBZU82R01tRnRXaFp6MTkxVk1WRWhnZktzODNScy0tcmszVUd4RDdNY3hWUnc4OFFNZUlEdz09--a5e0100b8abfeb01006c5b6df7db25d57163dc1f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

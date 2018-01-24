@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=eG05eWFkMDltSjNjUjc1WEZhdXg3ejlnLyt1T1F2TXhwOXpITW9xWk1DNEIyU21GSXBBc0ZHRG1MQ2NCSktOUkdBdEQ4ZVRjZi9aQjFVTERhQ250Z2p4bm96NVZsSy8vOCtkSm1uYTJBN0RpTWc3Nml4ZzNUM0pBYkVRc2tTTkY2VWhPaGpQQWdGRDRvS3dKUm90T3BIRzIrWUg2U2M5UU10YUpXL0RyRDEvYWJUa01RamhZQkNCN2w0Nkt2WnJtRFNZU3FGem93QUc4YVh5TWs2YzV1ZEtyVmNZRi9FaEt6ZEtiNGtBSnV2UG92LzdOblBrWkNKYkxvZEJFVEZ2bS0tdGUvbG0vMWJhWXMvVUdwbG9PS011UT09--6f6e701640172d068d6a3649dd69f2b9ac8426d8; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodside%2Fwoodside-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

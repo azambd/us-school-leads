@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 92028b12-2322-465e-b5c4-2d7903e1f468
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-cruz%2Flive-oak-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UTgra3ZXVE9ub3grYXpibVBjeTZRSXpYTzdSUCs2eUhWdUdpdnJHTWsvWW5JNkR2aDBUYTZKVkNPdlpQclAzQkQ0YndPcm94Y3pKK0YyZGlUVkZLZWc2T0VsYitkM3Rqb01oM3hOaXFreDBtcHpuNlZSaXZEOGp0eldmcDhDOFIzNEdBNXk0SEVla2FKMmJLKzhobFQyL2xtb0Y5OEdpb0l6aEw1ZWh3YllQOGpsZ094dEhQdWhiRDIvalFjb0JwWFpCUjlWOGpYeUZES1luWE5wL1hvNTkwNDhZZHlSQUpTVmkxdWFMSklkY251YS94YTNQQmxmZDFaRjZNQTc2OHhsOEU1WmJQTGRjRXpueG9jRjdHTUE9PS0teFVmZ3RoeUtUNGY0K3RqOVN1dFM1UT09--b5cd13b8a94aa898c95108ad2bb483bbd560836d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 601434a0-32b1-44ff-ad52-254b534c217a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Ffranklin_mckinley-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=LzBKTnNmc00wZUh5SWZBM2MyQkVhSURTSEtzRGlRUVVVNkxCNStOSW9leUVQNnFQZGRVL3RnazVPdXJ1VUplcFVaZjdSNlRBbmIvTGc2ejlkY3ltbGxxUlR1SUxjWjZWRGZyWEVUMWdjWmZRUEwvdk9IMUxEOG5ld0UvZk1MRVRsTE5iSVFIb1Q0YjEybVM0ZGhaaWtQRmJiNEVzV1lidEVZZDFuSmEzV1FYN1JPQ2ZEZzRxVXdSQWF3eFFNa01tSUhrTGE4M3NXY2Z6c0RFOWR5UXFHTC9yZjFMbk82Y3JXam1UMmZhU2VuN1RGYzVGZlFydUFxMHI1NHhVbnRuVC0tY0FrUjd1WmVyTllJRGJBUHF1YmVQZz09--f4a2ac03dfc98f7eb7386ad458094ec88a00a2ba; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

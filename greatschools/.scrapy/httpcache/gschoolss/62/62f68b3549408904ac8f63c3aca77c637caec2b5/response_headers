@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f599609a-5157-49b3-b0a1-3930d11fa584
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftermo%2Fravendale_termo-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZDZOeCtyNU93QVRjRzl0N1lnMmU2eWFZMmZsNXNrcW1hd25LRExBZ3NELzVFQ3QrQVF2Y1pKQmJNaXlyRVUyYzNlb2pUeWxBSWJlNUNkWCtrRzlxeHdmNXBlcEdmSnJoN1RhbmxuNzgxVy92QnN0WDlGRUZ4Q2VpWnNLN0NkQ3hRU3VzbGRLZ1ozajlhWTVoMHhLOHI2dUlOZmVFR0N1c1lYT3gyRXNSYWVtUHRiUEZMSGkxWmZoQXNXeU1qb1BPU0xqOVppZGJMSitBZ0s1Q2l2OUZ0S2cycHhnZjVBRGtSUDA5KytSdm9qa0I5ZkRhbGlRblA4RGdlNWsrQkNXMi0tV0hJYXdNSHF0cDkvZFJJb3B3YzZyZz09--adeeada92a263726581ad07ed4ac089ec9d478ee; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7654%2C%22state%22%3A%22CA%22%7D; _gsweb_session=YjBYTytQS2Q4eC9VeHYya3dHSC93NDdtS282Y3RPVHE2b09JR2ZSV05LT3lpT0x6NDBIenp2Y3BobkU5WE5xTmtCT2cyZXBjVXlGR1FPNlpIcGNCOVZQMXdKaUlEWWNaK1NoLzJML2pJWVVhRTQ0RFRKSWt6MHRwYUdXdHp2blRUdm84TStDdTBTem9mVHFxZGpPbUR4anhhaU5RK2EycklzekYzeTB1ZHNHTWNWVUdZdzFVcFNhZFUydjZjUkJDWmExei9hVS9oNmErRE5OU29ESDBqUT09LS1lZ0xBcGdpMWpwYUtwMVZTME5McThBPT0%3D--c5ee58a86df879c7fda3ad609b01f0179538e66d; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/schools/

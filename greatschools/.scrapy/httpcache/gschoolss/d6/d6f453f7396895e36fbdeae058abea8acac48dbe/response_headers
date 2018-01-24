@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b57a4d5d-00f0-4eb0-b87d-0c0c6050f3d8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Fwaukena-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QkhWdVcxTVB5emxFN1cxMFBwcjg5YTNQT3FGb1licE5LaXpHSWozTlgxN3VQVTNkeDNrTkNtQjVTSmR4bC81TUJLRVgzQkNFUHdpK3MrMTNCc2tLQ2RwQ2szQ3cyN2gwUFNqakZhcWxLOTR6OUN6MzNyTnA3MGo1L0FiM0xGaHByWVQ4RUhZWmlyUy9Oa0lkeVIzUGI1NkJKcnNybXk0RzRha0FoY0E5MUJxYVJqOU1INDZpWnpRK1duazJFWVM1Z3Vpc2JYckVYWlBNV0pHN3RFUmpiSEdVVEtlWFB4Wm5VMFdqQUMwb3FrdTh4WmZuSTB6MWlqRCtmT3ZJeWdHNy0tNG1MY3NhL2hNV3ZoYlVKdVpSbXBGdz09--1fe43d84a001bacfaf1123953c564d695815d586; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

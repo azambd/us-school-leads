@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d11e9aec-7d10-4fc4-a160-5cd51dbdddb8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvisalia%2Fvisalia-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UEJsekphRzRlRHFTNzg2SENzZnlUMFEwQTBWc0ZYamRyVlJRaXpOUjZicjhUWlpPY1NldUkyN2FjZUZUR1FLcTRDOGxtVHRCcWNvVWxIUjdab2V1dFp5TGg1OE1CWEY2QWQyR0JMc0FZbWpadmFrNC9vZzVNSHFoNFJZcDlsdmUzRHc2enY5aDhKVCtwY0Rob1VGa3daTTVjbFNnRkJ4K201RTFGWEVQQWVxR2g0QUNTdXFiMTRFckppVE8zQi9vTGp6V2VqRnlCR09vSlhyZGpqVWhxNXMyQWRBeDEzaE1yTmw4S3VRQTk2ZXdaYVJNdjhWd21ROWJBNFdVYzhPMy0tVkZkMHh0NnlGeDRiZnFaUnAwWDhhQT09--411f02cd2073e231260eba539a483abcab8fffea; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

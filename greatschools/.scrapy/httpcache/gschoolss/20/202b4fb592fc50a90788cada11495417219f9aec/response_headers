@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 375fd98d-48f5-418d-9eb2-1d39a6252ece
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fexeter%2Fexeter-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OEloN0pOZ2ZwVjNGTHBVa3ZxelhuMHc5anRMdHBKaFdiMWVPR21NM2g2MWVHUGhoQXh5UFVYTFozUDR4Q0pFUWV1aG1Tc0xGTXkzSjNsV0k1TThwMmlUaENtUUFwMnU4U25nalNsdU1hdDlaNGxXT0V1T0dhOTB2UWUxcnQ4bDY2aXBYcEc5MmlFazFZaWh3UHNodzc4ZTFtY3dyMFplcDliWmd2TVpvTGJTQ1pMenJLby9Wd3RVb2JkeklMdjlQa2NnVHpianZxckhFUStBUWl6L05DM2g2ZVduT0krL0pIV3hmWTNlbEVMSlFRdWtkaEZJZjRPb1lOQ0dIWjN4Ui0tNHJqSWY0Sys3V1d3TG5says0OFM1QT09--34301ec38e75df56fd01a7bf3c0623350f61b00b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

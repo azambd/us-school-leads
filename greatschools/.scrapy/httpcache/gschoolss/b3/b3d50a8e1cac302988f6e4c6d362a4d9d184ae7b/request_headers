@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6804%2C%22state%22%3A%22WI%22%7D; _gsweb_session=Y2ZmV2tiUnhRd3hBY2ZZcGMvU0k3a0JCTGJrbkJlV1VHOERCZTgzeFVQODN0NVJ3TDc5Z0RIUTdGbEJwY1dDYzVIeFM1MjA1cTlNSTBaR2FXYkZNY3VpVm5tdE9ZMDd4YTYvd0lWeXk3V0pWa1RFVDFCdmVSN3FkRzNUSUVXclZHcU94Y3dYNjQ3YksxZ1dhczdhZDcrWEhZekR4S0N4S3VCM04yNXFhVlFJaTNoRkwyd3JWcDJEa2pIY25BSElZb01sL3o3aWJQREM4S3VVdE9TWkRnTEYySUJabmhQWVloN1hTNVU0dG54NUF1Z2E1VGs1cFU5MzJhanJkZEdZeG9mdUVkM1YwMWlIamttbENsQ1pRTlM4NHh1RVgvQjd3bFlqbmdPL2lUU0ZuYUEwaTRGQjhncGVncjZlWDVqTElITzFSWHVsUmVBTXNyTWRQN3dYRktDcVAzNVZaUUFsUDFzUGw3K1lxemZrPS0tZmNyOTg0Vmp3TkwvcGpWY2l3U05IUT09--fbbd1d8580cec4263ab0ae6799c8f8a6cee19a51; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fenglewood; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/wisconsin/milwaukee/6804-Tweety--Tots-Phase-Ii-Child-Care-Center/

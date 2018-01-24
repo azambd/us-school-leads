@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b3181ec1-c769-42fa-bc58-e429cdde7d4d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchula-vista%2Fchula-vista-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N1o3MUpESkd4ZzR4ek5yMGMzZnlxTjFLcldTS0VzUk93MzlPbU5VQlgxWUY5VnNhYmdvemFwK2dxZGFPNXlmcHhMSlZyTFVzZnRvTUxmNkpSL2tPR0o3Y0F3dW1jT0xwTGhMM2JLaFViZDkyUjhRNnZmczMvV0xMUWYxc0RCNTFqb3daOTJFMjFvNWh2REFUVTJPd1A1a3pxTkx4Y0VRZTZnY3ZhZEVWTzA5UEdRVXMvMFM4ME50ME5EVFZFWHVQRUdVSEhhclF1TFJmdXAvdE03WDlTaHhMdmk0OW1nUFdSNU9EOUNjKzVuRnVxTzhLQytIL29UbTljaXRFY1M4YTVyYXFFZlVoaFZUVGlYYVVRMGs5eEE9PS0tOVp5dDBLWTZNd2NwQkhlMTg5UVdyZz09--0751817ed2fc71d5118baea6415dd0ae64b102c5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0b725991-d855-45d5-900b-c63e653a8030
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcompton%2Fsbe-_-lifeline-education-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dC9xMDdubHdDLzRuS2duNG9EWU85UzZlQ1FQb1F3THZLd2FMQjVrTVQ1OGpoVDM3dTY0OVBuR3k4WmNrQWtQOWxkOVAwMWV3bnVtU0xiVis0QkNoZVp3RFBraExOTFRlVXlXTmpjelpvM1BDVnhJU1lPYW9XdTAwdEwwZXk2Y2FJYjNMd3JOK0d1NGl2dGJFbGJEbnJMN2hNNGFzV1FSQU5DYUE1ek9Ta25mRitOY2RvRk9lZ0ZtSFNlODk0QmUvdko1SHlhN0JOeDgyZ1lDdmxYU1IwVGR6bXdtSFZBRkZrcXNjcmlSQXBSZEdDL0ZXeTRoMVRJZU5US240YXRTbC0tMlRPN0dTcWlWZGFqc3A5Y21Ub1BkUT09--15eb7aa71524c203d93244f25f785ac65825e408; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

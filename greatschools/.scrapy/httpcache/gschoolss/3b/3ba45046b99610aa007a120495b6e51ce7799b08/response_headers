@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 11938c5d-79cc-493e-89b1-49c13c3efea2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fperris%2Fval-verde-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V3JzRCtqWHc4VlBRUXdwbHgwMTYxTmV2WXV0bk9MTityb2gzNWozYTU0TXNFWk5aenB4QTR1MHl2N2F5ekQ4RUdrMHBRWDNmSVR6TEpPdy9VRVVYQXlPamVENnBsQ1Y5ZWc1S2t4QXBqYzhHVG9LQU9aamNOS2dGMzVqK01jZWpvbE1HYi9rQlhqdEJaKzJmQmU2dVVsdnJCZFcvVktWVEw3L0ZUUHMzbjJRV1FRS0N5WmhRdmVBZk1CaytKRkpicHpDNHBSbmxlSGNhbERmVVRIMk9qOUlFazZjTFVCYStmM0FLbEp1V1FmbG5MNlRGTmFKKzRCcnpNSFlnZ3VaNi0tdTREVlhTZFhlZFFqRE5PYzUxa0R0QT09--5aac68d077a2bf177d4af400ca06e9162e5595fb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

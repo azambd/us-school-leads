@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ec8470f7-a89a-4d08-85ee-acf4240754a2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbrawley%2Fbrawley-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S2VGdDZRLzVsL3k3S2xDQXgwNkFQSWJlL2tLWSt6UlJiUnFOMTdPSzdJd0xxUVJlci94R0pia1A1aW9XeUx5T2pOV3hkSHRBdENYTitIc2FDR1BrMXFacVU1MEpvTnpKZk9TM3lISXptTmhMLytNMU5sZ3pjczRvREhZTTlRSFE0eFJ2TVJTMUhzTzZPcmw0SkJZcnFESm1SOGI0S0JPdy9JcW5sN2p4Z21wMVJPRVovZTNkRW02bXRxS25IUlJzc2NZWEdhWVgzd3RxTG5HelFFN21xLzFxRVdUUG5wbUtFaEptMjRQMFVuSGZ3ay8vaHkyRlVzTStGTnhSekx4di0tVFJLK0srTGVNcGhDdTNrZk1MbzNLZz09--f94b108c8bbcac4b930e4046773416e5dab79b70; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

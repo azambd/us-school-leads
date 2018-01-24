@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 01be2560-0174-44f5-a541-97bf5e84117e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmanteca%2Fmanteca-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y1ZNZ3lNd2pzaE1vRmgrdjlTcmYwNXdzem0rdWswTUEyR1RQQzZMaEtWMnc5SjJPb2lRK2ZnTElOdWdhVXVCZ1RzTDhobXN2Tm9WY1U4K1hHWWtDbGF4S3UwNDVqZ05EMlFhZ05ETGw4YnZyV2NHRFRZNTdsRC9ESm5BdDE2eHBpWEZXbEgxYVpyWjlJUlRpYkVHUU13aWEyN2FwK2RVLzQxM2RUa01Tenk2d3VRT1QrSm1GUncvV01ZVlB1d0tDdE5kRHhOMVduM2tKSTNBMDVWK0ZjakdsdlpjUnd2Tll2TjJHNEdJdTVBMWhXRFpYK0RoQlFOaHEwZUVSaDZYcy0tcHR3bENsaVZ2YU4xeVBFbzFKelRodz09--2a353a2e494ad8087362a3bd568cc1f59477a5d8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

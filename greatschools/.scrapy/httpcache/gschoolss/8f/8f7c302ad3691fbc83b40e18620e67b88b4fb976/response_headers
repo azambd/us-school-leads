@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c7c7e82a-c14b-48da-85d5-a91b051ec6e5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulelake%2Ftulelake-basin-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dG1aeWQ2S2U4SGw2OUkvTkV2bThlRGp4RC9mNjVzaWZVMXJ4SlUvVW5Wb0hNQk5SWjJrTW1yRXJ0VFp6cGJYeWF2QVg0WFMwQUZlejdLbk1OVUUvNmxiSXhlQmFtVUNiMWFVSjhSb3FYdVV0WFZBQXloK3RvYWliUVZNK2RNa0p0SVMzWk5XRlpLcGNlcVVMR0ljYnd1bm5rTWRZSVdNdnJvdmZ5NUhZZVpsZThtalErMEdmQ0JONEhHYkhmUjRZUjJVUmJONTM0c1BBUkFkRlFib25DRTFKRmtjK3BOVE5aYTRIaDBYa2dYeW5Wc0dqK1BvNGc1dVV5WFF3NWQxNi0tK0NvYkV3bWhOckhSSmE1ZU5aWlJ3UT09--b92979700907e32c93cf5b865f54f1496734e61a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

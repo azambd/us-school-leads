@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ac0b7619-5ba7-4465-8e1e-c9062572d474
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffullerton%2Ffullerton-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MDhOczg5OUhmcS9BVGM2N3M1bWxYTk9FbXRKbE52TXlQNVF4Qm9mekx1R201TmNHaEh1ME9jbE1EazZ0dDZ6SVc2dDViaHJjS3lmMkEwZ2NIcEtSU1EyOUJpWDNjL05xWnFzd0ozc2JUNlRrSkNsZEtkUnpyaGdRL3RSU0hkQ3c4WHpJRjgxLzVvN0dJYzhXNFIrVThhazdRMDBpM2Q4ZFF4YittV283ZXkwb1pHYVNwVDcrR2xwWjUzdGlQVDdmdFJUTmJ4ZXFISFRsNmZWaEs2SkNjU1FmK1Z2TDhKOUY1S3JCMnFhZDY3ZzJ4MENldjJ6aDNGMlNnMmtlZnJlODBkNElVK2l6T05jejdHajVvejJORVE9PS0tSGgvamZoZHFWSmFoUDhKNHM0SENEZz09--c1ad773d14dca69b25384ec1151dcda4e1b44a49; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4b6eff25-ac0d-43d3-bd14-ba75d23a200c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrass-valley%2Fpleasant-ridge-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QVAyTDdKYXJPYXI3OU9KM2xycGxXb0YvNGJWSVpoeUV4eEFpeDlsalYwZXlrNExSU3E1VzMyQ3dVSXBvVGNjYUZGb2pTdkRsK3pOajE1OWluQ2thOXBCWGdwcTM0YjY1K0dSajlTU1lFVDQwSWU2eW0xUURHbEY1eXRKeDFMamQ2Yi9RQzlIYjY3OTAwY1pQV0huVGVieTMxMXBveGUreWRMWEZVdzd1QUl6TWE0RXF4dnlTY1FEL0t5akVGUFVzazhQUy9TZ1ZGOGh4aThYZzM4ekh3RGJrWDB2cGJNY2ZleEl5cUIyUGx3dUlzaEJ2djFwTFBsRmIwUmFyekFqYXRxM014ZjVUWHQ0dHJiWWcrdlZUc2c9PS0tdDdCTTZmS0txckRIRThkNXdqTk1Pdz09--b6d306ba6b2f4dedb30f5c6434ac87a6f4f963c4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

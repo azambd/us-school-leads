@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dc61e1c5-bfd1-402e-a513-ffcbd762a861
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flakeport%2Flake-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eXhoNkZsN2IyL3ZhWFI2VGNrTTBZc1kzdUVZdTRIL3VYeWNHb3IvdUM3M3RFRXBlaHVURTM4dmdkd2U1Vm9FamJCZit2Tmd0RUU3YlAwVjBzZnMwRnJBL016K24zeGJBaWVhWUxrWllVcXYvYmRWd3pnekw2UkhuandvZzZxMStEbVRGeHVoMkFOMnY0QlRBMFFFU3RFQUN1ZzJVcENNYWw4aFZ3NThxblNaVmc2RytCU21WY3BOa1ZFWUx1U1VnWmZjWThRdDZiWUNDbVpQZjl5YWtEKzUzZldMZjRQOVpMdHl5Q1E0YmhSdE5jL01PbU5NbFBUWm1MNEYvVVNEcy0tMkx0WlNzYXdEVCtkbTluYjBhOGNXdz09--7f1b0813c059b024908370ae0950299da508029b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d0f2708e-6b75-4139-b211-90c2a2b96810
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Fwoodville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d3NSbDNwa0xpbHRrTGJkWTI4a2JCcmF2d3BYVjgvNEdRd1NGdmptNEFOSFJmNElLVjlJNzZIWmlGMWF1MDc5ME03U3NHdytFbDhQRnVZOENEOWlHYWt0SFM3TjdZcWRjTFdFME1FTGM1RzBuK0VTSE5pM1R1MzYydVBzOTVjY2dqUXRTR2V0NEV0ekQyWVUxNVNIakU0MHdrdkMrUTJ4aDdtR1ZrUStIbWNYVTZVdWJjZFRIa0MxZE10ZEVBUkdQZHlCeFpSZkxOM1ROdGh1WDFRdk5PbVhhYVR3SVk0a2QycW8vNEYreTdkbC9qeE94M1dIOGZEeGt2V2VxYWhFT3RJeW1malhXclFVTGNXVlRCYzZReFE9PS0tbThZS2x4NHN0N2xuUnBaU3Y5SEFZUT09--4ae758bfae039ca5ab24140257a68b4c6a1ee2a6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

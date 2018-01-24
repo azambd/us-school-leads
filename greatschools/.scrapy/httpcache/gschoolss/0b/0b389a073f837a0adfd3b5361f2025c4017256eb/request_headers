@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7741%2C%22state%22%3A%22CA%22%7D; _gsweb_session=cG1zcW1MbmgzYUlnampsZ0V3UlBzMkNUMENhWWU4RHo4RTg4L2lXM0h4YjdueFZBNFBML2pSSmJRSnVtWk5pRXRXb2Q5TkdFNTZVamRHNWZ6UmVnWHhOMVhXaWEwbHJpREtSNTNVcFNESGNFUUdQMlJPRm9HaExLVi83SWFWSVJkZ0JkQW83VUthWkxqVDgxTG9BVkhNSDR5MzdQRHRoSDhvT1dNREd4cDQvak0xY29ISllRaGQvWHo5enhGdm04VXRQK1dvd0QvZVphd3ZqS2ZhcmJDeUJCdThkdlNWMnh5UExIdSs1TzJkNmhDV2E0emU3R3djNkFXZjE4T2xiaGVSbWNzWml3TTduUjR1L3hqcy9vZm9QS3ZsYmIzMDk4MlEwVkV0aVhXZVZjV1VGZnVyRWNHYmpKSmF0aTdOTlNnVlY5dTBEYWZMdGlqN1U1YkFCVlkzMUVTUFZOZmk0RGQ4KzdoRlhlRzlZVVhUNjBVemFYczBOdHVIUDhiT0dyUithWEQzUzE1TTFkRmozVnFCbW54Zz09LS1xQW00bUx3NTlVelJoZTdtWFUrc3ZRPT0%3D--41eaf229925ee22510f4cc4c3ae654d69bcd6cc8; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D4; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7741-Juanamaria-Elementary-School/

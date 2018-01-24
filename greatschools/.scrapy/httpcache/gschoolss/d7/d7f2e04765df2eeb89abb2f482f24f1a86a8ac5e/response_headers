@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 31464039-38ef-4335-8d33-77b5d6b9cb9c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcrescent-city%2Fdel-norte-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z2xvamxCOGZndFNXNGFYQmZlMURvWHdjRXFBSTNFbS81eDR1TjVvRkZ0WkwzQVg2LzhLZE5Eb29HOU9PODdXSWdtQ2xNcGRtZS9FTWh5N05zenJETDlSd01nblNzbXRmUU43WmNMTW13emk5ekFKZ1RXb2RoaUp4RUpLdXRRbE94MUFGNVVIUDlOYXRiRWFHMkhPN0wzTysyMU5VVUlmeDI3T0RvZ1drcTg5OWZDSm5RT3dGMk1tT0ZIQWRZZU1lR0JBb1JDcXFCeHJOT29tdk1PMjdZWUhDSk94bksxVzMyT1o5UG8xN2tITVV4K3lrNUl5WU1OeUQrRUNjaUhDTFV1S2hlQXAzeGFrejExOTVxL2JIblE9PS0tcHVvWTIzMlJLa2QwUnR4R3VrOUlhQT09--e8fd73d3eb95f30d15045143cef50f11444800d4; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

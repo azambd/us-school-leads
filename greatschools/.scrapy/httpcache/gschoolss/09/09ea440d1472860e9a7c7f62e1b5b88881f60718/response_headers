@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: af95ed4b-344e-4632-934f-3524ac6b29b8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fangwin%2Fhowell-mountain-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MXZiNERxNGZ5QU5Wb1ZIaTFPUHVtVmlxNUhFVU5VdkFkMVozQ1N6NDFEQW1VV0NvMGRzU3FHeHZkZkpkSWZVanBJM1pWN1M0MzJVbmR3ZHZsL05EWUhzM0t0ZE1OVVcrMjRmWXBxamhBUFFOU1RQa0pJSU1vM2wwWnJXQmJFK2lLYlUzV1VKVnE2MS9xa3pPRmU4bjlidzgxbkNVQis3RHBxZXYrTS9mLytYYjZqU1Qrby9xcERZVzZlV0h0YVQxUW9kakV0Zzg0Um96TWUvWFA5U1h5eVM4SlpSUXR1MjNnR3g1bzdzTWszTlJvMHRhOG9aNUd2VVkyTGZQRitQaS0tVUZvM0kxVVIrQm8yRjdVNWNad0owdz09--2fdc4b3e8e9c5e409a0c4705aaf25ef2010cf3d5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

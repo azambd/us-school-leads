@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: _gsweb_session=YjdDd3ZNMGlkNmVoSkpNUG00aTBnUXU3SVhpdXprQkFIb1pKU3pCcm85MXVZamg1VGZzWGtEZGdjcDhNQnNjZURocnZtS1BNNUVoMnRqK0JpZnNmZWxiVXV1eGVKYkg1T0FFNTMxSlo3SDYvcm9iWDJET1dxZEVldjFrYkxFV0hBSXA3RDBxdHNoNE1iWTRLTWV1emlFeTNKUWVXVWhnM3pTNjE3Z3YzRVIwWjlQVHJTZ05wekx5VGI1eVgrSThuai9zRk9hRVpkd2dRRVFoaTlLbWNtTnpEb2p6VmVDWXpGSmJsMGJLTUNyRE1wM2w1eGZEVE15OXdzU3lNQnlmQ2hKc2JCQXpVWE5hcnVVUEJOZER6V09Id01PNWZzRDJ3cklwM3BWcW4waXdCU2lHRlRZOVVUUWdBM1FIYTlTRGlRSkpWNFFOZHRCZXQvMFpHeUhDUGtQdVRtUXllWmVVaUZ5dmI1U24vQnJSNHMrUVFSOC9MOVRoWHZTUEkzajhKZFcvR1gzbzNsSndWOHk3NEgvSU1lZz09LS1uMHZiWW1PS0h2Y256RDRrRThwVFBBPT0%3D--4c6feb6d3d6f3e115f4a2161e42470a62fa9b11c; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/wisconsin/milwaukee/schools/

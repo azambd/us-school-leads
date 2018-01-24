@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3af0d965-4ba6-4de6-bce2-d75edf2a384d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmckittrick%2Fmckittrick-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bFFsRU9nWTA5QXFNSjIzZGVXSFZFd0JaUVdhTnJBMDVRZGdqUUtDOHNzeUF5MWlLeDhEanBUN1B2bkMra1NPc0pLeVVwSUtqMm5obGlZTkp6bjFidTBaSTc3S0JJcHJxKzgxRmh6Vm5sWFpKclIrSjRJNVhIVXBaRndNRFRhaGdtT1preGtReDlONlFoeHZsSk1TWlVPMDhTVWlLNzN1UlF6MkRyTlU4bk1YY1p4cUp0aTkzK3dRMElvWGRRRmhseXhQczdWK1NLYUZTcjN1enFjeE9SellkYlRLL1JpQ2ZzNlNpTDVocHo0ZEo5Z0pESjJ0T1hFQkFQbWNpWUJCNTVpWHUzV0VTVXVWVm9ia0Q3TDRVQmc9PS0teU1tTnVlUHJqWHhTcVJ6elhDM2Q2Zz09--b06b7ee8b3176b061ca414072fb6bbe496dbf977; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

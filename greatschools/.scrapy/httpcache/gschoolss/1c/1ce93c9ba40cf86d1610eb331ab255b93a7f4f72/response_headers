@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7c9ae74e-5449-4312-95eb-94b5b368dfe9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffowler%2Ffowler-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NHFkQnVuTE9LQmNxVGEySEM2QzVtNDVXY09MamlXOEJZSG5MdFE1NEduRllWelpUeEE2Um9pRm5MRkd2VDIzMkxMZEk0SWJWRllaTUVNVkVsZE83ME1EWWhvWi8xcDBSNlFIZENtWFo4elpSVU1vR3B5WGVZWlN2Y2R4VnJBV0dNODFuREpyMUQrOHdXdWdMYzlUbW1aVmR2SVBVL0JOTlg1VXBNOEFaWGl3dGdjNVE2NTQrVEQ5NUVkSTd1WGVWTUNhMStISk1Gbks0c0p2YmxwbzhYQmlIRDRFTmUwbnl3VTJwREJwU0pCaWlDMkVHNVlCK2poeGdVL3A0QldQZy0teHQ5RFR4MGZrSGZDcXBEbkJHalRpQT09--6a92eccee1cc19368f5de0572b1e799745d44910; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

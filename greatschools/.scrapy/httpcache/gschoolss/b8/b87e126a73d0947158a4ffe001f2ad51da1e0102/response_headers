@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3f616d66-6633-401a-878b-42eeafb57d30
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmillville%2Fmillville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MkJLS1BKNVpRRENQenU4M1dOaHRBc21pbml4bWVVd2UySFFrd2tBZ1FsZU94bkpGNWFHcVlCdUZKV3p5ZVR1R3hFTmhUZGc5SDZwOXZ6aWM0NDhtL0x5enBiTXV4TkZiR2x4eWp0cis1RmZ6RlYrcFF0WmZ6M1hrRnhhMmVkME94ZVA4OXY5azFKdEtMMkZRTXE0cDVDWjE3dEUrS3lzMTRvaUl1dTRZMUxMdWo1ZXpEUk9LMXhVMEVTL0lJY0J6T0dleEJzaVZUMjVrRXJPTVdGdXNIcE83Z3M1dWNmZm9ZcTkvb1J1WjBvTVVRVkRiWjJBeS91QitoMEQvbFZ6QmoyK2tTVHdSdFI2SFdaMTJCeFIvMmc9PS0tdWhrbzRLaDN0TGFBeis2SVNOay9CUT09--4c4201e1e4db75441813918d91dec49e441f659a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

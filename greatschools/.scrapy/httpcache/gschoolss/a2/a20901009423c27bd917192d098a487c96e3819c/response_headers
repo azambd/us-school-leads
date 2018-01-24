@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3712606c-8627-4ef8-abfb-3cffc84c391f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-monte%2Fel-monte-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V1lCdUVsQUllMHZQc3EwMzVIWm1jUXZTUUFZUm1Tb1V2L1NQa0grbGdaaVlVNjJDUzU0YnVtdkIzeVBvNDBEL3V4S2Jka2xvMU8xMVJDZGlKZTFQY3o5R1dBVFdrUEZvUTNiWW9RVDcxN1k2STd2WEFrZ2VYRW5Ic1V2TG1GT2MwaHZ4MDFFRmNLYXp5OUVwRUdCZEJxOHR6dGd4dWdxMldUZ1k3RzVoYmFUbnk4b254c0djbHNacHFOVW5sV29VNURmeGFHaUY3YlhyUHpJVHB0Y2JXUGt4QVVxSm1KVmZZYml6Zm54WjlFK1hncHVGZE14VGxWTGNoeDBSY1huUi0td1NKWi8rTDNFUVc0TnNqYjNTeEdBdz09--be89153da975f0fefd491fdc1c75facf49520a1b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

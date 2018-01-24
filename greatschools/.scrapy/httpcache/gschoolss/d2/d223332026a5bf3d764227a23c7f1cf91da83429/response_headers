@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ca73d97f-1e89-4079-bbd9-fa2438d48a4a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnevada-city%2Fnevada-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dUo2U3dwMnRtSWZteFdhV2ZNN3ExZllxQWwrRWVuazdmbWtxakpSb3NyTzhFNjZYSXdZRzdvMEI1aGhKOUtOajhuNndaZkI2ZXZ4NGtaVHlGSHA0a2FTT083a3UzRy9XLzg1WFBSaTJSakM5VlNsNkNLREVobVZhSG1NaFRxc2JKQVpyZVJQRitueThjdzNudU90ZzQvQmg3ME4zZzcvWjZMYXBmM0lKK1VWT1oyK095YzNNSDR5aGxZTHJPQ0V5aE40Q3dsRjA5dWVIZkNlRXZDK2RTZXNUckNDNzdFSUpNdDB6anEvUkU2elhrOHQ4OUdpai9VMGttd3ArV2JDclh3aVZQWUNyQkFFM0I3SEJvQnlJSXc9PS0tbTZON2ZSQUUrUzdBUlhNRHdOdk1vUT09--6db794ec766b1464604e2bda057cc0968d3fbd0d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

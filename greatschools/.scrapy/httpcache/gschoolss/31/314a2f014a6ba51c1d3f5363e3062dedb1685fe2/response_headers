@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0dc13ee5-eda4-4c99-9a7d-996b3eb66275
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbayside%2Fjacoby-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UzcvTDRNQS9TQ3V3YWY0bGNnN2xwdlBkb1RXT1l3L3RrcWljM0FiQTJqbm9iQnZUWTBWODBVVGpQMFJUanZhOHdVa2NFdXd2dWdvWUIvcnZNckgzOVYzNUV6WXdLVWluUVYrTE9zbXhmRXZXK3c3NlR0eFZBM0h3YlJFQ3VMYUV2azV6akNGUWQwT09kQzlLNXh0bHFrM3ZrMHk1OWZ0YVU0Qk82dkczeVJqWU00dE1UZU9BbjMxYmllc1hBbTRCdEsrbXdXWUdWL1A5bjkzWkJZbCs5bWQ5S2R5bzdVdTEwdmZBcUx4S3F4dnlHdlJNV0xCMUIzSWs0RkNSKzBHTC0taTZPQWh4ZzM0R1BCeDhpS08xVEZSUT09--170413bdcff60e230a05a6b34f778819dbb093c8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

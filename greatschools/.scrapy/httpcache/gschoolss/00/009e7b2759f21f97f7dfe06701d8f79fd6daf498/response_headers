@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ef6a85d5-82d8-4262-a5e4-204c4e7265b4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffellows%2Fmidway-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WjIyZW9GaHpTcURQVWlyOXZCNmJnODZ0bzJKY0IrNkdGMDI4L3MyVU9rZ3Q5bGNFTmd1QndLVStSQUZ0QkRSUWw1bm81MnF6cHd3UXFaYmdsUWZhOTBiaWhpU3dwMC96dVFndzZyanpzS2hIQ0R3YTV1akVGVUI4OUtzUmtiT05hek9EbFkxTThGUkVFZmtXdjVuQTdZU0RIR1pndVMzQk1aNmlOWmpOeW1OdElNTk9VZ2FsTGgzZ2Y3Qm1JRmZ5YldacFY0eVQwcU9ZdmNhTnNPeHFMSVdqeHVoT0xaK1h3dDIzWHhQU2RBWFRRdXdycUQ1N3I0Tm9iM2hxQ3Jndi0tdjk0azJnZVdQMkVBU0RxQmdEM093QT09--9a98925359f5c1d1720f9e7cdf9ba8e549c370f8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

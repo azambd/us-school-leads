@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3525bfca-185b-4570-a85c-2a5bc50af193
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftrona%2Ftrona-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d3dUY0ZhdnFXbjdZcFcrSk5OSjBNcVdIOEtVdEtmdmVkZmRzSHRtb3pHTnd6cEYzZXcvbDNwaFc0aUE2VytROW1WZHFsNmFGVHFMOVZFM2toa080Yk1CTkQ0eVdrUWN3WEcxaG1uajZpODh6QlRnSUFOY3lpRzZDZk9JNGJsNmFQTmlNVUdQVnhVNlpwcm9qRnJHRCt3dWd5WUJMbmF5a3dxVkZyRmE4eHJpZDRDTUtUcUhCTFo1T1hpZDYxRmo0bnZPbG1RUUZHN0tDS2NrVnFRemRmVmsrcndZUldyZTU0N0ZBT2c0MkpZWFBWNllXa240Z2YvUTFWMjRCK3JmRS0tSmpUZWE3MHdTVXVsY09WcGJHaFZGdz09--597d7725edde6eae771f2122d3ff767ce1276fd5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

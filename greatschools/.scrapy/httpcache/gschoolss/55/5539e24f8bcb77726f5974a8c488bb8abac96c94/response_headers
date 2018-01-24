@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fc467a71-5490-4dba-92e4-ccd743642234
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffairfield%2Fsolano-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QU5TMDFZTE4ySVJIa0VROXQ1anJJb0xkTEp6dE10RGdqR2srTEI1UjVqekJNSzBCVmVJcEdLWmo1bGl1bXQ5T2ZBVmJXUXAvV3hmdlBKOW1QWGRQUlRrR2V4NHVvbXp1dmI3UnZVcUFZR1VOUy95TkR5TzVVNU9rbmxPTVJZcVJLUldDd2FoQzlGVnA3YW5ZZndBalZzUldlMXE3M1N1QjBVeHhydnRrWmVCQ21BZTJzKzIyY3hFTG1MSjIxQzhzeFBGTFZsd1V3b1hxMko2M0hBV3R4TXFuWExBUEtlSVdPcEo1TnZDaCs3cDZCa05laFRwQi9ua1ZES0VFcEFKWFpjL2ZsZzBOTE9xOUQvU1RnU1RURlE9PS0tUWRKT2RuSUk0by9CSFNsTHZtTEc3Zz09--adb54933b13835cbe3d10972674cbae22dab774c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

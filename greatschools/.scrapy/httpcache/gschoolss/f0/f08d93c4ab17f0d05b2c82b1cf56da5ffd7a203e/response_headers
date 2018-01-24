@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8d64eb6c-2e17-499f-a21a-8d82b0b71a60
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbangor%2Fbangor-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R0VQZmF3Yi9PZHc3NFlnWFpHWmFCcFowK09weHZWaWxoT0hpWWFkZzd5RHpZUW9iZlBrNG5XNUMyYVlZVmtTYWQ1L2ZUY290a2Z2Wk0rTEJyRFdHeXE5N25kb0tzaWtNYmFpdVhRNXBEZnlRb0JHNjZKdjhIYjRmSGJPeFIyN3NHZmZhQ1d4NzZEU1RxTlVoU2lKZVh2U1piNHZMTFBnem9NMTlWaExKb3g0UkZOTjl3alpZWUdKaXZuTEFDUWxPd3RjZ0Ezb0ZLNmtyWk1qeTZyQ0pEQzRLcGN3YWJSREJUVy9LckJhOVhOYUwwVkVTd3VUYTRGeG5pMTRPbHI0OC0tMWZGVjBpTW9yL3BURVYrKzhKS0dWUT09--17a0f750d8bcbb5b23e8e5e38c50278c56237bb1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

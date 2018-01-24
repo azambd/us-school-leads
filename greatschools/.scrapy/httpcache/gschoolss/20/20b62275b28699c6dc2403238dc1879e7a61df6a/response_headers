@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 157eaf8d-efda-4e12-a7cd-2c71405a6539
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frichmond%2Fwest-contra-costa-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aGJ1TG4xTWVIVS9SdFovR2ZwRFlVaDE3QUd2dFJPRHQxTG0raU8vT1YxcXU2OGhzcHF1S3ZLbTIvYmE0K00yb3hUVk9wdjNwU2taTXhRdWZOdjJXaXhnOVFnaDR0dDF3akJpWFd2Zk82T0FCTUlTc3NIZVVweVdwNmtxYzZOaHlGYzVZRCsyeWtHYWtzbWc5SjBBY1BMTkNhdFRocWV3ZHp4N0FyWkphbWdMS2NLSUVaUCs1MEhBcXV0V2pnNUFLUzFGMUZMc2w1NnQ0SWpFMUNYaDNWc3hPSTB4TlpXekJma0FMKzlCNjJuZ3cwcXZlTExrY1ZLek5FZHNONkxvZS0tOXVTcnN2b1BzcE5sbEpnQzdvOUpqUT09--c7f40603f61c4d1a11955d2fc37108795be2d5ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

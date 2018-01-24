@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cac9dc98-051d-473b-ae51-4ee1a270dff4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodland%2Fyolo-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZU1MOGZocWZzRWlRQWpsMFFhQ3JwR05acndONFFaZVcrY0F5ZDdXMk4zVWd3a1ltdjZxcW9WS2MzYVBQVlNGdG9JdjhidFJBd3BBUTFRaUYvcG1pelRXYlRBUFlrbEhvdFJxVU9vRGYzWFpKRi9mUEU1M1p4bW9yRkZCb1JPWmx5cTdWTzAwckY1NElSM1NlMFhES2E0N1NRVjB4UHUwcUtXd3BjaTBXTm5IaWhyNThIZkYwZVNmVGI2L0VGNmhIcU5xRm5jOE8zRGNCcVdmQVljTlljbUtuTVhmM1UwM3htYmNaejlKMytGdk1DSUZ1MUQ1STZwMzd4RW8ycElYdi0tVHBBMnhWY1o4VDBFTSsvQXF6cFJqdz09--8942a2828889f6a6a46d164eade9f78026e307fe; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0b9d2480-7c2c-4804-8ee2-280fcdfc0942
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacerville%2Fel-dorado-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M1I2NmRZOHVSUmNlR1NPK2xFUldUZVUrL25kTXJDRVJVK1ZTbVRRQUxvY3F1bFVNMFJ0MWlOOWlCUTZlcHBCU1NPS1pYRFF3UDh6d3krM3J4THFFN0pScHgvNlVxWjdhUVQ4TTNjS3YveTRHOWliUGJUUGxkOG40T3NvamFBZUo5YmRqeitvSDVkSXhmWnFVSkN0WlRzS2VXQ1VhVmh6UUdyS2pGUXdSQzVRbmwzUEJXdkNSdURkUFJtUitHelFjdlpyMlFybFNaNVdqR2Zwektidzl2cWZNMVFRUHIzOTJGWFdCY1ZGZUtxQTcrYkp2VlRLdU1TeUovN3ZSYkhaMEdwRzhYNmp3WnJQMXdnVHpUcHpUVmc9PS0teVM4TEgybUF3VVdjb2lQZTNUYXhOdz09--f0b651093535846f1c7839d955c66e55fa29c819; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

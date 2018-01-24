@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 03c63666-b056-4942-83c1-10b7e9a842b9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foroville%2Fgolden-feather-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TzhEVFAyUXp6TU9xaDhpbk11c1I2Zm04b1RDcURzbWpEa3Q5aUlpK2YyRmoxR0lNVHNNYnVtTXV1UnhlVWxRRURvMm1BWThReDZmYjAzSW4vUThQdm5ncHJGWlFHVnBlVUhFbjczdjZGa3B6dHBPdGY0Q0RTRGgvak5hamtQQU9TQ3VzN1RuaHpwMXNKaFZoam1BeDJzMFhXZzVBNkdSU29SblVubmhYU2pwZXRQQ05Ucyt1blk1eHJha0I3N0tDcnR3Q2ZmcnI1cUpLREdwc2QxMzlWNnhrSmFpakp2NnYyQW9MYmhCTkhsVzlyL0c2bEtzYklmTVE2cUQ3L1Zwci0tY1cwaDU5M05lVnNjNG5QUmJCN3pidz09--fcb3e2a29ef5778ef0c002beab61dd189358e8d2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

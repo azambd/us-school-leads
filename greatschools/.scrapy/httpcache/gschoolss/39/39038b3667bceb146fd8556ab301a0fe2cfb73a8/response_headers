@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 38ae15b2-8a19-47be-9c6f-433fc7463342
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmonte-rio%2Fmonte-rio-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=blJMbXFVZUZ1UFJhR010Y3lnZFpvVHN1MHQ0bWFvcXBkUzlTbmNlTm5QbUVUUDJIZEFsNWQ2WUk4SjhTZmpUYTVpL09CRldtT3R6TkVNSmRGWWNlUVVzTGQxMEJodkgwWjZPVGkyUjdDUDQ4amFSaS9ZTzRvTG9BdEM4V0JscnQ1VUZrN2RKckFySUpFdG8xUlBZK2Z0NWdFV2QxUG9KRXlLWUJLNmJyTlAyZVI3WHgwYlBsREZ0ckR1dWZLL01XRWhYVDl4VUY4Rit2OS8ybkNxOU9zM2VtRVhjTzdQaTFnNGcvdkc4a1U1TlAxeVRueEkwZ01ObDR5YmZvU3NjNHJIQXA0dk9PaS9rZit2cjk5THphb1E9PS0tRDlLRElmaEN2RmNpV3orNlBTZWV2Zz09--8fa68082cef89626788b7e8fe508147b24d697b8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

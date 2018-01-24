@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0cbb2c64-3c8b-42fd-bb95-de13d75b5e22
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdiamond-springs%2Famador-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UE10V1h2cFV0ZjE5elNteEVwMzZDTktoYllvTGh1Tk5iTUFkcmVicnUyeGQvWmExTmFQd1NwU0pDem14eGt5RUxxaGN0Nm56a042MFJySTc4dElSTkxtWWprZ0dGdGdiaFBHQkU2d3NGbGF5di9LRlpxSktqem1PZE1pQzdSVUR2Sk9Sb0UrOE9NWFptQXVtUm0vaGpXUzNTSkw4UG0valNKKzVSdWptLzZoQm8zcFpYY1hPMGpiZ1ZOZlRxcnJoVS9DN2lnaHhYaUlhY0l5dkZjWlQvQ0lQcjR5VEJVaUtCUklLYnVHS1U1bllaWHV2b2NkUFVyVUFQbFdsWjNkWFNmWTFNQS91MTVUMjQ2eDZya0ZYNFE9PS0tTHR2SnQ0MmlJWlU3TkY4YjNRWGhRUT09--1f3c740982dec7143e21c45ce4d675b2ba7f59be; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

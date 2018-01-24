@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 24567e06-cb32-487a-9ab0-17f4c9e4981f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-maria%2Fsanta-maria-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MVYrSmVDUXZOd3hMTDU3NGRnZ0FjUjBwbDJLK1lwVGVJbGQ3RE9GME1tU1QxU2RvbmtRRDZyZVQ1ZDZzOGxNVG15bGFtYXBOakxMWjdpRzdrcHpqa1d5UHc3VzJTUU9DbGVSVi95YWxHL1AyMmdPQmU5UTRtM3FnT2pXWDRvMmZRVU5OaDJVcW1hQXM0MmJsc0p5Zjh4VlhPQUh2MUhqUzVmWDlEY2loa1dZY2VURHo0QzVlU2l4UVY4MHVGQ0pTSUdia1VESm9RYVg2OHhaak5SaUZMQTZoak8zUVpSVElYeVgyWGVsZm85eUFGTzBuZVVQYlM1SERYYUdSNTJPcjNvNTNsbmZkUk8vRmViOERFc0lnTFE9PS0tT0FXeEJTUkdZclhubWhsTWpIWDhFdz09--635f2e09d21ac0c918c5b2f38af4cad026c6af8e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

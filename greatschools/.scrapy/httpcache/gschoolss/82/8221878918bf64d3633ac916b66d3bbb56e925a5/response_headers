@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0d6a4a5a-4d8d-4525-bac6-1b6fc0164804
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplanada%2Fplanada-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dDlCcW9OTEg2VFJOZDI0TXpqU2ltSGJYa09TVjFLTXJTOVlWQkhOcXp3R1p3OVp0S2tibk1ENXpEMUxQZ0t1V0V6R3ZlOTlUVEk5eVFZRldEbHdTREZLV25temRlM1AybTRpMWl4YU1CRUtRN1JCVFVLdVlYWUdGbEpUcXRPSXBmY3hKTlpudXRhZWtTVFQ1cXZ1Z3ZRc3pHc0xOUnNuMkRFWko2TVFMam80V0J1T0R5Zi9tb012R0UwcGlBQ0FwZFp0M0xabDQ4VTJxNjlMRW0xS0RISGtEd2VtdjQvTlhMVVVqL3kzYUZ5elpldDRrRE52Z2lVeWlLb0hHVGZBNC0tWGNQMTRuRG8rcUFVOUV4eVNLTkszdz09--046dd8d2ae6f0aa52197d65ba7277eca01920b43; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

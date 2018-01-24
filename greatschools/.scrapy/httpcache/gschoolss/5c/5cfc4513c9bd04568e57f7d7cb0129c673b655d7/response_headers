@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ddf0fa61-5754-4a74-9839-ee57eca0db7d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fupper-lake%2Fupper-lake-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bHUvLy9pVWUwTHJ6SllSOG5OTTlHT0hRTnRxckk5eHVsa1BxN2o5cXI1TUV1V3d6dk5yM1lKSWNkZ3RxTzNsbHZmZFNoVFFnVmUwZldOOGtmdEpLdHNqd3RVUGt5Z3hwRUhuTFYxVWovR0ppaURTcmp2Nm1SWW0xQ0R2U2tySEZJazNsc2dCRFVvS0dXVVNPaFpHN3BHTmtVc21mQXR5NHhBSS9tbnlFanlkUVRTajBBSEJTa0Jad3lta3NNc2cxcnBVS2l4bVFld216cHE0dk9OOGZOdW8rd1BtOHBBZjdEUjhZWjdHREEySjFZR2RZbHlNS2tnKzhnYXp0ZkJscGRHRktSc3ZGMGJlTVlNVDA3d2RxSlE9PS0tQWs4Y05kNWUrOStkdTJrTE1GUTh3UT09--9b2cba026ab069b5fe7925d4a49371b1c47b96f4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=anhXQ3FpVmJneVNXWE9LQ2NJbnBDMFdNcWFPamVJSlpXYldEMTYrLzI4WGd4ZGlRNmZNV25YK0VEek5PU3RncllLL1ZMYldoNFdEN2o2WFU1VVdFRlYrY25zQkViSytsaW9zcG81dDZrMGlvNldXNElHQ2IzZ1ZCcTRwTHFTTzlzUnhSNllOSFRxSFJJUCt6aWhVRHZJN1lYTWFqVU1JUkNxUytET2pBazRwem00SVgvbUtRVDJDS1VaTm9DMnMvWTBacXowSk1ZVmhEcEkyZzdTY0VJOXdJZVVKUXVZYW4xTE1JV1VPaXZvOHV5bDhYaFVlQ0FFWWdQcXNMMnh1di0tOFJybXd2bzZqRlFtaUN1emh4SXZSUT09--0dd34e8370ce8e72a35c59b04243dd22a238f27c; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredding%2Fshasta-union-high
+Referer: https://www.greatschools.org/schools/districts/California/CA/

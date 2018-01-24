@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: de4e8810-99f8-40b4-9ad1-411c0cef7c64
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fmoreland-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZVJFRlhrZVk5eTU2ZEpKU3pSZ1Q0QU1TTXRETXpzRE1EeHpvRHdqc1ZJWWxZMjJlamVGZC82MDZWZ3lJNXdtcS9manZ3QW42M3NOcVdJV015OWZWZzgvWkV4bndMMVVrSVplUENwUkRhazNlUEpYcnlEdjJiNXFUd0hRWEtlZzJjYzVKTGp5M29yOVBhK3N5ZFY4MEhsb2V4RHFuNWxleGltVVFpZ1hKYTBWK0hSQkdob0EyT1gxaERVZDExb2dhUFB3SCtYZlpQTEFzNDJCQ3pRekN5Q1FBY3BZRTgwRCtKQmI1K0VnTXN2ZGxzOGxScmpQb1NjM2pzZWQ4bFpiWS0tUThiV1VtUXh2ZDFCUzJDQjYwb2VsUT09--b433d3c77e6c7cef272fabd613694ae029bcdad8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

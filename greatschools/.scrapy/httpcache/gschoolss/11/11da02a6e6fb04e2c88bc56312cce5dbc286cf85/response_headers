@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 66ca97a3-b7e1-41ef-bbf3-922d12c9c11b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fselma%2Fselma-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VTZuVzlleVZqM1gxcFZLZkU5YVhHSGVGVDlIKzVuUlpwbzhYdms3RkQzUE5vSGZvMU4wcUNVOTFybUczTkkvaWpQMkREYWtGUTZxTEpha0lIaEtBdW1hSS9yb1VhNWt2MDBNNEJqdTl2N1NjNXZvZWZBbGZRS2ZrNjBUOThMWGpyb2pwMU5uNzg5clVyaFgxb3crZ3RWVHhtOG1DSWNzS05QdW1Eekx4MldDTzlXM0N6bEgzeU8yck5kbS81RkN2Rk5Fd1BKY2RXdFFKOUVRSnRiV0ZlUlV6WVBkN281bDlseUZUWVZLS1R4VEduczgwaENGa3IvNUJqQWdrcE54US0tc0J5eVlwdS9WMERqVjRtRnBFczNLQT09--09a5171329c2cdab19d4035a503251261fe571de; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

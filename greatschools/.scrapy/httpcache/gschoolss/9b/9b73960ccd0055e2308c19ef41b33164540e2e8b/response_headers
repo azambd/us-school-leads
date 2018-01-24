@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 94c0d28d-49ad-42c2-81b8-47916ca6d156
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-barbara%2Fcold-spring-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WGxGakdPZmZZdEt5U0tmMERDaDlLTkhsWjFsbnpOai9WMkJRdFYxRnZjTmtJaFhMaWFxLzZNMk1tK1RISWlDaWxNNWtBYllQYkg1LzU0OWZJOTUrUzF2T1E3UjA3WHVHVkhHL1lsVkpieUxybzIxSHVHQ0RZMWZZUkRFRWlLMUJ0NXZSQndrV0gxT3Q2NWVyUzVLakpVenFPNXpNT1MvTS9XTzZuZDBBUVlTUi9TbWkzdHlXMXJjb2U2am9CVkVuWGFOM2JFWGJKQWRpYU9NUURjQXdVY20zTkxGTTJSNGxudHhYeGlCMWoxNVNzcXpvSFMzbmJWZzhKZ20xblZ4dHhNYmJ6QXRselpVaTJyMkZTR3o0eVE9PS0tM2R4VGxBMnprRitzTGs1WHVJMzF6QT09--39af2d48614a424eaaad2131322f4732609f8e81; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=cmZ4MnZQdnA4VDg3SFB3b3RBV090RGEySVhwNTJCQlFMdnducWJTRGtCTk0vMzVMRnVHWk1ZUFFXcENnSlVpR1ZNS3BXK1AxYTlIVEQwYnFlQmMrZ2MwUGRWRXNtSnVzbjJlTDcvU0l5cGlYTkhHS3BzcHdQRTlOWnRwaGpKckxSM2hFTGgwU0pwOVl6anhPQ3JwNE5VYmZrWVRKVGZ2YmxvelVHVzVBUlRzcDFBOXNVcXE0dTJsLytycjhIWHhjTEc3U3FDVHZLRnJEMFZteDB5SGIwZnluUHU0eEszZFllY2k5bVhFUVBvOS9VcTdEMUdEMDJsdkt4alVlb0h4bWtKZVV4L2xFL21UQkdrSU9RYU0vUmc9PS0tQnAyWk9yUVprL1dhRzM0QmhDK09HUT09--8063b29f60ff8b45c0e93f14b5b097fa09047eb3; gs_aid=cb2ceeaa-0e6d-4556-bae7-eacbc84d3b18; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyuba-city%2Fyuba-city-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

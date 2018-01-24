@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e8862464-eb5c-4e63-a06d-03bd0852e765
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshafter%2Fmaple-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R2RBNVBRb0hQSWNsbktGQVNHMTJuOGFHUlgwVTAybDI5bXlnN05LTkVMNHQzOElmK1dZSktpYWV1SEhSTVBOaEd1STRSREdHZk5xNXdaTGl5eGdZcUpiNytEVjVEUWhXa1E5M0UxRTZWM2V6a0JMWnhtRGhBeTlSR0p0T1hMYWs2enRITGVQdjdQdXBISndmd25yd05OVWlVUElVdUY2M05QN1o3S2FodXFvVUpaZE5udkR4RjVSR2xtdmZiUHBCb3dacm5TSmF0WHd3dXBIQlJXMmZpcFNQRWM4VFRsNEhucCtjbTM4NmNmVE5PZ3hweUk1OEtyQnNOdWxOMUJYYS0tK0pJVTI5cnZtZUFuNFoxeThYayswdz09--52a72c8660e546afb1985e8d8ea8c7ceb75588fc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

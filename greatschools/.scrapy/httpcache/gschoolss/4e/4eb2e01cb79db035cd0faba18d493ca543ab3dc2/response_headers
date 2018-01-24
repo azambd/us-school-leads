@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 07ac73d8-606b-4984-94fb-9e8bca8f055d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flake-elsinore%2Flake-elsinore-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZS9iTGFMdDEvalloQ3hYcVZaWGdTSGpNUk0zZHB4UkZIWlhmY1JidkJrVDRFU1NTUE1rKzlYZW9DVE5uYlRqNWlMUDRJVnV3OGlwMHB3MldOMFVwRVptNTVyQlYyRzNGeDJZbEdtZE1kbFhRbUpYaTMwY0c0alJhMjM3Sk03SUVlRXlIaUtXeitUWDZ3KzJ0VWxwL2JRT0JmcGRZNWl2SDlRZWVvMFNIWFYxK1RrQkoxc2lWM3AwbFQ1a0pHa2NrT1VTdlRERExzVDh0aGFxWk9Kb2x3Rll1VldEbHNmZGtGY1Y2Vm5jU2tvYnJENWZ3cmFjRHZuVkJiRGRURHE1K0p6dDVvQUZ2NUd0QWNaZHVwSkNFN2c9PS0tSzNVQkJnYXd1MGx5KzBSbkJkN0VHUT09--21a0fe349773fcc8c0a3d06c6bae45906c8bbf70; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

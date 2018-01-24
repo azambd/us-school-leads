@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5907f969-96cc-48f6-893e-5504890f6d98
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fmt.-pleasant-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aEVRbDBSWW9obDVYVDRsZkVLYnVBbk9ZVERQTThsaGVBd2c3TFdEUEV1QVdNZWVXN3kweGpUSUtlemphWTM4NFpBZmNkWWlRbllvdk5JLzFjaWJnd3Z6SmsxOGhwK001a2hWcm9oUVFHd2lUZVpNTklmTHArdGdHZjdmck9reHVNQzE4Z0ZGeVdoRnVMK1dCa1pJc3lQYmg3NUZlWmYramMwK1RVSmNtYlZVLytzOFYxWENiSnlrT2dUdGp3NWFNbHFKeUNjRXJSd1pKNEcramFRSU9meEUwN3JqaWVKNnNWc0VFZHBMMTVtZ05DOUp1eXdwRENXdDBXaGJiWnVaLy0tWCtlZVJSTVVzaVp3U2QrRjZHNTV4Zz09--733a70fd9b9738f9ee172e2e0b59638749c66577; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

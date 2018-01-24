@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9fd9a1da-3743-40dc-9dd4-d772ec122be5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fle-grand%2Fle-grand-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NDdXaHVZR3VtZkpqNWpzWVpuRjdpSHQzWlowZ0FnbVhBc1V3L1NTRU9JNWwzcFg4MktUR2xxaG9QQmxDemF5UzdLZ011RCtsK3BSdkovZ0MzNE1QbE12ZlZjUWpiNGNPWVM2WCtCYy9QbVh3cVo5ZDdDMHhBSkhyNlZmekZQMmtuN25VVXhyeDAxb1dDMDIrNEdOTE9zVndkQUczUFUvYTA1QmFsVWdLTkpxeEhvYlJBTDZTalpZeG9aOU5hbHNTOWlrbkE0dE9raDJRYnMrSjRCcjlpb3I0UEs4S1ByRmdFVHJmQXpXZmF2eGZCRHdUNmNsaGFwRDQrYjdIUVJuTy0tc25YYWpzOTJEdmJiMkkyZTcrdGFSQT09--8b14269d455cfad6fde5559a80c75c45a786bb22; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

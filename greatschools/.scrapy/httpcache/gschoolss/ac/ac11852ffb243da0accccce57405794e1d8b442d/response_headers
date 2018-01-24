@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 262763cf-1905-41d9-aae2-b60fb0e5e0e5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsoquel%2Fsanta-cruz-city-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YVZxVFRnTVJXVWkzY1ROVENGNmZWRWdLR1RrRVNKSWt6REVCejh1MldvSzFNSVpxT0lLMU5BejVSbk1lVDV6VFJHYUtmazYxbjFKMmI1QlVCZEtTdzZidk8zR25BS0N1dWRha21sbGhOUmJHUjdCRkdrR1BPTjdpMldCcExDL2haV0NNNCtZNkluZ3ZpYTkyRWxYOStTOVgyclU0VzgyM1lZemV0UUQrRVR4TWxqWEZNcVZORnJOSjJHb1JrR2VhOWg1UDhtMFdrbCsrZWJNR3k5QjVVbDY4eDVDT1pQQ0xjMEg5a0ZtNFlCQmFlYVJSRW40RVJHUkFwTHEyMTV6cy0tRzlBZi8vN3VFeDI4Y0RUOUtycmFvQT09--6ad4b6ccb5ba0f959af63cb2fbcb6734efd2eb1c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

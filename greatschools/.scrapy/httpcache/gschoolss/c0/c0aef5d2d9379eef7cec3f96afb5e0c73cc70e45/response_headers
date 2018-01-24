@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4b6970e6-69d2-4f4b-a011-ae29f5309b1a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-lorenzo%2Fsan-lorenzo-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cThOOFVYZUVlTlNTOGJKYm9yRGVld0MxT25uTC9PTkRwOGZHM1EvZzgwZkVMUloyWGJ2V0wwZjNQN0lkcnZwb0ZEc3V5aDZWY1FYNG15bWlPZmIwOXhKQjdSTE1jeFVIT2lGZ3hlaVFQd1B3MXlqNmI1cHpjbzV3bnF5Wk9FUG8xNVJrSVpydk1jcVdBR1BMZFNMRTJBVy83UzZNeURTNi91NUVOVGpBV3NPdndwV3ZLZVpRSm56UnhuS2hkT01oemhMblkvU1hWVnhNdXUyM01RcnNzNDNsYVphUFFDWVZBT2VydWIwdkpBbnVCcERtN3RRV1lEMUFQSDdFWnVMWFJHYk9RRzZyZDlVMTdwQWJtZFFhTlE9PS0tOXRudFZkRFZ6NTlWUStSVHJUTHhiUT09--18c9174a088b74c070a04b8a727b2feaf83c0b35; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

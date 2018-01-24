@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 93829372-27fa-4e02-a5f4-e1541aee8ee4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Fdunham-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OVIxcDh2K08rc3lndzNldWxuTUIyL2NGLzFqc1VlOFp4TUNxMFdMR3pYeGtEWTRra0lIMzZ4N2Q1NU9XZ1krMGZFZkE2MjF4TVhoOGFoU0k2WEhrVndxeC8zRHlQMi9laDV5emlRWWZiOGNQTGFvcjdDVlI5dlR4dGlHd1g1Z0F4SFY0MHBEKzdabGtQWmNydDNGeWNTamRPYzhGUG1nSXhHbW8vbzU2TW05MlMzSXpRK3BUeTBNejNhS2g2ZE44Y1daRXdIOTBFMk5PWUJWTHZjdUtZV3NOZTk1LzY0bVJ0bU14amlkS3RhL3dmY0ZXVUFhWm9vU3dYWURFbTZENS0tSy93aGpjZ1dyNHlkTXlxc0d3WCtNQT09--569d9d99ae24f7caafb071ff149bc48f5f8122c1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

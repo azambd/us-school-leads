@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A3393%2C%22state%22%3A%22MA%22%7D; _gsweb_session=RmNJRElmdTJNLzUwTWFsdlRIR2pqUEtvbWNkSWJrTUJKK2pON3I1d1NwZ3dVS3hFQ2NTTktlK2JqZWU4UzkvKzlrdmN6dC9BaVNOK0FpeEpDOHBGNjVIUStvVW5sRzZqZEtwODMwR3lOTlJmZC9OT1NLMXc5L1ZBYmo1ZVRpYzdEdzB6WndkNjZzVE5PM2l6R3Q2cSt1am10SGFpeWVHSXRicmhzZi8zUzh6L0lKcFdMR1ZrRzlPNnpTTGdPM00xY3Vxalh2eGJVL292ZHRzS0lPbEx4U3p3dUFxRVdydXIvQWJOTXZSdG05Y0VMVUptK2k4VzdxZTg4M2RIVEp2N2RIR0k2aDRRYUNaUm9ScFB1MWJLd1BzYXJsN1g0MDVydFdJUmdLSGJRZ1BicmhrRTRPRmRsaGtZcjZvOEVKVDlMSGkvMm1NWWpDOEtNeXZzZjFqSzA1MnRjTXpybjZQQ1loekhPWENwYUhRPS0tczRYWnd4VDZRSWhFeVpTTjVBeWN0UT09--0fbf1c966e8f78939d44d71bd87b6ca5b43a2a9a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fmassachusetts%2Fandover%2Fschools%3Fpage%3D2; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/category/milestones-subjects/reading/

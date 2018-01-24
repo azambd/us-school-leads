@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cfaa4c87-9437-4046-a0f5-4dc49a76839f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwheatland%2Fwheatland; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Nm03anA0MzZjaS9pRzhBSlhqVHU4OGFRRnVobmVtSUozNWovcjhCMzM4SXdCa3dxVEIxZzVSazM1VzcwZDNqbVUxN1BtQU5ZVHVxR0o3OHVObFk2bm9nVWxleVo1K3R5SC9pMzFhRi9KbEU0cGhLZFhBek1SSDdhNG1Fcjcxb0xJMmc3NUpjQVdpa3RrSTRPb0kvaytLOWZIY2ZaaTlqckFoTG9jbDduV0dob3ZpZkNpNElGOE1qZ0Qrd3dUbUNjdGgraHMwS2o4OTNHcFRaRkFaN0VRdnFraFpJUlp2QXJic3dHZlZQaXpYU0ROL2UwKzErYlpESmIzUGdCTytxendiS281a2hBbCtOai9MZnRHYU10YUE9PS0tUjhNQ0xuN21VNmFubjBNNEs3MklGQT09--f697e2fbd4c4cb9de8079bf3fb41c761dc0fff16; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

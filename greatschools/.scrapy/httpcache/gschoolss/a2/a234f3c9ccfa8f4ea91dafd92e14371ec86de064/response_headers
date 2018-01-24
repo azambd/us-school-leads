@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: acd0f1b5-22b8-4a36-a3c1-54da9978e31a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Falta-vista-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QzlFY1hDeWJ2c1FISHVCbjZaZFFQRVczYTR1ODE3THVrVGJNbFdUYVpFUUE3UWZLS3VGZ0FZZ25YSEtCVi9nU3JUcU9LY05Oc0o3TVI0TTdGL0R2Zloyc3N4am52dHd5Vkc4TWtKeWlzSks1MVljRExOaC8xeWhlRDg4Y1Y2U3N4OWlkelQ1K1NHZWlEWXBuRTB3MUFySFdIdllOM1NkUEZFd2FkV25RK3dKK1p3Z3ljTjdOdWhwZ2xDRzZHTGhvaGdRRW5MNG1OVGFuSDhKa1lPcW9ETTlCN1MrRnJmMGNESmlWQzE2OXM4Y0RwQ2JJRUFPRnovMzFlSzhHYk12SUhyWTc5ZVFEMnQ1RFBpY0xMZmJlWEE9PS0taUtnZ2NvSW9LSnhlSUlEQ1Z4Njl4QT09--82f9ed21c98db351e0820e5b404c1a45223489dd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

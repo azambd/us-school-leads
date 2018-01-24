@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 3c9b8a12-9312-4b5f-a0fe-e5458be4a231
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmission-viejo%2Fsaddleback-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T2RQOEVQbmgrVE14WWhKWFhPNytPUDJNdWhLbVJWaDdadTNxNzY1bGNTY0lVZ2hmOWhlWnY1N0tSSUV0ZXM1WW5IbDdWSjdiZXB3T2ZtSklXaHhaWmtWaGdKZkx1M20remt3RnJ3WHlWQlhqVmxVOWxXZlNhTXRhT0Y3eUM5WlhuWkRYWTNURU1ReHFOMnpXYlR1bzlPSENDbzQ0WUQ0bHc2bkVpQnVlSVorSVlUdkxsNWFoWXZCNmlzaTBCUG9XbFJOdXN0VzBIZU95MC9ZYmovTnN0ak1JdldqQzMxQWFud2tnempuRUVsWG9sVVRqZUdPQndPMndOMzR1ZFVTSDVoQVliTUc3VitsZTUyVjltYW5XaUE9PS0tWUhnTXNEMm4raVlSV1EvOXhUbEpUdz09--0fba1cc910b6377b3aa7267358d8fe45fa8af473; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ab1a75f1-f16a-4235-a842-a995ed222c59
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmill-valley%2Fmill-valley-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WGtNeE4zWXlsOHpodFE4U2xDS0NCZ3VLQkZWWnM1d3BLdGRKbnpkbTNtSW55Z1FHWEpkN0dRN0pMaEc1Qlg2THlZRnpIQXhDTkhuU29VQkF3a1RxTDVGS0h0YnFESm9iZVRwOWNmOTVIVElRbGwvMHFGWkZDZTBLSDAzK1ZrWWF2KytwTnNjYzRVWjV3L0ZmaCtVY0ZiYnl4bzNTYi81a2MzcE01SVRaU3BtcGpQVHdadm5BZldDUlIvdldYL29sdFFEV2ZlaVlBRHhTVnk2NGpNRGErbDlSTFBXUUExMXBHOXFNajdxVEg1MUxCMjkwNUJtS01mTk84clFhZGw0NWp0OUJQTEZNeS96cUQrR3ZBTmlVRmc9PS0tMEx1NFFhZ0pVQ1FBUXlId2ZVZEt3Zz09--19f69f53b1c7283bd56804b59b3e3200123025e6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

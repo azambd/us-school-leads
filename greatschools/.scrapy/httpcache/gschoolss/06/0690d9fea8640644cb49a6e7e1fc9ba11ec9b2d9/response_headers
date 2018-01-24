@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: de9b119d-cf50-435d-84e6-cef7e4d56ab4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flivermore%2Fsbe-_-livermore-valley-charter-preparatory-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UzVSTUZ1d210SW9jdm5qNVh6MnBzK2tmVXlscHoydTJteG85c3NaeDc4bzFtK3FjMlFUZTVvV1JwSXRmWWlKUWJMZmxhSTBrdG42aXVmYTdWZCtManZBK1pSM1ljdlVhcXd2NGE3bnJCb2tGdW1uWTZzbHZYRDljM2lxMDFKYklhNEJwQTN2YnJoNE9rclZlaHNHZFVuMFJLUC9aUHY4YVlMeWo5VnorU2wvL0JOUFhJZmY5OU5ZMEdRenJiclZCTHdzRHIvYXhHU3A2M01CQ0p3K0NvZEhzcTM4SzhMSSs2bEwrTnFBTi92RWVQb2VhVnQ0ckZVQjMzNVlpbWIrWVorOGR3NXVETEdOaXVrOWJUM09vZ0E9PS0tVVN4REJlZkNJQ29MN0lDRTNwbkhhQT09--c6e59c13ca54f4376860d1a171c3e237998241e9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

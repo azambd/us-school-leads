@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: e049397d-b8fd-4b85-ab6d-60b89d300ec1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnicasio%2Fnicasio; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K1g4Wlh5c0RSdlFPRUQyZC8wbWhIODVGOHU0bm5EMkhob0pGTUEwaE5PVTFSSjFJdC9GR05qeDJ5Z1RjVFdNSzh4SUlDMUdXaWRnTXNkUWV5djl1cTM3ZGpoQkZRamVtaVZIS1FrN3NtWlZOWnNtZW5BMFJNczc3ck42TXlhcVNmc2tDSHJFSUhaWjZVWEZYaWE5cCtyQ0lqeWluNTkrdngwbnFvVElMeVlJS3c3cGNCamp6aE9VbXJkVCtzRFFCWS9VNitUaU9SSWRqTjlETlFsK2J6YitFRUorTUpNNGM0Qy81RThIUndjRmxaRmpLMTEzRXpJcjc0K01nSW5ObC0tTnFIWEs3RjJZWW5mSWozRGwvUGRoQT09--80bdc54cf5e145ad97ad9c4c89fb4010e4e15d92; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

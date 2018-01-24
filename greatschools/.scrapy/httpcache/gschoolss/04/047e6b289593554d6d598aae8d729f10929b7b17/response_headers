@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a5198f5c-6e3f-4cac-bfa4-96a989ea69b6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Friverside%2Fcalifornia-school-for-the-deaf_riverside-%28state-special-school; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V1NlNThEdFZ6ZXdSNnZpckRzZ2w4M00wSTQ2ZXVsQWdZY3BvRGtJVXVFRFZteDFQS2ZjRGQyY0ZDRlNaNVZsOGtNU1A3cmdBdURnT0laMCtrbThhWURaQ1lDcHVXeWE3alNqbjhDa01JR0J0ajhsSlh1THM2UEp5M1FuZEJMbHZOZzI5OFNHbEdaaWxzdkdUSXJDakg5MUZGMFNFV1I2TTJqN0pFMnFkTDRiV2ZKVllab2FGT1RxanpuYWRicG9jODQ3cmt6aU9rK2hIektJd2xmc0l3ZXpkbUp2N21QYncvUjV1c1RGeFhLeENkejc0VlZ2eWNER2xMTEJ4bTc2YXVLZ2wvRUJERk5TS0Z1ZXpmSnZpTnc9PS0tZlVzck4zMXppOG1uY05WcjlCaS9jZz09--a5f09dfdad2a2d1051d81e471c396eeb409517c6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

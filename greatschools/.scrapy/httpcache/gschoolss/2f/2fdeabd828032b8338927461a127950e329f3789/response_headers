@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6d701365-b7c7-421c-9cf3-e2105d47479f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffremont%2Fmission-valley-roc-p; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N3hETWRoSXpmVjlneVpBVDRpS0lndDhDU3VuaVR5cXVXZHlhY2JnVC9COXBSZFpaWStsdkxodEtqQlJCcnUrdno1bFNYVmZmUzd4ZUw1MXNLOHJMdm1mcEcwQXB1ZGU2M0ttbTJrQzNMRVBvcG5RVGMwR2NmRWhZd21xMStURG5iWlFIQ2lBVkp0NTdqaEE5ZWRlNHZuVXYyTEg1Q2FldzFiVU80ZUM4R2h2M09tNHFSemV4YUwyQWVDcU9OYWx6ejdBRVRLc2diYXVuU25hV2IrTGgxeEN1bUNIcFVQRmdZSnpOZEcvN1ZlV3YwcG0xUGswbkRNbVNqYnBxa2c3Vi0tQ2xYRkdQUVBvTHJ1ZHc2WTMwcSszUT09--412beec6eeb61511f1818957b80b5fcc68ae7dd0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:17 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

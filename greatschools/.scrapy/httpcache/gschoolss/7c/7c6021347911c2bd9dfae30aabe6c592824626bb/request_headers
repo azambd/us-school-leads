@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A3393%2C%22state%22%3A%22MA%22%7D; _gsweb_session=VGZBRWU1Q29NTEc1aDNKNFFaT21rak1tZ0x1ZEcyNXI1VTFwTDBWK25RN3BoWEYzUkl1WXhNcjZIU3EvbDZibm9FTEdiRTYraDc0OFNrSTB4YWtGYm1WNzRSSnlodWlVWTlwUHVleXNiOWhRYmVlYXRGOW9NQ2dSbWlrWTRVclZyaVdVS2hORU5lb3RnRUhmN05QclJmT0VlUndIMTZsdmVybmpPa2JzVlE0QlpNckpsVDQ3bWhZV1JobTNMVGdSdDVXcm5Qc3huWlo4T2FrdTdPTzBtTjBSRVVhcTRvdjhBYzlWZHZSbG1IK0luNlNBMnZnWE9jcFFVVncwd0FJZGczeXJYRHRhbmthSnhtQnFiamEvMnZJV25mUVN2bUVvTlpoWWhEeWowNk1Jc3pCa0owNHlZWUpjdHkrd29PVjlLRG5DeXFndjJwMFNkT294YkZZdFdEUWhyUENhUllnTGZzb3JqK3ZKOUU1dnJGY2FoTEo4djdhVUg4NWZlVmo1ay8yUVk4REM4UzVUZHlFbVZuMnl2QT09LS13VVhkdm1LTUFMUDV1VWdEK2o2TFdnPT0%3D--db707718dda9ec90b4d32b365d76de6c08ccede2; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fbergenfield%2Fbergenfield-borough-school-district; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/category/milestones-subjects/math/

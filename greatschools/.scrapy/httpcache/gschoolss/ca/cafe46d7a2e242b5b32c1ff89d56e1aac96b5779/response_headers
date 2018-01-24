@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fb3f53f0-e1f1-4de9-8772-2edf78862e8f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fstockton%2Fstockton-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bkozbEx0N25iV2s4T1NlaGRmWEJLSDZUVW5oNTNhRFNDbVNIR2VCMXN5aFJaOEVFU0Q0SktGUVZtNmVBeWRaUEJhL2hTeXJTZmp0SjdYNjc0aHdERXRtSVFtWGlKem5QR3hpaWd6Myt5STJQNkpCZDZLd1A2V0lnamk1eEVwdzZaR1FMd2RwWXBsdVRGaWtwTDZzRURXMjY5enVBdFZ6SUVlVTVBc3BucmZYWTJyTHFEUjFkMWJ1M1lSRmZaa1FTRW8rakVtZktvTml3OEcvcXAvazRsOENOZjdFV0FhR3BNNGIwMU1oSWpuaXFvNWV0dU1hdW5OUVZVQyt0NXRBTC0td2NuZWxXbktITnVwRWhQbGpFbXA5Zz09--f6f5d865264f931302557cb5605919bf25894415; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

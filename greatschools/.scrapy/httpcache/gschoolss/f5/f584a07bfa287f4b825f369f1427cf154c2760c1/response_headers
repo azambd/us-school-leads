@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cd5437b5-263c-4846-93a5-3d3d8100ccd6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frohnert-park%2Fcotati_rohnert-park-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WGZTUHh0cTR1MWNpaHBwUUZ1azZDbGRyNkVIYm42d2lBR1dlUVVabUc3bEFPVFBZRVFPYisxdlJWb2xlNHY3c0dmdGtob3BreGc5RzJXR1Z1TXBjUkVvcDhTMHRLY1UrSG51VVpqcUVlei9pc3BmR3ZiNW4wK3NUYnFuRzJ5SzdTL3hMTUIxRU1JSnIrbmJkWUpuUTQzYTVHdE5tdmJmZ0I3U0F0cGNkUU9FemlvVHREbkNXK1BQekdVUG4xRTJEQ2NGcWJUUFFmd1lPVFNTMjRhdnRVSzJTemxncGplR2lnNStUcTArOU40TVY1dUhMRFdIa1VXU0VNVkJhRXllNTJaVW05SkI2Qks5bWJjcmV1SlpsRmc9PS0tUUZvZXhkNlZhRTY2SCtwdGh1YU9xUT09--f252bb757e28bb70bc306fe6ef276b5587ba6647; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

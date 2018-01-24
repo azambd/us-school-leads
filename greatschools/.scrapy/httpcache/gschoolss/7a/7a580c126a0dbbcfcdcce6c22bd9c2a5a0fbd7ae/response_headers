@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c9dedd0e-a00c-4d0f-9f72-f7a463724f4c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffort-jones%2Fscott-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V08vTUc2cGtPUDR2VGFPTGtMWFUzVHBTbG1Dd0gvdHd2U0s3OFBQcG9oUGZRTHRzTjFZajE5S2FnbDNaU0Y1dmZvTGRNbHRCSjNuam9rZ21zQTJQcFdKOTA3bWJqeWRvTGViaGMvRnROTklkQUNTMVdNOFRDRk5OcTM4MDdkbXlQTjd6SmswQzFpc0lLNmpLeTk5NnRoM0x2b0txaVpwNVhOY0ZwOU05TXlmSWdySUtuUEdaVlRFREpWbW82bGxaRWpxWnNQbHp4UG9FejZ2cjJDeGNDODY2Wm1DOVpSU0RzNjB4aHcrcmNyUnF5Y3NXcDNjRnRMYW10K0ZyaTRuWC8rbXZ4Tm0xRklha3RPK09SVFd4SkE9PS0tSUFIdVRxQ2xoZHIyMytXVlZpWGdsZz09--de9d787ed1ff8ef9987ac4aa7d5c49b0d5b8f356; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

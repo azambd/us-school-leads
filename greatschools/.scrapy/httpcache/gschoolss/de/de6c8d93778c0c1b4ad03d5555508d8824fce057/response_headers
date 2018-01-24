@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f3175cc2-2afb-4c72-8d0e-8cc4f42c67f2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftracy%2Ftracy-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=djl2SmRXZzQ3N0x4b0R6blZvTXFONSsvWWlySHdRRnpuek92ZEhVY1VzZ201ekxHcHdLL0s1aGl2czBidnVwUTFzeVpHakxtYXFVS3AvMWh0SWRWc3g2ODNZTnJuYzhJU2ZOdlhoVEJtbmM2aGNNek52WGtqNzN5N1E0clZBUmJQK2I0T0lqeDYzZUpWNC9MQ2E4d2lvbWY3ZUdpQndoakF6Qlo5VEVHYmEzeFNmSUhDVXBaODMzcCtZN29jUThVSWdNcUpDMEUyUXlDTWlMWEsxMG8xbGhESWJEVWIzSW8xQXkwS3MzR2dCZEtjVDVMRzVocFJ4dVlEVDNvaWlCcS0tS2I2Z1RNRnVwVDVRODJSK3UrUlJVdz09--1259f1e17a9b231cb42838c82d2285dab1711d7d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

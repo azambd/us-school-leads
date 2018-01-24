@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A31629%2C%22state%22%3A%22CA%22%7D; _gsweb_session=UERRajIvUGxpVjk1M3AzZ0N0NDZOMGZkYm1KRmlYWjlieGJxK0VxR1ZrNFNpZ1FDL0xlK2E2N3ppWml2TmM3NTAzRmY4RnYxVlBadktLcU5LREdaOXExNTNWNk5KZUZpVE0wWnRzSnhEaXVMdnE2aXRHR3N0ZHB5RWtlNEM0NGdoZncwS0JQaUFkaEt6NG5aRTdkaFVNY3RsVlJXNjQvanluNlAreHd1MW1VNEJVNXVPZ3owZnRYcnU2WnNJSGpuRmo2TXpwWmh4NjlKUzN2RVArVitsZ3NObUhBK0ptYkkzSDBIazF3Wk9xWXJWRmxwTnk2UjZ3Q2VvZ3RFeW52M0IyMWQzOVlhbzlvNThaajRSa1lYbS9QV3krVlBMdjBvN0lvdWtHMUpxR3E4YVZWK1BncE9xbURPM0tBcVBuWjlyTWdSTkRUcm5UWmxrTi90MEFpaWRGeHY5c2xRdEM3cWZJK3drYUVwUlJjPS0tcHlpUzZoVXRkQjVqVjFXVG5CcEFQZz09--9f5987c27142d3e0b232f21b83d6452e0de2c07a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/31629-The-Perches-Academy-Inc./

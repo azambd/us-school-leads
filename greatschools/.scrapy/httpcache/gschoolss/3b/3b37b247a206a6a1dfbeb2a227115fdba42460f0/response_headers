@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0fb0448b-059e-4d50-b9a6-b7ebadcea60d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpittsburg%2Fpittsburg-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YW1tZzNXVmUrMVlZSHBxcmF6czRnbkovQjh5Ym1IcFJ3eVVKck5oa21malJxZFN5bGg3eWZyWldIZ2EySnBSbGoweUVheWFJNDlRSmQ5emp5eGYwbG05WEhNTVJXQnYyU0ZLTk5YYUhCd1Q2OUV5NkxmTFlIUlF6czcvNjQ1ajRFZUh0SmhmcWZQbmhLT1lDM3lFaDhic0JFemhCbXNRWHc3RnBOMGdwSFhwTDFab1luNFVDMi9hYjF1Q3VwY1llWXR3aWQ1c0NNaVNYOVpHc2VSQ0Y0ZENsZUsra0p3QU9ySGF6RVRBUFNRT0xZYk93Mmg5TWJFUFdyUEM4SDQwK0ZUR0Z2dDBvcUViVkZ5L3lGeWppSlE9PS0tdFBiaDAzQnFUR0lwdWlBaFFRcjNnQT09--84beff202b8605020257724a4937906627f18afd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

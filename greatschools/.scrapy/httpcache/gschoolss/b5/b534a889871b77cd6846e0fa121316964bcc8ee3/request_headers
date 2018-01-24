@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=OUNuY0VuK0RJcE80WU5zQkpoT2pNRTBZQVJGMkM5elhtaVN6THIrdHdpYm1BNjR6NUZxVHo5UGxTZmxRZXBFQ0xpVmVUZm9qTVIraHlFd1ZCdnA0aStVb1RCU1RZc1lOVTRsY05UQTFVTXp0a2V3U1c2R25UV3N1QVN1VUt0TUNJdm1LVGh1b3h4Yi9oTUJNUE9IVUxPZXNQY3EzbDhPTnBWOFZxS3BFS0huUUFid1J0MlNjYmNqNDJPSGt3RWh6MnlJblcxN1Bkc1JUczNUMU5NeDFqQTZsbmY3ODUvWTFJYm8xVWFMelRDVENFVUpQZURTQ0lyUTVkYURMK2V2Qy0tWVRhUGtFNG5ma3ZBUEV4b2FDYTZtUT09--cf5722662184cc74aa4d2fbf31fb504994697dd6; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvallejo%2Fvallejo-city-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

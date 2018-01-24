@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9b553059-72e3-427f-baff-0d1282331ad2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fherlong%2Ffort-sage-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WDNiSHBhdmVzWG8zUXZvR1AvSldHSElLZGVSWXlRN2pFMGgyUzl3QXMrVWc1cVJVMmUvUmh0VDJuRGVxdm9OOUc0SkRHQUlUTVB6aVVYUW9CTHhLaEE2OEhkLzFvRzZuNFU3RVdUUzNXMXYybmRFSGx6RSt5b1NMMDR1OGo5NHVNeUFPU2Npemk5ckpQcnlqWitKalQzREd3RUx4cGhzN0M1RDljVUJ6RkNSRDk0NWVUQ1RPczBWdEpLUU55TXkzY2doQ1c4QURwWjhiSjlRN1ZrdkxHaFIrOUxMZC9iVDhGdVNPZG9nbklnZFdUcFN1NXlocjV1NjM5eTU2bmVLYy0teE8wektUaDlJTklvVGRJcEh1bEJTdz09--59166728d4e36bcaaf836799bc71e8e524355cac; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

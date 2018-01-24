@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A23457%2C%22state%22%3A%22CA%22%7D; _gsweb_session=TVZEcDhJd1ZrZ0dpZlROS0doM25DWnFlNDR5SkxOeDRzYVkveHFzOVJDZW9CRGJURFBiME1yVWlHaTNFNm5BSEN6NnplRmRnNC9mU2tIRCtZNytWWDVpRmhOeW9QZVlTZjNIUm5JekZib3piN1lRUUdWWnYzclNqSUhHK0xqY0NGUVYrM0FRMk1vcCsrVkxiNEdTeFdBSDZhUGlaYVVVQjk2UVIwTFkraFE5cCt0cklWYWF4bmVoRWt2NmFYM3hqd05xTkNxMjY0WDk1K0MvanhmaW5TdWo1NHI5UXg1TWx1cWlUV25JZERNZjRxejNzeDhOZFd0NmZ5M2R1LzlYMVNRTS9na3dEcTVEN0o2YWh4djRGSmJ6OVVORDNBTjNheWFnWUpzQnFnejF6eTNmdVB0TkUxZzlBWU5oY0xtZW5CWHNiSFVsMi9uZURONFhLVjJzSDV1d0szU0dObTc4TmtFYzBnTWtrTzFUbDlNT2ZqSm9ZSHVoWTlQQUc5a3BrK1ZIVG5QWnBaTFBVb0JkeW5UNGdsQT09LS1zT2tQQkFTeVpnZS95SmZ1NWlIaHp3PT0%3D--ce6d34dc4ba56cf36fcabb8597eb9dccc4358372; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/23457-Easter-Seal-Childcare/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 36e0eb42-a1f7-421f-9f85-2e6cc0a8801e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmountain-house%2Flammersville-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UjM0UGx5TWpHaDlYU1MzRXZrZkd6VWVQdXFJNEhrZ053QnpiZy9QcG13T2k0d1R3QjBPWkdMdDd4cXNvYmhoT1N0am1WcWcvZWxYaXpZbEVjT25kNkQzMjVCdzlaNnVpMmtlSk90TDBraXlIMUVkNFVabzNNMmJXdmFDMndmOXpUYisyTnczc0VrU2prVDYzcFZLQ0h3cS9zVVd3djZVOWxWL1lHYTNTc1VuTEg0SENTSEFZRC9LM2lGUlpBQVJKc0ZSUGZQb1ZpTkxHdVE4OHN3MnYyeHN4WEc4cXV0YjdrRGxRRXRlK1hYTG1UYlBGY1YxdFc2UUl1bzlLZHU3NGxnMEp0WHNlcDlSZzZPcStydmI4Tnc9PS0tOWJKMXhFOVRDMTJrZlVWY0hXaUVXQT09--c476e719c3fe5530ceb1ebe909bbb7def8a02c54; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

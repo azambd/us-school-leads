@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b2c9c9bf-940d-41e5-8a63-de26f6b3f329
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmariposa%2Fmariposa-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T0VNM2dVNE9GWGZBcENMdlpRZjdPUEFsMmVvMHdjRFoxdGZYWEhzQnBkVXhvdHpqbnNBKzZOR0RodEVzb0NmSlNCLzBHTkdlNktRdVJBc0pDdW9BTXUxWXQ0N24vdDA2V2NrSml5NWJtbHVGL2hUKytJODBKMTVGYjcxSmgzYTBaQzdVV0RBeHRvQkNEYXZXaFRabEY0WFFnQ1lxN0tEOEI3UHExK3pXZlR6cVByQlIzQ3YrTVRLNEJTaS8rS01MUE1BSmpaR1BIVE9Pc0F6TFdSNmwvNURSUHUvRjA2REdUcXN4VktkaUIzOHFhaWVHdldzVDFVTUV1WFI0cVl4cS0tZjlnaGlndUkrRmpjK1JPQ2Y2eFRWZz09--58960516c4542cb81f390d6bce1e72d0b68d0fe0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

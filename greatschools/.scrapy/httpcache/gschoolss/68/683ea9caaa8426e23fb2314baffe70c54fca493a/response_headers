@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d0b098f7-b13e-4f8f-8fb5-4c9615f5c92f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Findependence%2Finyo-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UVlOdUl6aDd0TDFyOEQ0YWtEVTlrMWU0Q1R5Mlp2cTdrRENBSkJkNC9FWnpleUJUR0VEaFFZSVo4NTBJV3pWWEVIbU56a2tLeGNTUzVpaDZ6T3gwaXBQRlBja2RXQ29jYXpoeStObmRRSU1MMDZ0VVN3UWFUQTdVNFBMUHYxb295TVIwQW5NbFhlaE9uQTFUYjBGVjdvWTc5V1lLRGdWN0l3YXJqaU9IUzJhYVFGS3JSemNGM3pnRnNOZjBqWExJUklQTWNWZERydW9xV0xUODVoUFRBTnorTGo3bG1LUExXcHJDWS92QXBOa1hhenArSjR0SC9tclhIUnAzVEpwa0FOODl5ZHFlbkhobU9IMVQxaks2b2c9PS0tMXZldzJJOThuNjYrK1BBbHhGMHZGZz09--268b8cd22ff372e6f2074c07972a3c132a6e6450; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

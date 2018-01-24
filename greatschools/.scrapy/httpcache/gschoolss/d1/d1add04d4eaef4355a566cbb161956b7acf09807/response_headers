@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 630edac6-a89b-4680-8902-dc99648eab5a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbrea%2Fbrea_olinda-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cFpGb1FJMCs4T3l3RTg4eC9LMklsVm4vU3JUWUp1UWtLWDBhd2xnNWw2TUFhclZLbzYxRWRheWJrK09nMmNZdXc1ZTdGakJjMityTGFEUzRUWU1kdGo4MXg5N292ZzRBc1M3M0lLNThoTWZ5bHplZ0ZKbHVRd1NxOUlUckVzK0VhV2Uyc3NFRlo0Q3JlR2tRNHdDUVl6MjlKRmx5TUVPL2JrWnB4ekFDL2dxZytjYUg1L1hha092L1R2d2JjejIvVlUzYkx5SSs1UytZS3VEQlhBOXRlQVlMY28zOTdpZ1oxdmRua1YyUW9VS3dkYnBadWVnOEhhTWJqRGpuZWRxWi0tSVBSSXdCRkhibzJIempLVWJxQVh6QT09--1cb081a56b00b390bd5c875ca6a55dcc4e53c86b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A27459%2C%22state%22%3A%22CA%22%7D; _gsweb_session=TzBpSWM5R0JkVU8zMm5ETmVxM2Z6VkZqTVJnOUFsSFNZLzRLelRocFZESCs1and2eFhIbXZ2VW1hTU5peDZvOERERDBVdEVtb1QvUXBpNkdReE1mSVBGN3Z6b1hyTUxGalJDNUJMc3RLNXdMcDRpQ25qMStFSVZ4K2o1dkVkb1pRUHg1cmRrQzJTdVhIR1A3SEZJTDVlREM1eHJJUExqMjhyc3liWlpncjNIWjJWbUdsUkRiVWNYaGlTZ0xTOEhVVnBtdG1nM1V1Slc0T2lXdUpmMVlZK0dLSS94UTJWSldtWmJVWExVL3lmenpnRnhkeENUaWVndXZyWmh5eURnaWs4N0oyeERDQmRlT05nQUhNeEo1S3VOUkN2bHYvNHovbWV2T3NZMnc1TnNYYzExZC9GbHM1M1M3WDA0UzFQaXE5SW1oMXhqMmJ2cWZJclRlaXJqOHVRSUVlL2NHWVBGRm1pNTNncFlWd1NXa3kxQkFJdXdaTXhFQVpBblh3OU9ELzR4N1hLbVJEcmIvVWNEbTJ3dWZuQT09LS1RSmJ4NGdCVk02RUVjL3g0Mjc5VmhBPT0%3D--82f9f6855056c8270b31c88fb727b67318919447; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/27252-Ventura-College-Child-Development-Center/

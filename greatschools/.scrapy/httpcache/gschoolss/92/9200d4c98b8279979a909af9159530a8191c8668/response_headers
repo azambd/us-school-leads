@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6301181e-0a07-488f-92b5-e5ce5e307658
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsusanville%2Frichmond-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VDVGSVJqckZhMG13K242SVl4dVltY2gxTS9mZDVQaVlPU1lEVzB1bVQ3YXpFNVpGaDEwd1E1VVRtSzlZaHVRVm9KeW15enB0bmR3bDA1QlpENWROSFF6aWhBRE81RTViTnNFcVJsa2M5ZEQxSnJKNHlJOE8wajRRMjdaVENScDJiaVRqNTVLeW9jT0NZRGcxdjJhaXRkaE9QOXJZd2tEb1czamNaZjVydVVJUDBjbllaaU5tNDErOXNVVzBrdXVMYTNxaUpOTEtTeFpWNXhuUXhwL2txYWpkdlQ5cURWNm9KK3dqLzN3Z2RSakY2V1pFMGlGWTZ6TldrNi9QR3hqcmZZNFJPTEp3Z1ZzNTU2VGxJVXhycHc9PS0tczEwbmNaVU9WWUpQK3lpUHhYeWVJdz09--4f1d9c7931fd5503823808a56d33030006f9fcf9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

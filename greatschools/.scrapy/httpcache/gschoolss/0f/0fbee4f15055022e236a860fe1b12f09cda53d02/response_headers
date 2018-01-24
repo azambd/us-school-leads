@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4782dd8d-8ed7-4cc7-b14c-ef09a15d8ce7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcarmel%2Fcarmel-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UFVsU0tXNTJzY09OUExVaUFDQXJ3THJuZ1ZIWkp5Y1VCRkxxQWxlMm9vSi9Vc2ZSaDBzR3BMVHNkWnhaOEdmYzZQcGlmNjFuWUlsTXFqek8vR05LdjcyZEo4aUR4RUVZbGkybzlONFhubzJieVRXMFJSMldwQ2duTXk4TmpTQ0k5VENBT1pHSnViem54VG1DR284SWpNVUZ4L01YSncvU0lYSVo3eHlpdmFoNHpvcDdaWU50WDNRd2QxdndBRWdNQmc5Wkdud1czWU1XWnNtd2FSbmplclg4bHRIT2lDVHlzeTVCZGpIL1BmTlRtbGhNWDFhdXBXcjdud3habHdLdi0tSWFhRXRuV0ErcW51RFBPMGNmTVUyQT09--41d7c391156d6e645fefc4d94b2785f15ec490f2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4042e980-f805-4d98-be57-4743374c9f21
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fseiad-valley%2Fseiad-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bFpYbUhHVkg0MmVUZmluMXJlN1RscHRiVFBjYkxodUNOUGVGTmhpbUlybGRUaUx0cUF5UnZuM2I2b2hmK2RlTnVuVUJGOU84MXZXSGtsMzdYZzFSbXN4cEUvcGIvUndRZ2p6Y3hhd3FtWGN0UzdvblR2OU5SYnRGLzZNTXZMZUZ6SG9NMW94c241MUxneU11WGg1RmpUUkZ1dkp5bzR4VVhwcnRhUWVXV2U0UHNIcU02NklVcUJhcTBaYndhWUxGUkZjMDBWSXlqNVNhK2NsV0hxa2J2MUhqVFdIdGFJWGRHTVQxYU9adDlzL1UzVDBkak8xS3l4bFdtV214bDdPbEhIVUhsOFR5bUtVdjBrN0ptWFFHRkE9PS0td05Yc0F2ekplaXQwc3d2dEhITnRWdz09--d271bfb1345cd7c96d5165cf4c4c534086a9195e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

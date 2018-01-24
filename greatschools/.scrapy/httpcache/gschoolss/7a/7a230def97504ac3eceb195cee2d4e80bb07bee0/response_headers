@@ -1,0 +1,12 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Server: ESF
+Location: https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttps://blog.greatschools.org/2013/07/15/greatschools-and-tandem-partner-to-highlight-online-school-calendars/
+Pragma: no-cache
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Date: Tue, 23 Jan 2018 14:01:31 GMT
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Content-Type: application/binary
+Expires: Mon, 01 Jan 1990 00:00:00 GMT

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0e38a573-83d0-4b2f-8690-b0334e76df01
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fupland%2Fupland-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cmVOS3lSV2xzRURiMDMxVWtOTi9sNWlaZlJaR2JlenJub3J5U1BlK0ZoeFJZdUpvM0taUnpDcm9VQTkzWVBldXo1d2c3amJpU2JlRGlBVXAxdTJmeDVNRW85UVF5eFVVRzZja25LTjhGTTYzazJESm93WmFWWkRlVGVkMCtzd24xSTFMZFp2STF0TVRlMVlrMVlkc2Z6bWQxa0VNNTVlNHRMWDFEd3JnWVhYNWN2dDh1d3hndnRsZ2hLdzVvdVdzc3hNcXE2TXRoallqOWdHeVI2Y2orWFQrR0tQL0lqVzd5eGl0bjhVZUJSbmo5VE9uVUFqWncwQWhoV1Q1bnFvMC0tZUpKbm93YTUwbkR4Z0NEYTBZb1o3Zz09--0943696d37af88020889e11c7aee51adae7c51e3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

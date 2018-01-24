@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A25535%2C%22state%22%3A%22CA%22%7D; _gsweb_session=YS9HSFJ4RTlmQ2drREdkVUpySmJRVERWZlBPajFXWFFpdkdSWnVETHVwM0JOMGp5Z3hHWStBNkZ6US9FOFo0RVlaMHljY25KME9GaENxTm9lQm1VbHlud0ZuWFVWL1RXVjBtcWprdzdKL0pCcHN3K290NExKR0Qwd2dKN3FpZ0FUZFgvUVVuV1FDMURzUFFYbkRxS25aQVJYbDNQRGpzV1FXRWt0Sk9KRzB4d2VxVVhxT1VLVDdteHo0WUhISmlUaEhDWG91a2g2WkxJVnpralgwSDMzemdmbkptV1RtOUIrR3NmYVEyYStNUTNDMmM1YUw5azY4akdsNy96Z0poU0NEUzQ4K01xNHBoYSt2cmU2aTFhWmc9PS0tNzFNR1BoNEhBbjlQaUgvOGhmUXprdz09--d1ef49313ac99bc4f5ccc9e5a6db4c6a2874a1f6; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/25535-Beacon-Hill-Classical-Academy/

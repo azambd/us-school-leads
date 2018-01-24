@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A9849%2C%22state%22%3A%22CA%22%7D; _gsweb_session=c21jejhsVmMyNUUzcVJiWEpMVmZMR2FRaUpaK01Ha1dNaENHL2tjTzE5RVArSk0ralpkUnBRclM5am1IcldjUFBaRDZqdmxmdGI0UCtaSEs1WDN2RGo1RjZZdWRjNnNmS2ZSeUNFaGZqVW9ad1hmSlBVdXVoOGdJckZzeUVVYytOS3p3cTJzWVZqUldRZFRrdy9UaGs4VlozVy9VclVXRW9PRGRUN0lXNXppRlJVQ3JNUTAwTGtjWjltSVljeG96VUZtUkZQaHRvMmFQZDRRM1VvNUNIN240N1RFOWNKTlhnMCtKZzdjbU1zeTNjK1NxMWFuUGNpaXcwOTQ2NmxRN2NPT1JReE0ybUY3K3hFQVoxNXhQQXljRVMreGxJdUgzNytMSlNhUzhReVduZVRxeVJYRlAzQzdDRmlKWFFDZ1RyMEdobFVnLzdFckQ4VU9vTFJLTzhSNnZrdWZoTlg3U3I5bm9LTHYyTVUzUXpzc3hWRFZFblFneWFJc29Ra2dkc1BvbC9xN0ZSVEp1cG5HaDhQRUlPUT09LS14OEFGeVUyc2Y3bnhFTzhDMXJwcHRBPT0%3D--be6ae1c2a83fe728b9f30541ebcd899cc3c6988b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilmington; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/gk/author/gracemontgomery/page/2/

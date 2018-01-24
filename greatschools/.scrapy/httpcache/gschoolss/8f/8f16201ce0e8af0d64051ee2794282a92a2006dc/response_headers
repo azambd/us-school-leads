@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9f703727-17a7-41de-b027-ea51f67a43a6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-molinos%2Flos-molinos-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NVlGcjc4OUFCaGpaSkVTRlk0bVpwdE5vODdTN3JsQlFKbG9PNmJ4RnBJOWs3RzBDc0VsYUM3TjhZNDBFUTV5NXZ3a0Q4V0dQK1B4bTFFQnQ1cVUyWE1aOVZKa2VrNFNIcHZsazdRdk54QUpwU1NvL09Tc3JDNGpWNUpGUG12UGlKbS8wNURTdWNmcURYakhqUnpZalE2b1VwVXJjRHdLUEdJaFk3UXZKTTc5cjdXSFY3WFM2V3c4cnJIWUxETDVtTlp0ZG5SdmZXeE5OVGdEWis3M1ZhOHJzSjR0bnBGMXJscitqUlBLUmdhU0IzcDhrK2FRRVhBTkJpWnRzN2xMMDNzRGxMQVZpNnRPSVFDM01iZWx0VHc9PS0tUmE1b1VhVUVGcy93Q3g3YlRRWkwrZz09--4a07c37ab7888bc3395978d8f30c665f27216d6c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

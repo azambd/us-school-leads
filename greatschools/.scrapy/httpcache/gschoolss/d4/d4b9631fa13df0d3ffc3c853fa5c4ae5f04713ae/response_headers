@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 97022100-f4d8-42a3-9310-b3f0480ccdc7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbig-pine%2Fbig-pine-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YnlNdkxIeHNvdEduSFh6SVc1dWtMZWxYZTVBTXJFa21xY2V6cENiRUE0ZDgzeEt0SjBvQVBZYkxDWGVwc01RM3FqOG4wSWJBczR4V1FheitJelQzVU1rTVpzeWs4T3MyRUhQcXd2Y2lzMjBlL1FGWjBYU1p5Z2VJMmsrdktlc2pUR2RKNTlqWU14M0VnTnNlcUtNTGxZaGY2QVdmYm11aXBkNEJxUmlxQWwrMFg1VDY2SjBwNTQza1hXT0Qza2M2cU5aQ3JvbmErVHJFOGdKbm91bWNYbUlaVUFwUnNqSGZ3N3pMVDRCYWFLTTF0ckdwR1NEUGwzVFV4NVV6MjVlNC0tdWdub0EvUDZ4c1hJbHNiSVJXMmw3QT09--c6a49f86354ee5b3b3bcdbbad9f46a87e7db114a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0f71c8d4-ba68-4112-911c-c9eb84cbc1cd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fhaworth%2Fschools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UXF5Q2FEYUcyWmxiNjZjTjA1K0syQXRzUDVaTlNHT0plU1UydHBpaEx5NS83ZExQZWZMbDZQWklpNWZWTlYvelNOZ2Y1NFFRZmZNUTM1YnBaREFDWkZrN0FJTVk3a3FycXVxazVKdGdRS2k2aFM3THVmMkw4Rk5HaFltODJPWkw0ZkdQQ0FsZ1dCeTFuSFA5SlhZaXpOYzZjUmxnR25saHQ2WVF1UU96ZDUzQzUyTWRVd0pWU0N0NzFEUW03K2dLZ1BVVC9TREpOb1ZHK1I5cFhMSHBFYStnWjN4ZW42aisxRXEzMWNPazUybm5FcWJvSEZ1VjFLRDNoV293dXMyNnBmaU8rUXlHZk9qUEJxOURlSytCbXB6akpaemRDZGRTU1VDNyttdCtESGNzYkJhRVZVRllFMkNCOTlTcVhaOUlWUFFhZzNyd2RMdVNMVDhrNndJTTRZSTlHTmk2SWt1RnRja05GZ0VtRHpZSmx3RGszUThqQjhDUE9Hay91QjM0UktFTVZTdC9kSGoxcTRNR3FLWjc1Zz09LS1ISnJPbWYvWDY5V21manRoN2w2dTBBPT0%3D--08c7af76cd27fb0d3e4afa4a016f7ba21be9d7ec; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

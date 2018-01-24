@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f83159d6-41e2-4990-9da5-47915982d1f7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Fwashington-colony-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a3lyQWo1N1h3STMrMEo2dnF5aFUwNnBCSzQzSkh0USswejZHVlRKRVZkVjA1ck8zRVVSZEdNaFBrcHJGNXF5Z0RrUGFEZDdhUy9NSExqSWl6b21MN1d0QmZsVGVIZUxTYUtxbXg1bmU3TDFFYmJtMkhXeVRJQTJuSUJsU0RpRkhlYU15bGRtaFd2c1lGeFJHbGJsbVN3V3lsdDV1bDdxU2Z4RjlyZ3Y3UTk0OVBDWlpHSjN3cVFmWWxyMTJTR2NTaG9nZHErc1dub2Z5cXZjcVFYMUdEQjZLR1JNMUJCMGN2eHgxYW5hUWdxTko4ZjgyTHJBNkZoQlBmSXZNS2FKZS0tWE1yVUZXbkVGUThRR1lINzd0eU9ndz09--2312c6e2f915f1b906359022c1b8206233ecdfc9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 35edd926-0ef9-401c-b168-42b0fee752f4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Francho-cucamonga%2Fcucamonga-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Mko2WjNIenhlMmxOUUxoclAyZUdvOUZOVXVXSm9nNWpsanlROGN3ZE1vU2VwdUFyOVQ3aWpnTzBZTXBMU09LM2gvZlRQRnRUZ3BISEl6ZytjN3lnZVF2SGhpNmpMck5OdjAzdkFocFZDWDBaRUp2MHYzR3orK0pZdEc1TEtOeGU2OVA3OG5VMjlGbzZRbXVwLytMUEdEM1l6UWZTZHhrZm5BUFhxZ1JtNnc2TU9xNUEvWE4raWk4VXBaY0hJbTZMbUczUWhmdHJkdUlsU1VhZlNzQk5nUmRMQkdZRitOa0x4QW40YjV2YnNJank0Y290THlFVTZiVnJuVlhvbkJ0bk1RRVZVRGkycWJYOGVkc3E2TWNiV3c9PS0taVJuYWh0THhNWkdNc1FGeEljV3RRQT09--59389e60a3d6d3dabee67d6aed0155d2c5e35111; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

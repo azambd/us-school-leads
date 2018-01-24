@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 666ee82e-8b3a-4ca2-aa9d-d98ed994c391
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshingle-springs%2Flatrobe; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aVpodFU3VlAxSUlkb2Iwb240d21LclZVWjhqR3d1OUxVUXpYY3hIMXNDSUswSHRrNmdBbHVsaUxEekZzRGxzd3I4ZkRhREhFV2hOUDkrUVYxZmZoRW9oZ3JsYmVZVm04SGkwam0vaGZ5emloa2dTbnBZbmkyOEpBMlpiS24zN3lETFcvL1kwMzkrcEhPN0loc05MeE96U1kyRFRNTDYwUnZxZzhyQ2o3SzM2U283VlVnMnRQVkYxcHhtVkVkeWkzL3o0UEMwKzF2ZzAzN0RVWHBScGNycDQ1WjBmaStMOXM5MnM1ejZSOFdYenRsZnJOV3VSbUIzRVNvdy9PZFh0RzVzYkhmaDFCRTV4QU5ZOXRyc0JRclE9PS0tQ290V1RBemFsSncySjNDRDdybDJ1dz09--6716996ab7563cda24d3b5d7921ab50b976ab419; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

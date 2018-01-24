@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 13b12785-e224-4b9e-b1d4-bc2fd243f7fc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcaruthers%2Falvina-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UDF1RDRyeGhQUjZtY1VHbG1tb042MDNBdjV6cDNlM05KVnAxNWp0aUIrTTlIUFdkOGZobXdCNVpvbjkvNklHNmhHY0dDc0dWZktYWHJkbXNQOTNJZlcrL0UyM2RrR3N2SXRjRzl5dkhLNHczZnJQQk90ZGxocGhYZkIrY0dvc0ZMK2dzOHBDcFYxNWZXWnU3S2s0RWd4SmppakNDa04rM1M5L3Zmb0h3TVV4enhlN3N3WnlNZ1Fia2NWcHI3aEl6NGllaElYUUpEREVSeUdIZmtBN0M3aVhSNkFSaFZRUGdlZzR1ZWJ0Tkk3bzRVTlp3bjZweUhKUld4LzVkYUxidkJmNmhyYlpiVEdtK1RZenBCbktiZFE9PS0tclBQUHgyalNabTRsTE9nb1BnOVo5dz09--622851a7c41eafbbc9af62f43baabc56fb7f48b1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

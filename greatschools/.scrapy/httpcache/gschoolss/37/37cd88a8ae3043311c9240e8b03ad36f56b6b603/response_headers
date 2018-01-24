@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dcc75a08-1998-4b14-a78a-f011604e574a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fglennville%2Flinns-valley_poso-flat-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MjJ4MmRuNi9YcldpYWh1MGxFRFp0clhPNjAvQTJRZFJuNlBOZ2FESWQyQmVMdkhZNFBIenRZTGhXd3BEeDRNdUZ1NnJZSWlUOWpMd1FNa1FxL3NNKy95bnM0d0RaVnh2VWtSOVlWTXNzZVhjdFEyN2xlS2NRQVEvdjZJSnZMdHd4SmE2dm8yVEMyM0xwNUlqSW1KZ3dUcDJZRlV2UmcxR2VhNEhiT0ZTL0Ura205Q2FDL3Y0cUxMdTVuK05wbEZvZFErZWxoN0QxcHIrelYxRlJMZG9ia2FTVHl4OG9LQVZ1dDFaZkRlWmdyQ04vZkJOcDBoMmdaL1o5Mi9PcU9nWmljdmdFaWJvK2p3aHFSczVqT1h0cFE9PS0tNlV5bmRORzQxd1p0T25RWG9RRHNxdz09--fc238f83a7da0b0c81d5d8058b5430d078c4c0e1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

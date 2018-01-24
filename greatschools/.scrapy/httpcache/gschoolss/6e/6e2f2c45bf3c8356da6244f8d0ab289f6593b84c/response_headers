@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 649a9264-e02c-4329-aabe-07c1beab97d1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmadera%2Fgolden-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UVI4R0QyQmkwRUg3WGphVHkyajlHVkMwRVNGUTFYN1dOenlSQlMzbGlxSzZLenJQc3puWTc5S1dUUS83KzNmT1ZGMmtxbUNlQ0RGdCt0OURQQkFvTmcwbS93cU1lWFpCdVhsM1V4MzM4R2liZllYK0VQVHdIWmMwUUlvY0QrOGNZc0N6a3ZsRWhGME1ycnQ2WERKbitOMEtsT1ZKTVNtc200NVJLeWV3WW03TnNCL1pQRGd2WU0zOXZxZXhWbnR4NDVBNWFXcVZVbUJiZWpTc0NwMjZtWUgyQ3BDb2hZd0dEaEpYeldnMWo0NzdMV0VJaWVtRlVCRlJqV3JGNVFLWi0tck1iSHNjenFyYlpEWGE1aE1iV2ZUZz09--f9079a2f9970a0915720411241eee0f88ca1cc99; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

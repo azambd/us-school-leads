@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: c76916c1-9d18-4a58-bb5c-b3ee95477e1f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=cb2ceeaa-0e6d-4556-bae7-eacbc84d3b18; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farcadia%2Farcadia-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y3k5VmdGS29qcld0L1RaMThDNlJHSktYdTRsRlNCYnhOdTd1WlRkS3Bvd2FNUzBJdU1ZQWIvZmpYSmR2NDRZeGtSd0FZTkllUVhmRC9jZnVTcnRwaTJvSUJzalJwaGU1ajZKQzcxeVRIOTZ0cWYwWEpBUDUzUFNPRituWCs4V0U0dUUxU1dVMVhTbkJqNEZRSUN2Y1VKRURYT05CSTJFNVBkaGMzQzBLYnQrMnlENE5SOVhtVHNLMzBzZjcrMXpCeHl2VTVQTUlaRGRtT3poLzN1RVUzZkthT1JmbSt3V3I5Y2VBOUVwT2s2Ymo3bk14M2dKVlZvdnRjMXJtUVgyRC0tTEJzNDlRNE1hbWlHYUp0STI4NzdxZz09--c0c8c84a549c737f8dd50f62c09d686b52939e57; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

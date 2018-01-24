@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a34a84c6-4fa7-4c5c-b6d9-3bfbdae14bac
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyermo%2Fsilver-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cHJIeVJEc0NoZWdCVXlVc2trN3lCeFdDbXltRklLK0dIZjJNRnp6QkVlWGo0MkRYY2x4WGpTZEt3aEhVRW9DSjRUc2NhMXFXL2VVWHpFbFFtRTdDejJOYm5jRExVU0FYeTRPVWVSU3lDSnRiYU1FbXArclYyZEF6Z2N5SWk1ejJ3dlYvS2IxNThEb0FmT1ByRVZFWHRZYTBwczQwZjBGZ1J4SGo2MTQ4b09aVlhTeSt4dTJVVXgzL3ZCVmRsKy9uSWdVN21scjhHSmRqU1ZDNnBiY2lFa3JGSmlJdWcxMzFCZWlzemhHQ29VMGUzMEJsZjh6OEVETWx1eE02M3BuYy0tcXVoeUJTREVmYitCRjRPWTJWL0VvQT09--cd95a55a5ec5c7f26dc1e5a401b874c054913782; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

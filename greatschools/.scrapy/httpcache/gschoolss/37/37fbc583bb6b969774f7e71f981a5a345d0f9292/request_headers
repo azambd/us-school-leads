@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6804%2C%22state%22%3A%22WI%22%7D; _gsweb_session=MTRuTW5KOGFJVUJlbXhGKzB3emRqVndXbmNMVUhVOThncTJsUmRBQmcySlNuTVEza0d6RzNJcVVvbDdOejQ3QmczZElldVYraitNSVU5Nnh6Qnp6MU5FM1I3elN3VXQrQS9CVE1udFg3bmFJTXBPMElSWWl6SUlvenpPQk5HQ2w2bCtFMWhEZGdwQ2NJRU8wYlkwUUErUUx5UWdEakxSU0Y3eEtUZHgwS2ZBY1pxNW9BblVGa3N2N08xbm5mNThYSDJXTkxMRlZPSCt5UXB6WXdhQTZSVVRnYU9RelowRHVRNzVqVndVTHlTUjhMQXN0NCs4OHRqSHRBazcxd3phblUwR0hDaHVYdnB6ZWx5MVNNd24wREZqNkc5S0dta01nWTZPZStpQW5BWms3cjJtVVFJYnRETHlUSUV1TzZXejlNTDFxMi9UODJqSURUSWFTTVVwUC9TSXpCZ1o3SmdOVXJROGxoenArNmxpeTNJZEM5MWxtb1RJQUZhRlJyYkkyRFZtaDZuN1laamhvZ0JHM0UvdkVtdz09LS1MTnAvTEFsR0NvVHdqdytObXdkYThnPT0%3D--28cac21b92a1780eb1b7d5f21edf073749bca2ec; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fenglewood; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/tag/screentime/

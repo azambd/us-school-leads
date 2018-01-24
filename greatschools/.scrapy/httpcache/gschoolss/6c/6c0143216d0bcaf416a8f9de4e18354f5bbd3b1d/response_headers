@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e3448563-5c0c-4dc3-80ed-df9f8a984deb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fcambrian; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aEozNkF2UHNWS2V6enRCQUkwUXo3YWFZTlNmZ282aC9KNU85MzkwL0pzQmNGblRiMUhmTGovdks1dXYrbTN0OGpLZlg5UDhmTXBzalEzc3RwTkdObTFTN0FWWUtWZ1BLVGtQUlkxNnQ4VnhUS2VpWEJuSHNmZjF4Y3RPNWxrYnR5bGxHVXZTWUFCVklPckNuaXJFcjFQb2lmOGw1N1IwQThRWEZvZG5tVjhHYmZJdnRydUNCckp0cXQ0Tkhhdm1jMmxjOUhkbS9vUzlId3hoMUR3Y1BkeUQ1VXgwc2hHNEtOeHZ2cWxlTTVsaHU2Y3VNV1BxYXMzVllpUWVIWDVBNS0tWEhJNFRyWmFkbmVRQnJQVEhBYStFQT09--cd1d4c35746d9c58088ac4d0729d0b4acdc1fbc3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

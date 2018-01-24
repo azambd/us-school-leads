@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3936b4b8-cf57-44eb-9ad8-cd508215a55b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmartinez%2Fmartinez-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eXU5N0VnaStDbFJWTG5nMUE0L2czb09wOHdQYklFcVRGY1dJdXRPQnVQOWJXMEI2MUJtWXd4RUc5ZjQ4Z0JoL3Z5MXRjOWlOOVRhcXh1NXViNFNwZ2FKK3pkOHBYSGY1TUtwaW9kc0tMSktjb0dpejRRamMyaWlZU05naDIwbzdXZHFxVGpMQVBWTklZVEljSFFZNmNMS3VqbzVteXY3M2M3TnJMYm43SThpSkJWWTg2STBOVUN6WDdpRzVyT3FnZXhHVGdLVy9MWnVwbkFDdVBLK2cyVWR3WjBCdnlIRlZDS1NnVFhnUXRseG52VlJRODY0bzlkNklvOUtGeVF1Zy0tZ0Q3Ukc4elR6OG9xQUg1WUI2S1Y2UT09--65ea68ad82ed926921bb158947ca37dd37d98fa7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

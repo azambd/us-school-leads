@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A4979%2C%22state%22%3A%22WI%22%7D; _gsweb_session=YS8zY2N1RHdyeEptMXlVT3JuM2s4MVhTQy9yQk5KbVphdlhnZnpLdllsL1RGVUJUZStlU2hNY2FTeDJITjRPbzV1RVhNc2FnZXNyamI4bUxXNkI3VjFpd0F5S0VRSjgrSDNlMDNWd2RVdmMzcCthdmh5UFlZendhWGRSWC81cXlmeTFPSU9rYnRaak5FSUdKRjhpcThTYkMwbUk4Rm9DZ2RMci9uMzluWnVFTjdoeW9Cb1J2YWlxamRpZy8rTU4xbU1LL3k5bmRxNnhGQzUwdEtLUXBQbk91Y1FaeHZHcDhGc2VSQ0ZYWjZPNkVxYUpYeGVvUnVEVEhmOWRYMUJtTkw5UWh1ZmhHdjhwRXpUWXgvNDd0UFd4dElESjltR0p5NjN2ZWNDVUlaWTdyL3JiZUJwSWMrUlBQSi9ISk9BVURHOFVaYVJQTHE1RXZQV1NVNWZNbGRqTFAvaWdmeTh0eG5EM3BOVjRjVTYvdGI0bVNBQTJIL01IMU5SaWFqSUEwelB4L21DMkFOeENhVWFvTGNMeG9QZz09LS1HMCs1R2o1Qlc3d0w4NXhScHRXMGJRPT0%3D--959e95b1aa31a961c13109e6569015429d9c323b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools%3Fpage%3D17; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/category/milestones-topics-es/leer-para-aprender/?lang=es

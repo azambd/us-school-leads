@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ef8864c8-66dd-46a6-8c56-5f8c6ad6eba8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Falisal-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b3FudVdUOUJ5QzNxYUNlSVdmakdhb2RMTk94RTNveGdlQm9WZXFrQ0RscG5ZRzBVTHgvRGFDKzdCQm5CZ0YxeWdXT1ZNd1JSZFpJc1pQUlJ5MWxqbU1jS1VQV1EwSnVzN3YrQklYL2dQVlhJZFY2OThIRUVpaVlUSm5yazEydGVMT1FsU3hFZXF2M0tNYzlYQjhobXh4b0c3TmZMMnRhbkJ5cHgyalJ2VlpiaW13bXdxdFczTVZYMVlQMW45MHVRcXQ1MHlrM0doWDhPSndTOVQ4RzhueG9NSGFkVDJseUJpTkxUUUhtaG9qS1M1eUVJejFlcHVZbFEzQzNnam9GSy0ta2hOMWFhdXBnOGQybVdpY1hLTXl4QT09--b62889b510b43e4bccc228c15efa7ddc8adffedd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

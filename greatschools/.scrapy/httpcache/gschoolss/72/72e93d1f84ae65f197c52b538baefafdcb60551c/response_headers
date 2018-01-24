@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 34fabf7d-9231-46f0-b7b3-6d63f9654598
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwillowbrook; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZTlxeTFncDQ3dEFpY21QWTdhV216NnJoNWVkYlpmU3pFMTBEV3EreXZ0S0dMUGRTUGhnMExHN2hrYzR1SVZRN0xxendNVUpQN3RTSUtqLzJBTlhLOWpjOVloUXlBZUNSS0hrQ0JlZ2pBb2pQdjQ3eVNXRCtiR21kYVRGNzBmU2ZseVZqL2t3bGRFb0NEN2Z0VWF3WkZRVEs2Z01QeXZhbytkZCsyWG9qSG9ob2RYeTRLK1B2ZzMvSERva1ZEN3U0QmRSTWhGZkZBQVZxT2hzZGV4QjdJejZnelZlMG5YY3NGZE5PbW9Vak92M1JFMnBWdWF3azhDYkJLK2hoNmpUS0w1R1Y2YXRvOGl6cGxNZTVodEx2REo1UlFSN3RJVFBDQTVIaHMyL2hwZkhhVWtWdjBTdVpheU45ZGQ3bkF5cnV2UXYxZ3AzZjhaVmR4T1EzRCsyaHFRbVV0L0l4SS9OdGUvRS9icVU2cVIzN2ZXK0E4VThOOVpNNS9OeklTWHc4bSsxV3R4TVBEcnJXbmpJam45TS9DZ0lGL0RSV0ZDUHgySEJyaG5iR2hsND0tLVVvemhqWElBVEdhKzFqelQ3dFBYb1E9PQ%3D%3D--c8a66fe59e4c744e4b1f48d36916d1d7a1e7fac7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

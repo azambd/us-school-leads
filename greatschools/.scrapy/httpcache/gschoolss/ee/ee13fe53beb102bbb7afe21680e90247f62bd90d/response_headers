@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 80c750e8-7700-4950-b236-0189a3f06d87
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodbridge; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UjkvZThETkdXVUFDT0dzbFVzWmg5eHc1eHE1VWN1QzdCYnQvVzlTN3cya1lGaTZFYlhVWllSTE1lTmtJdmhmclE5R0RQMng3dithWUhZRVV4bE5JWmQ5emNLZlRsWGlsNjR6RUdBbm1uYTRqU3dUejFUMGszOXl6NE45UnVoSHdLNHN6UnhOb1lzU3UxWGdwWU1vZnYrZ2FCNEozVFBNbVlkbUFuWTkzd1lYY2NzNSsxS0RmZm11MUd2K2RsMGhxWG4xRktrZmxCUmNZU0RuR21SQlErSWxSL1JsTmxKM0t1R1pjL0dVQW85T29PdkNESmhBKytISDZUY0k5L0FRUnNYcFg5TndIUHlTVUloYkVGVkluRmRZMXJjTlNaNXVXTVExenZlRDBMdDlHdjZMalV6VlhCK1kwbHZhMWsrdGhmWlc4QWkvZDJWQjhsT2ljOFZFZHhQUUR0OFFvWTFoY2dkeURLRVdZV0tRamQzUUV5b1ZPR1VNY213UEhEWnZ4cjZaVWdzRCtnajIwNUFWbFVMN2RKdz09LS1JL211UzltVkcwYVdpclpOU0QrUHJnPT0%3D--5d18c3627484cf56e0ba9f32bc88bf266864d491; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

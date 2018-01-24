@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9432aa97-93f2-4f4e-8d79-6bc31bde08ea
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpalmdale%2Fantelope-valley-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SzR6UHBSdldKb1Jvc0RDa1pJcWhzRDVzODFzU0Fub3E0a29hVHh2ZFI5R2RiY1VuKytFLzlLSVJBZ3IrWVQ2NytiWjZEd0REcm1pMlNJU3B3TStZZkRFRXV6dUkrVmwxamtTbk11dWg2R0hoQzJXWFlObm9PSGtZQVluNmRwWTlxMWdkSVFkTERWdFRPSGxnTXN1ZGpzNzZxTW9mNUhCMmRZNHB5LzdmeTBOYlpwOEx4eElVa2Vya1J6S3BBTE1vNnpjUnkyNWVWOXIvYnJNbFk3V21GdWFQRmdGZkZicklIeXlpRTJnMExKTjlweExIM2RpaTgxZm9YUHB4QzVkVC0tTDJ1UHZjbngrWHpkUWlrSllzbHhoQT09--0d8f3699ac72406ae046d6222fef4261c9f92e80; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

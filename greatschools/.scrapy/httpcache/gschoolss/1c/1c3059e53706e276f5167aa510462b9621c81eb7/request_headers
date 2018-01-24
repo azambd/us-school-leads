@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A30020%2C%22state%22%3A%22CA%22%7D; _gsweb_session=bWFCUEUzMFU0Ti9nc3Y2QkpNZnZKRGpSZGp5R1VpQ3BuVVNEYXRCam9kODJLdVF4b3hwc2trSFhmRmNPV1hoV3RnUkRmSGtyUzV4SVRsRSs0QTI4RXlFWkI5QTFYeVRIRU5YUVFRRk9WOWhFYUx2WnMza043OFZIZlU5ZjRDd2grU0d0UHVJZzBDMTNPMHYySnlLakNxZU5nZ3JOa0k1K1lGMEZaVHZYSzlhVWU4NlN5ZkQ3TmVPNWR3WEZOUm0xbU9TZDE2N0hDMXdHTEVCYU54OExWaVZvRTg2N2NCYjBWZzRzMmFZL0xKTVAyT0FjeTVWcnhZZXhjVVRZVDFjSkRuSHRGYU5OeWJuZk5SNzdHRytRT2VtdkEwcHpGNW82bVp5ZTkySmdjbWxoZmRwblFYK09Ha2FZb1MvTE03ZSs0VHlQdlo4SEZmVEtMYXVSNlpweCtUWUFjdm9jdTkrRVF0MFpCUk9EOFdBa3FZSjRxZEZ0WEN4cmIxYnVJWDhVQjRBYmFMNWRpYTA3NWlRVnZqL2RyZz09LS1FcW43VlBsR2t6SFRLZFUxMWMwMGZnPT0%3D--bd7f53dd5ddbb68663af97bf12d042a2ab5549e4; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/23458-Buena-Ventura-Kindercare/

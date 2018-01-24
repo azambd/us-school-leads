@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8d898e0d-46e1-4826-96a8-49d20a8463ef
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcolusa%2Fcolusa-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=emZhblp1Q1U2OWtEZnZPcFRpUTZkQ0V0M0RieEVuYmhzdVFvRFVJM21PMkc3eDJiREp5QXREaStZL0dXQVVhWlgrdkVWOTUyNG40Q09PRTcxS1VTYlNzenMvWHVQYTRJQ2JRL3hrWWNvV2pGaGJRc1REdjlPVmVMSGRVckNrSTZ1enFITVhhT1hSYnZNdU1hc0wwdCtSSEF5ekcxNkRMc2pud2NWdkdDY1pLOEJ2UkhFSDVWZHdnYjQvVlRpUW9WZ2NwRzkxVDJqOHlTd1NhSTlPek9hSTlMSzdpNlZyVXo5VFpOejdYWFFBa1ZJcWI3SWxKbitqS2NieVB2dnpOSi0tRHNHRTc4UGx3eVVVcFFOWmsyTUkyQT09--125d93b777afa94eb6754371b25f754cac225d00; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

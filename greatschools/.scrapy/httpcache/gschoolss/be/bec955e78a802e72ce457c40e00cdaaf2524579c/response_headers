@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e47e84ba-8c2b-4978-9445-f7bf5f001321
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foroville%2Fbutte-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q2ZheDh3L3o1TTdWaTNoSUg2RXU5OC90Mm1uMjZnWUZXc0UxRWo4SDYwdjhoa3FUdFlLdmR6ZE1KSldNRGNybmVZM1huZjZqNU1UcnhwWFhmMGZyZnI2VFlHaVlWY1RMVnFqeTFvQmU5bitLZ2dmaUxzK3JXR1R3L3RVQkp0U2VsVDJVcVY3bnQ5TzZoajRVcDh2VHdrN1FqSDdZRVRWOWxWMUR6SUNaUGdtQWZaQ1lVeHg1T2I3UEdUV29OZ0F3SVNCSGtZWTh3cXlTS0tvZVVDTEhDaWZoTFpuUGZtbUFyOE40ckczVllJL252QmZia085OTZOR1hjMndnUk9Dbi0tT1hMSmp2Y0FyUDNKek1XNE1DbFY1UT09--2743907217a0b1fdc4e60d4892d8443cda98a08a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

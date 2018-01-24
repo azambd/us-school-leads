@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2bc77ffe-d157-4690-911b-2fb039927886
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-bruno%2Fsan-bruno-park-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dVRmamFqUWJGQ1hmTmFUWk9PYjAvb2ljSk9XWGFRR2NCa09FcDA3S2JiQTQ3ZkdMbVl4Yjd3QUJGUzFiUDVpdEdjbGVUU2syOXUvK2pWWjZQSkxCNEVkdzNocnRTVGEvdjlZOXFTeTYrNWVkQVkwV040TGxmOFRWQ1o4S0l3ZldmalNFQlN6SWJXdnhOZE4yaGtRS2I5QjN2VW9pa3h1dFZpbHdzZVg1M3IzMUo3d3hkeEQ4V1BnTjgyZjVONU9NQkVlOHdxVkJEZi9ySlN5S3BKSTd4MUcxN0doVmxzMUg4T3UrYlMvVWVybXR6cU9rMnd2TkJMcG9UbFdzdENmSWNJYXZkWTJHL09Nai9JOXNQRjc1NEE9PS0taTIrcTBhMWRDYzlxeTR6am5XMzRLQT09--d325b415c1210b005b88e30ba6248616d50f5f99; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

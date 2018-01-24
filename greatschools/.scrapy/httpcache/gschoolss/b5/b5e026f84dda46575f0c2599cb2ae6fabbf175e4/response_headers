@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 165fbf7c-7498-44fe-8f39-d7eb39738a5c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpaso-robles%2Fpaso-robles-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=KzN4cFo4YU1XTlVIVmpmaGpvcUxaZXpqYUswazFuZHJybEwvUEk2ZjZEbWdSV0tpaDJpU1FuTnNXUkFmbEFjb0l6MzNqc0V2UGU2RHAzUktmMlY5YllPT2NHWTArZStPV3hmTXZyWkkrK2p0K0hYMkFwcW5Ea1pWbklhOFY5TkxqWHg1bFlOUGhqYUJrRWRQZWZxOW5OekhIM2hpUWlOSnZNWjM0bHpXeklUY2RZbFlxMFJaZ2k5d3hlRExaRlVHTExtQ1FPM3BvNEYvZkp6UlFUMWRwS3E2OVdvbWFnZzFUSlFOL0lYWUU1WnA3dTZBaFNmcjFldG0vU21SelVFeW9MNk9PYXBIU0dyelYyWWJ2WG5CYVE9PS0tbGJRUWIrUEZDNHNmRXRiSnQrZ0xlQT09--30373be04a7b45d34146cc0f7f3bef2ff510f3f7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

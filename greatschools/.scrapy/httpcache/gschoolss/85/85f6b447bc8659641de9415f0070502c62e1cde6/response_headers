@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 1da02fcf-757c-44f6-8f9b-d9ff9a0e4812
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmckinleyville%2Fnorthern-humboldt-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UFJIWEhqaGc0aDdsMWxwWTV6TXhPQUlVTGltSDA0NmFqa3pVVXV4TjlVaG03R2FoVnhBNFlrZTdjSnAxeVB1a2Z3TnFaL3lkL0FENkl1eU5YSjJCRjVPT3VrUzJxL1NmZ3lvcEdWWFl6aGNibEJXSHlYc21GSk56ZzJYaHdnYlk1Y3VBUDhLcUdTSnVSZHRQdVZEdW9Tem94Tk5MRTlvdkJZTllTLzJQQTNvZHB2R3MvbisrMnRQU1I3RDdyZ1hhL2duLzR6cjBxVTZZekRvR1hsSU1BWVhSZ1QrZXltN0FaMkFrV2pBRVdST3JTNU1XelZNbjdhY3pyRUIxWlFUa2FyTlFNWHVlLzU2TzVCSVFEdDhOM0E9PS0tRHVVdkZPNDh6clZ5amdLZEd0UGZnUT09--1c21291a8fcc94081eb55a6271bf94a611a040bd; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

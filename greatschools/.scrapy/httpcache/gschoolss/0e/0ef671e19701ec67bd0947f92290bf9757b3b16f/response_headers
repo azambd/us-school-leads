@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 629f3e1e-ea97-4a0a-87fa-80a24d893e67
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmodesto%2Fmodesto-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eVhQSEtZVWxyK1E2M3ExVHdlM1NZalhibk5hTHpoMzB5N0dkSFlEamR5TXVXRnFqMDVmbm05VlIzSldxdjU0WVZYWWNYV0lxQTFmTm5vNkM2cUhyNXFUWk02bjl2Mythei85SCtzOTc0YkU5VXRZa00xSnNLQTBlMHhQRkp2L0pndmg1SktrYVoxZ2MzYUFOTmIySTBXeDczZmN5ZndWRm1KdjhzL1ZKUUtsZVltWjV2MW9FVVF6ajZoVzhwd0dFSXJmeVVlWlVETDFMWk1zQXNadmdXOElUbFRpYnQ4M2dFV3d0TmRIVTEvUWdtNlJFQllJdGp0Nm1zRS9tUXFCRC0tR292TXBMdWxtL3FaRmtLUm9MTDNIQT09--5ae520da3b4bf62fafae8d25a95b90be08561b8f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:15 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

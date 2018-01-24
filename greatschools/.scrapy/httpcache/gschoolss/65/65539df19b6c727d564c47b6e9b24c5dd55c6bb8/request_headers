@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7652%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Q3RqU3NwQm9SREdIbnVZRzkwa0dNNDVoOTFxc0NvZ3F6QmM4cG9TU0pqVlE1RVZ5bm0zNWk4RHRzV3NldDRHcTVlcm16bS9aaVVsQ2h6cXNoVWlmeFVEOWhlTnJobG5YL1JFZ0tBbzV3a2VNSUhaSkRmaVM0TkhzczdBcVN0NElQOUVsaTFYQWtVSGRReFJrWXBVZHhNbWtNTk9TWmVDNEpGUXBETTU5am9Fd00zTDUzQ0tjcDc2Z2Z1N21QekVXV1lUVnBlNldGQ3E2QnNsVng3empsYnhHVFN4MlR2bjJPSW9FYlMvdHJmNGV4aFMvSlc5VFVHeUtMdGN6ZmRkNE1PU3cyeDdaZmtva0paOEZJZXQzRXc9PS0tQ2hSMG5xTkVjL0ZycVBFZDZDWUdVdz09--2b93c1c644e8ef68ccfc599f5024ac0e4d8ecb60; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/oak-view/schools/

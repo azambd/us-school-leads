@@ -1,0 +1,17 @@
+Status: 302 Found
+X-Request-Id: 1890e518-1a05-438c-8269-be9fab3d9e34
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fontario%2Fmountain-view-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y3hNL2pTNTF6QkJqaDltdVhZOGoyOXFLc3N5bW9OTm4wNDNOZXBrVlROc0NQNU1BTkd5bzMvWGlRRmNvMktwU0hJc2pOditjUVNsWG04eEdldTZTdSttRlJ5OUNTTmhQTzQ2dEtUaXZVY3d4Z0toQm40L25OdU1HQ3g4TkVVRnl2cUcvR0dlMTFraDAwQ2FXdTh1S1p6SGo0RTlPK3BZYVo1ZWJ4em1nd1Zvb1pBd2Q0WnpUbWE0dThKTEx2NFFaUHhwTWh5OFZqNmI3aWwxUjV4MkxQQjVwV1BpOXhHcG9jTUJCSXhRQm1rWXBxS1RLQ2djekpicTcyQUYySFNiNy0tVVR2ck8reXB6Skowd1I2a01FYzNJZz09--a91f836ce25f2abd3c0dfe73ef6af83f8b320652; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 13:43:12 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/california/el-monte/mountain-view-elementary/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

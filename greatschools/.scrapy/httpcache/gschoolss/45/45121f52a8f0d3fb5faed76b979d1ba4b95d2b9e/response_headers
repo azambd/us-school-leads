@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 6f6c42b1-1e57-4e5b-809e-f7bc78d5fd84
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=San+Francisco; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-francisco%2Fsan-francisco-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Zk4xRlF4cm01ODF4cFhUaWlCY0hYLy81dHN0aGcwb1dyUUcySURrak5jV3l5L1F3N2NkL2hsQmhMUTdSbk5wcVBWZEVoVE1aalFVTHU5bDBJRUpzSGR3TDQ1NnJiSmpYT053NEViZ1ZaN0wrTjhTWWlhYlhLdkMrZ1c1VFNEelBNQmNZUHNaNkU4azRsR0hKdmswVEFjL2YreW81M3FSLzZnOE91bkh4Z1lxUG9HT0dZUFFUNW05VmhaaVlXeWluRUlKTC83ZGZzSmlDd3l4WFo5Wmc1QnVCWlNWWWRCMHVubXNNSEcybUpVbFVyVG9DT0NjTm02ZzJGS2dXcjJJVWVvb0tjNXA0WUtUOWFzMEl4cnpKaWc9PS0tSElmdnZZVjg3ZWZSTDF5empaMlZrdz09--bf817a049947765e0185316b5ebadd9e107efda0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

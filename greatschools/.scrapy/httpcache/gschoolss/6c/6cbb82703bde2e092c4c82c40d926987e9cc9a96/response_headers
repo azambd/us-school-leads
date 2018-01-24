@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3494d604-366a-4132-9bf5-73ac814ff43e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkerman%2Fkerman-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZEQ3WmdqdnVoVmpkZ1o1cWRDYWZ5MTlYa3FyRUp2akVVeTZmM2psVkhJZ0dRcW1NQTVjNWl4R2RpcWtsbHBzZnN0YWg2RmR0Z2l4K0VLR2xOVXYrcVhEc2NmUCttQU9hSXg4eXowemFVWkNrbXJLckNOdENqTnRkYy8vTFRVVVRoY2E3ZVBQL2t6Mm56RFZiMURDK0pkRUwyeXlxL2IyZjRQRnJXNVhlQTNCdmZkbElQTkdoMmtpamVDbFI3UVBWN0FTd1B2VUhJTWpUS0VSVnU1cytiVkFXSE5haWxvTUluWWJqMW8wNGlkRitPbFJnTWt6MEtkV3liNitHZGNHcy0tTU0wd3hnUEZIbkdqUVNvcmw4Yk9Vdz09--843d67e8a4cd51d0fc1a9942b55eab29a66e5f7d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

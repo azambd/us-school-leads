@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4221602d-f08b-4945-9248-bd7285c12c94
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fcea-ventura-county-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dFBHSjJaTEFndXRIc2VhWmM5VzhXc1VvemNzbFNZMGtCaThSK0RXTmJFdnRReDBPdFZ0akJHQ3pRM1NnOW5NL2UxUjJYc3pYVk44QTY2QVkzQitUbFRaVUQvZG5wWXkxQWFleGNIMjFhd0tyb1hqTkd5d0dWY2N3eEJPbUFUS0JtS3NtZG5QOWdwRTRjUWJLYjFKZTdsT0lmUG95WDJSMXNzY1hoNWkzK1JuSzFXcjJXTmN1aHJrS3V0UGh6VXRDSGdvWFpGWTVGbzFyQjBSSjEwNEN1TUM3cW5QNGRFdWpYcU0yWFpFU0ZLQjkwUFdkNW9Rd1dwYkMvZlhTTVZJa0wvR3RIUi82QTBLMEVURS9lNFpnUGc9PS0tY2xZSTBzTEFWc1MvejFUNkpYbDkzZz09--0266a4ba1d9a043e7ea5173822c986b597d9a0ef; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

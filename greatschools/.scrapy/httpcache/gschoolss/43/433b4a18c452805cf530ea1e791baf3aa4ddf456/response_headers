@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 251bc6ae-07e1-437b-b2ef-08118ae2eb0a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fvineland-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b21zV3pBSGFGeW5MckhyeEhJQVJoSEV2d3dDS000N3MvTWV3ejlRVERSMmpadzlzQmFoTWQzQ2NacW5pWkRDNUo0ZS9iL0IrVzZic3htVXlnalJDNHJ4MHpYZHFaNjl3RitnR1Bzc1FhM01zaWQ4MFF1TW1wNlRPbUYwVlovVHJTZ3ErV1ZySWVnRG9LNmpjbUsyb2lva0sxN1NmQldQLzN6RGl1WFE0ZFRGRngvd2UwMFJQT0ozdldZSXpld0VXajh1Q1lKZHpuY3hzOGgxOG5Wa2pCblFUVlRTaS8ycnRzOFdzTmVHREhqZHBZS2ZGL1I3eitTdDA2YXExVy9pcXYrQ2J1OXlwQmFBTWFiT2tLRHFsb1E9PS0tRmszLzZTTWU2aXA4VXhYMUhTVmxudz09--777f9c66968a734ed3420d66dbc20c50dcbebd66; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e00ce084-3fa9-4145-b038-35eafd8a8d9f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Fpleasant-view-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V3Z3NWJIKzNKb2d1YU9wb2t1V2dSTnM2YWNXQVhpbXUxNGNJZlBNN3RydmdIVURCaWduTVJoNzZjR1RxK1kvd3hMMDhadmR0MXhqM2c4N1JNTFhHallKVldRTU8xb2F0WGgxK29KSVZodkhnSll5VU51bk1MWkFJQnlkVDNMTCtSd0Frc3lVUldUa1lXQlFYMHVvN2pUT1k1cy9Xc0xwbkpILzRwWE5qUTM1Sm9jMjdUU0VqWHcyakNFbFExYTl2MkNUb0p4aUtYV2RpWTFRcWlpY3N6MTJLOTJacnlzNDVGNWYrL2VoWDRyUmlBS3BMNENhRy9vaEo2S1ZGdnlkYWhXR3ljd3FtK1dnTUF0WFg2NUFramc9PS0tRENGS0FxTy8wbTJXYXpCMzlYeFNVUT09--3cbb48a9a430d89f44a28ebb608be76268362c2a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

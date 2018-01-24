@@ -1,0 +1,18 @@
+Status: 302 Found
+X-Request-Id: 61d3f98b-0303-413a-ba01-af0bbfb50919
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard; domain=.greatschools.org; path=/
+Set-Cookie: history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SDlERmJNUkdxK3VoekpCQVk5QUlJN05BZWN2d3pKWGxaQ2dLeGRiK04vWkZmSWlFR1Y0STN3bndtbDBxNSsrZzNwQVJLTW1MMzFodDJIMVhkRE9yUG4xRmFUQ29aNjV4VXM0enpvek5ham5RMXNYKzQ0TkhqQzVFbFZQTWkrMG9ZT2hzMHlUd0ozdVJVMGIxMWM5YU8vbXE4NDJQY3pWNnlodWNMdjBiSThUVjVxTk4rT2ZRTjhoakordGRkNmVKWFhyaWUrU00xM2VtNVNyYkxjRUc2eER2YW9saGprZHBlODJzM3d4Ump4RUxieHFFZFJxaTlGekZBejUyQmMzRVlLZWxWd1dlRkVnc1J2Tjk5TlBScmgzUWJVaDR1WmtFN2srdG5rRlhTYy9YM2lady9jQkt0VHZTWUdGNGJHb1orc3ZYcHhQWk1Ta1FaTzZjZW9BbmJoUlA5QjJqa2xmaTdMbER1aTdVaTV3a1VLNkxkTitTbFFxSzZHZ2ZiNUFnZCtzSjlydlhrQyswdlNZbGp0TERtc3lERG5uRG5NekJnTU9WcStsYmNhOSttaDJiWjV3RVB6dXNWckptdFROR3kxeVZHN3BBVVMyb2xJcnFoNmxlYTFxWUZHSUhQWFMzdlgzS2xGYnRLQmc9LS1UT2NJVkRoM01DWko2TlN4dk1KbEV3PT0%3D--9ad5006da5b05f8e7f172e63c023ead6dd3274b2; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Expires: Tue, 23 Jan 2018 14:00:38 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/gsr/login/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 14:00:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

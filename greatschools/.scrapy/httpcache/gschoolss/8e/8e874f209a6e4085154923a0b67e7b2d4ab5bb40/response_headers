@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 89485c46-f5f8-495a-87c1-11f516f94c28
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-clarita%2Fhart-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cGtBZ2pJNTNMZjRzK3Q4UWRJZm0zb1RsWXdCTk56bkgrVTRpclhFcHVPS201cCtDOHZmQ0VGKzBZRHArenVBbjJudDJLQ1dWSkc4VS9Wc2h2S1pUU3R3QnpaUms3MGE2TUpNRXFwb01hVFJqRWg1bFRDd1F5MkxGMW9IemVJM0VZSzBxUDRER0hHVmRkRHJMeVVrZ1ZpZGZPa0Z0ajkwYTdqZ3Vvc3crbkVQS2RXdEhGZVYyeTYzTm1YR2tuMEVYKzVHNWpOSTlsSEVualZ1T0ZVOW1YNzhOdUVRYk5qZFo1TEVtTE1ZOTErVlRYNGV5UVR0eGJrSlc3TWRXRVdqWjMyNzZta25YMXF5RXlEcWZHZWkra3c9PS0tTk5lSDhwUDFlc21KeDQzejBLeEFkdz09--7477506bf136ceac936996424c86936dced7320e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

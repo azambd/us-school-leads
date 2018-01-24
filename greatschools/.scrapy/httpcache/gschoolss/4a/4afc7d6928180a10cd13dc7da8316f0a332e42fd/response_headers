@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4f6063ad-2a27-4d10-8e25-c4bde25986e8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpope-valley%2Fpope-valley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R2pIZ0VyNzN0bHlEQU5GRFpRenZ2L2NkTnpyWWt1aTRsSW5FMHlPMm14WVU0SUhDOStVaWVvdEw0RVl0aEZlci9yWjBtcjNhZlR4ejJHUC94YzRNTjRnMWt4MG04bVlFNzlUeEs0Q3BWSTd5aVRFb3Rmd3lpZDBUazcwWmhtUFVWRVJNNFhHR2hub0ZQY1F3V0ZPcjdDRDBvYlh6RXh4QXFDckZ0dnBSM0RtTHhyN01yS3BEZnptN095Wm85aE1LMmJ5ekZ0ZmlwbC9kTmhYRmVDNmxKUDNqZTVLVG9zWElKTjJudUp6YkRmdEM2U1BDQ0djUnRyWm5hR2RFNE9td1FoNnloZTFnazBxS0Rqb1owM0RuVGc9PS0tbDN2V25DYkxiNVI1NkNKM1dCcHNMdz09--d7c6072caafe4e460259fd433b88baf52ac50411; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

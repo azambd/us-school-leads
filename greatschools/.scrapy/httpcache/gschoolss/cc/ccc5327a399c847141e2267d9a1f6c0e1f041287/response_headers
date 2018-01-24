@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3d39df77-7e5a-484e-bbdd-80781318bd28
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Fmission-trails-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VWFqOEQrWVFwc0hmTHRoQllMcVJndFRXRFU4Z0xVVmd2Vk1odWYxME5XUjBBVWZOWmhRMXVUcW9ycEFwYVBVVDRsckZ0MVk2SWp5bUFNajhpQ083M3BSUHNzenQ0bFE1UTlLU0dqa0Q3dStHdjQvZGNLclVFblZXNUZzaW9EV2M1dEdJUk53dG9aNzNNR2twMWtVRDZVZGtRbE55ZTZGRlJhSDJrN1IveWMva1gxUmJKUW1QOHVoT3V3V2g5cUtER2w1S3hpS0R4Y2dkazlmOSt1RXhsNnN3RjNqNnNnWFpVQTlob0p5QTh6RTVDTXZ2VFpxMHhTY1ZocGJ5c2RicS0tNERuSnQyYjFMNG5PQkRQLzUzaFIvQT09--74cdd2f47530bd6971a68fb0d4e182a2aa3bc631; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:17 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

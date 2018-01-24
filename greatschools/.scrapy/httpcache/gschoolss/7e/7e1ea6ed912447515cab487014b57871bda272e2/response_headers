@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8d3b9b2c-30e8-4556-938b-ce7f6719a4b4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftemecula%2Ftemecula-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T2s1MGpQUTZSNC8wTGFxZlNNdlNVUndPUXBpc2gxZWJoK2VwZ3FhNFFvMVlPRUdBSXZFWUJacmhSZDF1ZnYrQjRZajRQUHdVUGQ4RnNMQ0E0RFpDVU5MazdESTJ3TjAxYXVHcEpqb3k4YUkzcjBHSTRKNW1UR3VRUytXUDZBQWRkSDk3RSt5bXpwM3A3b2NMUUFYK3dySHQyeERKQTNrMjY1ME42bllhYXMvU2sxaVhuMkQ2bndmaWJrRFVDR3RNOGxnaTV5Mlh4ZkpFSzNJVVRKdnhIUUxGN2tsa0twQlhZVFBsZC84b0RIaWRlMWMyKzg3dW1GcE15S0hlVFU5My0tYlFuQXVRczBJd21LSkJDeFJYZGlKdz09--d5193aa207000894ce086233d2e0fddd70107d08; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

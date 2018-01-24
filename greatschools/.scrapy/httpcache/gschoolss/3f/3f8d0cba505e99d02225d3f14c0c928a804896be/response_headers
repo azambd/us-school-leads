@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a45e78cc-77dd-43c7-a57d-4856de38579d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fimperial-beach%2Fsouth-bay-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cTFSYWpyS3ErQ0dWblo3T1BFS3hZU1BmOGFBSHlZZkwyUUQ2SHFkaE1TSFAwSVhOdGFwcVo2SjVkR2orM2hKVXZYWkxMSUpxV045RVdPNWV2anpPY3pibUx2aGpsS00xcmM3aGsxd0IrTEQ3N282SzBJaWFQcVBQNDBnVnRMRGowZ0UxcUFjUnFXRUlyNnA1QzBEQzJsaW9sdzVsSm9SRms4ZnFqYWlOM29LWjBoTjQ4d0dURDZHclpjMklESnc1SDRoMjVZd0cwbDlvQ0l0MlZEajEzczZaVm00MExDNHJvY0FQeGlKeWhsclN1dy9taVErd2hwWjI2TXZpVDNLUnpMMHo1V3MzTDBjeTBTZDhVcU14V2c9PS0teXVFMURVTDBKaUhwNy9LTm5LSkNWUT09--bfdf19b0bfc2f4e66688489a809714ebff82319e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e95e90dc-364d-454e-8adc-c45e0b4596b2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-ysidro%2Fsan-ysidro-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WUd1aVV3MVlpVXlJQkt0cHh4cVQzbnZYQXd1aHROcmpBWk43eCsrbnhRSWhJSm1JNVIxbHhoOHpGZjFhYitZQ0VtMFIvVVpLNTRxTHpnQUQzbXM2M1FtY3lYQVF0K1dGT3Q1Q3M3VHVRRFdJVTZpbGl5R2Fzc0o0T3FWVWVXZmZrVWwyQzZET29yZlZicWdrSXorU1J0MXllM0QrM1hOSmI4ZmRkUVY4eEtja1k0L202RlhOT3lxZm5lVVlhZFFrUUZQNDBQRlRrSUhCQ1FSb0NCVk5PUXZYeXZRWEZtUi84YXRBaG53aGVFTC9FOXdnUStiYy9wTnhEQmlLVUorRHI0a2taazBRRlJFNEpUZmh2blRLN2c9PS0tUXJqZGI1Um1OekQ5V0RFWFovM1BaZz09--780f2d65e128b375ea3c1bac9777093512d715ae; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

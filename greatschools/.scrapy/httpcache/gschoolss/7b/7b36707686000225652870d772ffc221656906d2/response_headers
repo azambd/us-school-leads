@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 234ded8b-be65-4e78-95da-c907dc650fdf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredding%2Fpacheco-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=KzMwR1JhZHRheFBQVnU0aWhMTHBDVllSNGNqSTBMMUNkclZkUmdRa3U0T3l4K0d4RmVzSGpmUFd3LzIxM20vTE5lVk91NnBGWm1qemVLOSttSGk0WEpsRG93NTRQUHYxYTZQZGtaTDFQamYwcW9BeDhtTGVaSFhpamJMaHU3T00xa1dpeXZxKzRIMUFzTDRjSnd6K0xJNFEvSmJvUEVzWWZ4bzN3UytXRjZ6cjFUa3pwU1ZJYS9Nb2p6SkFLUWZpYkdqN1pCbkpMY0Q5SGhOY2tyYUxNejhVendhbUNGVFJQVnd2Q01DN08rMFBPdkdzNVhIK3JScVNHbWxEcTVQcC0tMHJRdGJicTBmRUQzS1ZtekVHN2dWUT09--aedeb6a6b66f45ef96558ab0c634a4bf772134e0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

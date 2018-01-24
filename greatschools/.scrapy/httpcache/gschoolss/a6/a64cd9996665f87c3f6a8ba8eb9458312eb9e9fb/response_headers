@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ea2fdbc2-4962-47b4-8cc2-748bcba97a27
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flower-lake%2Fkonocti-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OGN2cXMyYmdKTU44bC9kVW10YmgxMGdyMFUxZ21uU3plRXJidWJrS0RkcXpjbFp5b1FLazh0eExvcXdabUhRSC81RUxBTUhwL3JHVU13VE5xQlBTVVhQbEJLM0tGYU9vWVBUL1pCaXJ1MCtrSkVKMnhoRWRNMlBSS1pHckdHNENFcEVGdW5VMTJCY3RqcFBkWVdrV0ZORHIyRkd0WGZnUlgxdWdHTUltTEh3MWdMSEdpWVFCN1BSUmVPeEFwYXk3alh2N0R4aGxlaXJPdjFOcCt3bDBQOGV6b3AwTVFOWXdrSGpkdm5Fc000MkxmSm1YeTZKNkU0bDlQYUtPMm4zMGIxbGFYV0xQeENGQytuOUc2MmYzd1E9PS0tMnJERFEvNjNmdFk0RHZqV2RlMHcxZz09--a54f010c9fe33fb1e8905d16e653d9ed35a8c94e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

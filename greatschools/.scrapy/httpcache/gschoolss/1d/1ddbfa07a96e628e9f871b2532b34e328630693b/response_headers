@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ee011ca2-310b-4fea-98c5-1619e8492669
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fwright-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SHdPd3krRXg5cG9CMVZ2TWJodU8wMENIZDZJbXRZUVB2K1VlYitFS25kRk5HVU9UYjdkNVNkVk8wTHpTQVhMcEhBeDZKN1JsWktub2xSb0o5RXh1Y0dQc1BzUVZ2SWNOaG5sbUZINW5wVkduY3RIRVkzeUkrSkRUM0NWalI4NmlGQ0c1THNyUTYza0dZYUFYcFV4dHVSOHVlTVJQQnVvQXB3UytjRVU1K3VRdWpkQTZDTlhDQThYNWJkVjVGQkwySHNJTnVYeUc0UkdBMllvbnFIOUhNc2JDdmp1ZTFsZXRXTE85WDlBWlJ3RmhqS3lLZExsUWZpZ2xSZ2RQV2dETEFFcWdSK0Jpck13TlhhQi93R1dMNXc9PS0tRHFCL2pUK05kUEt4dXl4ZDd4UUdJdz09--7ccd33e0185c0141f920acb55c9b4dd57d230d54; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

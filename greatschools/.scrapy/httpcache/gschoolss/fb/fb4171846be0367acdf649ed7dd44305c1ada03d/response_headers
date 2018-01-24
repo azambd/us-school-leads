@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 26333d7d-e4b0-480e-b775-c99a0745ecfc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpalm-springs%2Fpalm-springs-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=alRlZHkrVWRZbG5QZXFRYjVxM3pJcGt4d3ZNbmRTOTViU3dVMndsWUJlVTVBZW81Nmg5TGRuNVBlWXR3K3JJQTkrMmNEZzgxNUVDOHlJakJXMktwMzEyVWhFTmNqcWd4Rkx0RDJWOEFOTmk2UVY4c0hqZjBpdjI3U2MrRjRZUzdvckVWaHlDQ0VieTBWNVBNakhvdTZGS0YzRmY1SE8wZkFIelgxajBGVUk1U21TSmdHdUhqNGhEbFVCNzVENGlyUmJIYWRPelJoeXdHME11T0ZOcXBnbmdGMnRBVTE1aE80czl2M3BxY3JvRFZWK0ZSUjhaSWJySkw1TFRuQTZHOHBnaVl2WWh6dWhERXl2TVRGcXpjUnc9PS0tRXlDT1g5clNqN1p5QzYxb3hVVXFnUT09--3f7e8771841a989ac81a9628b7321cc70953f218; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

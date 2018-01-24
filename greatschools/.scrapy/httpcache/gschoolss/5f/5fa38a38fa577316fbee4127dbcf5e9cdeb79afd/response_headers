@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 38903f02-c6be-4900-a5f0-e404a0eca698
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fmetro-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q0U5ODB1dmVKOHY4cnIxUlJRKzBaR3A4eTZNUGVMS25scHZrVnVBYkhNQTlJdzdFaWFQNkZJRWo5SktqMFBjcE1LbSs0NHlmMUNaTER5eHBTeTRuN2hBc0luYUhkMVFWR3lOdDFTM3N3THFhSEk2YUNTZzdyNFNjeWhMK2owanhDQkdRVFJGbWtmUVdWUHpzckt5TU9UZ3RCS2MxL2V4MWN2SU83bW1JaUJ2dlBWSjJXWmFmdS9MT0xtd21IZENOWXJjVVhoMlJmcHdlUkg0VEliUXBmTDU5MktaRWZ6aWMvWjNVMlIxUnZKZUNjRi9iRkloTjVURzVSV2lDU05Zai0tNU1UUXlTWlpybjFLU2VZVTBleFdiQT09--d7efe20d31050e9f74ca239d249366aef9d15767; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

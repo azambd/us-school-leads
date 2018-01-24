@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7db7441a-60e2-40a9-9441-b9d149ffbd97
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fthousand-oaks%2Fconejo-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QXp0bmpxcFFJeTFJZUhmbnBjKzhHT3p3dzdGbHlUY2VwMTRldWYxNzRaaXJucURYeEFsV2MxbEZXdURISmVwV1U0YXZLcmVpdFBQb204QWxFSUl6ZVFXZUdtTTNXdFIzYXBPK3Via1FnNnA0eU1HMy9OTG1Ib2daZ2ZDeitqN2N2OGoyMjg3Zi8xVVNJSHY3eWwyQStJSU0rVFN4WDV2NUlDeXl4RVpGMjNLZjFKalNTYjV5QjNsSkp1U0p3WTd6RTc4T3JOejNTMlNwcktjc3ErSEVRcUY2bWlYRC9nc2Z1Q2VyZUhsQTBoU1lRRG1BUWhqY21tSTg1REkvKzFQQ2M2UzB0VVVtZmk5Qkp1Z1kwb3pXZ3c9PS0tU3VKVlBPQXROeENDUHkyMlVYM2Ixdz09--ebcc7edea30477b58b6f9cc74280c37a5fb478e1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

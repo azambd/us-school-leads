@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 50ca857f-05dc-4b1a-bf01-8cec29de104c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fescondido%2Fsan-pasqual-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cFRUUjR1RjFkMjlHRW9YdXNja0xiTSs0Y3R5djU5eklKSWgrTi85YWE3NDlTeE9IRi9xVjRXbTY2Vmh5Wi9aSW0vVElpTno0dGVEY0VSRktpMGxidW1sTXBTZ1RBa0RuN2V5UVNBbUQrTENUOElsS24yTVhPUnJmSGpjVm9TdDN3NXFsM2VjS280Z3pMd096Q1NNQXJBV05oSWtrMHhJeGd4SGo2TU40MzJENDFHU2Rtamo3dDhuV2pWSGhpTGluZEdZUlJGVjYxcHZsN2UzUXQ2R29HaC91NXdoZ1pMTTVETmVYK2NxaGJhYzVUOGtSY0FwZ1lDMVUvb0hYL0szQlVzZWtjMUNUaW1FS2d5RmIzNEhUUnc9PS0tTFN3a3hhWUZJQll4V000Q0ZldE5sQT09--4447a12e1944ae778f947d6635e4244229bf83a7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

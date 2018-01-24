@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4bdb24d2-5afe-4acb-a82d-e20fa46f4a75
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhayward%2Falameda-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a1NMQXJrUTdjQW1SeVF6SGFtZUVkTHQ3ck5WbVpzc1ZCcmtBSzFZbFZPMXlDSm5CWWhPZms4R01maUh3ZFFVRkJFMVBEYktyMlJRVTFqQWVtcW5pUFJUblA3RHJGK0FOUTBHVWFjUjduU2crS2NWMldhbVc3cG5WdTd5UDkwcnA4Qi9ESGJRV0tWR3dBOWxDSUZxSVdPUVh2NFAyd2dWNDdWVUU2a05jVkRrUklvNnhwaEozSTZaMWpBU3JqMWtaMWdSNHdrbDBuUTQ1aGVpVHJrd0xGTVIrT3pua2NWelA2MVNSOWxEcndtWHpaL2VrZnlxQjBCUTh6QnZYNWpQbC0tdEZZU2FtLzRWQUlRS1NxbGIrbldZdz09--d87b0613b32060b9b5519895bf80ad776220e097; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

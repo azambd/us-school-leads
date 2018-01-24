@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8990dae6-0256-43fc-a7c1-975e9019208d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhayward%2Fhayward-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V3d5cGkxZ2hXdEJHVTZSa25lV0Q0Z2NVQlE2VWZMRzRoQTFvVjNGWVNoc1EzWXhLRi9zS3psYmFocEROdEVvZjN0Sm5GdWxaTWhHMkh5andpY0cyWld6S2RUbkpoYXo0cWR5Zm5LYkxXNUdUUjAydTBVY2RSUFhpelIyRFRLT1FHL3JOUGg2R3Q5L3Z0b2NDalZrNDV1UkpCeGFwcjgyczFxd005VEF1cndBMW1YVldrckk1VkYraTc0VUp0VnVBalI2djU3WmZ3bGV4V0ZkRGM3YkFVM0crYUFQcWRxd0RQQXVoeWtmTnFCTDl5MGtMRHBNOExpSi8rTFBPU044bS0tWkFZU3p5dEdkOXc5dGdERWhUU3RwUT09--43c822b67408c7ad3b5ed2bb4157475f854634e9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

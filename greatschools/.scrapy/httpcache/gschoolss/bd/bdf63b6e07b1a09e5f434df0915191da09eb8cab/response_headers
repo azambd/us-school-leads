@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4c321b1b-31ed-43aa-b166-5b1d484ad475
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foroville%2Ffeather-falls-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a2swb0ZabTFpYVFQVmZxMkEvRUF0QzM1SkIyVm4yeVB4dFcyNkdaSXlyQlhvc29HS1VxQXY3NlhtOUNQMzVqdmdTZlJTamVCbzlTcSs1LzRYS3plenRCYVp1bGRJdU5QdFJqQjhDL2ZiVXhQWFAvT0dMQm9pbDJ4bWJCYWo0OUEyWWVPY2xaenBMNUF2WjBnaUhsRmRDcVBzaWVJS0MwcGdYb1djVnkxMW5pTDkyM3djR1FlWjlaQXdKc3ZUcTdqSEliTmNiU0pZV2MyMmRLWUhZRGVQUWQ4R1R3ZUlYT1owVkEwU2JVcmlhTGc1enRqaHBsa3FzUHlUMXVhdGtIUC0tNnFIWG1FemlJQjNyODRoQ0FTQWtlZz09--b0fd56da9a09f3f49f1b9b7ebc6382213291ff05; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

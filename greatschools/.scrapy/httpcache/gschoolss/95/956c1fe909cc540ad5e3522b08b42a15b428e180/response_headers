@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: db05bfee-300c-409a-940d-a96c39daa39e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwrightwood; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eGNzakZHb2pXOVlRRit1bk5ZMCtEOHk0ZjEzYU9aZ0t3dmRNVStiM01vbTZrZDBwWmEvNytVTVFiZzBkMlUvMHVoeDV2d2NoNWpMVnRqUHlUbTZxRGJiNGZIbjF5NlBtNzJlZ1NFQW9NRUpqYjkwdmliR3k5UFFpSEFPYTJVUDJrQktUV0psdHpkdXBpRStpaDVGc2FGYnBXRmxONWE4TzFZMDA5N3crRTBWL1BadmRMZWh3amJ4ekQrWHcyMXJmSGh0cXJnZ3JMb3ZIVGJiVTlyeHBRMkxXSXFiNEZPbjI4WXF3YkM4YlpqWVpqU3Y4Ri91cFQxUUFLWGRqcVRCUVdWOEZoREpJZGh3TXVHeHpyRUtpeDlOM3NIZ1kvWU40cVFkWFFaczNkaENZS1U0RjFYL2xpUUFDQ3ZGeGc4MElDQnBVanpaNStMYjNIbEFpYmlSL3ZXY3QvU2RvSWJHTUhaN2lwVEpNeVBxL3NrMmlnYmUxaG96MnpnZHM2djlKOHRLRVpkVkJQZkJiakNvYjFaSGVlZz09LS1Xa3hTbXFqaDFsQ2tGNEpCNzBQYVVBPT0%3D--5f1c31d6b27908be89baa374ec4b56c383e50d1e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

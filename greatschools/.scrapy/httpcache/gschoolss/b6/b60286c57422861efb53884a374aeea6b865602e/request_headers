@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6951%2C%22state%22%3A%22CA%22%7D; _gsweb_session=cHBBSDVBTVVFUi9zNlhnN0oxR1NWd0M0d3piZWJlVnlEY0ZrTDJnK1VaaDhDQ2R5blpQVE1PbVptY01BVk82bU5mSU9ySExKWHNJVDdqeUdYalBoaVZFNmJNOUVYMWgwNEFFY2l5QTFVcmN4VUpvejRObHFOVGhFc1RJdis3dG5yUUx6MlUzb3h1SVBxZElpRDR3dnpKZFUwNWlGalU5WUZlelRwQlpNNEFmNjljTmFSRVd2OS93MzlRSTdiMHhzb1AxZXBBR1J1Y0gwd3ZSZ2RWSXNqY1JPK1ZxNG1sdTFTQmhPT0tmSkdCUlJHSmcyZExDTGJ1d0dFeEFuWlhFK0RVOXJZZWNjaENzWG0vTDZqUXhOR1JRb3o3cDFBeFJqV05OUFFmZDdTRkQ1aTJaaWhLU1lmNlNoM2l2TUU4OFBBc2h2ekJkK0NqTUdxOU5KdGNtSUpaSE0zWkRqaE82UWI5aXVFOW5oVGovWlgrNERjcmswNXlyQzJVSGpsaklScmkyQlorb1FYL0hOT0ZpeUd1M2REQT09LS1GdGErNi96NDRDSjgxeTVPOU1TWE9nPT0%3D--56e4276d7ef35ada19f20d23f30ff55852491350; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools%3Fpage%3D19; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/milestones/is-your-4th-grader-building-knowledge-from-reading/?lang=es

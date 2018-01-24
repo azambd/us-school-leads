@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c20545d5-cfc2-418b-8d2d-8a6bca8063f4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmodesto%2Fstanislaus-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z0loZjZTTUtlVS8xbGtPQTBvRnRQeVFCTFh0TEV0RGdKWDdsKzB4eWhpVFFwbGxTaU5EY1VnaHFGVWk4cnUxYW5rbTk1SzdPQUpEVTRwT3ZoQkVTaTV6eHhzTFpHTlhtWU1SNnFUcTJaK1FRdVJTZlVzSlAyRUIwTWFQQ1JhU0pnZzJVZ0ZlNEVCZHBGVHU0RmVsbi95M2NvYTlDV1diN2dJZW51R2wxekJTVWpxNGlsOVdrNUk5TWoyTm51WmFkVVN4VXpYTEt2bHFpR1NFSDQzdEZpZGFGaWF4YVBvaUVvam5oZ2RrWWJLOWRFLzJDZnVPZkVIZ2tXS1RqaUxqVy0ta2E1MDA4RFJxUGtXWGc3a1UzMS84UT09--dac5712a8393459097155b1270a538f6f85aab9f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

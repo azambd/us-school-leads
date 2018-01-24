@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f8c4f0ce-7a52-4311-ae74-4b34d5e02350
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdenair%2Fgratton-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q2ZOTCtQc1dVYkY1bjF1akQyZ3RCT2hLWlRLSW0yb282WU9GV3NYS045azU3Zm1qVTYzUHQ5N29rVjBheFJHMDhzSjluVDdSL1NSWjdzUkpVVGx0Rks1Zmp2WWhLNGgvY0hSZ1ViMVQ1Z2Y1QktrUmtVV2puYzMxT2RXVFdUSXVzcHE3d0FQU2lXQk4rdHhHK1BScjVyYXpncnpiRnc3N0haYVErTTRHK2dZOWN0eGxWSHlBbGg5VGJqQXl1QVlIdU4zZkpIMkVRMkF5VFhwazVRRDloMUlhY1BtUWhkMHUrZENzQWNKSkR5MHR5N3FLK08rekVid05LWUdCcndnNi0tU3RaMW00SnhZVVV6QWNoQkNWbEJpZz09--2acb28292f78a70f4138549b334edc98115f5988; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

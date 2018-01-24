@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 25121bef-d795-4bca-b665-68221cac5f31
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcerritos%2Fsoutheast-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SnkxWDA3enNvZ2x1a1k5MVorK3JkMDQzU1grODZwUEdyZEtGZjQyT0JjTG9QUDdBSnRSbTNMRDBrVXlFRmFPd3ZwWVBSd2VYdlF4aXZpcGg4RHJhVmU4VHd3Y3JMM09GVnBGMWxZNEljZ0RReG05SVRYaEJUaVlIekpqTFJneER3dzYrYnN6dHlMQVpaQVp2UzJObGhJelEvaG9HaWJ6YUtWR2xoRnIzYXlMdk5sVU5nalhZQlNJQW0yeVZEL3NMWWlWbk9KbGtJdHZ3dzBERUFuYWRyM1dnaXFsM0RCbnI4cXl2R1c0NGZrdGFwcEhROUpsNStUcmFzaE5vaVI2eS0tclZZYkRpcjFCdm1iM2xHaG5zVHNIZz09--791313ed39fbb7bf2c2ac673742806eb374b4fe1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

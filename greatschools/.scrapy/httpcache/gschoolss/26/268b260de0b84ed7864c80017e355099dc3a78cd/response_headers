@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 81cc9d69-2b34-44f1-8bbb-16f65de59894
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-gatos%2Flos-gatos-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MGs4WVFQNEFJV3NINWdub2dweVVLUmFZbS94WldPM01jRGhYeVRieTRJQlZWbysxNGl4aTNqVHMwQndxK3pXcHFIa09MaHptcUw2Tm5OYzlrZXhEZ0V2cndQTWo4RzUrU1Q0eGd0R2RuTENyVlgyZEFqeVFLcU1PQWFJM1VRQi9ZUWt5MGphOTYxUHNUcEJmYjVVOFF3L1JaaHVRbjNNQ1FVMHIxbUxUL3M3WmhvRm1NS3NwK25CQWduOE5WbDBQQTQ2MURoMmpMWFdrQ1hHOVN2MmUxSUI3TFZTQUc1enlaRU43RXFFcy85aFNrbS9QRmRkUVFwV1Vta3g2UHhDTWM0Sjc2dkFLZzkxUlEwMUNrT3R6Rnc9PS0tR2NLeEczcFpPZWdTMW03V3dtclFIUT09--452f7c5a595bc7062b5c0040e4f521da045169be; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

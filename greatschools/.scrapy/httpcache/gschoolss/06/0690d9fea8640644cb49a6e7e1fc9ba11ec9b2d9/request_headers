@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=V08vTUc2cGtPUDR2VGFPTGtMWFUzVHBTbG1Dd0gvdHd2U0s3OFBQcG9oUGZRTHRzTjFZajE5S2FnbDNaU0Y1dmZvTGRNbHRCSjNuam9rZ21zQTJQcFdKOTA3bWJqeWRvTGViaGMvRnROTklkQUNTMVdNOFRDRk5OcTM4MDdkbXlQTjd6SmswQzFpc0lLNmpLeTk5NnRoM0x2b0txaVpwNVhOY0ZwOU05TXlmSWdySUtuUEdaVlRFREpWbW82bGxaRWpxWnNQbHp4UG9FejZ2cjJDeGNDODY2Wm1DOVpSU0RzNjB4aHcrcmNyUnF5Y3NXcDNjRnRMYW10K0ZyaTRuWC8rbXZ4Tm0xRklha3RPK09SVFd4SkE9PS0tSUFIdVRxQ2xoZHIyMytXVlZpWGdsZz09--de9d787ed1ff8ef9987ac4aa7d5c49b0d5b8f356; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffort-jones%2Fscott-valley-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

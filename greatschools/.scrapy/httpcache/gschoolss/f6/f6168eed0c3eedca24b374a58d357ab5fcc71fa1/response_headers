@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e638362c-7072-4f35-bb71-bef4a74ced9a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fraymond%2Fraymond_knowles-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VkFoZXZQY2JvQ2laSkxuZng5U3h0SER2bkw1RXFoNHM4dG1aWlJIbVJrQnB1cnB1VlIyZ0pCdW5SSlcrQlptQjJhVWtpWXUvNmVTTWtkeldzcld4cmhQbmJXQmFMS3E5WWRiaHpuUjUwc3hSajF3d08xU0NFVFdCV2RjaERud0tIUnp0THVNM2hZQ1VzMmFHVlc5cHpwVVdZRXdVbVJZb1JWVGVzZkh6S0lIWGliMnF1MC9ob0Q5NEZWbTlKRFFQaXZJY2R1MkkyNDZtaW9pZkVlZnNzUVZvb0tqUmF3Q1JEZ3VRc2YxNytmVHZyKy9mMUhQaWVPYmorYWpKY1VUeS0tMUNlV0l6UXdIL2hrQlZxOWhVNzc3QT09--884db327eee5084dc1904d0da7f77e0ec8d2a78c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

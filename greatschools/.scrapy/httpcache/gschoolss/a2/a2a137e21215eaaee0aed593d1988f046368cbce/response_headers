@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9c8c8fdc-587d-4efd-bfbb-6f34259175a8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fmassachusetts%2Flawrence%2Fcommunity-day-charter-public-%28district%29; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=elovU2YxUmg4RktGMDg0VnFlbUZaSU5lKzZSSnRzRVZUdzJRME95LzJuS1p1OVBCbzdTQUdlb0NMcTkwQ1Z4d2UzNGtzU2hRMWUvYVpoL2hFL2tCVU9aT3A0eWY2WFNDMXpOS3cyU2xYc3NGSXY4bFR3cXpFdUllaTFBdENKUEhhQUdpR05vNXpZS25tNVpNbFFMaTRYQ3I1bW5rcjJ0OTZicG1DU2szelJZVk9QRHJ0NndxWkxNSE43amdkR2NhRXNvMkg4cWs5dnFSREl0OWltMGNnekhqRW1IbVQwYXVuenRuNEY3U3Fpdk44YUhtZm80QlBYQWJ3eDBxaHFLUllHNTZTRzQ2aE1NdzlHSVdNblZQdXdCdlNVTVdjVWdlRjlEU1pEYkFzYnhESWM4V2F2dkg3YW82c01uYm9aeGZjZURqdThzZW10TWVzOFBhVUUvZk8xMnFJbFR6ZjZDOEk4ellvUVNHM3BUMFJ5SFNYNWc3RFZDdDZPTll1U3lGYkI5NjNsVWtabFlFNVNDazRyZnVrUT09LS1ZaXB2dmdXZEs5b2pFdld4UTM4dE1RPT0%3D--d786a2182b7c2a7dc244299f731c6857c6cc3774; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

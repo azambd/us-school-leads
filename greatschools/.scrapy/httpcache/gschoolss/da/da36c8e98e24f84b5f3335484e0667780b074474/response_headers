@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 38396b5c-14f3-4d35-9984-73e7dd0a3494
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftuolumne%2Fsummerville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=THVTcXVxK05tdHhVdTg3UlVBYWNvMzhwREgxMFJJRkdqVFkxQ3d5T2plT0ZGN3A1akUxNGhZMkJHSFJZWmtXOUJqYTB1ZTJHNWlpYTU3emg4Ylp0anZoU0JWMmd2MXhObUVHRHIwQUNxS3lQekszTVhQM3hJMEsrNk5lbGtxb1FmYy95b2Vrczl5dVVab0JydVZuMzVqcVRGbkFBOTR1enpaR21vVXhhbDF5T0dEbTV3UnpmeThYZWpYMitkQTJTanJ4d0I5SEdqV09xbmVvQjFsYWx2YmY2RGhndFlQTnhWZzVSYVg3L3V6aXlBSTBBS2ZWa3FkZnpFMlY3RWJlSC0tbnFwN1VzU1ozaHc0TzBUUUVtY2lUUT09--6925d06873ca9389a8b42c6051ce6c32fb8c21f3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 61e27edd-0f1f-4d32-84ca-11077db1f1b2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpaskenta%2Felkins-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dUFNTCtHNHEwOXdwSFpBeE4xSWJGMWJFZkhMellDY1JjbjVTTEVjVGtPU0tPRHd5bHVnS2dtK1BnZzVsN2FDbFZaU2I4NVlNVS9OSk56dXJLMXZhd1cycDhENHlDcEpjWFVNaHgrbGt0UmZGTnMwdlA4a3d6ZkhHalo2YVBhZThSMElDcGhlaWJqZ0RDdzh1ZDgwZEpiTXFucGtsN1E1VnFldXB3dEdOaXAyVk1mYVhmSVRqNGNoVlpTeWtPV2dndU5iYm1yUytkUkxRSGRkaWVrRHNNaXowMXRYZ09EV0FDd2RGaTZVc2FTYmIwNVRLSy9zeDZMWFNPem9LL0o2Yi0tL0ducUI3M1hSaWtHTjRhaUV3S3Erdz09--5d312f707b7b5f49f65f7893e7bf6af5bcd589d4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

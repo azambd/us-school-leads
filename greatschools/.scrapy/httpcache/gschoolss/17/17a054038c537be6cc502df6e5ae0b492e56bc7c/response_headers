@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8fcc8c1b-fcd3-4e2c-a6b4-8b39aa56e6b7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-gabriel%2Fsan-gabriel-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eUROYXNqWVdDT3hrSUk1RElmSkhxOWt0bjlCUCs4ajN1WkNNYm5kYndLSkdtMUtFcEVpT2oxZG5TalRLRnlDU1hUMER5L0FpOVIvZGdCeGNnblV2cDlnQjF4Y0JKMFhmR0Y0YURBc3RqQkNsY3NpcEkvbXVSMmprS3ZsSkljUTBlRGxONTRORElWM3J5NWcycGdPUUd5Qjd0d09tNWJ5Vmdtb25FVFRDbEtWcGJRUmVXbDgxMC9xQm5wNG5ycXB0eUlXYkQwUFpLYnc4ajcwRkQ3YURnWUFLSzMxbXNjVk5VRlNwZkM5dWxsMy9IdklpN1dOZjFNcFZZeW9wdWo4WDBPdjRnU0xNL1dWUmZFYnpLTmNFV2c9PS0tYi93WkpDazdNMlR1RitNOEhuak5xUT09--1ac5a8e54898203b286cd59077b3e667216955a6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

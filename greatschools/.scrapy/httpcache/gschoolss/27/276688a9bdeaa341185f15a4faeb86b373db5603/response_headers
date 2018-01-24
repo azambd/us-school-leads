@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 07ae0d87-aaf0-490a-b20c-3971892cc5bb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsacramento%2Fnatomas-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OFVvbVBPOXF3WDlQaUZFOUtyN1c2RUMvTWpiMnN2QzlDRkFUTkphSnZkNE1WOTZRdWtKOW9ZYmdBbmt5MzBsWHE1SDZkOXhKM01sbGN4Q0V5SVpqZGs1NFE0OU1GbHdtOEd0d1B5b3EzS2VtaDBiNFRhODBMZjN2RFJ0NXgvNlJJZHlyT1N3YUZKQ1JGMExjdURmNzd3YXdGQzFmampPUDM1TzVCZHdtOXJwSUhwNk5iUmRHZlhtQzF0NVd1NE5rdUVJbTBUanUvTmNUM0JFVHhza2VVVno0dkRrblcwNnJRcGRZbjdhMEVlVTA3MkhSUXMzeFVzRFpQc3JsZ0M0UlBNNkRiZzRzSTVmZ2lNY0hmWUpoa2c9PS0taFFDa3QrenQxdE9GeVZOeGRHSEtvQT09--5d610266f3717e90b2db46b7322c9780405bcdcd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

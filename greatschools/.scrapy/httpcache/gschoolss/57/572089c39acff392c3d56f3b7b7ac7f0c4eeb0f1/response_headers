@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 13b9fd91-ed29-4000-affa-13869d541c8f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fred-bluff%2Fbend-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UzhHUVVLanZIaTJZcTYxNDE3b0p2Q2p2R2pIenpsMlBNenErT2diWTlibWFYYVdRZ21oQjVtcEpMbGoxeDdlSlRJV2wrRzVTM3FINHNOT1gybGhrT2JGRHN1d1RaY0l6N3hIbVNHaVB3QzMxc2JPWjBvQ2dZRVJJYkVmbGxRcGYvSEJDL1BQVGFsRFlGWVo5TGxHY2JuMy93S0VwREh6WkQrdWg4TjhQZy9sb1ZkRDlrZTFnQm5SVm9zWkdqWHdqZHk3ZWt2bndnQTE2ZW13RE00NHd6L2E5ekc4c1BsMVk2L2tTNklQSEhMM3ZtUFBmREhUS2xZZXFOeEdkYnhqL2h3Nk1MOHd3L3p1WGY3cGU0YWhXMUE9PS0tdTBBL0pFWDh0Qm1zRmRXTmFNVk5Idz09--61af1faf0314d6643d4a0d5a522edee3bdc33450; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: adf44d3f-5168-4f0d-9ea8-d309601aa4dd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fconcord%2Fmt.-diablo-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a0I0c1VBY2Y0ZnRTZDdXTkVraEJDQmlOUGdpN2gyWm5qV1cyNVBXc2RHT1JUYzJ2eG8xNHIzM1gvMUdCTXJvT0hmSC9RWGJuYXU2SHVnQktWZm9CQ1d4aUlyalBZM0t3M0VLTmxTOXdaRDBqMVZ1OXZDcmY4d3MyY0lVK2xrODVSUFUxWHNXRG1JdXlhUC83MUxCc3lobFFiamJCV0N6c3QzZnpMazQ4YlJveXpVNGlUZmphUFBxMkdiVDRlRmc3dmNJd3BSc0V3bGl0TGthTjBaci9DbFdMcDQ3cjdpSHp1cTVQZTI2cHJlTTgwUkJVR0ZFdEdjb1pwQ0VQQXNFRy0tUWtoR2RpTVNHVUhxMUFFSHZpMWdYQT09--516deac8413496fd18fda51e00b93038d847e12b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

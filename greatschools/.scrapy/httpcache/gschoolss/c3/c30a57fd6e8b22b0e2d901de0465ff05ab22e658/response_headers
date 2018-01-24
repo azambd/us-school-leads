@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a868b9b0-edf1-481d-8856-72276f695de3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fraisin-city%2Fraisin-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OXpyQ2I5djM2Q3dlOUNwMTltV1R3eFR1RjZxeWV0amlWT1RnQkNTTTFtNEVocHR1WW5ZSitTb2lBVFpiTFhzV2g0Z2hBSGxMSjh5aWF4cHg3c0dzQXNndXlxa3c4K0xPMUYwczJ3Q052SUwrVUZqTCtndmo0aHpHbkprS3JqeVhIT0tpWnArK1lsUTBzSDNFcHVneldPeVNRSFp0MWFtQS9jZXZGZjVZZ0JaYWdNTElLL2ZCVVFzS05QV3ArRmhINHJJU05Hd1ZsN2JuUnNyaXJOZFNpaGFNZC90dlpod0tMemZ6RFlmc3FaaVZtZ2kyYjloZ1BNUEtvNlVpbUE0WWZ4K3htbHU2TDVkRkxGL0lPOUd4b2c9PS0tME9mSEY1YW1NcmRNa2crTFllZTlmQT09--c3fb9a492121ea21a5519c50cf70aaa435bf61dd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

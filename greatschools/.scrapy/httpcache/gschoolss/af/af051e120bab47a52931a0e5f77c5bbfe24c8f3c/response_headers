@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dd7b905d-c805-41fe-801f-12cc8708ad2c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-luis-obispo%2Fsan-luis-coastal-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VnZpaCtNN2VoOXFnVEZFN0M5T2dnL1YzcGt0L0hTQXU0WGRTLzRoQ0xKVGpnd1M5bVRnN3hod0ZxdW5aZjNnOWxKTUIrNjJGQWh3Qk4wVFo1WmFyV2ZXaG1UMVpjdXExZGRsUGd2NlErdmE1T2pZYXJpUU9Gbi9UVUREV0kxVEp4QXdEODFlR0luUkhYTHlnT2FjOEx3RHdBQ0U2Y1dJdStiMzFxY0lObG1rTlZzSmxuUm1pZzZrYzM3UElJbEdjN2E5S2FTWjE3dzhTUmlBdExiZzA2NVRqc3FLQmNlRy9SQi9ZWC9QY1BlViszRmlHQXE1RUVrb0YyOTR4MWpBWjRqOEMvaWZhczU2ZnF5amtBSytJTGc9PS0tWktaU05LTkJrMk5qNElDS2srZi9Tdz09--ac2c0f4fbea27adf2ed9c77eca428bc0bcfce6a1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

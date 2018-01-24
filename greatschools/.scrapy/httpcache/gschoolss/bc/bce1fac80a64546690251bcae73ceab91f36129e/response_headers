@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a10ab9c6-a16e-4e7c-9194-6455d40ad903
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fla-puente%2Fla-puente-valley-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cE8xNVdiSWNyN0F6RmpRS0VpNXJGY05sWkZDOG05OWpRLzM2aWlQaldCaDl2V0Fhdy9oMVNMK0l1V04ycjF2VTcvTGYzTG9sU05vVWVMdEkvVWZuTlc0TmVrQ3ZDM3hXTUZxd01ud1BLZnV1cW9mZW5ZbjBxR1pXaVRSMDNBVXNGTG5jUXBlRjdDQnpQR2JkV3NJWk94VEFLV1dvallZSExlMnU1L2pmTEhNNUd4V3U3M0R2WTRTbWhhVGR0dWFJd1ZQWFp0RHUyb00vcXJubk1ibDNxL1dnTEZkUVYycEpIanBtREdCTExpSENvd2dlc25uVnNFL0x6Z0dsRFZQOG5ieWFFdlNQQ21UQjJ1U0p6Zlc2dVE9PS0tcWZYcmhFbFJmaDJNYUlzY1VsZXYwdz09--bfc175057b748b40b5cec1cfd3741501ff5c78ee; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

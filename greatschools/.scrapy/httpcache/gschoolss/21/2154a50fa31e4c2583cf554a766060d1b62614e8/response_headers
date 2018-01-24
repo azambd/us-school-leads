@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ddee121b-d23d-400b-b6f1-67c7f489c9fa
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchula-vista%2Fsweetwater-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V2pvZUxhemFFeStpYmQ4MUZBSHpMK3Q3dGVWd1p4bnV3ek1PUjV6eVlibDVrR2F3SXZDcGNjSFpOdjR2MU0reW92NFZkeW02ZExiVjQ3S04rNUQ0WU1HSHVDTVpkMStUTWpUWXdYeHpySytQa0hPbGg0eWVOK05tcjhxdWFSdTJIcDZPTStRZHZhVGcwanVGN0FXTUlvVnNUWTFjMEtWMUdWRmtHMFArN1hZQ3lNM05MTWFNenBScFFudlRpUmVqeDRJWUN0NjIycHJPcHVlSjRXTDNReVhFUzg4MHJTYWc1N0ZhWndYYzlqZFkydTlpbTZ2YmJDZWNHQThBdUtlSDFldWdyS3Y4dnFmZEtHanhtWXZjTGc9PS0tRzFFWkpUR2dOOGI1L0xBYTRBdnBSUT09--dc2793e08099a8f26171835262d97eb512d83151; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

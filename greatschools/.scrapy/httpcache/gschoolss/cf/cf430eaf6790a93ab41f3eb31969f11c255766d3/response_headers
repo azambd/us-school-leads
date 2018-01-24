@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: abde3b16-e6ef-4e70-beac-c0a4ab63faf7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flive-oak%2Fnuestro-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZWt3MFJxa3loVmN3RGg4dnVpREpCWFV0SWMvcmQxeTk1TGNzZW1QSG83Z0dZcWRQN0Y3S3VON3RVZno3Q2VJQVNXdUhiZHYzV3hIM3JNYlBIVXNWak9ybktSOHUrbEZhRXVuOHJBV2dLZGlSbkpyNXU0a2VrdHFGdHA1clV0MkI5NzhLZk0xLzFHbGZBL2FVY29yd2hETWY2WHBHOVd4dmRSeU1zVjl2ZGxLWlhPb2RSNGpDYUMvYURmT24zRnVnQmdrQXRydGJycWU5UDVGZlgvWkFXU091QUVEQ2dZSDdoeWVLcFE2NkhVajVkY05hSlR5TklSZlhJaXV6UWczZy0taXJSSk84VTYzWXB2RDRucTBuZ1BBZz09--8de1f0d18141e0534adbb6afb190bdb02091fffe; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

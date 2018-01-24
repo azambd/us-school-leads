@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 471aa0da-dd32-410a-abe4-c2292186bd11
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbishop%2Finyo-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzE3emFnQXRnUHcwbWZ6M0pvSkhrdXNTN2NxWGlRUnBGbCtYK1owZTVoMC9IczhCcnB1eFgwLzBVYWl4WkMvYWpMMTBsMVRXVGViNkdVdE1waGNtSU1XcjNKMytQdE5tNlJOZzdUNTh6aFFmTWpnblkxbk1MZEFoOUtCV3pESzF5c2tvTnc2QklVdUQrNzZwdWlBQ3A3NjlsQkFUZWxjckVCVE1tb3FtR3hZZXl5enNoMkJpcUErTUpvRXpkQ0xtQlNpM2F1cmlQalpuOHpXNjB1YnQzS0tXNlVsdkVCSG81Ym11MVhJK1VjUC9XOWVQVXdhcnl2d0xrWUFXT09NOS0tM1h5N1VNTTFKVU9lcm1XSU5JVUxIQT09--afe2cbd47b4744a8ef38d78eaa0a70b38dc79427; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

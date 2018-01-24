@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 509c38cd-2e8e-4117-8e3b-04c6933317ef
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmendota%2Fmendota-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QmZiSkNvYUhwYnpJOXNpMSt5bXJGaGQzNDNxKzUyZjFMeFVQRGs0aUVGNFVUd0oxTTcxbmNGeklpRGJlTUlRbkhzMzJENmFOdWhMQ0kvemtFa3lKNnRFU05TZ1daTndyMDJmOGVrWHRDMkRPWlRzVzVtVHc1SnIxOEcveE9XVkJpdWk0V2x6ME00NVM0NTVoTkNXMlNBa2htU0lkSGIwYmNqYVhSV2p5TU5zVyszcHlnMnFXYkFsZ2kyMGhoOTd4WG9zSUFLVGw4VGVOOWduZXV4YnVDcUl2MVIyRGcxNnV4d1pOUGtGRTVtSDUrbmFYSjlKOFgxRU9pRWs2dVFvTC0tSno3R0pkbThtbDNWbFE0N2hZeDF0Zz09--50b09f186736ee449d8cffe9ca9923479f2037b4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

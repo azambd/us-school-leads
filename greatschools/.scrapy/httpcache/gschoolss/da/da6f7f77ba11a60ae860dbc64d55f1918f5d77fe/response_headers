@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3192824e-7f64-4ad7-8f55-ab4dd1ea396b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsebastopol%2Ftwin-hills-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WGcvWFhZNDhnMG91emViS0dOaDQ5OStOM3Y1VkdocHoxemwrTitLbVNJdklSckNPWU42WVlKam4yVFl3clIzYVM4alNGK0Rta256WWlBN1A2OUM2T0p1L0E4aVI2YUhTRDBqUTlRcUNBRGdhaUJoN0ZNQTk3YVRIQTlRV0VVVWJDZ3d2TG14MjExU28wMTFiaS9RTXRCM2tQT1FHblhURkF3SEY5b05pMzd3SEQvb29sSFk4aDRWMW05ek1lYzluUWYydzF0Vnc3MDh3Q01xZWdvUGV6TTFTR3lrbEVmV3dDTUM3ZXg0YksrTGhycXFIUkloUFloUHd1ZHlLd2VoTUpwenM2cWF1WGs4ZWxYS0tCSkcvSmc9PS0tN3daR2ZUS2VlMEdMbXBZNDlTejBrQT09--b232361310e624a5216e1fda4f84c83e9e40327b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

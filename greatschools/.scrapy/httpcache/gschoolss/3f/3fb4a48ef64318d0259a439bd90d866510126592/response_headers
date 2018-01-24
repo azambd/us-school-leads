@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4c460458-723d-4208-b0fd-6b025dbd6524
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnew-cuyama%2Fcuyama-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NUtYNHMxMGJtVVBXOEREcEl5WmErL0kwUVJmUWxhMHI1bkNLUHJBNzlHZDFkZUNqeFBvZkUwQzZNTXRwdlY5T2VRZ0MvK2NpbW9GdlFqWGFiODltYzdHYk4rVjlxamFyU09QeHJQRzh6V1hRbEpxbkhkQVJob1Izai9XRksxWVc0cFVYS3ZuZlNGYXJINnJabGhGeVZ1bmJUYTFsM053RHJWSi83Tng2ZmkzSVZxUEFoWTM0aFBCU3NJbktzOUFIMEtlQnhKbituSzNvRXhha25XZ1ZDckFRQ0VwTysreGVYZWlTREFhbzcyTE1EbnlUUXBwQ21WV2hiL2pSUXVGM2g3OUtSYmVnaWtBajFzaHdSOU9YSnc9PS0tUWN1enRKakFlT3N3QmV5YVFlOVRaQT09--f4021e74817119ba6f44b6715c3d3d2e8fbdc035; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=dWIyeUVkU3oyb0FBdCtIVkhKa2JWOFlSSEsxa2FJS1oyTEcxbWtmVGdoR3oxUzBCdFFmZldlWnNnREVVQkNVNEVEeWY3Q01UWXhONFZ6c2NqU0pKWjdrNDBBVTROdVcrcVcySXROcEdpZHcxTVM4UWJWQ2ZDZmhTY2M1R0hLTnd1OUE2TjJoRUJtUFo5NCtQTFBmZkpVWHNvY0lFRk9VUnVUL0xHa3h2S2dURVV1TUhUbGNhbWJRVUNpTVlvRTU5SklWRXZ0cUI5ZGdCNUZZWDJrRlpjSU0rRFRuNUFDWUZSOEtUNy9vWlJlREhZUlVDQWh1akRCSHJuSmtKcUVwUC0tUWZwSVRSZ3VVWUZLRFNkM2ZaR3FhQT09--650fd70988d8538275367ba4634582cee3d5916e; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonora%2Fsonora-elementary-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

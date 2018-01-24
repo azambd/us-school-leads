@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fd7da8de-1476-44ef-91ce-3b6cdb963f9c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flone-pine%2Flone-pine-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dnlqUlBJVklib0NHQzNSRm1wOTl5M2R1SVMrazBzWms0Y2NlTFd4L3VjUjUybitUR2lFRGEzNzVaUDkyN0FDRmhjSW9KVkxHd1dMOFRsRkcwV1ZkQlBkbEYzN2xMNS9zaU1ORVlyL0hibWVQa0pRRE9CMHRuT0VkVGY5TGpRZjE3eWdXemdYMFg1NnU5VUF2c2RxUEo2RVpyVlF6MXZYMi91Mmt4YnZWNWpNeXdzaFRDNlVVcGFRcEFHRXVkeHFZNmwzRHloVGNEZFpvb1N2bTVFUzVGY1VlY0Q5K1Q0QTlOUU5zQTZUZDU5d3M2NS9UZGI0QjRjQUljMklLZzRsOEJqcFNnM1k0clQxSHIyNEQwaGJpNlE9PS0tYys2ZVZkb3BteDA0eGxkY1h5dzN5QT09--4eb18220d6f2bd59aad7bed80809bfb12567b751; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

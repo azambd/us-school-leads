@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9e4987e8-9466-41f2-80b3-11d8cda7f83d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontague%2Flittle-shasta-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MXpvSXZ3UUlhUTVxTTg2c1cySXhGL1JYOTV0LzBMbCtEK0ZCY1J4cGlvbXh4Ly9NUTV2eEZzdzR2b1NHT1VoMXV5OFNiaW5kTlI3bzc3YXRia2M5S09LZk5QODV3Qm0vczdNZWFpVm5IeGpKTkNRT0RUL2RKcldUbDlNK0lRY0hJZHc3NUpaajl5dURnc2FSK3IrN2taZVIvTWVXRXJuc1U4ZUFFdDJLMURWK29PNVowYTVnWW1tc3h0TFZDUmREbjNsY09walNFdlZtR0VRcGV1QXZNa0h6azl5WWNwN3E5alRVeXdyZ2YwYVI5OVRIY2dQZ0lVd3ZUd1hocWpHRy0tYTdPVUZqNGp3MzdYbURVOW5LaXpvdz09--bceb152bdcbcac549333129b4f194ab7e2b414d3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

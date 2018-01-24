@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7eb7756b-087d-4078-9c37-b05e6ceaf657
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fblue-jay%2Frim-of-the-world-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YnozTnR2NTkzRk80UnlyUDJnKzJ6N3dscG5tUHk4M3lOTFlLZ0o5YVdGMTlFQ2paL2J6b0NqdEE3SGpTUTZaRnBxbkdsUFFPUGxJbE4vU1RIT21XdzhvQnR0UUVrWEtFRmMrRDhuMitYRzBIeEtHSWpEbnFDTThONjlubUJ2Nll3VHRtVVJrTWZNbFViSklnOXg5N2tPWUVHOGlhelgxSnNxQ1E3YjAwcmdEMDU0WldaU1VWU3ZEb2NhSE4wMzhTeGd4c0czekpGS1JiRlVxZzFaS3p0bjl1MUljSUVER1M4QmtQV2J2Ui9STFJSSE9ickFJU2UvdjRCY0EwRUJSdy0tMDRDSys3NW5QS0Z5a1RBdFN0U2E3UT09--e06225c751e0b7ae2c7784506f5e928229170cf5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

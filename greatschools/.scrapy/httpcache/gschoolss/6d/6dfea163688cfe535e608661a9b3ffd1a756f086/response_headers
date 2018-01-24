@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9c2f8f8a-df78-42cf-88e3-efc1fc91c3fb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsunnyvale%2Fsanta-clara-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=elRVVm9VcmRuUkZNSzVsQ2ZXajRwYVRqM1dPWTVlUnNOczZ0a0FVaG1jSW9zRHlBOTUzVTh4MWRkd2NzQmVEZ3NXWERueXNTaGJNc1dYUWd6cEFGL0JOT2ZvQ1IxSE9ZSVN3ZzVtM1hENUdwVjBKd3hWZmNSVnlzekZ2TG5vK1EvTVpZTWIzL1UvVE10Ti9xT1RZL2VhaWoxVUR6VzhMYkh3RlBPMTFzdjZwOFA3bkYvRXc3aWp1dXpGZkYydm81REZnZ3BnYlRSNEtWUmRQRjlUQkhub3JmMG1td1FXMHZaVFJmc0NDS3JZNVc0Vml2NmlqeHRsMVJ1Ump2Y3dwdW42ZjBDSkp4NTZYOE9yanhReEJHWHc9PS0tZ2wvV3FXeWZ0TWFxalR5eTRlVmtYdz09--57b460e01ac89574ff1471fc90242614e591a77d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: 476fa9ef-ec1d-4ac5-b9a1-6e7051d2c990
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fbergenfield%2Fbergenfield-borough-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VGZBRWU1Q29NTEc1aDNKNFFaT21rak1tZ0x1ZEcyNXI1VTFwTDBWK25RN3BoWEYzUkl1WXhNcjZIU3EvbDZibm9FTEdiRTYraDc0OFNrSTB4YWtGYm1WNzRSSnlodWlVWTlwUHVleXNiOWhRYmVlYXRGOW9NQ2dSbWlrWTRVclZyaVdVS2hORU5lb3RnRUhmN05QclJmT0VlUndIMTZsdmVybmpPa2JzVlE0QlpNckpsVDQ3bWhZV1JobTNMVGdSdDVXcm5Qc3huWlo4T2FrdTdPTzBtTjBSRVVhcTRvdjhBYzlWZHZSbG1IK0luNlNBMnZnWE9jcFFVVncwd0FJZGczeXJYRHRhbmthSnhtQnFiamEvMnZJV25mUVN2bUVvTlpoWWhEeWowNk1Jc3pCa0owNHlZWUpjdHkrd29PVjlLRG5DeXFndjJwMFNkT294YkZZdFdEUWhyUENhUllnTGZzb3JqK3ZKOUU1dnJGY2FoTEo4djdhVUg4NWZlVmo1ay8yUVk4REM4UzVUZHlFbVZuMnl2QT09LS13VVhkdm1LTUFMUDV1VWdEK2o2TFdnPT0%3D--db707718dda9ec90b4d32b365d76de6c08ccede2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7611%2C%22state%22%3A%22CA%22%7D; _gsweb_session=ZTlxeTFncDQ3dEFpY21QWTdhV216NnJoNWVkYlpmU3pFMTBEV3EreXZ0S0dMUGRTUGhnMExHN2hrYzR1SVZRN0xxendNVUpQN3RTSUtqLzJBTlhLOWpjOVloUXlBZUNSS0hrQ0JlZ2pBb2pQdjQ3eVNXRCtiR21kYVRGNzBmU2ZseVZqL2t3bGRFb0NEN2Z0VWF3WkZRVEs2Z01QeXZhbytkZCsyWG9qSG9ob2RYeTRLK1B2ZzMvSERva1ZEN3U0QmRSTWhGZkZBQVZxT2hzZGV4QjdJejZnelZlMG5YY3NGZE5PbW9Vak92M1JFMnBWdWF3azhDYkJLK2hoNmpUS0w1R1Y2YXRvOGl6cGxNZTVodEx2REo1UlFSN3RJVFBDQTVIaHMyL2hwZkhhVWtWdjBTdVpheU45ZGQ3bkF5cnV2UXYxZ3AzZjhaVmR4T1EzRCsyaHFRbVV0L0l4SS9OdGUvRS9icVU2cVIzN2ZXK0E4VThOOVpNNS9OeklTWHc4bSsxV3R4TVBEcnJXbmpJam45TS9DZ0lGL0RSV0ZDUHgySEJyaG5iR2hsND0tLVVvemhqWElBVEdhKzFqelQ3dFBYb1E9PQ%3D%3D--c8a66fe59e4c744e4b1f48d36916d1d7a1e7fac7; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwillowbrook; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/port-hueneme/7620-Sunkist-Elementary-School/

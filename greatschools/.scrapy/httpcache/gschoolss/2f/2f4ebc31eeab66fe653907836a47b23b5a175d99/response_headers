@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 14135830-e715-480f-ba8a-70983d6fcfbb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwalnut-creek%2Fwalnut-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UUlseDArcjRTVDhFS3pwcDlGV2wydUQyUDNTYkQrMkZjWFhMajNjQnlRd2VVbytjSHI0ajBLa1l4MzloeXM0N3RHL0NvM2RPaVhmQ0FFcWdTd2ZFODVXMC9WNHBsYmFnQzAwS1FMVG1NUzR3SThEMWNDUFV0emZBV3BIcUd2K3FMWHBCY25qODNham1QTEtaSVcxTEpvTEZoMUhOamkvTm1CWXd1TG42N2poYVdQci9leXBJR2lyY1phNmE4VHBKeHBQR3RuczBOYVlVRlJHNW10SGZYRDBpZ2prRGFiSHhvWXB6ejNRVW9GUzIvUUx0QmhuTHFTVVZ0TE9INnVjZ0xBTzhIMHFvVW9CNEdoMTFCS25JSUE9PS0tUzJ0U2N6TlBhVnNrYjFUY0V1VEdvUT09--83ab08e23abfa55abd37fee96f3984c6d6d2e423; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

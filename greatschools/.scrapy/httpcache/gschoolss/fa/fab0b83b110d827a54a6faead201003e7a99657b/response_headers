@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9880dfe3-2501-4b5d-90e5-744d767a6f79
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fstrathmore%2Fsunnyside-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VzlDYWI5ei9uVEVoNmg5MmtmbW5aeFRjblJqRVdLUTFVNU9ZbCtkcDQ3WllUc1VsMm5aWDR0ZmtTbFpMVWJDcTgweVhUQzZ0ZVFBclRqMTRVZHFJcjRyTlp4L3NQaUw4ck5vMHpjdjJyQStjMEdnR0ZqWEVvSDYwbi94M3dFSkNCaTFWeFhhblJEUTROLzBTNy9WSk5Yd1krUU0xMVlJd1k3T3NxUlNIa0k5dWc5R2lHVEJuODZkT1YzTlRQSWpEWFIrTVBWTlRyRkhSMmlkRGczaWxFUDA5OGtKYmNaTG5jajlmaDEyWUg5VjJZbUo2TW1mVS9yMmtmMG92Visxd0NKTWw3ODBwSGFrV25oQ1BwR05iUXc9PS0tbmxnZmNIK1FBR0N2T1h5UHNDM2oxQT09--17644818d88db91a8e3e569d040f44e32429dedf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

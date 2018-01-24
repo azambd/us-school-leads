@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5a891fcb-69f9-4e14-b00a-752c65bada7c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Ffairfax-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YmFPcUhwOGRkV1d3N212Yks5amprNy96KzNHM3Y5ajQxSlFMdThJRnZPeDRvK2VuSytEd0haSmJXYi9TQnRHRkQ5bUlYYkFqNkNIQ2FCMkgvZEtENlA0cXJqYkhZUk4zakpqWk5jQ25RSGNHYVdiUlJUelRIeDBxSVFKeUd1bUJrQ09DUU9wNjV6a2I0bWxmSk5uMEtNWkRKR04zR25XQnNKOUlBMVNsMVdnUnRMV3FyWDh6L1pFVlZBSzRBcTg4S0wyQUdCWHdRQWcwZ3dnM3JDaUx1MEJHcyt3R2lrYTU2bWxFRWc5b1NjbTdyZkxnSHI3cytVSFgyOWZ5TlNBeTZtRHdJYTdJUDRzSzRGM3J3SDJJTmc9PS0tVTU0bGhkRjJ0OFBaYXFZcFpaNWNqdz09--14a14d7a40a1853b51c1b54b528aec937f95a1b3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

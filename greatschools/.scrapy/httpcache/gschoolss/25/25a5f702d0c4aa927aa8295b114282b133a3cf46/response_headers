@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d62a9f4a-c888-4caa-b057-862d2fac0e9a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-diego%2Fsan-diego-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UFlEdUFGYUE2TXA1TEtqbW9VU0FFN1AxNWk0Z1BNdkIzUzJkV0xqQmI0RlRqZEJOZXgwUml0aHhPLzk4ZmpaRXhlVUxnNVZReStWMlA2N2RSVVFTbUUxN25lS0NWelhqN3QwVmNsakNjaWR0NTdsamRmZVN0ckNGVXdVenZSbHgyMzJzdzhEZ0QzQ2xoc0JSMmY0Uy9vS0dzTHVlNmFpaFZjaEEzSUpNdEdaY0UvN2xseklqSUp3UVNQWjBqNm15c1Q3TnExUk1tWlJaWkNpVDUyenEyNkFmdEpmYXFheDBJcHB1Uy9LZS9EMFF1SkphaysyVEh0ZVZyU2FWUFozbk5mUndhUURpb0hEU255VTJTMEhVWlE9PS0tRmVXY0p1K2t4WmRnZk1PZDg2eXQydz09--99ed75333c1b38d2fed6dbb8fde68de5258bbb53; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

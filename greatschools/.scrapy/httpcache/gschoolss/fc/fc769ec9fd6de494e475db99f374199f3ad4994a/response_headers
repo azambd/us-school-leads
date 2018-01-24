@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cb4560ae-46ce-40ad-9439-9772e211ee79
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnational-city%2Fnational-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NmZTQWpoNzJPNEFoajR2WG0wQmlreVExK0REL2M4SHo3cW10Sy8zTFRYNTVLbW8yOFA3cC9yTVFnRGJTd21tTTY2aDVKR0VHSjFqNDZCTU9CRC82R2kxcjVGaENZeE8vSWRZYXVsdm8xamVRRmZzeGpNV0VFV085NHEraU1DblBUNzZQU3I1ZloxbkVmVUxyOEpHaWF2Qm1UclJxNE93VkovWWUzYTZUMGZnd0lUYUxUL1BTZ3dxSWRHSVRBT0tVR3N6MjJwVEo2cWh6a2gyNVZvYkJkVC8yYUpUVVlPUXFFczF5REVqeVFSeVMvakk2aXU2VUtTaXluZ3Q5MTd5Z2w3M2diY1JicnZZTXp2bVNvY2NDb2c9PS0tcU41TEZyVkhtN2lBKzNBV25PK0RFQT09--a5cb2278168c9c97b7895b1d52b4ecf9a6077b3e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

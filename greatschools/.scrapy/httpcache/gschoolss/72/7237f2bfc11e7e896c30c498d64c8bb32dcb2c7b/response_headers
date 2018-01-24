@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a88f2d8a-53b3-42fe-b043-f053a0fc4778
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhillsborough%2Fhillsborough-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eDNaenM3MVFTQ24zT1M2MnREa2owc2FaQjF2RE16SmlUci9ObnF1NlFublk2SGxhY0o1OVVqRW1LSGdWOTdVdzhRV29jd1MrbFVqZE1ZWGFvZDBJR2FxakRGNkcwYU1aV05XOWNNMkZxbWFlMk1iR3llQi92YmI5TlowbXRKcGF0RHVWbVVtOXQzK2FqM3l2MWQ2eGtYRjFUUXpYUmFCQ2J1UVZBOUZPVjEvSFBUVjkrRno3QlZBcVZMdEdMV3hxcytWcHQ0K0FER0RZYllMNG5VcXplbnFmRnRtY2NLNW9DbzNOSGZhVXhubkJpc1dEYm5aNFp1SVdPOTdra3B2Z3NYc2tBeDFYb2ZiS2RTMW9jVHVpVmc9PS0tajRNWENFcTY5VWNnR1RTbUNvV3ZvQT09--aeb1b3de67e3d974c57b0250abd4712e6a645e4a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

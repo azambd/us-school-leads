@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e770f813-54c7-4059-9e53-d5f66611d63d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchowchilla%2Fchowchilla-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Yk0zbi83Uk1waFZ4K2xUcjQyWnoyZi8zd1VyNHZKaVFMZWZ3alJ3c1IwRVRJTmM3b3B1UCsrdDN3TGNac0crNzNJcUJUYXluVy9JV0xDRlQyb0kwM0I1OW1qbHcxeDU0aG4zbkw1M2xkN1pPbDN5UXpmT0tnYWM0NjAxU3NPMlYvOXcwOC94TDFTRHdDK3BlSTUwdzFRWVlodURqZHd4T09SYVVFeGt6ME9GMVJUMGgvV2hLaTB3UGdWUldaUWw1SWQ2Z3dMSW5JVWljNm1iMHFPbzVmdGRySEZHVGR3LzlIWGkzSnY1cURZUGxCNFVVcGs2REc2UHI1TnY1Z2YyaWIwSERpZ2t1bmVRd0tLRFJEOUl3a2c9PS0tVG4rNnFWcDJ6NGxmRncxL1dPaHhUZz09--68e31b7c70423294fbbd38046e1b9a30fde9ccfa; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

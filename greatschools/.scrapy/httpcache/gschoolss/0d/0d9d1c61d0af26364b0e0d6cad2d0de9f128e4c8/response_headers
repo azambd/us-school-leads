@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4f220565-231a-4296-85eb-f8ce3dfa5748
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhollister%2Fhollister; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=KzFFMTJkaGpzZkMyL09seTlBNmlNOTgyRjlRUy9BZHJPdHdFTGt5MXQ4UmxRNXlZOW1JMnNEZldkNlppSVNKNDlGTzZqeTk5Z2FJMzdoc2RZekk2a2h3dkdZNmRyWitKTkdaS0t1MnRIQm56MC9OVVpmdzZOYTlqZEk4bVY2dlpQMnpKMkZMN21tRm5QaHpsUnJZNzBwemJhejAwdXQvTmJUclJLcFpDOEJseGJZeHhhMFU2QXFudlRBTjR5V0lUUDJqUlRFdFY0WXg4djhXaXZWR1VlUjIvWTRMNkc2MXlHU0JBeWxFOEo2SkRKdzBBREdEdmcxTzhidEpkZm5ONlU4djB2L3gySldvY090SmxGZkRkQXc9PS0temFQMEdhTXllb1pvejJTNUtwcDRVQT09--b3a65f310d0f68a3adc4d212d35319a5d6007a35; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

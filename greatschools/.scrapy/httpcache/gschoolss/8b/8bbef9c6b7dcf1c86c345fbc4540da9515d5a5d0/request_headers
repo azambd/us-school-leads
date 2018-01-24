@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7678%2C%22state%22%3A%22CA%22%7D; _gsweb_session=djVYSjY1RUlBN3RVeWI3enRET1RJdFVhdHBtRzlFTldYOC9jSFpuRS9ZaDBxOUFTeEVzYzkrT0wxMUFkWFRYS0pHZHFVSTZmYkRaUGsxY0hsUTUzV0YvMTI2b1NRc1pyQzdQeFQzRFc1bzVPM3JhRkY0T2p4ekNWMUhkVTVsbDJOeGhOYklDeXRKR3ZLQnZIbVl4R0lYWVdjZmkwUnhtS01sclZ0ODhLcWxuZkhxRFE4MTloMUxtVmd2azJoVHFDVEdjWitnVi9lRVVyQVZKV2FML0lib0NtUWJobWFmb3ZzWGltcnJ1Zm5GRFlJN2tHYnBCRXFZR1AxRU95VnJMNXJnQWpMdVhMMGhhNzdoeUhRNXFZQnJ4ZGx4Z0xKdTRZQXZZeVV2aUtuRkFiVk43TnFhUEVtRUNJSGVWUXZhTFFrNkovaFRjVXA0RlIyOWFIcGRyM25TSy95Kzl1d2lHN1VOTEhaTFdGakFSK1UzUmhOa1BqVG5oNHUzTkxHUlo4ZnBYNHdrdWUrVTR5QUhqRHhhWjJXdz09LS1NeFloR1JISkZhQVBUZzBvR3dRZzhnPT0%3D--72cba5af751b30c10ce877993052d3f84b8cc53b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/7679-El-Descanso-Elementary-School/

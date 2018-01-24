@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 959166e6-eb60-483e-b1cb-87bab182f7da
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkorbel%2Fmaple-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WExEWTMrelVyNTFMMzZqZWwySktIRmJ4RkFFY0xOK2Z1T0FNWWFlcFFuM0N4NWFPeXhtOTFoTU1udTNERzRyczhIeHllSUlqTXUxN1EyUFh0amk2WkFlUUpENHFYMWU4UElQVi9LaEFMdUZRVk9TWXhuR1B0SjhoMnNXa3g5SkF2bmYxQ3hOQm4wd2trUTJpcStCekJFWm1jRHpjaXJ6WExQbDgybGtzMlFYSW1UcmtEYmplUDA5cEQvQlRzVmVlM2doRjRwY2d1d05XZDd3Vk1TRlZ2MVk0MndvUklUeTZBeG1EcmJ2STFha0FBWG5qVkF0cDE3Zk05cm5xc0lNLy0tR3VzVHNlL0d4V3NjRWNpS2Y1cGpqQT09--13ca472b5f54e4a5578487e56fc9b03e50de098b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

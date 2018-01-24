@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 30856149-c5e0-48b8-a3dd-9d9f20572425
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbonsall%2Fbonsall-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MmdTRHQ2NkFrd1lyaUJIeEZGZ0FBSFdYOU8yRndRaXFlalBzUDUrcEFQZXkrQlFBQ3dCSmpXUXkvMkY0RVVQWnczZy9kZUdjMWY0YmRpOHkveU5hM1ZuSzhMclltanR2aUd0SnZMRHdwOThSSE5qVkR2RnVYeVkyR0NteUFBSnNyN2VCemFHSDNSeEJRUDgzWkp4bFpHTWY4bU1oNURrTXdpTXJXeS85YVBuRGhiZW1jOWR0OHhaN3AwM0ZPd0FVQzZibGZ1aDd6cjJ3ckNXZWlmRGZVZ3cra3ZxUHVIV0I3aTJrYjM2ZWZqZUt2bFk4OEZpQWl6aHRoZmwyak5Oci0tRVA4bUZIMkJvbXZ0aXV2NmdodUIxUT09--4231f3b03416d3db07d505a7399dec0223f400ad; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

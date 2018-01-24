@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e9d3e5fc-8bbb-490e-be97-5f249797a764
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcottonwood%2Fevergreen-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OENZa0V2MjJZK2xRNFZrWlFaM3lrN0k1Mnl2TTJCQVB3b1dCVEx5N0Ywc2J4dE9WTUMrYXowbkJQcU1ad1FMa0xHWlhrbXo1b2N6MXlsUjAvQkFHbkZRWUVhKzBSckNCck5oZjY4SVR5UUhkN09SN2NXWjhnUWZlYmtyeUk2c0lpNVB1RndlLzNCd0RQNXU0QjNFcXdVZ1VlUm1qam8xYUZPQmZ5eFRncnpWZ2QwSGRzR0NSYUlXTkRnZTJqNjNVaTE3dFZmdTBmcW50QU1xV2p5WDJDeS9KNE9IYzZqb2xMR0xmandGckp5azk2dE8rdCtkWk10eDNqTHBXSW90amZINjczam5ZM3pLYnNIVVlGanJDVGc9PS0tdnNRQ1FRUW5uZ01LbE9oOWU2bmJOZz09--8ab847b4a400b7daca22918ee9af118a6a32a717; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

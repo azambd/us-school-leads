@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e68b70de-9db9-47c5-aacd-843cae61db81
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcanoga-park%2Fsbe-_-ingenium-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZG5Ta05mM01reEV4Z0lqU0NSQWxQR25paDhJendQK2lqNUlNT3lwU0wzcTJkeGc5eEdIT0cwalNXbVZhUE0zcm9aNFlOZ2ZrVkdycis1bUMyNVY1KzBrYXlCRk5YOVRCTmZHKzBON1MwRDhDVncxRjlRRFk4ZmkyTG00dkNPNXFpQlEzTGxBOGk3TW9tYkp2S2ZjOUoxVHNXZk1jUU90dTlUTU1iY1hlRDBuUUM1MW9DTlZ2Yy9xdERZNTU2TmpZTVJ2TVI0aGNvZXVERklNUGthQzBvcXJXZ21HM0M1Rk5tSGdGdExBczVEdHNrQ2N6QVV0VUNDeHlZNGJCN2J5NDdkLzdaZ2V2Ym5yYlBZaWZ2YkhvRHc9PS0tazA5RVVjZmVGTURlNmpsM0xwOVNaZz09--e3d6da01b2d6a2985ad14175833a851d6edbde5e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

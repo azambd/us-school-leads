@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a5651b59-7c73-45ab-af3d-e9300b023ecc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-fe-springs%2Flittle-lake-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aStmRU1VYTFCOWQ1NGRFSXlUQVdPcmFUV2lqY0Y0N1dqRFZVTGJaUGdZcTR4TWNNVFBFb3kwb3NsbHlLTnkyRTBKcHl5ZXp4R290U2RzOThmMVJBVGRQWnROb05sODJpTkV5RnFCSGU2NjB6WnlzdXQ0MnJxWFRNYTFNbmxLSG9sbmtlbXBMVjNBbTVNYml3K09keEVVbWJqZzVYSDFBYmRLaWRmbHduSWVtRmp4TW9IeEhaK2xSY2c5R3hqVEovT2d1VzUvSEU4dkNwdHZkRytEU2ZuQ2FUOW5yZDRVdG1wcVRCT0kremticUxHS2ZUd1dxeXVuZXVWc0E5cS9sN0djK0pBb3Rrc3gvN0dONlhTRGtqUkE9PS0tL0o5SWswWFRjYU9FUWlVOHN4NkZOUT09--8bb3ab4e51f297f04705c1e60c559e0bca8d867a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

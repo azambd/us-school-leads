@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 32c4a751-f6d7-4376-b423-dfe6b8954bdd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhealdsburg%2Falexander-valley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TWI5bVp6N09TbEJIMGJERUZ4Rjk0Qmg1VDkybGdFdk9KTzRMbE43RWxSSjJOdzlVbDR3RlBjUW9JMW1ldkJVUEI0V2xzek1Qc2g1QXp6SlRNUnQ2NisyOHpGczk4SERqRWVWOHFNOXdSSGYrQ3FYUVc4a0JJVC9UYi9mWGQ0dVE4cSsxYlhqejJRQ05GN1I1ZzRBTkJuMWFTY3JDaGcxZW14cVp4TmdvSHF1NFduVVNreXk2UkxtRW84QlZaUlhpVjhjWjQ5Y2h0RnBub1FncnBZaFNSeVJNcGJVU1NsZkFiS25Nc1ZSbnI3Q3g5dy9PVnNNdVJmdUJnR3dsUkozMTJ0SzNXcFhMVkVsVmEvRjBCaUVLYVE9PS0tYTVKVy9PbVBkQTAyZ0U5OGVaUko2UT09--46e9ee5678bf428658a443cd17590155a3fac1c5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

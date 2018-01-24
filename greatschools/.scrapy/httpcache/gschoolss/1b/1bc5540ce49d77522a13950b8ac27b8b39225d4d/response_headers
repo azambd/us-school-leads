@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 08f90908-1e4b-4f19-aa8d-f481f0b82222
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmerced%2Fmerced-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a1N6ckFMZjFlNkhWRFF5c2tXaHpMeFRIWW84cndRenAwY0Q3STJYbi9NMlZsR3FSK2IxTGs0aEhUMC9ZVEFZVjJvQ3dzRWtsNGt1eUppc2FsYlNXTnc4b0I0S2hCSksyaGdTdjV0ZkNuUm1yOEJlSzlKNDdJdmZBNzF3cU5seTZ2UXduU1VCU25wQUVKdEhyR1RDaWFzaUNRdXMwMDFycUZkUU4wQmZQUzFnbzlJZERhRm83a3pZeG1jNHRISk03bDFiTHVSdDFPS080cDhDckFoSFVRb2xEbG9EckdldThEL1N1UDU2cjdoRWFTdTVNMy94N1pmd0liZ3R2ZTVEcS0taGNoZzhUWHlWM3NCM3VNditONlhhUT09--3bcbf96e2181ff6857d5721dedaacc9d1e447776; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

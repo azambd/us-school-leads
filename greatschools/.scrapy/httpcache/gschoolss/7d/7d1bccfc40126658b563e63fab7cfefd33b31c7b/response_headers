@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 32a35199-3e7b-4d88-93df-9e5cccde8466
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpaicines%2Fjefferson-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MVdkZnB1RVp1Z3R5N29Ed3lUMVJxQXNuTUtHZDRiL0pqYnhMWHJ3Ti8yY2JUczR6ek43ZnZpeWlRbEtCd3V1S3RvWEpPTmlranhOYzVRcmhyU1dzR2IybTI4MnIxUUtQN1F4SG1qTTJpdVFMMGJkaUo1U3p1Zkx0VXJ6R1pxUW5PZkdiVWdyMVBYR2haZ29VMlN6d2lwR0lEMStUMlNxdEhrWlJsT3EyTjIxZWpMRzVkR1o2U3VFeTFpZngxcnE0Mkkzd1dMOEg4N2U3NHFsYzk4eWdxUnZHUlRNY1h1Zi9IbW9vQUFDWWUxeEQ4RTR0c3laS29DWFZFWXg2R0hYRC0tczlrbDhwY3MxdHFZV0pSdFJlSlhoQT09--2af17a6b95e2668383b6debc0569d4b066d00535; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

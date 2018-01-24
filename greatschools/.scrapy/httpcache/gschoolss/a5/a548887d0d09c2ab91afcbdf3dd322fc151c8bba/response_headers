@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 424e09b9-246d-48b5-a054-e6a00659ac5b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplumas-lake%2Fplumas-lake-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MXo1aWpBREdOQ1AxQWpPQjNFSk11STB3SG1jQVhWaHA2UFNPMW1BY0Y1TUZlR1NTN01Rd0tUS1laclU0M1l5KzlpbGJkVUpTNG1WWVRMWVNYUUhscUpjUCtXQ2E0RnlmV3gxS1JhR3ltZGtDRG02SEprN2N5enh6K0FwSENuakg1MDZ2d0VWNFgvMjRvY2k2eGJuWnp5R1lEbWR4bER2dW5neGQ4a0szK2l3dVhqMFRlcy9FRFNtYnFyMjR5d1FjODVLMVRWUUxKeVg3amtsSndMR081UUlGVG1EK1hBWjhqUlhhdXdkYmJHQ2kvRmFVYVJnTmZtQjdGdmRHYlZ5UytPWTVUSEhzVTIxSjQxT2VHSkJUM2c9PS0tVkJTK2VSSmhFN0N6V1p6MWVFQVo1Zz09--6fcdb8967978551a743c76d8c9b4cf60a977c904; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

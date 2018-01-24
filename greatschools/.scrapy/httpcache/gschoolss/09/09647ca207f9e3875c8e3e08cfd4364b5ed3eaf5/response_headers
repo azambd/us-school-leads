@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 3bf15db2-212a-44e3-a82a-4387b8aa36df
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcovelo%2Fround-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RGx3ZXd4Z0lTS3psMCtvdzBXZDVoK01PRTRtMlJmdmVyeDUyNHJ4NFZNdkV4OFFlNGU0eWgwYko5ZlVKWEd6dzVkMGFMcGhqNUp5aUlhVzJZZFpnUWlHMnlpaU4rQ0NpQmxpYy9ENnZ2YytLWGZrOVRwdXBBRkZyeXlJWlFEMmloZ3diU0k4cnRnT2xNaGV0U2dGQm5wcDJUd2M4Z1dsUVFFTndiakNReE5KMXFRbFFBSUFQRjF1dlA3WlpkSy9nTFdBY0s1eTNqNVFIMERLZWM4NXh2aldUcm9UUXh3d0VLVm5yWUpiQTFwcDY1dFhMTitzVGZhb1JTNVVZeXF0Ti0tNUo3T1g3Yk94eDBQZW1zY3hjQlE5dz09--dba8e659fc7e2023d6a44f30ac2ce610486362f2; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5252f334-c74e-4a4a-8c8d-e5726e75db1a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonora%2Fcurtis-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V2RWOHFuZkE1R0tQd2RoYjhVeXRqM2xxZmNHY2FmT2YwVWlJZUJZQmJCSFFhcjNSNy83akt4NGRUczlZd1JNcW9GeDNGSG9IZTBROGg3MHNxTWtnd1lwQlJseC9VOHBRRDUrR0Q2Y3VlKytqbWVxaUl1QUJRYWlybUpGaW1zREtGZVRIRWJwaXVLU1dqTjBVQnJNUFk4YVhXV0t4ZktIZnhmY2RPN0pqRHAvam1MWjJMZEdiMW1uQ0VSLzFBV2h3YUgvTkgvSFN1Tk14bksvcWMvWENuYXVuYk5UcHhNdDAzbGM5NzNrMnZ4ZEdZc1Q0MjdrZHBNaW5FV291QXEwKy0tY3Fjb0VseXRrcEI3UVJLVUJ2WS9NQT09--20cc0acb258f5d4c55475f0e6cd9ef23ba56d11a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A28988%2C%22state%22%3A%22CA%22%7D; _gsweb_session=cHRwUFA3amxZU2ROTnVnT0duVThoSjdzSFFVRnFvenlqdHBxczl2QVVuTm1LMlcwZWhmdEdaUUhEbDNkWVlYdEErY0VKT1pHM3JLWG9id2hiT3hQcm8zRnJJakF0aXppbnN1OWorbmZqWXd6TVhmMk90RHg1VnlyTDQ0YXZocUFKa2g5T1JGMHlLWGdlNjBJRVlxL0d6MVJ2dlJzODFpYTdyZ3dGZVIrWDY3UW5YamNrVlB6a0wzRzUvZGhXOHArWGtCaXRneWtJZExUaWRRdFlQRUpKUT09LS0vS1dxV0xSaG9GbmtDR3V3d1NWa2t3PT0%3D--a43f7b478538f21790347cfa069bdf59452893b8; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/28988-Sheris-Family-Day-Care-Center/

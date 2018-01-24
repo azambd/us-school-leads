@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: eadc4b46-2773-43c3-81b3-c39a6fc6fcfa
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flakeport%2Flake-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Rm91WVU5RlVOVWJsdTZHTjNLKy8rVlRMT1BEUTUxUEVjNFQyczB1cERwZ1BQbkNGOGxvb0NlbllzOHBuQnBrTlVXbjNPemN5aTZ4d2RBWDNBOWpaT1g0QVZLSk1Ic3E3S3JOZ1dZTjE3YzlDa3RocXd2OUp6Qnpqc1FPZXpRZllnMWtQVGFPZ3RLekhFOTZDZnMzQTNTcS9xcFZBT1ZybUJFZFZDaklJMXR0ZDN1a2hqeGFXYXowcHppUFhKdVZsam9qa1k1NzhHTmRnT2lOOVhJb3VxS3paQXNHMlN4Skk1TGVneWVRVmZ6Yk84b2FuV0IrTDlHRjJmZXhGa3Qrdy0tYWJ6NWhNWStINW5VSllLaWxGa0RoQT09--c809c8d3be8ac6e4b22431affa63040905b1982d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

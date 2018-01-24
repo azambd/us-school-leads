@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 265fb2c6-e819-4612-924d-a35dfda6f5a0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fla-quinta%2Fdesert-sands-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bE1tQ3ljQkVsSGNKMXdDTjF3bWZtbkFjckw3OXdhaGJoUnpaUy9ZYXhjLytvUFZ5WVowZVI0dnVzM3Z5MHllQ0IrZC9OeEgwWmFoR0NrSDVyZC9iZHdTbDBQSC9zSlkrTmFCeU9hbmlzbGYwd3lOUzVJQi9MSzBjVFdqODdheittenl3dXZJSlVUaHpGbW9HRGZtU25XSjhpdXpadUpVZGRlK1V5TTVnN25UMkxRVTgweW9ablJidVNUbjZtM2Q1MHo3R3NjMVpic0c1TEczQndzUVVJYlJOVi9ZeEZ3UzR6amU3SzNFcUFKclJIWUN2d2ZuWVp4WVRpeDAzakJhQmc3cHZaaHhYcUhFbnBhRW1uTnFNc0E9PS0tcXdjVXlRYWttOVFwT2xrc0t2KzJydz09--8113e0da67d522d710f2c54e5d1e210070dbcd99; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

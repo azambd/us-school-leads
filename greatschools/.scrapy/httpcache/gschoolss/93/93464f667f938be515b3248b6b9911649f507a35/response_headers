@@ -1,0 +1,17 @@
+Status: 302 Found
+X-Request-Id: 8eaffe36-3af9-4f0d-ada3-31a44373dd33
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feureka%2Fsouth-bay-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aTBiM2wwZDJlN1VnOUJVbXpSVmFUellITFZ2WWJkQSs3VlNyN29tZ0Q1MEkxUmtJZC9qVG5ROHNBcytsbFVEaWlCSjBYOXdObElxNWpSdzd6UnZZSnJVTWcxaFU1d0M2cStvYVc3MVd3dFJ6R2t5bFhVY1Ewdy95Rll5T3BSK2g1QTJyZnB3N0RHay9HVUVoVEc3TytML09ubkFHcHBEL1RQYzMxWHpYSnRMemdxbTlpU28zTHpZTG5UK29oSlhFTTkxN2syTW45d3ErZGZDbUxjSDlKZG9kdDNJcGVkcDZGNmhKRkljYzUrelFudDQ0SEZKbWVmZTkzSitMV241cC0tdnRWOWkwVlh3aFQ4TWtEV0Zya1JSdz09--579ccb52c3f7993b71ab959f4e27480c4ef2c18f; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 13:42:49 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/california/imperial-beach/south-bay-union-elementary/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

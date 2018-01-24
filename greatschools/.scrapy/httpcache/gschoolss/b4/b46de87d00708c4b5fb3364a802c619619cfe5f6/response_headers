@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 992f7f86-8b7e-414f-afd7-6a74521834d9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredwood-city%2Fsan-mateo-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=enYyRmx6RDhWSm9MTVVRZUxJZHd5YW5HQzZwMmNoNE5DZTlac0ozWmY3amdHdk5XbkY2VmplN29MVWRhWU8rRkVJdmhycE9Ja0dROHlTTHk3V1dpYjNkYlpkYTFYY2tCbU5Cam5uN0pOdEZ2TE9oU0lkSlF4M3h1RWZhWlA2cFhHTDJRWHVkNzhZWTdRSGJheVVoMk1DTnZQa0Q4d1Z3MGlEOFJnYmJIQ2lqOFJwM1JSRDRuYmRBbXhwZkE4QTNOUnRiSUdtL0V0QVE5aFp2YThlVVlXeXg0VG1NMHpDMktkenV6Z0FRZlRNWGF2cGJQTzVDV2VGc1RJQjJXZzFTemE2NHFKdlJ6N3BMZ2tFTG45WXFlekE9PS0tcUQxMFdjL2dqUk4wMEFjYTkrYnpZQT09--c96ca9df3941da7ab8434ea5aeb22ec25e3d4019; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

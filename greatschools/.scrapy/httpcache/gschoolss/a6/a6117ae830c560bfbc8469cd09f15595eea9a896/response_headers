@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d2e808b8-31f6-451f-828c-43281553e0e0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmenlo-park%2Flas-lomitas-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cUFoa2IwSXphRGcyRWExMWxlcnRXVm95M3AwMUpCOUJoSnlGZkpoOGJiN05jMVh0RWJZK2lEdjlpajJjd3oyS080TFdZcmpKQ2FYVHowRzl4dkRHRlJldmFkR2xtUnArdXhLL1hGeWMwTzJmNW9tYzF1VjVnYUhNeHZsZ2F6dTdkMGJ6SHY3cWo5eXppbzkwREJ0WVVjYy9GSy9BZy9NOVFncWQrNE5vc1FuMVNIU0kyMXhydXpORUxGbmRWWEgyNktsNmJjZ0doNnk2K1oyNVF5S0VxT0RHT1FkVkhTVUtiNmpqMjl1eTJUa3hxZVVoMWtOQk9LNTZSMytsT2FSUk52ZE1GRXpFVm42SmVyc2tTSUh6M1E9PS0tbUFNMGh6TlJNZXZrSHBUSjJvd1J5Zz09--8fe7594cfa368ea16d555645ea943a72ae997d28; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

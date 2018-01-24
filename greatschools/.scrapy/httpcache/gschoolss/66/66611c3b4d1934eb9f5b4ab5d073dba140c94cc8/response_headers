@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f53db4ef-ada2-4852-b9a6-3cf28ec4eebc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fglendale%2Fglendale-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MDRxdXBCd09KUXFBZkdYTmVzL0Z0cUdPOE5vQnJuV3lNU3lueG9KVHU3TFZ5bWYxc1FjWDg2TFBKc3FQR3NuQUJ1Rkh6aVFDT3Z6VnJXbzhiY1lyVXdORWd4L3BXdktoL05uVGNndVJ0MHovcVN0V0RPYkpxTGJHM1JGSXMwSjNMRlE3UytRWDVYdTVRWXNFeHlqOWdBYW9RYUNzdkJ3Qklab1hkV0lGT0pHRnZZeVVZVzhRalBuamM1bWx6UWM3VEJMSTNsVHBtQVZ3c3dCWUFMbjA2RTFLcmNlSDBZQkpsUEV6NFF4K0drenNZRkhWMnJuNm8rdkIxaWdBZTJoRy0tamNmQnArelYySWdKUDgyOW9qWlZuZz09--0e0376f47a9927a7265af538d952d2bfb80c82eb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

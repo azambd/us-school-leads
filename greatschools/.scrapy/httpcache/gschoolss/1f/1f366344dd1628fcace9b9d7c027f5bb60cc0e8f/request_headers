@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A9307%2C%22state%22%3A%22CA%22%7D; _gsweb_session=NEUzTWZnNklDejlkbVRSOEtzRFpGQnhEZFBIRUR0ZWxXMWliYUd5QXNzWm53aVNXemN3dDduM3dkQmxkRWkvVmNJSS9aRURHVVg2NjJ0WVhxbno5a3NHdk5FSUJWMnc5aXZaaXVXVFExay9rL09LNklibmJ5ZzlYUzhCT1RsZEtkSWMxdnZ5QzBDR05MQkYwS0Vzcm1vZ1dmUG82cHFFbnBMYWRiZUJTRzR4bjh0NkZnUDU4Qk1WUmRLTVZ5Wm52N3pZanBBNWF3RVA4QkZnUnV2Q1FqMHNXdHp2R3pqaElYSEJ6V0lncld6T1E0QnpUVEQvU2Y4eTZqY1RFL2o3RmFKQ2ZTNUY0cEhIZnBBVG1xS3BzQVFYSjBQcDBwZ29CTS9NUnQ4TGlDR1JuTDhkNWFrbE5Pb3BqUjFXZnBGKzVTSTk3T3UwSkk3cktiUG8yMXhmRDMwWW9nQ1JWbWhWcERWZzgvUDZBYW0wYkR1R2pFeVQ5VzRjaFBHM3lFdTdWeUFNS1JMTHQwM3pxWHUzYkpTcU1NZz09LS1TNHVjMHVMeXh6UW1CSGgxVXEvK1hnPT0%3D--c18c71879bbfba83f03e0693dcbc8550d0819b1d; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/9305-City-Christian-School/

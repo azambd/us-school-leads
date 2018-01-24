@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f5b930f5-fb36-453f-97ca-814c3b41a547
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Friverdale%2Friverdale-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K09JRHIwTldrcE9EN0FNVm1BNC9mMkhiZ05QaFVTQTZSVWhaZU0vSHM3V0E3RmI4THRtNWFXSnR3RGhVczluYUpzUXdyOENGMFE3Uk0xU0wyNjVxckZIbkZrUXNhQ1c2TVZhWDRIdHdQQ1NkSjNZMm9pT0JlK3dXNXkyZFNrNkRObmhwSEZRNHA2OTdrV0RkUFVUQWd4YkNGdUFubk1jVkZJOGhUMmFJV09lQ2xKamZQVkZFNWJScEw3VXNidFRISldTZEVKMmx6VlhhdlU3a1NrK2hOOWN3aWovb0VYRnI0dkc4bXMzdFR2TFRVczJ1clk0UStiWVQ0YjlVb21XSUFMT2E5NXIrQzFsemRwSVRDU2JnSVE9PS0tSkpuUnk2VTQ0cFRKVEhORzYzT1BNUT09--a83bbe738267e1f4a205e58b454d09edd2f36cb1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

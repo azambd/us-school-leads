@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 94092a72-737c-4274-a7f8-4772e8c7cc31
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foroville%2Fthermalito-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OTJiaW1KMk1FQ0tUMU9iUlBONUp2ODFKYytUSDI0L1BKTzVvWW5TS1o2cUJCMHZ0YVY0VUJ4SThyUDJvUnJldnJESE8xRzlaWW05TkJPeitxSWVMa1luaUZDaXZ1Sk5ZbFdoTU8vekxpSDgxOFYwSnFMZ21GbTZLdU1VSjlzUncrNzk5NytnMkNHMmxRYm1DSmRHYlZVWkw0SHh1bHo2dnhoU1BGeW1CZzk2OGhobldMYWpseG9SZWdQL01HOC91QklUMCtzNW1qWEFUemhzRnhSZ2pkYlJ1VlNHQ2NxQ2RlYXhVbnl0OFVXWFpZOEFXMmp2NDhDQnkzL1BXRXl3ay0tRXJDNzNlQW5ZWWlLUWxPTXV6SHNQdz09--db76a02942945f69ee7837939356a296c969a673; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

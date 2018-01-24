@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9e03b2b1-3c52-4f60-bf64-7bcbac7683ec
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Foak-valley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cjJwTHVtWm15TDcrS1NINFdpK2NiWENpczNZbjMrVDRYYm9oTDNXU2lLQ2twNG5yeFVCK010N1JsWER5QzZ5eUh2citHRVFnTGtSSHhoZittaWhySzhTcjJINlNwZGJiWkhrK09mWjBCNytzMWNuNkVBU1hWb0t6Q2RHSFRONTgra2RmN0FVS2V1cGlxNDhRTlFIWjFOTjlLUnFIb3BnTnR1WExGRFFqK3UrT2RZamI2bEE4RmNMU3BZdjZ4TEtJZzc4L2ZSOFJNcEU0aG9ITjJrVE5TQjhNQmp0WENNcVR1Vm4wS1c0NzlVNERvQjRtZ3NhZExGVmc2aDR2Q2tVMy0tZ1FDMHIwbHB2L3JRY2x1dE5qRTZhQT09--143ea355df8b5931b3b0649e09a96bfdb2689cda; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

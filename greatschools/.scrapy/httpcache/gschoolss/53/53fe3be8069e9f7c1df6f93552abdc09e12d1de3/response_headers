@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 33da11c0-26d0-4c18-b307-10c48733b183
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-altos%2Flos-altos-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bFJScDNBaXQzZWhJR3BidktxdmhYZElyUzdWMFY3NjhRanJUZUV1blpCb3Y3YWZNNVJtQjg5b0NRUWZIL0NKL1M3dW53S2I3Z3BaUWlSNktnV3FLUS9uSi9kczY5OVpWUHhmVzhiTHoxYlc2WW5QYS9Xb2ZXby9pZjkxTHFVclBSS1hISXVuV09NT3NVKzM1dTU4QkNxb3lnYmJjQzBGM1RqNk54TFNRdVpldk1RTVZwYTUxck1HSE52RHYrMm8yM3JjY0crQ1YzaEgwUk9FY0hBaUl4NHErcGZZUmkxMjBNVDVqcUUwbWdkMk1zSGgxNi9kd3dKVEx0QzlIWWRUV3B2UEM2WVFTWFNGbHZZUS96YWNka1E9PS0tUFk5WExZbmtRODNoRGJKRTIxZGt0QT09--027bf730f6c537f8959d1cfd22b718554eac7d4a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

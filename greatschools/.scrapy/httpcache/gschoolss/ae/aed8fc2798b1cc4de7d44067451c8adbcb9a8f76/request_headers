@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6951%2C%22state%22%3A%22CA%22%7D; _gsweb_session=RkN6SEZXWngxMjVmbklOZjZKdHpkSUlPVGRYWlhKWFdrRTYwZVFVU2JweUVWR2wyVnM4ejJlRy9UWStxMkRXZGxYbjlwZ1ZXWHFRQzU5bEVZQVV3VkpNOVp1aEJ0VGhlR1pEc25ra3A2bExCcm5yUUxBRHkwWWdqM0lmcUVYZC8wNW1GOHNuMXhScW1ZK0lxYy9TQWlQZDh3M1NaZnNUY0dEMWUwbFdjSmxvbEROczJXRGdKUDI1V0plTmZKeWtjZ2gvd1kxZ3lHWlFua3hOSjZ0T3I5V0lKUTl4Ykx5NnBEdjc0ZjJkaC9OOUNPQWcvWnZzaEFGVHBBT09tUFBjeGxqcXZMRncyTk9CL2NFSXRaZHdkTm4zZ0hGUjFLRzBpNm1yTDduSTRsc2lUWmFyTlpYUENZVmpwVWhWK1d4YmEwZTVxbUlOVi81NFA5ZzNHZCtSYk9LRTU3dFN1SFdwUEprN0RKQ3pWQjJqMjhYdGVuQUloM0hqZEx3cWtvQzYvdjVpVHVPYVp0SHArQUgwM0Z5cGx2UT09LS1nait3Uk5YaHE0QXFmUzRmeTNoQ1dnPT0%3D--2180c2a7bf3d8fb2e8c875dc9cda14becfb5430a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools%3Fpage%3D19; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/atherton/6951-Menlo-Atherton-High-School/?lang=es

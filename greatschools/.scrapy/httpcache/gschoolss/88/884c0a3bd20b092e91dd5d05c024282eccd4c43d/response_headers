@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8fc79446-7fbf-42aa-8400-a0541e59f126
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpleasant-hill%2Fcontra-costa-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eDhqOUkydzJqM0wvQWxFa1lOZjVSVHBWbWZpSlVLWDdadXF5Wmtrdk9RcG4xZ1VLMHNteVJvVEdoeGpsc2RiVFBURFhLYUVhUGhyazMvUGFab2lOckZJeE1RTzNSQXk0Y2hDczNMNVltRDV5akk2UFZmY2pRaDVCajNJUVhjWmF5Q0w0clVuTDdhWk9YeEpKK2d4L3Rma0UvVFBhSE44WGg1eGkxaUlpR1ljWjN6TGlxT0swa0FsL0RZWTArRjJiODNVK2IxSzVvSGczK0xNT2tyVFNQR21JZHZLOWY1bC9KR2VrYWVaUDlPQVJkb2NXWk9jWmMzN3dXWUQ4S2ZnL2treXN2dnVwcmdUY3c5UE1MT3JRRmc9PS0tSkRaTklRdmdzRTI3Rlg0bDVoR0FzUT09--57175db383aa913ceafd06e78efbfe83df76b3c2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

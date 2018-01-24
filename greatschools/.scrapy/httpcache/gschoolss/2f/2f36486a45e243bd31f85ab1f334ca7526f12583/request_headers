@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A8591%2C%22state%22%3A%22CA%22%7D; _gsweb_session=emRhUUZ3dzNnbzJTUjlnanZMM3NnVVpMK0pJeFFlWEtieTZWcm1vZ3VmSnMydTB1d1RsakI5SXRObjZzbkZqVjgxYTcvZEZGY2VSbjd1UGZuOWdvY0dYdnJnZjFZUy92WXF0T3BZV1VZSVMrTDkzanBLeXppQ1dUMmJad0UvOW1TMks3MjByb0pQb3lFY1lmN0JVc2JsM2lVSVlVQlhjOERKWnpQaGZRMGhlWWJ0MEpIRCtUOUpRczUzSUgzcFZYODVXUGpwSkdrY0pDRjdrMjFqNnpjbFJqUWVZcVpMU0x6SEJMRnlPUkpiQnBTdlNPRmZyZkZKcWNPcXhsOG5CbjhlbHAvejNGakdGNVhCczBzVUpwaVZ6VTgxMlpQTUNLL04vVi9QUVF4SFdVMkppMU5ZMkdha0I1NmFFeEhJVSsyZWlzdkZRZzJsTzNDaG1CWUlHNXk3aVpPcXh3QlBUN09iTjhLRUc4UUcwVXIzY2U1RjRxNVhJajJtMmI5VWhrd2tjYXhsSExManN5b2FPeXFuZ1NuZz09LS11Sm51dGs1UG85QkNSZnRXS0F4N29RPT0%3D--c0303f5be61d260444f3c758f847606f134902dc; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilmington; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/california/port-hueneme/schools/

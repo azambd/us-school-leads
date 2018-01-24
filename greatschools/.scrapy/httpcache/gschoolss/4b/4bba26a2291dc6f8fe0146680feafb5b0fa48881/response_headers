@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f87f8c59-663c-4bce-875e-f8ca01f41e54
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsolvang%2Fballard-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cHBZU1IwSUN1NWVPQm1KRmNVZ0Fxa0xLem5abExLSjlYT3FjREYxNGQvaDdUSzVtNzFpM3g3ZHpaTnRYOUJ2RnVsdXk4QmVsNGwzb2ZydEFtc2ZsWUlKS0hIZFBQY0trWktMNnJPanVUcDF5amFGV0hNRTJxS3p5aXpkQWJPT3JNakorV1pHdWgrVzk0aHpSWVNxUWFqZ3RmcmFaUXFKZG9ZOFQvNzExYVFYQnN0cnZIWFkvVmhMWkdlTjkxUi9nL3I0Ny94bFRhdldmYlFlRVphSmsycE9xM0tsUS9aSWwrZ1BqN0NEQnI1bS9ZL1BvR0FWdWpPaUxiZFRDVWFhRC0tTFByYk9ibU00VEYyVmYxOUxtM0pKQT09--edefe77e52f9065431de16316dec33f268152930; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

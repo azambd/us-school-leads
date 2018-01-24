@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 09d800f2-85a0-475c-a71c-70368a90bbcb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feureka%2Fgarfield-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Yk4zUm1RQ0tlcHlST1piYzdOMi9jTWZKKzRUbHFiNmUyR3RGdGhuZ3lnM0Jla0IwU09NVEgzTmFJOTJ3WWNKZHhVdkZXd0ZkTXYyMFJjaUpNOXQ3K0ZvVkR1amxMWDVCblAzNG92cUY4Q1dYYVM4bk9mYS9HbE54UXhaejRKWXFoNGJPR3Qyc0pBdnI0QVdLWWVENGk2b3FlQ0NjWXVndWN0RTV2UkdKeXR2bS9WYkpleFpkb2xYdTVibDE1aW9oeDdDT2xmNEt1SVBKZmtvd2lrNzRodERZMGpoN00xK1BwTml0cWhNTmlLOU9sOXZ2UkN3SWNsc2hQS3IxRUFJWS0tdnVzeU1FRndNZEZaTjFTWkNGbGVpZz09--366863ec845618add94e8f2bd2530de213e22109; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

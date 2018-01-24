@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A18273%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Q1JSb1hwdVFwRnRqNkFiZkJGL2NJUXd6RGJkWEYxbTRHUWd5b2dacUt0ZkVuTzlOL0JrQXhZSVhiZjBCMVMrSjgySzc4bkdHc2I0bEdyOXV5N1FjN1Z6bFNmYnlUeU5vSGJtUGUzcVdBTldMWStlTTNWRm0rbUlBSER1WDJzdm5hVUlDbTQxOCt6K1FuQVNOVkM1ZFRmTjQyV3NjMFhyckZKdnVzUVIrbzE4NHNOekRyVXNrUWFlbUNtbktBVUZGcitSOG1ic0ZXYlp2L21TajBVM3NQc20vb3BFQUZtRU5ERkFaSHY0cFlFZU9QTy9yTmNWbmZGMUhlYWoxTDlsL1BSL0FtQ3NEQzRJTWMyaGhpajg1ZWc9PS0tUzNacnI4MGJ2Q010RHhxSHByZGd0UT09--a4ad99588a09ce49e5567d93eb5a180b5abb8ebf; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/18273-Promiseland-Preschool/

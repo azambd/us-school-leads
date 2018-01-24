@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7bcef8d4-9d96-400c-ae66-1aea9cd7a8fc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flancaster%2Fantelope-valley-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K2VIVGJTSGVvSURQdlJIdXNqMm80Y0VHekNsQ2w1N1QzbEJLWVhhMGZDUEhqd2F2aXhwemFKS1puYkNBc1FRWWU3NU9TaTF3NWJHU2Y0cFQ4a09GclJwbUwwTGltd2poZ1psYkRTL3AyTnFodzljNnpoM2NRY04xK2hNZXIvWHBUZWFQSENTRmhZbnpNYXp0MjNKSEdZelRzTHNjVVNSaXZ3aVBjNDA4cVpDeVBRMXVjdjVlOU16Rm84UlY4QnNLZHlxbGlFZFF3WW1DV0R5MDhCUjFqS0pqWlFKQmhXc3E1LzJCcFYwT2g2akk5eDg0NkJKN1RSby9Dakl4bXNKenZtQTJ5RHFRcDg1TGxkaTNNaXFxZFE9PS0tYXV4aXFJZHAyZDVndXduK2J4dmhUUT09--706fc0f29681c263a2d6ef3e26d7849e115bb99b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

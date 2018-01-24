@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 40070601-c1b7-453d-83a4-1f147c9dd427
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwestminster%2Fwestminster-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L20vS2FBQUQzdDYvSVFxQW5tczRKazR6ekNXQTZlMmJSVksrQSszaFJ4bnludEtrL2I1eHlDQ0h5bnd5M2JyNWxXNnFJNVk5ZXZrQzZBdFNpYWREVHQxdmRVS3pUd1gvNkpMVHJjMWMxZStmYnIvNDRGRXhDRlhuTThudUlacnNwNXJSRWdxZjFud29WS29xV0VTemhRWlVobm9mT2FJZlRNTFRkZTNKRGIvR1A1SCtqMzVRYU5nTjdIQXRHcUIxMU4vSlUvL2c4dG5oYjA5WHJ5VllJSE5PUzlYelNRalVsRVZ4eGwzYXVYbVIvd3A0czJFWUVxT2hraURZZG9obC9MSmE2MGlML3pKK1ZtbTRxU1Zjemc9PS0tNXYzd292dUlUZkJoc0w2VFBsVlZldz09--044c81c4b8cbdef5a71fa1052650a0fcedf54bf3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

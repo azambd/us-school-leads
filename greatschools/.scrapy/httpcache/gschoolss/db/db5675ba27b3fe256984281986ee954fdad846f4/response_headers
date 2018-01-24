@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 83f3c1e3-f5e5-4c66-b7d5-b53a4d62373c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcaruthers%2Fcaruthers-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=empMWlhKRlM2RUwvYkNpOG9NOFBtSmtOYnNBSnc3aC9DQUF1ZWtjVXlobjBMMUZUMFEvdVpRTDlTRG12cTdiMHVzQkZNWm1pQnhYcUEyRlhQRFhPS012ZFordGVGR1M2NE44OGhGSzRvSmxUUU4wRHVGUk9PSGVTZmRYUGFDZXJucDByUTVNQ2NPY04xeGVCK2VVLy9wc3N5ZUg5RWRvd0J1V0hMbXQ0VW1CVWpheU1pTUgrZ29IeWgvSEdKVjVQenRpQ3JHeFYrNkxhb3JtbXM5bDZoQ2dOQ0c1alY2MEdQRG4xM1FacHFMWm51R01VQTJHMlI1M205MjFRdCs2Z2d1NDNVUnVtaitobmNKRjFDMFpPUUE9PS0tcVo3WnlOOWRaWWtKelV3czcwaTd1QT09--2d12ae375dd8c2f3cb7fff8cb8cb440964074a03; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

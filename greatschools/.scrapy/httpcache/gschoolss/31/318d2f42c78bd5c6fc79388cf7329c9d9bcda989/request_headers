@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7687%2C%22state%22%3A%22CA%22%7D; _gsweb_session=dE5tZnJTVnlvbHNCZ2tpY1Z5MGJSa2NwcUJwTHZXbUw1Yk8xL0dkcG1kWldDWXZsWHJVM3hjNlN4SlZoN0xaK2ZsSTVBK1lhRDR3d0twN1NRZmcxOTBodzdodFc1a1RLb3c2YitQaWpac091TjByR1I3QXRiSDBta2tqdzNYRm44dE94MDNPbVpYS1hqODFFWkRUalg4ZmFPbTNjc0FhZGN3RDU4dFBkb1hOazJERHhacG1sWCtzb0JHUENnYWFNdk9XNUdZRUZ2cHFLd0o1THd4RXIxWW5ONUtBaGc1b3JLVGFYMTJ2UVljZWwwZkJPZHhBVFVRNVJQa2twME96TmhmVUVEbEY5NUFDVmM0bzErWmNpL3BiVUt6MDBFN2dJUGFGMldmSHdyTnplM3NsbnJKS1VTMWF5NHFmdWg0TEFEUjNBT1RLM1R1NVpPeSt2T3o3cHBQM2VtT3JvZGtqNngwcUZFQUFhK3BrPS0tZmd2aTcybFJ6V1NkU0w3SXA5MWFnUT09--56e8e786f13c1e2e5b35c9f8349195df7134002e; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://blog.greatschools.org/2013/07/11/greatschools-and-zillow-help-families-find-great-neighborhoods/

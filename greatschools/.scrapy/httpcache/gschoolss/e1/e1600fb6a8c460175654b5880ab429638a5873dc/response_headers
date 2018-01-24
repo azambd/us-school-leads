@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6304687d-5dfe-4e1d-87ce-e54d91cfa271
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Ffresno-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UzZ3N0kzczVENFFHWW1Iem5MRkUwVTFFVVVEQW1RY1Q4WThNVEVqangxSWhqampoYkVlcEdvWjVmNDdkUWJJeGo1V0RwNEF1OCtoMldjNzdndXcyeUtXNXR1MVRRUnFpM1ROY3ozMmpDM3ZkMmRQQnJzdXU3Uk9Vek5DU1NwVUhTeWw4QXVZMUdPczRCakRkWWoweFN0aVRJTkwxZk1SQk1FbEpDRlhhT3MwRXBFQ0UvOTZLUGI5US9qVkpuWFdhd2FLc2I2YklWWk5YMzlOMFZ4RndXOWR1WGd4Mks4TTNPZUUySm13dnZvK2hreUxsR3c2TGVwS2k2djVEV1d4by0tUEJDOWNVTU9Lbm1vUDl3d1R3SldMdz09--2478ee9c65657033cda1ddee484a1ddbd8a780f4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 13629531-7fbf-4162-9272-d8edb5c08936
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredding%2Fgrant-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SXNtZDNiRHNIK3pCSHhucHFTYnBndHZoV0J3dVdzTWFGSFU1Y0N0VjhLQ2pxSUVld1VWc0dGZ0pGM0I1ZnAwOHRNUWlSMGVEck95Y01UdHdBQXdSblM4MzJha2JOTlpibmszN2sxTzhZWnlrSGRJSEJReDNzQ2dZclNMVmM4QW9nczdhMVc5ZWM3akNsNWtyU0JLYWJwMzFsUGYzZ0lsNnZjT3YrOUlxZjhRdEhLYVR0U3R6elB0MmZxcWtCTTdYeE9WTkg3Q0VLNW5kRmcyai9tRVBmOEtHenljZDhJSy9pcnIwUFlldjBiKzU3ejVhNkRQaXR2dnlWR25pMzhpZS0tVlg5dXgxaUh3YTM3MDJCVWlqWHBhUT09--38c7a74aeb289ea6f8889b077d9b6691edc83eaa; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

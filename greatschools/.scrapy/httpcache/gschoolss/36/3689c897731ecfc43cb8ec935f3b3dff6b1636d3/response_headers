@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 6ef2cb13-e553-44c9-a45f-3e01ce13765a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyorba-linda; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z05QV1pwYXJYdlBybnliK29ORkNLYk5mbGtMOGZhcGs4YU5aZXlnZTNIWVhJK3NjNmF2UHIyYXFCK1N6WE45eFBmYTg3OURKQlJJQ2xIbGhaallCdHRKekhzMGF6bUo0UG5sc1kvK3BxTkdZWkhhVlJmSjJaSjhwOURPRHFwSWJqaXlSNmRFY1U5QXRYVmdERW5xdkJDZkFWZW1sOTZNd0hYVWdGWmxiMXJJUm1GaDVVdWFmZFlUc3Fnay9YS21IeDVhb2orRGpNdFJoRUdJL1JpRStQdWtLVmJHUnowTVNEN0xRTmJsbTl2cU5IRjFEMlFMYlAxZHgrZFhCKzM4a0o5Z0FWYmU5U0JlczFRUElGUHFpSlJmb3JkdVk0VTBRd1QrTm9VV3pHZzJjRzFKRDB2ODBxRDFkTnFJeG5qUURiZE5rSTNhait5cElhOExtaCtEekFlQkdRVmxVWjRjc2Q1VkVEdHYrbXRtVkZRd0FreVpSdmhrNzdVeVRIcXNYcS84c3B1ODFlaHFJRldTbzMxL2xMUT09LS1JcFVTSytuVWx5aHd5d3p0WUJhMkVBPT0%3D--974785fade14d774333b6fc9e38a996c644e1eda; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

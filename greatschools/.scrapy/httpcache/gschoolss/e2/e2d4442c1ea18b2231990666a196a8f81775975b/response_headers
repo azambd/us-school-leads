@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b845d449-95e6-4ab3-8b39-ad36bcaef674
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmojave%2Fmojave-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RzVVQXRjYitta0ZHMmFNTmwxZStOVWxWUWo0K0gxUUhDS0pxSGxPWHlQVXlaRUV0bEJkYXNQZkZ2MTBLdC8xVExaZnhpTnZzM0pjNmpiMjk5SnJrTkVlV1JhYmVRZjVEVUlOc29ISmVIdkhNQ0tXVHVTVjdNMDRKRnJSUlE3VXNQa3lISmxPQnErYnpha1JSZXg5SlBqSExpYW8xOXBwc1k3NWxBeG1xYkIwMGFEWlVzMWxTRHprdk15WFRBUE01QTFtTjBKSVNURFpDTHZ3dFlsNHJtTk05RnZLeVhHajNxVCtIcDd6NitGaXdKb0M2U3hCekZlMXBlaVpNUnovQS0taE05TlRpNEIyUnRLclZKQ29iSVdNUT09--d327faad012d00fef6eb1081789475e2bfda6bb0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:17 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

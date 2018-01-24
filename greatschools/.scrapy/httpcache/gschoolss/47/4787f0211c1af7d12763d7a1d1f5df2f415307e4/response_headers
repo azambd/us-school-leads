@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3790079e-341e-4d8d-be41-9cf5a7d2d8c5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhayfork%2Fmountain-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QVBUYXllS1FyM0xZdlk0aERLemdUWVQ4aXBJWVpLM3ZueTdSbE5sSXlmaGZ1bFU2RHpMdDQ4UjUvOHNtcnNldVgwbWx0aDNOcTNVN3YxNE0xbzVKTFhSOWFVQjg3TjQ2NkRZNWhaT1RxVkhlMzh1ak94cEhaekJqMEdlYkZMdUQ2THUzUHArUnpMZ2JBVzNBeG1zTnMyaGFXS3ZlQUpjbGwyTFYzQ3h1RW15QmhqdGdVdTArdkt5bnQ4ZDdEYTBpbUxWZUNDamZGaGljYlRrVnJETGkrMmhpQ01ucWtGUHBtQjJVam5yZ0RDMkI1dHFMT21OZTlkcFVQZFI4ZXplTC0teGdUZE5Xd250Smw0dDA2MUZtQnpjQT09--aa2ddf6607cb29f2809ac9556e37eacfaee3f32b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d3bdb0fa-2145-4d83-80a5-8769ee916b02
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fscotts-valley%2Fscotts-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WUw5OVFzeTBHeFpSWm56Nkk3NTUveUtnWFNlSjZGVlQzdUxlVFptOTZjcmQ0dVVoUXpFK0RJOFhjek1xWEdqSWN6TVBNRkw4dHhDQnZIRGhkMUthU0NRcld3bUFwaXIwNUxuVkZIcW1LT0MwdXpDaE5tVHJ3SGNIQWNGeFg1Wkx2ZnUwdDYvcklLdUQxVFRzRysrcjhkR2ZWTjFocEtRNlU0YmZ2R1lGK0hNdFZYV2NWVXZYVy9xRUFtTzFSNC9BS213T2lVenFuMXh1ODFCZXhzM0h4ZW1WeEpQTWVQdEhBbURUckpkMVNCOWdEVkRkbStsNFF6NDdTazVvNElxaVdpV1JrYjg3MldoSnpqcXpETnk0NUE9PS0tZGRaNlNVZFd0aHBFRWk3dnBBVzhCdz09--fc49ea388b69c962dd7d725b47e14198b9d669bb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

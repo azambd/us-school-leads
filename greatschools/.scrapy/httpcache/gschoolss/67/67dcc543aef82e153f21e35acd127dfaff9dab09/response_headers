@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f57d0ac6-31df-4366-ac8c-46277c11c74e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-rancho-dominguez; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eTFKZC9tL0tpM3h2Z2YrcERuMGQ1QVZyVVhVSG0xVlVTY3I0Sno2c0NiU1ZzUk1HMnEwSmU3a3lyMk11Ukw3WXA3WVFYTDU4NU1pQ2FiQzI5WXhmZUk2RFpmTm1uK09ncExLV3QwTTNxQm5KSm01a3pTK1VSNVlURVJSVDhFZEVQTWJiZEJURmc4U3BHaWoyVFZCejdiWXBvdXEwUk94RjBpZTl3bWllajB5Y1ZRS2xvU0x3ZEdsc251TS9DZ0wwTXpyaTliRTJpVmpjbm5YYlorcWM5cVhVZERWTEJhZ2FPaHZXc09yOTBZenVxWFlaR3krbXg4bC95K3V1NjNreGRiQ3EzOHVuYWhKRXBGR1drYkY3b1E9PS0tcWxsUS9PL2xDUHhPK3ZjTVpYNmN4Zz09--6a6b6a87bb3a6da5fd6f9ed5173c3e78aae634ce; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

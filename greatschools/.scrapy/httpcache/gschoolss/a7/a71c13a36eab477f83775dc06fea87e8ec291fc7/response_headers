@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c0d6104e-373d-43d0-a084-2cabb65b7473
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fenglewood%2Fenglewood-on-the-palisades-charter-school; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z2dQd0lOc3ZGNUs2NlZ3MTFqNnpmb0ZyamtCN2dBMDJSYzd4VG1tdmZQSWZYQnJZMXlaRmtoRkFYRXdBbkFUZS85dHdsK3habjV1RlBJN2FwKzVFZWZQSmxMMjJFWE1EMlhkWTNkTGkveHRsRllqemFic1lOUEdBVC9LYUxxVmsvcmdObUkycjQvNEZEUTBWUlBCVUpFd0JEYmo2YWtOZTNXNjgzWjlXVmVBeSt6aThWZUtZazkwMTlTODdObElLWlN1WFJOR1JCemJ4VkdZejd2OWdLSkxuL0dYVmRBK1VTQUtxQTBFTVQ3eURnaU1PTnU1ZWJjeFVQVytqY3dCTzJKMkFNNlVTdWk2dml0a3JQU3V0UHFtYWdqanBGRzFOUEYyeFFlQ3lOSjRSaGR3cTZaeWZxVVc3N09IKzZBWGVrV1VoN2ZWVnVNSjdOWVQ0cmdIcDVWdlBrQ291M2NvaXM4T3FmRWg4QUlEYWZlYVRyUEVwaFVlUWNNNExoalRnT3pBL3BWYjdHTzYrUG45ZFdXOUNQdz09LS16M29ZNHVYTEhsbXY0WVlDRjF0RUhnPT0%3D--9cf0417abce0bdfbd657aba34ac929ab5828f96c; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

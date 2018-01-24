@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1bf94390-8a4e-4e84-87fd-cfb4a8b05b91
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwalnut%2Fwalnut-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WkQwOXNEVi9QNnlVVm4vL2xhYXlUeGNzR09NS0lZNDRqRGZXVjNWWEhLUURWaUVVYUptUUFpWER3Z3Z0T3FONnhoL24xNGRnSW1NQXVWOUZwVWMrWmpacDNjdkhadzY5ZG5QbGNxeS9oSUNmQzNsN0tDN2dyZWZjNE01UW40Ri9NNEJnS3RSY2FKZG1SU05JOTNyYmVNVU9zSCtSRDJBRDkwT3BxckhqeXlaRGZEbzd2Q28yMUVqYWdZcGNYcDVHZk1seThLbHpwV2ZzWnZUY3MzcnFqUzVaMFVVZkFSajc5Vyt3MG9VTHNobjRMM3BJM0xJcEtBRGFYRnZNclpuMC0tVzV0a3JFRWU3YlI0bk5qQXNxNzU4UT09--f4c3fbcf77e35d3ef705c1e299f3d83c03866781; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

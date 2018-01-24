@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 660f1233-3b27-4582-9ff6-c82f4df95dcb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamptonville%2Fcamptonville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cWloa25EbDRCVXVaNzhYSlovdjRxcGFTTUV4R3FGSXRxUnNDNTFhcDJjdWdwaGFIamxFREtkVVIzUFVVd2hGaUtkMzNiS29BSjg1NTExc244bnY4ZlNCR29Uc0tXUFdIWnVoejZ4Ym9IQ0luNWhMV2YrTGdvbkNpQzBBL1VTVU1xZUJWd01aSGFURWI3U21KNUZyNlZsUXVWUVdpeTRtVUpzc09WS3JXQXNTWU1yR3haQXdtdFRDUk1jRkJFTUthN2s0SVdVRmdoM0FLNE5QN3MrMWFUV2tPQVBMakhma05ZZVo1bjVZN1IzeDdKY3FlMWNRT0phU2daWU9WM3Q5anFsTTVpVHZ4WVVpeVJVdWpMaWRCb1E9PS0tZWFyUkZPOG5zNy9EemtHTjRDejhyUT09--031482985b36facb069e94e1a9833df64f7f5d61; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

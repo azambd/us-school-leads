@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3bc3b617-5c58-4a6f-9d2d-fbe480b071f3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K1hGOFZLK1EycDAyZFRaUlVQdGl0VDZuVWhFSFQ4Z0NKVmR3QWFpc1RycStzeTAvNnlsS1lRSWt6Y0ZWdDJ6VFlDQmdRU1JvNkp0TDQrS1VGcjdDdVVNK0p3SkpUNHFEM292eHBnWkI4cUZFZHQzZjVhaDRvQkU4UmdkRmhCK0NHTzU3K3cwZVRac2puWndtbzRaYk15ZXEzY1pLQVdXYTA1WGRGeEhHUzUwbjllSlBDQyt4TWZYeUV1RzJtZmg3TGgxTjZ4ajVUYmdmN2Y5cTFjQzl3WlNhMUhENWt0bVJGWlNKREt0akZlMFhVeDFRSkh0Tk9CNzUxeERSaWtPYnp3OGMrYStubWM2SWlmWkNaSUVlcFNDaEZUWEZWbXBVWWZ1VXdhZmF1eEFnbEsrTVdNdC9MeUNJK0k5eVBhT2VOMS9mQTNtS1o3UWx1a2psY3BuOFdoWHIvOUdLOG1RZTVqNzVWVS82azRzPS0tN0NZS3VpMHZsQlcrODZ1S1ZydUdxZz09--846c459bc1cdf2caade189e43336547f4d6f4c9d; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

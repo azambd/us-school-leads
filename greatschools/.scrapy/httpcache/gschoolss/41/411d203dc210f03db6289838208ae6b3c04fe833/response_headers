@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a3633bac-8433-471c-a3a7-a2bfd704a02a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcorning%2Fkirkwood-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R0pSSkhnc1AxWU5ySERJZ0s0Zldjb3BCQUJTNWozU3YrWDdKY2MzUy9ycmFxcnVuRHp6cmxQWGJadUV2VXhrcWxYdXQ5aFBiM251YmQ3a0t6UktWbENJMU1CU0FkUWJHSGkzV1RUVXg4dTVwMTZKY1g4em4wbW1KSGVrTEV0TS85T3lmdzFYSjNaaW91Vks4NUJyUmFMUGhMRUY4dFRyejVSeTdBUXZsKzlVVDRZU1QxMnMwVzJqUkY4dzd4K3oxQzFudzRud00wTU5FeXc0c0hzTkZLU2FJb05PT1RUdlBTZEpuUm5hSFFyYXBsUGFwbkU4cisvcUY4U2pIaDg1RS0tczdNNnRpRGttU1llVG1wYXU5a25SZz09--b4bf29ffb26e44b5fa5ed1bbcf76a3c5ba422312; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

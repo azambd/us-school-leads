@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 289d7b3b-b367-40a3-97a9-fbcc2cb478e6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flivingston%2Flivingston-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MXVyZlNrcXVEWlVkbGhxMDNUaVlJSmRMZThLVk1oL2VZNmVOL1RjRmhsaDh0cENUMVJveVVLektncGpZdlA1U2ZxQVlVQytYck1tcGZBalVWV0p1QjBSakt2Mzl5ZTJEUW1ieHhCU0FlUXZkTmRiQVRNMC9GcXBTSlArNlJtajlHMC91MzZVM2Z6Y2VLQmQ5K1ViZ2xNV2NDQW1MeGdLSnNzT2MrcVc5N2pYMk5Pd2dYMHJHNUpJZGxtUG1YeEYwMU1QeXBjNHdFbFJETlJVK3JENDNDRGZCY1FEUWVackZjcElQN0RYMzdSNnVJK0crVlRIaDVJbUREUGR4SWZma0dMZnZSUWFxdHZPR2VudVdXNzJZcGc9PS0tYVZoR3VCbW9QbjRyOU1CQW84clladz09--98339f66063813fc6481f67b5d8c4d2ddf745e2e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

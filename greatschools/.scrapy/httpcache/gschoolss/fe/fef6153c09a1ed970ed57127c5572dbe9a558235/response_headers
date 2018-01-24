@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ee447bfd-84ee-4b05-b0a3-b096b25702b6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Friverbank%2Friverbank-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cE1lNnc4N2JGRmNYbDFaaXFoblBlbTdmK3lqdVB1aHlOUUNScnNrWjE0TG1BRDg0a2RnU3VSdEdUem1odDBYOFgreHp4QVNCV1Qyc1FnK1NxV1NFR29NSkxRQkJCSWpQbTU0WVltZEtMS3R3cUR5M016ZVMvVzJwMHJFMERBaHp0ZEVJRFFnVUM5ZWJvd3hYaUo0WDcyalhoNFVlcTFHTUc3VXpCSC9aZFpSU1FneWF1QVFtMEc0TXlVOUp2K2Z6YUJ6T0JqcitDMHJvT3gxa0d2UE1rYVZBN0hzNGI4Wis0dlZQYk5PMTJMV3NMcGZTWTIvQ1FpR2NPR0dhSTJOUnUwTUVvMXlTUjl6SFVCYnF3KzVrckE9PS0tN0lyaWk4M2xkMVFBZ1RkNVRNRmZ4QT09--6724f8c2ae5388ee333730e68c6cd390d3764670; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

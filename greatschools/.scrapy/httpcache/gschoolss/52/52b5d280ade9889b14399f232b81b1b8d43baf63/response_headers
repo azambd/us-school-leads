@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c23d7282-3a0d-4a13-9dd6-d2d316277f3b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkneeland%2Fkneeland-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RGVIblI3S0tJVWs4LzBWVFdHM0h1OGRxY01DcnJqRGVvUTdLNlpldXFKdjNPNGxKdEZxdTZJb3YvMzZlNFpzaVhWRVM2RlcvTE9UWFBkKytYSWdTZHF2UE04dEFlelNDaFRNaER4eG00QlJvSUNaZGN5SitNQm9xUEYzYzR5Y2cvVlREWE1lTDliZHJFVjlJNzE0WC92Ry9oV0pjcytzVWR4L3hFTU1jMkUxcmJLcTU0TVFlc0NRWmdRaFIwZitwdEpIclFGOVlJaTBFM1kvb1EzUlFuK2N3ZGM4UUd3anJWUVh3RmMreGNWRzZIY0lYTnRXdncyODlZNFk0bUdzcy0tRCtLWGNycFNvaER3SXJXdkhRaTQxZz09--4267b49af3ae69d045cbd28d146a13d82661709d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

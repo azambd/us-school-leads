@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=Y2pFbG03U0tRL0RHbVB1alBKWnZsc2hERmZ4Yi9Ub3pBNnpqMWhxUmlsZFI4eFZpTWdXcnZFTllFb3dFZVpPL1FUaFl6Nmtad0V5ZVVZbjRpbEpkQy9MeFZlK0g3YlF2TUZmN2VadkJ3V2UwOXAwOWVpMStmbnh0SmNCZkhpNEpsWVlFNWVzT0xPaUt0ZG55eWRRZzFjS2NrZHFYZ1JKZTF6d2ZCQ3psVWZKNER3VFhyQ2xjazlkZnlYVkt4aEFHeDl6OGErUzloUnAwZGwzekxramVXS2U4MDVxV2hBdjBvdy9DaW9tdzJGYXlYOE5DbFY3SmwwVjRhcEVlT3pyMi0tdUtYeEJXcXMwY3BRdWpZbHh6UElsZz09--6276280188694e3bb36ecb337bacc6339a98454f; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshasta%2Fshasta-union-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

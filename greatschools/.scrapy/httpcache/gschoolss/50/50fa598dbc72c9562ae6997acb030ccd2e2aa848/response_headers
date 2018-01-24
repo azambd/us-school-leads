@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6c7fe86a-0e07-4b3a-a7bd-220ee7fead69
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpotter-valley%2Fpotter-valley-community-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cEdSbUx2bGlKMjNvTnp1UUFiOEtqYWNsNGlUSEQ2WG5kM2JPU0N4V3lCMmNyUHJOWkVTMmN1VzdjVVV4Y0lscUNSOW1QLytTQ0NBbVR3VFNLVXozbnFpdHdYSVY3ckJGU210eTZKSHNjd2lwWjROc2REZ1NXTEZ3NVRZT1VJRkw0WFJ4MTVBT29uNVZma3FNcnNkdnlGQ0xyZUhQeU8wMTBxK2U5TDg2RWRpQnJhc0VpVzdjWmx1dWVFN01KNld3QWp0RGg4bEpVdHJSUDM4MXdqK3JsakxLc0RDOUlkWmI4MHg3VDNpL1NYS1VPR000RDVpbFhGc3hOYXdpVXdud1dFR3ZCbE1DUnhockltTkY5Nk5Ecnc9PS0tUndleS91RVdlSzlMUWtMcm1oN3o3Zz09--811c351622808e7b3ea76fa5c388f125466cd4fc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

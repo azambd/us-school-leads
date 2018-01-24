@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A21357%2C%22state%22%3A%22CA%22%7D; _gsweb_session=SytDZ0JFWWRsR2IrWTFJckozOXlQcm95Z01UQTRQODFFalFSdnVxL1k3OFdMRzhmYkJHRmszQktCUXpZMmFpWU5mSVUyU1F0MFBDdUpIVENRYmVzUXY1WGRqazd6WEJIbklFUGJsUDMyRzJOeWRTVm9mWnpWSnV1cGZLMkF0MzNNZUg3UGVBeUtvU2dHbVBZdDRKWk5rVm9FNW82OTNiNVF5d0hjZm92UDQycmFWcDZZVVpSem56MzFlS1lUUklaOEtOMmRpTTIwL3ZGeFdJZ1k1R2FXYS9rWFhSakt3UHh5a0tkUFl0RWJ0a2ZKMm14VitJUE1Oa3NpVHhwREE1QyttZFJXVXhsOW8xVEw5ZWIzRjNPNVJlaXRTNVM5dmNQRGlnM3Jlb1ZmQ2xRZ05IZHBQQXl6bnhuWGlTSHZTSW5MYU53Tjh1a2VrK3ZDZUhrR0hqL1ZaVzA1V3Juc0JvRWkzSkVZdVdDQk9Tc2hQc0V3dXpIWEZoWFo5Ujkvak9lRDdXanlsUnpoTHkyNmgzamtZVEsyQT09LS1qSERYbnNRazZlVVBlcThPM2ZlUTZnPT0%3D--e359b64f4ef3c18c49c75920603aab66fd368640; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilmington; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/california/port-hueneme/30089-Parkview-Head-Start/

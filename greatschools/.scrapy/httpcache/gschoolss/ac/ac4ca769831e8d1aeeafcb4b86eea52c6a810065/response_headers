@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 572a22f4-64c5-4d84-b9b9-bd1cbfed1a0a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-maria%2Fblochman-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZGNFL01MRm1sVll3RVJrNVFNZHd3ZS9wcHE2dERhdUJLenhUdFNRVFBIRmYzTVFSTnJXTDJrMThzcm0zcno0Q3RPZzRtRDNEWjBaMTVOaTg4bUgwUUhmK2phekZrcVlIRlFLajFFakkvV2lhNWlKTWwzRm0yeVp4eTZWb2k2Wkx1SnBkVEFDQTJQZE5oZjNJSFFOY2pHSzJtbk1nUFlYM2RhWHF4aDVTTWFjeUdhOFh1N1JKdURPRmJDcnBnSk94QVVkenFZd3VJU3cwTnprM0phcmVmQ1A1UklrL0lEbVVudjkrRkFicFNxd1MxSnpsdjdLR253c2QwTiswUHlsS1o4SGc2V1pnM3UxMzFNUWRVZWJYK3c9PS0tQ1NUVVFiQkh3WmZ3NFo5ZDk4UjBrZz09--8bb0423eddc879fb25ab1608572b3e6519c72e79; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

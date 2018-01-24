@@ -1,0 +1,13 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d9a61178f93fbb2c9824a957ef3d16d561516716087; expires=Wed, 23-Jan-19 14:01:27 GMT; path=/; domain=.buysellads.com; HttpOnly
+Cf-Cache-Status: REVALIDATED
+Expires: Tue, 23 Jan 2018 14:16:28 GMT
+Vary: Accept-Encoding
+Server: nginx/1.10.2
+Last-Modified: Fri, 19 Jan 2018 19:07:41 GMT
+Etag: W/"5a6241fd-2f8"
+Cache-Control: public, max-age=900
+Date: Tue, 23 Jan 2018 14:01:28 GMT
+Cf-Ray: 3e1b48fbbfc39fae-IAD
+Content-Type: text/plain

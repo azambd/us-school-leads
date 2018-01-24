@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 17a24706-2f7d-4df0-a99b-c6d72d1d3849
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fboonville%2Fanderson-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WWxMQzVrYnZ0VWFLTjV0OTFyaDR0Y0ZFT2UxRHdFRUE1L1dzMDZEMzhZSXExMCt0MG83bWt4dU54L01YU3lIeW9OQ281bG12OFNHNjNWd0xGYW9wb0daQXovYWV5MGxYV3htb2s2MzFzTmJaZEtBQlNQSXF5NGlOUHZtdHFQNFBsTnFrUzcxeVI5c0hyZEJjVkh6U09QL3cwMG52K2kzQlloWmNpNkgwcmh1b3htV0V0L01JN0ZNRVBEOGxZNC9JVy9rTDA3T3Vob2xING55OU55eXBDcjVsbjVrbDd1MlowODdhYVZmN2tpWkZjSVFSQ040V0RKckVmMWxIdVNBSXZ2QnBCNDZOL2J0Vmtrb2pUUi8yOUE9PS0tbmpRdXE0VUFWdFJIR0Rzb1ZkUFpLdz09--a6518e2b9f4f701097816fba8ca717a426653be1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

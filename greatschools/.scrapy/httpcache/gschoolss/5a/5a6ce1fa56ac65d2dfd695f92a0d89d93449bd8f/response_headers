@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4c0e66b8-2b59-43ad-9d9b-1d4766e49773
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fheber%2Fheber-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a1pVajk4TmxVU1BCS2xET1llYzU3Sll4bTQ2djZsckhMRGViUkcxTDdaK3hZRE1ZQlpNQ0tMRGhLNnQvMWYxa2k4Rk9hWWxTOW1jd09xRWlmR3lwUFV1SHZ0QVgxa2R4b2Rjc3RWQWdadlV1aUFjV1dpRVhwVVdkbXJ1cUQ1RlpReFdXR1JZcnpxVTJJRUl1Vm9QRnI4bjl2TnBlWm44MlVnNTlOODJ2bUlRV1RzQ1pmZ3hESTIwOW8xeE1JZ3NhMlB6OHlBSXV1dGZKQXUvclZLTWhIeXJDOURMblJKYmt1R1FpWWxBQjE1ejluY0dLdit5OGtKTFArK3R0Z1g1Sy0tZEZhbUNIM0xnVkt2dUJhbDh5SHZVdz09--899efbd21d8606bc8a7e21c737c25b74bf259f8c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

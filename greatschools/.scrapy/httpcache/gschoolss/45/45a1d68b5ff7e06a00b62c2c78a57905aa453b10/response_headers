@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c7a1b431-5c80-49ff-9b66-8a7528b61454
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredwood-city%2Fredwood-city-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WUFjQU5VSUpmR3dIOU9CUm84anZQZVQ4RkdRVUtHOHhxYStsMmhhd2JiYjJZYzgrc0U2TkxuUzU2a0MrdmtJZDdYTEpVbEMwb0o5TzNXejFFUUk3WGFnZU5uVFRuT2NJR2JWVlRlSWlXVVYzLzRoelk2dnRjaG82YnNscWxKT0RQbmlUNkgzVDVVd1dQRXlQQk5mRjE4ckdHUG10cTZHVzVOTmVLaVJhN0xqODhHQXU3bUZ6TWEwdkZIV2l3d2xXeU5mMFpWNkRDMG9KVllML2t4RTdQdzRndzNaYzNiTW1vUmt2NEdaZGxjZVpEc3BPOW9nR3JKdWRMWi8waXlFN3lDWVpidzdHcVFQd0FmNmVtOGltUFE9PS0tbzYvc1BEMWdkMmZDWmw3Rmtnbk9EUT09--aea198f93dac02255a805b1ed14c69a049d8a361; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

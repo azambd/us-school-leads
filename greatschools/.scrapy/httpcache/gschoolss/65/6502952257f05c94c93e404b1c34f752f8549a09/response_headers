@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e1721169-8634-4992-85b3-f0ff3c7b6306
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodland%2Fyolo-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q3p4NXNxMWpaOFBzVjVFTkx5MzZ2YWV3ZUg3VG9wdS95dUliejg3d0wwRkMzYVFlZEw2QVVTS1hZU0NUOHA1QnlSZk5JRTdJa1NWZVh1bjRPUmFNL2ZoQjlFdENDd3JVU3VuR3JMdTBxVkQ1NmVtZVBabmcrc2E3U2hDUERWWWJxeHpaakhvVjRwODhYY2tYUlp1dUtrelpDMkRNOVo1dkJqbnVLQ2hzTURCUlk1MEY5MzdrazlEcjhrUnJtR3diNmR0TUsvaGRzbm9kM04rUmZoR2RGVVB5MGJpam5RUmpEQWhlSG54UkpWcFVhNXlQTGVzTENwR2krK3I2MzVSeC0tN0RhZzRRYXBmd0xDb1hMLy9iM01Odz09--5bf6380e723436a79b9cc6bcd1ad26796d1c5512; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

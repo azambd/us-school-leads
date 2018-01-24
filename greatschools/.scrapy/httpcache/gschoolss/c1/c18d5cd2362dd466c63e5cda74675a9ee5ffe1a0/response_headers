@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a1a089c6-5c30-4e74-a5f3-56784ca72196
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forland%2Forland-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZjJaSXhYK1BucEdaRXZhYlN5QW81Q1A1dmtGZ3pXbWdLdkNYYVF2QTcyYUd0UkVQOURPMjRWOW11azBTYTBESnh3WEVScjVYTTFnZTRQU3NMT2g2UHdKaE9RdU85VDVoR1VkMHdFV2ExWHBoL1cyUW00N0cxVDN4REJvOUJJNGJWOTh5UGtaaHZPdDBDdEE0RVB4Qi9ROUl4a1ZLR0Zqd1JkV0tqcFA1c0tOWjZFdzgrSWFOdThIdDBtWEVZb0E5blZ5SDlwOFdTTUQxS0QrdTl3SUdZZktqcUdVb1I4RlJ0SkpzalhpZy9WNU9nY2MvNDVWcnVXQk1Ecm5nWkRwMi0tanlZbC9sVzJ5bHBSQjdsSUdSTW9KZz09--9adfd0c5c09f73b48103d26b55002a8891c8e137; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

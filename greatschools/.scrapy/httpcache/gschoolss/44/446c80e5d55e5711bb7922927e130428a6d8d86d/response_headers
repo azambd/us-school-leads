@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 52dcb591-6159-4ddc-b462-9aab5a3935a6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbiggs%2Fbiggs-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TmgzbURVZU9BK1pTZS9hdGJteTVQMExXU29BbFV5enFwR05OQUlGMnZWK1ZhQjZlWGVVeEwzTm5RN2ZJU3hILzV0YzV3UnBnT2o2cE5yZXFiT0orRGlZQUp1RmVqZnl2K3Ird0tXRlJSSTNUS2FUd2FGd0laYldGMmJCM2NzSFNmZWF3UXFhQkxjdzJRb0NUNmJDTzB5em42ejFJaTd2NExLWDJreUN1aS9wU3FiZ1hCMFRZWCt1VnJhblhxZGFWN1ZrVTVLVnJEZ2lNYUJKRGIxMHdnWU1panJKK0gxRDZ2dHJJSWxIYjNZNFlCazJVci9pT2dqTXE4QW9yQ0dBay0tMzZ1cFdBS1RXcE9uY2FkN244allIdz09--c5816c2c02bf949ff390bd6db70975d732fbca48; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

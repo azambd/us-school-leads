@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2ba4c2f5-9cfc-443c-a2b1-084f5edce9cc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-barbara%2Fsanta-barbara-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VmpmSnJIN3dOeHo4Qy9vU0M4OEd2czJCK0h1YVpJNm02d2FVTXhNOFJWRklRUEpDMDhVYkRTR28xNkJ3Zm1qeGZLOWtld3drZ3h5M3RSL0NZRXIxMHBRcSt1dU9XZmV2MTZab0lDdTF5SGhWMmhsVDArZW4yL2l3aEVqbTFLcSsxRzRhU1J5WkNPZkQwbDNVOGpCd2U5YVpVM3VnaStKZWtUUGduTUNLWEpCTzExOVIzZVRQam5oeS82VVFaSW5lUUFsdkNjRHhZeVI5RE9IRm5XNisxc1lSUGpGeDdHaEI5dmw3aE1VUGRkUzl6a1BGMjQ4M1NZR2pzaSsvV0U2SlNIdG0rSHJVWkZIMHdGaTRVUDc0YXc9PS0tVVNPb3BySjBZSE5ucVZCUGo5TldKdz09--b81bf9fe98e296490b967a14a28c34b06018374b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

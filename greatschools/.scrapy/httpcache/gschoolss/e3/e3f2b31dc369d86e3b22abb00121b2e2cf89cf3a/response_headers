@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 26df1dcc-4a2d-464e-aca5-26442609531e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhealdsburg%2Fwest-side-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cmpvZzZOQk9ZSkZGaFRFSHlsWlk5NHpKSlQvMm16MFZTU3BkZW5TNXJrY25CMmh0WU5iQ2dSUmp3UHBqQ1g3SXlycXdPb01hTnFhTU8rR0I1OHFzSHZDS1Y4TVIxZEVabmZjeXd2ZnIzN3BkZVR4d1BPVWdXSmxEb3l4Z3ZlLzkzTnRKZllwdkZRNUY2M25HZXppeTI2REE4VlduTGZJeFlDT1FlTmR3Q2YxN3I4L2I5UThKL0ViWVlucXllNldmZk9zcHRYbllITHpoc0hYZGdXU3BYTHdHOGZCLzI4WGpnRy8wVGNMbTRJVVRxblZFVzJ5U2pKdEs2MDVScHM0OUc5NlUydC9DM2Y1OW9ycEtGMnBOR1E9PS0tamkrSVFYZ1AzdVQ4d0U5VlVyeHZpZz09--48f247821278fa99d80c0e71543632bc070d43c0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

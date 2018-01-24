@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 81be9b0a-45b3-4131-8dc9-0d2ffd328782
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-juan-capistrano%2Fcapistrano_laguna-beach-rop-jpa; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WURYTVRZOWR2V1h4NEtwajRiUUJHM2VxUzFSQkJaaVBISTNkUUJEbjM2ZzFoaDlqMTk5T2ZJZjFLWWZXWUw3N1ltVktZWFhiUGsrYUlXazB5TjdRckEvVG42NDkybFJHUGhFVyt6OGhxd280RXc2K0VESnEyd2p0STJVZTFtZ0lDZHd0dWZuNXE4bmhoSnJKL2MvQ0hnc1g3Sit0TVMxVUhPV2RBSjVlVUNpZHFHSStRUStTUGM2RVZraWs3dElOVU5NVisrQTVzSHNZZTFQZEdINkxvV2ZZWmJHVG9MdEpMb1NvcHV4akFEdWl2aG45ZC9lVWlFM0JTMXpNRW9peVEyUmdsQ3J4Qm1ZTktaMktjUkdIRFE9PS0tVjBZZkluYkJCSWczTWxpNHMxV3E0UT09--31077f50f85e4b2283eb97407e8d8389d45bfe3f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

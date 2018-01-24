@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c76a7b1e-d94a-435f-bcf1-91cb23890e33
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhelendale%2Fhelendale-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=akdvNUhiTWhEbDZoM0J2Qlk5YUliM0dFTHNaUHZoYmU3T1pKc2VLKzAzZUc2NkRhbUVUQnppc0lmNDVNSjRtd1RoUGlWUlRhTDlsNFMwZkNOemRrUTBHanpVbUIzMVYwNmRneFVoZDZpNkpxRlRnTlQ0MmZ6ZklnRFBFSEhhZndRYmJmRlk4SElPN0FvbVkrY3J5b0RKQWZhdmRIcjdnSVJPWmFMdENpN0dDL2FVelN5am80UzY3S2NsaEtBM1Bkdks1UXlrYnRSVEZPQnNlMk9KYWJLNWJHOUEzZXY0TThWclZSNUNrY2RkQjBZUUtCV01ma0tnQjF4THMwc3JBcTJocFBtYkdLbEVFTkFaVFFNYWpvcVE9PS0tVk9RNjlvckdQbC9jejJEZHFYWlBoQT09--d4736a7345f8228b29007690094379849574ab79; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

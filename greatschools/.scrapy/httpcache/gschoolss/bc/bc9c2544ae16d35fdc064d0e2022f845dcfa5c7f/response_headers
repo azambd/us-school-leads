@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8a6721e0-9a1c-4128-8cab-33799bb11650
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Framona%2Framona-city-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eXFPell2ZlhoeW05Sk5JbTMxNzRrT2daOEhhNFRPNHovbm81aTBYakJXWFhCOUJCeWd6V0J2REJBc2loREFqNDRJb3lFTFVmZDBIM2U3WjRSRmYyZWlBVWV3c1BFNklFZXA5Mjd2dU9PNUhvQmE5Y20wL2RjdVJXNkNlUlBDWkxLOTN5V08vdDZ0bU8yV04zTCtBd2ZyMnR3V2ZlZUNCd3VoaC9wVDVrcnZDb1Flem42dlVnY2ZOaEJDQWt2NnBkVitjSUlmK2xkZHBxQzVkU2p6dHVkL0dLMXU2M1FMOCsyUW5vMW1qSUtmZ2ZVY0M1U2ZueDFKeHZVYUsyampKSi0tdGlhYmw1K1psVlhTS3pPamFLa0huQT09--48f86a5cc8ba5107947eba38f965cf2ca00779a1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

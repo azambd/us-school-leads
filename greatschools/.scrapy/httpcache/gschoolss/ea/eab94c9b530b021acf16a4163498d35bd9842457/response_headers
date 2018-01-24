@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5af6a1a4-f7e0-4c56-a48e-431cfe1c31a5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fesparto%2Fesparto-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RktRV09EN0pNdGVSNC90dDNCNEZSOVFBYmhLeEpNV1hZTi9NRXFmRlRvUmN3NDM3Rlk0ejNKbmlFazJZenJ3Q3JmSkxqUGJ5WUg2bVBWRmlIWWVUZENHNG9oUU0wWDNjQngwY2lQN2tiY0o4MG44N0Y2dUtQQ1ZKdWpGU3lKYmkzcGdManJqeStDVTNXRFBFbW9XRDJhcXE5QUtmRjh0Nk9MWElxbFFvKytlbUdpM0dEVHBRMTRDYWNYYWtzNmliZ05tTUhsSjFhc3dKM1A4U05pUTZJT0ZhUWZuTFpzMmFzZy9nSGwySzBLVEJNMFlDRGMvRjVGNVZPd1ZOMjY2Zy0tcTF6YnBkeWN3NTMxSkROT21aTXNvZz09--219f1aa79ed35cb44d7283a2df7bbc437166798a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

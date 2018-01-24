@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 050fd8c5-451d-4a95-afcb-01f8704fc66f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-paula%2Fmupu-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MWJmR1IwU0RmWTM5ejloZVdsOWRKYzBjenUzWDhXa01tNXRNSDRYS0dVMjVKZDlOQ2FPZFJQZVh2dklZZFBhUEVLdHZvVFVMMGpXeG5YUUVuZXFTTGRDLzU5a0hIRWdxaURNMkhnZGJTcnlPcXl6eVhGVmZyQVhYMjUwZHA2T1ZCaGNFMHRrYUhDSnd0cHJwV3RTTVFnZ2UxaGRmK3A1RVBjQzJCVWg2akNDRGtRNktWcDByV0I2UlVJY0IxY0EweEw4d0RpSUs3UVU2RjRwazZQTklmZjFRdkVFMFN2MGF3WHRuNGJVSndGV3FzWmNlWmN0RE5jU3NjU3VJcnlQdW16SU9BU3NJdnI1L3RGMElBdHEvTnc9PS0tUzlZek9jOG9kRDQwdGVXa2ZySkRsZz09--6d79cb39c8426912a3c889fa2e77317c16c2668a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

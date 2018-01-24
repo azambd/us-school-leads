@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 95080fe5-63dc-4927-b0cd-8692a1e447bc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgroveland%2Fbig-oak-flat_groveland-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RlJGaWhtS2o4NWg0UWRzdGRsN3FiVGxPeUlIQzE3ZHhzb0wvRWZwbUJjYnFTT0xkUFJCZG9tQzdVd1Q3L3cwQk5wNWIzZUd1MVU1NGNLWEN3eFZ2NWpBYzZRYVpPQ0tzU2huaWlNZlZsQkNWWHM4QjJCd2dwOXZLaEhZaEZUWmpxMXo4Ym81UnZnTVd0YnFBU3p3RUowVTh6Zk5COEdST3p3VzNQZGZuUTR2dGJ0QXJIRjVZOTNaMXFSWXBiMGdHS0RoakpXUGo0UnhiVUNNRGVYWWFxdHozay9pMUVTYTY5c1Z6dUgyaWYrK0IycnB3WWV6Mkx1SmJhS1p1Z0hpc3dCd2ZSOVdyWW00YVFHS0xxWi9WUkE9PS0tY3VURWdFcml4QmlWNmoyU0F6ZE5Idz09--77ecd249fb3536ade571a9303b3f4ef083559ff8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

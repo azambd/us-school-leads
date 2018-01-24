@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f4b4e9b1-0b93-49f3-a72a-14fa90c2d40f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmerced%2Fplainsburg-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=alA3aTk4Q3pyVXdiT0pXN1FzVTFyc2FZVHc4V3pJRFpCU09lLzU2eDRhTWxZVURBWFR4eGFyOGcvNWF3NVM3dDJURE80a093dTBSWWNPWGNRT1BlTSsvcHBvVWF4N2pDeEJSQXhjQjJTVlZhRjhSUFNlNXdpWnJvM0paNnVWN2JUZUJBNkVjK1NhSnBXZHFkdW9JNmwzcUFVeDJ4MDdtempyZEZUT3FoUmoyQXNOZUhUamF2YUhmM1RGV3pCZTFyMUJ1eXVqbTVJYjBSbnNuSXZNK3c2WHhMbVAyMXlJcDFSQnZadXNmMWptN2VpVUcyNnpaU3FQb0VmT1B2MG1rVC0tUkJkeWFQNEFFYS9ES01nVm40MUxxQT09--382657beb010b57042f8c5ae2f53c0456b2dd7e0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

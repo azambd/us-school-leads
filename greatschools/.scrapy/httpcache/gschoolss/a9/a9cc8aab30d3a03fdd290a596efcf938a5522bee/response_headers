@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 44c3b2ae-4c60-4cdf-8294-da6af182f91e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frialto%2Frialto-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L3YvTnA3OTNEa1RCQVk3TEtLWDRnQ3hUTmQ2YTUycHozU2pMdWhIK2lnd1JZekd1TFVuNUpHZUR1cjREUmx2a2FLRnpoKzZoUllrck1nbVA1WkNsdFlhM0F3VWNIcFZaRnZVUC9TNi9kQndzSU5nVnVUTERlblBFaGZTU29TU2xGd2VzTFo1U2R2ak9HZ2prbDRKcDJ6WUFrcWhIQ0JiZEx6T25YTlJmNHorUGVGWDQwbkMvV3hKbE1oWkw4RXgzOWVlVVFQMmIrbXF4WjdoYU5BYU1raEd5dktrME55STU0c2hzeUlZU0RaaTJqU044WCtrR1NNaEpHMkdDM0ordy0tWm5zWmVuSWN4ZXppRG9qSkIyV3MxZz09--a0b1dfb94551d3189a104397686741684becb47a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

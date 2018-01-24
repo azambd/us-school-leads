@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 50a3475b-0e80-47c8-a3a2-85ff9f87af80
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoody; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=enZqTTMySzZMSk12b2lrdnBka0d0Y2VOdGdDYWExdE84Y1E4RDNrMEUwa2s3L3VHbDAwbjc4WEpicGZwbTQweXlkT2MwME1FcVYyazZtWTVyam9ER01zNlQ3ZitzaFFPcWxUT2FrQjhLSXowSk1UdUx6Vi8raWRLNTBUWGJtYmd0NVJ5VlByM3lXZG9zQjRzRGIrdCsrV1BNMW8vZy9rNGpsdm52dmdCV0NhaXBmR1Qzak50ODdrd01xdDZYOTlpbXh3cTU1OS92SE9BcFBweWlkUWZCYUVGSGlqckc4S00zQ0VTcXJsWmhndlBHUDhmS2xsZHFpRWoxT2ZqU2RWT2RmTERVTWdGVHBpOHRoTXF4SWRmQ1Rhblg5QzQ2eFJITGdwQ0RCZXdJWE4xVEFQaDFaWUI5dUhtSnZ0d05QcTV1YTM1Q2lHK3VjRFk3UlZYdVpQRjFTN1VSSEF5UHhXSUpPdVlNWWg2YzB1RXNxdEcxZkFTVUVaeDZ6OWpBT28rNy94ZEZwaTd5Wlp2TTU2NDVYM0tjdz09LS1BNG9PMDFqeUM2WW5TY3A3aVNrZjlBPT0%3D--fd69cfbdaeed24d4a695d7b2cead64ba3f2b1a9a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

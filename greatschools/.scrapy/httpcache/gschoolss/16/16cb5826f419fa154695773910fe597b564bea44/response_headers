@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2936c897-77de-4989-97aa-67c8600b7af7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-angeles%2Fsbe-_-today%27s-fresh-start-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QURKV2VmVDNwSTg1M3V5dWVnVUtvZ2dTLzBaN3JTQ0ZjbDBzRFQyaVl3OTBLOWIzbTYwUnZSYldSQUVnZU9LZmpBdXppb2lqRWIzS3VpT1JZUVlVMkRPY3FyV1ZsRGpYTk52TmJOOHE3aEZvZkFlQTg2ejJ0Q1ZleDNsMzRrayszbnRIUWxnSnAyb0pGbTh6WWZMVmc2bWxlM2hkb2F3RXFHQ0NTNDV2YnVwdkk3bFZWeVk3OXg1MU1vOFBMcCtsQnRjMTZDWGJqeGtPTEZXdCszSmErVUJSNzlGTHF3bmRnam15cU82VlNqdWtndTFKOUlIeVNidis0UzV3UG5KbmRYbWlTWkE2YVRHMmc3c0kvbkxoQlE9PS0tcTFGR1JqUXBTcVpoODY3VUV1K0UxUT09--558af6c258cc9ec622bfa27295481daba99f89df; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

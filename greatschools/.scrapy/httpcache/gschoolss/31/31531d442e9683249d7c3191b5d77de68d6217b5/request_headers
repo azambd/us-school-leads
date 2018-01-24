@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A24048%2C%22state%22%3A%22CA%22%7D; _gsweb_session=MHh2NDVWYll4UXZSRjBFSUM2L0hJMGdPakp3a0FzRDlPaGs1dHNQcThtZDlkdVFkRFdEa1RxTXVTT09LTVNWRjgvb0VVZytGWCtIb2tSbEcrdkNMOXFzL3dhTkY0THJpbXhtbVljZnNIamVGZ0xuUVBQRWJEK2FMVGVHcEFWZ2Jsc1Zybm5CWjlBVXZwVUFTUlYwWTVYbkRCY0xEUzdnQlpKdmpMN05xa2NoNVpMZWgwb0puaFRyL0t1Nlh4SDVISWhKRDRHcTBqdE8raGxubjczdGtOV0RtanlPVGNlNG9XTko4L0JxdGR2VjFYZ3lUT1dNT2ozUG82YzJCTmR1R0JJSkhsdUxCaXdCUVVzN2o3aWt6Um5zV2pwV3l2RkhYM25meE5oRCtUT2FsU2lUbkg1elZRZmdpdW9DME0yTmtyMzYyS0N1U3BlL3BQMmpNbFZINmkyS2w3WG9vZmVqR09OWDg2WjhZTzFKVm5rdVZ5dGxJSjFNbXlqc0QrQlQ5VmtIdUpkR1ovZUR0cC96OTVlbkREUT09LS1JRzE3REU3WGE5SUlUUjNKWm9oKzVnPT0%3D--b53449c0ab9bc5d7179002368fb26508bb9c3397; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/23473-Hantgin-Day-Care-Home/

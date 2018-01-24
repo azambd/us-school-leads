@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7756%2C%22state%22%3A%22CA%22%7D; _gsweb_session=UVdqcWlZN1J1d05mQzk4dS80MWNoWXpRSDVpTmhsb01tUnF1S2FMcjhhNEtKSDVLQm9FckFrK3R1VW1UN0FNY1NYVGtqV0JkT1F0Y25wQVV5V291RHRHMVR3QlAyd3huQWZOOEFQVnhwK0wyanRmNUJDT2NXWHF0MFU3ZTE2OXJWUHNwclRUdFVkRUc5V29ZaXhIcHJGODFpQXNxb2RyY2Rlc2ZnSldBWkVsQytBQVZPd2tXTHFWN1ZMZWZLaVBHWkFNa2RhZjZiVGVyRGtseFMwMUV6eDVkSitwSkhzR09QVHNab0hUMnhueFlJTGN5S3FOT2J4dExjbTZtK29LaS0tZ3RTODdYMmtuNDBibDRRSzNvQjFwUT09--793eb11d5dee1907c6dbc721c11051e83c893087; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7756-Ventura-High-School/

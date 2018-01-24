@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5945c01d-b21e-486e-9e47-00b3bda37a8a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamino%2Fcamino-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SlJWVDRLN0krQ1VJTTVkZ1E4RDBNb2UxMS9SYVArczhpSlo4QWhrQnBKaHdOMFdHb1F0NVQ4eUpvMEJoVHMyZWhPVkViUTBaWU9naWNSZ1FrblAxVk9pSUxaS2pWajNraHZvV1htVWlhdHIrU0JsVVBST3ZOYWxJTWlURG5MdjZEelMrdW1Yelo3Z1pOYlR4a2Z6UFpRZm42MEdkSVg3UCtpYmoxamh3TTRNWVVZVCtIQjZsTTlTMlI2NHc1bkQwSjhzTGszMXdHek1VaDZXcGlPdHFKYTU5dXFTc25CK0NRdVM4MkllVnY4RzhiejdENytnenNqKzZ0UCtlUVZDOC0tK2traUc4VWRSZkpGc1VmZ1pTYUIyQT09--2d3f572ecd74ccf7010c05c478fd0b7f676e2fa1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

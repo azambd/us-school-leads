@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2ed2082c-1d63-41ca-b89d-acfafef412ce
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcoalinga%2Fcoalinga_huron-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cFJhY3N2cGI5bWZVWHlPZ2xrVmswS0hXRmI2TU8rRVV4QlNWWUdMc2tHRkJENVZhWWxFQkoxVUZMV3I2elQvYVRJLzVWYlJZRFR5bGtLcmk3VzlWRGZMUERFSDZZOVF0Nnc2ckZEbHFkODcwVi9mU1k5Qlo1dmllZ1hSRGR4TkpJZksySjBHMnVsSGNBZkoyeXIvamd4MUdWOGtBdUh5U2pBWjNTdytNM2FoVmFENXNGV2VmK1llTjhSMldQblE0RDFtSlBhWnhGM1YrcW0wUWN4UFkrekJFeTluQkV3YlNZZitEYzJlbEU3OTdBNEplSGc3T2sza3hIbzBUUnBKbS0tams3SzBQRS8zRDFjMVZINFVvMEdXdz09--fe4467dbc5af532e38c89742108b7ae76c332d37; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

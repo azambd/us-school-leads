@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: da97e4d5-cb33-463a-ac83-73fd4890f7e4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-juan-capistrano%2Fcapistrano-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WEl5UzVGSTA2S3c4cnhqekFvL3pxaThrY2NXajd4RGJDekN4cVNLQ09UNCtCZE1MWnl2RHFrbG1meGM1K2RXdkorNVVHeHVyTmlZU1BpcjU2aTJ5a3laYlNDRmxVMEhrcVpUTUtDcVFIdkdmOEh5Yml1eDMzSllTUW15VW9oamd0ck4rOFUvL0tnN0RiZHc4c1dkQ0ZRRVFCSmtTVFVDeWl0R3NSczltM1hNS3FPWW9PT2NaeWFGL2xHaXZMRHNjNjA5MzJRRUhPOXI1Y2xWSmN0dmZjUEk4N29yTlBkMzJHQlNFTkg0L0llUWtIS3Q2RGRCU3ppWFJNb1krQVlrVE43L0Y1eTh2QzFZV2FJUmY4YndSaWc9PS0tbXlicldTTmZ3dHA4dUZuRE5RdmNJdz09--1c27b4dfd42198f05772a78fa48d8975e40512e2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

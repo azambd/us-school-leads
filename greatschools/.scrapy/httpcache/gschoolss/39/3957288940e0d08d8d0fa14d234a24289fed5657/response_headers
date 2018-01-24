@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a0b49b9c-8736-4673-bd8d-3c996454c40f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fferndale%2Fferndale-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eFJ0SnFsbzdHWGlzUCtRZTlqb2ZUZjJLU3hXUHEwNXhQK3Rqb2dOUERoV3pwS0IyQ0hxTm5ZMjExR3BsaHFPSEJrZ2kya1JPckNMdVExZG1OZGUvSGp5OEllSFl0dDgwVEttTmFBanU0VHEyWTM5OFBONW43UWwvWE1XV281Kzh2YzJCUnJYcGZsTVZTZXA1TEZPTExiY3d4ZHlmSGUvMzhrdlBQdjlBb0RveDAraG5hYUJUZ1R6dUJlZ0dZK2dRSUUveE11dUlIbVQ1SHNFN1VKZVVRcnV4ZFYwZmhOM3ZzWHd6RG4rbHF0a3lTQitQL1VuQnFKZTJRMGsrZGUxUS0tcG5Yd0oxd2hOdUJqckJFQkNnZCttdz09--d5fe853a1af5187136cfe243beeb043d661be245; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

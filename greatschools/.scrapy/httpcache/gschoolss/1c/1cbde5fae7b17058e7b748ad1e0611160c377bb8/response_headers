@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1e815415-15e6-4848-8ee2-1bd0521e36e7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flaguna-beach%2Flaguna-beach-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U25jMmp3STdOT1RLeUNzRE1VdS81Mko5MzdoUFpvVkpya09ySmFCMlFJLzZ2c0NKQ3VEWHFKMldDU0pRNzNyMDFGanFpdmI5S1NNTGFYNGVUaFNQcUFxSHlwRTl2RWp1Z0t4c0lEUllmU25xd2luaGJTVUYvbFh1UUladFlyTFlqZnR1TXlNVzlCbkpZZU5qVXQwbFFtUGVzOEMwc0JmUzAwcEtNTVYyS2xzNDZDcnBob2svZUtHUlJCRnZRZEVrOS9iKytsVEZmaGV1dFhQbUtQWEJQUVN5QXExNEIzbGVGZ29MR0dBeHpuLytscnJUSkRYMC9lWjlrNmJnSGlpWm5seUJNTzQyeGxIdk9WNm9KWW9HdVE9PS0tR3hBZlVnenhvYnB1L2FHcU1QODcvdz09--7f1240e3aaa1e12fbe6a663b3c73046e9d56e8c0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

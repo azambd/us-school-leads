@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4d1746a7-ec70-4fe1-a940-4feb97ad5469
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-bernardino%2Fsan-bernardino-city-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OWRFYVZCOGNhN0FsTWlDTGNNYzB2NzlQRGEvR2hHSEx5VXh0Z2trNE1jUWRHbGpuL2RsZ2lWQ2FTMVpUQkVBbzJCV1FUWnMvZzVJYlB0Unltbit5eGFaazdJU3dXdHVmL3N2cHlKWGJqcmd3M3ZUbDdBOU9zbU5SQnhubDNaaHBmTkRGalJ6aitrWjFZUEpieGVFVnl1UkovOTBxeDBpOE4renB1S1ZKUEEzTlFMeG93djJCVTZaOTFQdExsWFdub3Uxc2N6a0h4Nkl3WU1jM1k5amN4Wk8wZjBnL29xbFlTQkVIWW5jMmgyNjJiS3JodHBrNUdubGw3UER3RTVQNzlNUjNUdGI3bEpiemh4MzNqalJiU0E9PS0tMW9BYnNtWTIvekxHMWhBdjFWeEowUT09--b00fd4089ec3dd91bb6b7e63a348304667710272; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

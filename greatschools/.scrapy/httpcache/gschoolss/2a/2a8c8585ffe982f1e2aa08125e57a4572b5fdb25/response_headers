@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0a661b5d-4bdf-48a9-ba56-cfa1f730979e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-cruz%2Fhappy-valley-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Zm9ZVG5mT3YwQTNRME1qcmxFQzM3eGVhUitmSzFMQ1BINWRkMnFxZzg5eWlYSE84eVpMRENPd1puaTg5eFFPNXBlYTVUanNzRmM0b1Nvc0E1MFYxbzZMckludjQ3VlJIdE0yWE5IS3Z6aG5DaFRFZ3lCc3FaNEhXSTcwcXdNQlEwaEdQKzNLME15ZTZpZytETDhmZGdoWVVMMFpTWUdQZmordnQ1c25tWFJMQm1NWFY1V2hwTWNlMmw3cnJFQnJFemtnV1ZSbW9XMll5cGJKLzRmRnp0akk0UFRvdk1DQXZKNklZUzhENDR1YnlZK1FzSHA1bVViellqdXRtRHZDOWRCK2luUSttRkN0bE16ZVJMV09Qanc9PS0tdXZDS0psK1l5V0gxZ0tLR1U3NGN3Zz09--6285b55a500bf35b0d1e8e4794f423b3ed0bd20d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

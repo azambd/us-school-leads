@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 216d002e-3bdc-4464-9aab-fd78a60529d5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhesperia%2Fhesperia-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WEQyRGNXajMyaUlUeEJ3Z2hIajhoeVRRMGtxR1JxM0RxVlgzT2xCTDlZd0RWUW5TM212bHlwOWwzdmY3bEJsVTR1endPMk1EQW9hWjk0Q0h2M2hZSmhtWmk1N3gvN09rTkxLNXpaaEdZbjRZdEtRbFZNUFVYemllbkNkeDdQWGl5R0QzK252VnpmY1ZTU0VZYzk4MjNMY1hvSTRXdlpaMzJlSStyR2ZrZUJNbDVYUEx5b2w0ZU94RjFRVUVPT2sxSi9oYlhXVkE1YjVBYkFxRjdMK0NRWVhhRkdGOXBiWDNzUlVSVlFiZFZTVHA5RFlFVkpseXBkc2Y4TnRsNUNQVC0tdm1HK3RtNXBzVEduL3A2WG5oU0I0QT09--7d8f638309af3f3f2e1e47354d76a0a5927a10d3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

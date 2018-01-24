@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e194abbf-7037-4856-9047-41fa24f31025
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftaft%2Fwest-side-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M2x3MldPemtoMDMrVVZhNFNEZTBjTkJGczZPUDdnYmhnZGdLTSs1WVNIKzR5aEtMZkowc1ZIU29Qd3RZY3BMenBlT0pUUVZBSWZMTDJvc3JLVHZqT3d1VURpNnZCUDU4c1dXTitiNjVqb0JpZXJqS0poa2VKdHlGa0kycFh2WlBzS0FzbGUzVXFPQTNFS25Fd2htL2VuN2MwOGk2Z2IyNUlUZG1vVXF3dzZSdUY5SVlJZ0FZSkNObzlqVnFzVEdPVDRxb1laRjVrcGwvUzdUemplN0x5Z0lUR3RjVUtNd1RwOXFTeXB4dmR6Zmc2TVg2anhXcTA4VUZ1eHU2dTBWbC0teW9NMWwwZHlydjRBMjRuTVlNanJuQT09--820633972f74cb12ce85d0077d3bc88205aa600b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9745ca1c-48f1-4309-88aa-6b09ba847bd9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fstockton%2Fsan-joaquin-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QUZMT3Nibmo2SFdjTnp0R3AvRHVKWCtLZ1JSQjlMMzFRWDhWNTA2cTRDY2IzWk5DRldPaGhPYkp1bUsxZG5PS3diMElLWHZHejd3QmZsZ0RObVFGTjVqTmtZSDNGNDU2YXJ4VUtvS0hVRDgyZCtic2szWk41N3hidHZaK2pHclhBbHZ2TU9NZ1hTRWJBS2UrR1NCeXNOMjVjTGl0RWNiZE03Y2pqdE56cFZ4T25lZ0w5SUF2MzZRZ2h0N2Y5aHUyREZDSituY2V6bXMwQWN2YUlyQzZBTWszU3N6K2NlMkphcnVHWHdwS0YxWEpLMVB5cFJzUThVRjJzdWNQMXNHYi0taUpDdFg2MWZDc2RyaWYrSGZ4WTJzdz09--a0cf51c61b3428b89b47aa4f7cd6756ec03d8331; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ff8862e9-adb6-46b7-b39f-4d25956f4b95
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frodeo%2Fjohn-swett-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SWxYaWtvTmUrcmV5eGkvblI0THBDbEVwcmRhdEFob3RNKzhtdzh5RWIwcjBNK0k0bnhrRDVTNlJLTmZjYmY1Z3dMYjRHb2NvSFlkd0xjRndiWEhwTUlQcDdjVmhqS1dXekxNUm1vTU5telRnbFZvcWs2TjBUMHJOUzRLQ1BtOTIxNGFLeTFRT3NnbWdUc0N0bEZJUGZGWmxTc1phUERhaTVkcVN0M1R6dk9RRkdGS3NjZ3NSbnRqRXV2QlhjZWpveVd2RzRhYmRRVXIvbCtrZGtQUCtpSG9sendvL25uS0IxRHVYNUo5WXNFczZ2dGVmV2FlY0gyanJ6dEphUzZkeS0tS2ZOUWpnaDJnQ3o0TkU0cmVQcTVLQT09--f41f215c48c6a58b2d3477cbdaf13e8679f723d0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

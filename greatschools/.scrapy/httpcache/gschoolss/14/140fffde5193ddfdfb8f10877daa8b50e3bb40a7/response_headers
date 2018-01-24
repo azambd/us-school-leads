@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 954a88c9-7dec-42b8-962e-61ff27026f8c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcanyon%2Fcanyon-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eGdtemIvRXFFYy9XSk5tUm93Rnp1bWZlWHZFOWtNdVgwQlZHR3o1RUN5eHZmTmRSRGJ4a1BscEMwS1AvWjhhRllxT3N3MTJBSUFpYlNqUStNekMrWUFyTFZrZFBMQUoyL0YzQ29HZ1VsSlVMYks5VWdoUG5ncDBSenllWis2enRhMFgzV1ZsUzE0MzA3M0pkc1Q4WWVUbEVHUmVUbEZlbS9qNVphaUUyMkxvYWt6ZzRhNWxNaThSRzBhVWhUaGFCLzJuRHBLTFl2czBEektrQ1FiZWp5c2tNb3FlZjJWTnlURGRWU2QzKy9YZlp5Rml6Tld2NVg3QTBpR2VZa2JSOS0tTEMwdTFFSGRzc0dnMVBYdE9XdEIxdz09--4f294e337cd01556e2f031732d7a39fc083d1607; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

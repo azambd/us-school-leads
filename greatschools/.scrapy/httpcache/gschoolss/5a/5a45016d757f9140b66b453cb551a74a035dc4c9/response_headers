@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 54217fef-03d2-4930-8e04-66b1eb07dc51
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fterra-bella%2Fterra-bella-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b1JKYU5qS1hnbUxJWi85eXh4dGxIeWRWZkZINjhmQlpjUmtyQ00rbndKai9FOFE1Y280MS9VZUliSEkwWEp6ZjNLaHh6UFVtODErRXZUc2NrSkN2c0RzVGxTWmdmSjRDa3VrVkthSnAyN05hOUVabWdpY0VQOVM5VWZFcUdtTTFheFJaY0pPaXI5bnBlYlhBMW5ReTd4NG1lWWNiOG9LTy9JZUdicU1tNzhId2hEUGpSSnVscC9UbGpQWjdoUnZzWFNLamU1eGJjNzJ3WkJ0QVpjNTFJRFUzSEd3TWdRTEk1K2VuY1NyUS85NUpFRG00aXBicGw5UjRvMit0NlRoSy9lNmFsZEZyYlhlN0xsNk1GSUx5akE9PS0tVk5GYko1VVJIb3FYdXUwbTJ5Rkg5QT09--a0e9abb4d372d7bad67cc724c719dd7381ef2ee6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A20831%2C%22state%22%3A%22CA%22%7D; _gsweb_session=WTR6eDNEZktyampqTHovVTA1VG56Z0NMd1VpaFZRcG94WVl4bVFKMEdTcS9CYU1GWVpIN1Z6VzJ4Y2dEWDBMTTlSRzVHZ2xBL2c4M3lnVVRtNUROMFVOY1JhQVlhUTlLblNNb3BFTitwSnR2TldwR2tmZ2VKVGJNMXF4Q2NDOXMvSTM2dnJxUWtnbWoyYjFQZFpJUC83ZWxOeTN5V2ZrWlBtSW9ZaE1aY3BiQmlieVVUbUd0WVFsd1NlMEFKZFVlMStySy9GYzIxMDZrdXE0L2FxRzZpQTNFSzJqOElsZHFLbndZeGJhazg1SVNLTmVoaFZUUzROUWNZR0dEcEhwcFNneXM4a0dQUUg3VVQvNWVuOGxVNWVwZGgyYlZWUEdmWHJkbGNESW5JZE9uUVRVVlU5M2FoWnVtSzRHYkdNUGp0RG1Za3pqbnFDdkFwOWFqOVI2QUF5bFlSUGZVQXIva04vdEpsVHNUaHE4a29JMEsyaVo3OFZTb0RCUzhtNnlzQ29CSmJxOFQrVWE3cWhqdlhNN2k0UT09LS1DbjlSVUp1YkZKQUhmVWhRQTcwRmp3PT0%3D--5204739d3f268339790490c3e72e1f1664d9a954; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-point; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/oak-view/20831-Smart-Start-Oak-View-Pk--Sa/

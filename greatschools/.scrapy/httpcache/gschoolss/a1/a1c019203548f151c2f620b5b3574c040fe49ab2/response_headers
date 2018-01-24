@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7700f340-9986-4b17-9391-db4a0bbdc77b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcabazon; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VExlT1I5VEhkWGprSHpjblM1SHNSUTJmNGFHNDV6MFd4MUF2bk96Mmo1U04reThMaGU2c1lYb2xlYkZ1VEg4L1ZzTXdJUWlacG1TZkdPTUEvKy8ralllYStDdnN4c0JDOUVFWmdDay9KQ3cxa1dkQzNCOEVPRll6dWExdXE1MFlySVgyV1FOc2cxdUJOcWlTRS9xUWdCeSt0dHp5US9QSWQrY0tHQzRLdm94eXh4bWVZT05oSUNHc0IrdFB1UXBITFRoQ2FYN3BLVXB2QVFmbk9EZlRIVWhiMUYzNnBlYmczTlFkUlh0Q21NQzZ0YnQ5Tm9MVzRKdDBSdnR3RGVEUVRBZkwrTkhxcG1nbzlQOTN5Zkgvcnk2dFV1RW5RMDJwSUxFR0xpVTRhWDB1Q0R2dlRtZDBHWG1jcFhOZ3A3aFJua0QzSE9MR3U2SUk3UUgyNEZMMFRmNFpvblVKM0QwUzY5U09sOUZ1WE9IZHpFWmxaTk1SU3NscTFrdHF0N09QOHN6ZFlrNWppRG5xcXBqeHBpMkdrUT09LS1hTFk1UmtwSlVLaHg3SG1mTW01M1dRPT0%3D--41b530525abe07c35141c5abaed2a09b300b6ff9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

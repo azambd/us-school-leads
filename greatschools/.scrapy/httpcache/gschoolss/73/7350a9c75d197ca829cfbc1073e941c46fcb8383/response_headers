@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e906d08d-851e-4bba-a563-783ea6ae69bd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Ffruitvale-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZWI4N2k2aG83NXVkT0N5WmxTWnYwdk1jSXlPaC94eDJRUXJRelU2d1U5KzZVT000UW1QRHlGRlRud1pUS3Q3ZXR1Ym1GSjVuejMrQkQxTlVlWVVmWFM3bjg1Y3FweTFXT3RWbDNvcWxMRHYxS09ZcW8wVkprNTk0Ukc2WjBNeXBOYUJ4cStOdHF2dEdZVk5xMlFOSStsaGJ2SFFJV1Zka0FOWXMrbi9uY0F0MVpYRUZtM3p5QnArMzhTdGVWdzY2UStIdVNEUXVYRkJwWWwzQkNqTkg2aFZMNmhVSUNSUVNWaHEzY1RLYmR1VmJoRFdRcTQwaWQ1VVhFNkRqeGlHc3JXVUovNVNLY2hjSGUyRXF0UWs1MGc9PS0tQ1pueENKb2JNUmdzOTMwakV1bnZjUT09--9667f4e97261aaebeafdb72a85896a18403e3017; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f6c32be6-d373-4592-93c9-c3d36a03c48d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Fsbe-_-river-montessori-elementary-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QitJTCtpa09BcE9MSWVOYmloQVZCYWNsMWJUUUVQSGhaUXNTblo3ejFXRnhuQXNnUVpmWHBaZVV0VDZidzZxYXF0d3VndVFVTUJWVmhqQ3ZiTitJUUJEUmFNN0N2R0hkZmMvb2JZMmY4bWI1STkzNmF4eG5SQkFtc3dScUNWVllMbWU4NFo1cWluYjNTS1duVWx5OWN6WXNsWDMrOHRPcHhhbTJIT1U5SGc5b0JCaFFBUXk2OE5XVnc4MmRHbFYxdUlvbGhHbFJlMnlrTmFxREpncGZsMytvemhRM2Vwajc0aHBkRGNtU3dTNWFXTWg3TDhyTEFQYTR4WW5tY1ZyZC0taWROSjcxbGczVWxjVVlYVlhqQWF6QT09--cf8be596bc9ca183468fb8ec5bed634265ce4302; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

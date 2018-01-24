@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dff1dc3a-efa8-41f9-b11b-9e382be95859
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchino%2Fchino-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U0EwYTNrWnZmQmhTU1VDZ1BJRzBESnFrSWRpYUhqNVA3QU1QWWRDUEdieUFLNXR3ayt5emsza0NYamVoVkdrRjd0MFhDcmRXY21DSWlPYkFlSnpUYzYxTDVkbjQyRlB0OVhnUUZFL3EwL1NkNXAybGg5bUpQMXVFRXpQNU80T09lRGloV0RSOUNOU1k2bWM1V3hDR2ZUSmdCWUJJYnRQRk4xY2pNdDRqYUJUVFhyQ0RaT0htb1E4STVRR3pIRU5zUVNMU3F2bXdQTFNLdXVRMXBnU0RrQzlhejRaUEVGYitNWEhzSEd5OHJORlZtT0JuYjBzWFVnMkVUdHlBR3RZWS0tYm5JeWxRbmVZdHpjUk5qZmswYWNKUT09--dc0cf7d15a6e3ef3c63441da8035404ef6e1df17; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

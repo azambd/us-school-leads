@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b25e49f3-8657-4e8e-ac79-9e02c7e3952d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fblue-lake%2Fgreen-point-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q2VNUnJEOTV2UWxqdzZoSEZ0OFpsMTJUS2V2YU5sN3oyWStrbkdmb25vbUVET0UrSnNOV2ZNQldUZ2hZVmNEcWZrbURjcnYzM29rWVBOVnVHbzlQVEl1bUkvaUFDN2JmdG4xM2lNT1htTEJzK3V3SzBnQTBGUndCQlVtRFhqeWJkS25FSHdQRXdLeDZoeGpUcUpaTmNTbGRZNS95UmdUNWlqczhTYmVjK3dBNzFVSWY5MHVIdCt5eVVucnUvbkN1ZHMxd1czZ0d3MVJWRGM0UWNGSkhQMjRvVGRPaXdZSmVCNUlEZFdaSzBqejZwMXM2N0JURnFyUTVRVGVKOXgvazl5eEI5UXlhY3YrTzlSYlhlMU1DTEE9PS0tdHR1VkZZL1RpNFh1S1doanlPNEcvZz09--8a5767df93e8f6b63422738ac6c3395b9c372f15; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

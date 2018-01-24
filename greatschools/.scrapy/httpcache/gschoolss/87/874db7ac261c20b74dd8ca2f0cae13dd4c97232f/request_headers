@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7926%2C%22state%22%3A%22CA%22%7D; _gsweb_session=elkvY09EMjZuaHFHYUtiNCtmYm52K2RDTHZkMkNiOTVSRHBqaTBtRlFubVFlQjAvWFpKQ1JWREptY1NJWGhaaEhIWHZZbU0yYTBGYk1PNWRRRU1jWlhDcmk4R0tUbUFzN0QrTUlXTjJ0N0JSYnU4Z2NaRDNoSk9UOHRBSGZCYTdiOUc3Zm5aVlljTzM1dDRYMWNTM2J6TE8rMXpnNWNGVkFTYkp6cDVHZHVSZytvcFR5ckhWSWFIRExXdjRNMUh0eGx2RVZOTXo4M3FONk9mWFJUNHFjQkhzWEtxSlM3VGJicWlIWHVEc0JFY0VsOEJqM1NKdko1bWxDbGZZMXJjbS0tR1pOSWJ2bFNxSUR1ZkV6UVplRG5OUT09--6f6801092c4085f4e8ccfb744f6805497d4f40f4; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/8023-Saint-Bonaventure-High-School/

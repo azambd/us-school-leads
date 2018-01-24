@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=ZHp5Ly9UTVR1c1RrYVllcEZsUW9oUzFjNEtKbTgrMDdhQVlJMG5QK2dpbWxuR1VBbEVnZDByQjRKYkx6cysxY1FjQVI0OFl2Y2Q1dFZ5SXlXTVY0Yk9IOGF1eG5sTmhOQnllWmxiTzNUMmsyRVh3RUw4SGh2SXNTajBubmp2eVFMVFl0UHR4SERMYnlXVU91MnlnKy9lajdJdU5ieGo2QUwrKzZFYmlJMUg2WEVWNFZBeVRjMkdWMmVyREphZDJ5YWdNSFVsU1Y0R1Q3b2I2V0E4eGtFZ1ZwZGk5cGI5YURaTUprQ0ZKRHd4NzNYRGgzbnJNam8yK0hKMVF4eWZ5dS0tNGE0SHpudEttRlZrT1pNZ05xTkJuQT09--ff95638dda08ceae3a15a655e89572822cc1a55b; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Fwashington-union-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

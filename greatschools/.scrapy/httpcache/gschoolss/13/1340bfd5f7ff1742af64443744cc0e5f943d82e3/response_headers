@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3a0a4340-67c3-44cf-a9c7-9d27fb99b9cc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnevada-city%2Fnevada-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d2VQVDBSTFdvQ3V6VEhRVG1vR3hyN3BrdFJFVTJDclJFRy9QOXY2QjRHSzZYOGZxV3J2aFovQmU5OTY1bDErMnRsTDA3SCtKMTNKQjZKVlMxQ2ttRTk5dHJ5V3NSN2JUNU96UG9pejh1aXlFSHdMMWJPTldQMUZORWNWdGtKdjhLdkhNeGQwbFc2MzYrVUNDOFkwS1lGbmM0NHgxRmR0VktnQXRBcFgrS3BrK3ZyQTAzc0t3ZG1RQnBBZTQvT3o5bi9LQWtncG1FbVhraHFDbEtqMmFlc1kreFREeFJiUTlCZlJMZHRHMzRIRjMzVnFlL1dTNDMzZ1FCejlKRVpoZTN0ZHFBQWhQaFpsVWpwRm4vdFIxcXc9PS0tV2MyRFMxQ0Q4NEY5ZjZHNU1pQVpSZz09--2ecca1bf0a3e7e3c2592f7068c623cf4a76ed3a6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5a6ee69b-e855-4f3a-b650-ccc51dec79d9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwestwood%2Fwestwood-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b3hlV3cvYXQvUFNFL2NxYmE1VHJOUVVxbHlnZFhrK3NOak1rM1MyL1VPYUNwUVVqTzZYRmVrSXA0WHRaTktKN2Y3Vmd4dUtmMWV1VXJ3ZklDZm1obVVNR1JUSHhYRUJTQzRpcThGaXhUZUlqbC8vUmdLQ0lmTm53VjV3NWdwOG0zVVNLOUE2ZlVQcFpHV1lESExEbzhacjdHdWVoQ2JmWm02OGNMUnNHMzM1SFpSd2Fjb1VGV1l1REI2TGU2UlUzVnpHWHRkNlFXT3o2aUJnQ1RtQnArdkN4M0o2YUJzaGdudFlGZ0tnSHdDUlN2bmlEaEt5NnVjVFVpUEtpNnJmYy0tcEd2aXVFbmpvQnV5UjVWNHI5ZTNNZz09--7a597d95df411fea6d403d49b0b7e70b7782c358; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

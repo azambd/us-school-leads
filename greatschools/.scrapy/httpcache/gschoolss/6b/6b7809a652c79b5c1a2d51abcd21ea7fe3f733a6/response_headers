@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5608c094-d62e-4309-8267-97d238883950
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsutter%2Fbrittan-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dE50OTA3QW9Rak5pVFVOSlpGK01YV0xMV3pQSkgxUG1IOCtwdmZ1QUI0UDRIcWFGc0JNYWpnNW9mYVpSLzdGa1VORksybVVYN0IwTm1lNWpkTEVMTzNJMVJCQ3JUVXFxN09BM0dOUi9qa1A5SDJzREVZaWVhOVJ1RU5aUzdaTHAwUXkrRTE0c2h4S09QZUMwUXpidDUzTUhuNFJ1YlV1Z1FlVVUwRk9OSXh0bkpFME5DTVZjelZkdzZQMDZrV29RQ3BRZkQrTFdJdVNtQm8xcEVpa0NHdURIL24xYXJDckF4R1FBZTlUY2xiRmhxVm1qVlJKaWlObzdkQll3RExVYy0tazFiUjhVRVdhUUkyQ3MvZlBjcFo2dz09--ed3f8c11ab290c0cbeb4bf07d65b281e4de17af9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

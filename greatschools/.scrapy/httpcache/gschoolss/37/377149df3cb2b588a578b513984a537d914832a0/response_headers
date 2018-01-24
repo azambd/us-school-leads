@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7ebcd95a-3fb7-479b-a78f-39d01435f8cd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fholtville%2Fholtville-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dkE3NUc4TUFzVzNhRWJnendEK2JKYnVjZTJyWlU0WjRlS3RtTU9FYnAwZlBUcUZtVHZIaVJyM0lZWFIxTmhpZ1ZyZXRZc0ZrL1luVW9mbll3c3gyQjRBb0hJRlpmc3RkeE9aNUhKaFNHbTEzb0c0R1o4MHMva3M0WG1tUHo3ckFZNE5iMTVKWFl4QmNveFN2eS9tOHJpcS8yd0ZSaFlCSmluYnEvR1BJbFA0OUxHWW42d1B2bmlpcE1hd0p4NlNDazQ0Z1BvOXpVaXhjVHZYbEJvcm9yRHNwR3Z6Rk9EN0F1OWpnN0RpTDhSZnVIVXRvQTl1cDQ4cXVhcTdRTEx6bHNLMU1uUUxud3k1QmxnVGdOaEFRSFE9PS0tNG8rTGcxSVMxNTlOVnQ1RVFYUEw1Zz09--e8c5098a64567496541b3e004cc8e6292a9b3961; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

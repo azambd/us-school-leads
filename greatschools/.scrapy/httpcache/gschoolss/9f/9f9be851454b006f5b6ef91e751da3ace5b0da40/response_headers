@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ed3dded6-7dcb-419f-99ff-4bb914a3f225
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fatherton%2Fmenlo-park-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UVFwb3REdlRrbmZxNkQ1UkRIUkM4RitoY0RWMTJOOHRhdnRram1LZ1ZWM1hwYUNIMXhQNVBIYU5CZ1huekg4N3RmSXJsWFo5VUIrMS84VXkxQy9kNG43R3VZaGg3Ulo0SkN0RzQ5bkRYWEZQMjhOWVFjYVBQNFB1MmhqLzhwZ0lZSWcwa2c2cFdhZXF0YmxmVWpnVjU4bkpjNFRtVXpZZHE2MGNFdmJJcW84aVNxSXFIVkl6dSsxRkJvTUZOOHhXbjhyK1NIN3VaVmhPNU5QVStoZXVRQzFsZmtJY3dzbXVhSEF3Q2pzblAzL0pTNGYrQjFlR2VocHYzMlVCNWFtci0tdHpBVkplMUM5TGdXMjN6Ums5SGJaZz09--8b7bc7129ddc67f1ab32b42c5cb0bdadfd909e74; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 286dc1ed-7c1c-4927-a249-96854c18a17d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyermo; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SUkrbzJLRFVndFo4SG1mMXZ2ZjZKWE9pUWhxMkt1LzNEU3hab2VqNmI3THE4WGpiVDk1R2NwRzBMK2FnUENZNXpOL2gyckZ3a2ZkSlgrdTVYZk9iYkx3Rk1yNE9TWU5EalovbXcybDVNUVNRdEFpVG9jSjJ3bXpCb1JxZXYrTnZLRy9YNVVzR0RHMHYrRElPU1V4VEVESU9wM042VndGVUNYREs5ZXpnait3OUxpTEdWSFJGaDIvYzcyQ1pLOHAxckZCTXBhV1BLSEZNL2ppbTIzM2pOWHpmS3p6bHVYY2cwdGlCdE9idEdsSjJ6RzFkeEtCTTg1TmtwQjN6OVZxR1dCVDE2dEhjWUFTbHNLNU9PR2NxSTdONWVUQWkvV05yRlNsd3EzMjhLeW94ampNTlZQem4raElZN3NLalpCMFNaU3d4NVorS2E4bWRVbkhOSm01c09NL3Y3bW1CMkxDMmR1YkNZMDB0UEsyR0NmdzlvYWkzZ3hjNG00dUEwZnJWY2lwN25GSmhJMWFwcTB4S0pCZnNlQT09LS1VTktwT3ZLcVkzOWJwdFlvQjA3L2NnPT0%3D--cff835e637a171e89a2a8f3b350b01f270467d17; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

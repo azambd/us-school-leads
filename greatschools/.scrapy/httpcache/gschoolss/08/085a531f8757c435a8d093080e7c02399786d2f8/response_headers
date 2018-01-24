@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e8f7eaef-2bc2-4112-aa2b-67e887bd03c7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkingsburg%2Fkingsburg-joint-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aDZac05Nc2lTS2pqcmJITHlBd1pOdmVxdVA1eDVxVEIvNmRSdlFrT3U5UDhaR0k3NWVmNEtPUnpDdGJ3aHRmMnBTYTlVVCs2WVBoTzFGL2o0QjMyMFlhRGxXZkdsWSsydUJNenB1b2J2UUZySDFGMjlFWjZ2bHdpa3FRV3F6Z0x2VWg3UmJRMlRxOGJ4a0dISUxYZXU1cld6eTdBT0toR0IxWm9RR0dlVW9pdC9RNEdWTnpuL0Z2cHFBbVcyOEFVVnp4OG4zUmYwT3VReDVwOWVXQmVyd3oyZEIzWXNlSHZ4NHdYek9XOXorWTlJRFdOTVAzTENWR2V0emRzUFVobU9RYWtleG9yNzVIZHNWUnZQUENrenc9PS0tcmFNUUI0aUVOZ3JKNU96WVFzWlhsZz09--7d068fce1d30e2ceec17adb28bb3a9f7ae357373; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

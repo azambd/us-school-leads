@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ecdfde69-eec9-4e68-81ea-86a71f7cd72f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyreka%2Fyreka-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YS9QM05uL0w2VnlTZVNpeG1OSExZSkhmWnczUFNZK0N4WExyOHpzd2Z1aUZhUTZnUkNKZHgxdTNON1RHTGVmbmFsSGlQelQwUVIzRHhMM0VKNGpsZTRvdWtQY1NNZmRSc2F6MkpndGtOSXFUSkt2TEs4SSs0RDZwSGp1MDBMUFFhNlI1M01CcVl5c3kxOTZkMzBJR1NIb2JRb2k4ZnVLNGcvMkU0eC9SNWtqTmdid3FCWG9sZzVnR1BjRjJBWnJJU1pTd3M5K251MHU3QVVaWlhISzg3dXZLRExMR0JKWERuNzVxajdPZ3pCa0dXWjNHWENlRzBBZGJPVXlGc3Uwcy0tZEp3NkVZYnFtNTdNZUtwL00wdmNlQT09--dfd26e10cb8fc959b70e2bced49f61dcd329c6f0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

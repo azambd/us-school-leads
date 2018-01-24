@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1acddff4-a1fe-4788-b850-5bc98b31a767
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-monte%2Fmountain-view-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OFNpUmowWEw0eUZlWU5BMVdxL24zNE4yWXhROVZaUllJTENRVjFCQk9LU2V4NjBFNjlBMWE0b3JXTmlNT2lsM3plVHJVdHE3RWRvMVcvbk9xUHN0TEpoQitPemE1Wkw4NHUwdzdib1h2SWhiSjkzOXE5UDFka3hCOC8yVzhGTUI1U1FBSmVCSjQ3bkpsTzBMNkpNdXFnRDNnSU9jNkhDMGNFQWJpRGVxaXA3Z25rcVk3WVNTT3QraGVVdzdpaEk4T2RkQkVJQXhocXZyUjRjY1JhQS9aKzN2eTdXZVZvMVVMZWlpL0lpUC9hNUxWOW1JaXQwSmI1QzBYVW5wL0UvWi0tVmFueC84Q3phQTcxMUF3ZEVYWURYZz09--2006ef344157f781b018a5496c6ee88b6e9c871a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 260a6028-f9d5-4cdc-9e8e-07e1ebdb1a74
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbuena-park%2Fcentralia-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UVZveW9GcDYzak0vYk9YZEhBRE00K2svUWE4S003bURQQlNreEdicjcyOG0zWjJhaGdxMit2TjRTeUlnQTFXRnZDRmxQMXgrTHlwaTk1RUZzdVlCYmsyUWlYS25HWEM4OWJHQ0d1NkJvRnR0amNkR211UzFDWjAyZ2ZveUQ2eWdLbWd1SFFnR2x0SXJzZGZrM2d1V2pCbG0vOVl1UTE0bVRabGh3dHFSZ2d2V0pXWlYvVGpnMWczZ1BEMzJPbDY4SnNLVEpOd0ZlaE5PbGQ2NjVUQ0lyTTdsUWdseDgrcEsvdEcyZjh0WUZLY040V2t2NXBuUE50OCtyWkh6Qi9GaUNMZlRGaFVUdTJVM2FSRHk2cWZmTkE9PS0tQWx1KzdXT1lnaFlwU2ZoZ3FKWHk2dz09--d782032aa42693298155c499355197c4a0daf162; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

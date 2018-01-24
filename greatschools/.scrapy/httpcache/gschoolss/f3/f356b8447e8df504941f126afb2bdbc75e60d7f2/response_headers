@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f95cc447-debe-4e8a-95a5-45c769936da8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbridgeport%2Feastern-sierra-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=all2RXJWdCtFWnk0MUNYWW9NckdOZEFCRTBYZFhZTXFrL29nMGh0Nk1EWUJSNEk1bkZuR1NwYk1BeXlWd20xZTZGelZMdDlJWXQyLytTYWtKcTVWRzBGS1daRTlOWk1RQUVoQWhLR1RHbzNKWlE0QitQbzdtT1duakduNjQ1SkE1ZytlbmNjSlJteDJ4QkwzQUtGYS90UFpiR3haUC9ld1ZjM0UvdlZwWjIxNEEvOGcxSlU1MGdKNVFJUXNtbEdueEcwcU1NbkVPaWlBOWg0Ujk4b2F2WUV1OEtYZEprUGZyWkEwdXFiYTloQzQrT0xiQzhjZW1NdVNZMGVlY2hmUTU3SmgwekRmaTZXYlRpWE92M3NVRXc9PS0td1Uwd0RpL1dEallhUHVEdUs4VFhlZz09--bc0929c07e774b18583fd68d786cb5ede51daf38; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

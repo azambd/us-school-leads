@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8258f0a4-28ed-4891-ad2f-dadf3a44dd75
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcovina%2Fcovina_valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UkN6N09sMzh1OVc1UGU2SDV3MW1wZEtsRi80V1loUlRYbVZMWlU0ZDB5ZitabEdlR2N6RXJtRDNuaU1oSGIxOEFtTTJQVEpZektTcUt4R0ZoVjJ2emFnaUFmdEg3dzlHL2V0MlJPVXBhRldsYmVpVHlFRHRSdXdiZnA5MWt4Mi9wbm5hWTVEcHVoUWJWZllDNmxEYmZsdXc2RmZqVGdVVEdUYU1kT0hoSXhJWUYyY1VCMEJTUVgvRjBCL21lNkJSQzBHdGxnQURpcWhlS3I0TEdrTjV1dzc3ZWViM3FST0ZLTStBM3M5U3VOTU82WWRoeTRKV1R1MmlKemtGUWUxMi0taDVNb3VQMTNhcmtPRHFoN0lYNXFVUT09--20c26d5ee0203c67c9df38910e2c45dec8cf0497; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

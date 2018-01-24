@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a1ae510e-048f-46a0-8442-607c42b022ca
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffive-points%2Fwestside-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a2t6N24ydmxZOVduaTRTYWZoUkVlWXNGZWEwa3RnWWluZ3pocys4VzhyUzhNNmdyTTAwS0ltMkJCamFBLzRTWjBvN2NDRXI1aktpZnJJMU5ONHhsak9maURHbTR5emRLalM3ODJSaXNPeW9VMkxLd1loUFpKRmYvL29sSS90N2NtZVdwS2wreWNSeXZrakd2djB6M2Yrb2VUaTVHVTNzWk1qNU1GYVZHOFNIOXV1eUhWeWljTmlqVU5kOStUTTA0dFRob0pmdzREK2M2c25YWjkyczFEYzdNbndBQU5kTUxsWmd5dEpOMWhRYUl3Q0V0Snd0NEcxSzIrM2xLSUgzaFJ1SGg5MFpSUmhtRXRwUmt5NXhyblE9PS0taDUrQUNGellEYmNFdnpMZEV2OUdsQT09--8a746ccf77f1592837964e40d605cd5f75b6d940; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

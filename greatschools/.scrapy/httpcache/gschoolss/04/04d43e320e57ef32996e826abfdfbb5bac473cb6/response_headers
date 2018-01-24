@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bddceb16-a614-4a8c-95d6-59f3bdc3974b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffirebaugh%2Ffirebaugh_las-deltas-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UElyWEcvZXZIYnVmS2lucUp6ckgrMVpUcGs1M0lJb1dGaCtNajVCRmlMRW5lSllDcmV6enNoUHYyZ2NOMVZzcDAvSEdiUTlFUDdvRTlGR1UrcFpHRlhscjBPblViUmxMa2lJb2ZFZGp2ZWJCSFhtcE5ET1JSbWZuMEFWVXZIWnFLZGtEOVpoZjBSQXg0RVVDWlFwTkJVUjJSdHVxYyt4Nk1tM1NDN3JzQ3JzZ2dmb3A4ckdjK0lrUTBjWmFKQTgvN0VsQ2hwRXNZdnJOdEU5YzZPamJWY0x4MFVVQ0d1djdxblhkbnlHNDVVdnpSZ2liMmZFUWVnTVNsTHVUamFLWXRNNVh4R2xCL1IvM3pMUnlGUVhBOXc9PS0tbDBOS2RzeEtPY3lMN1lPK2ZhY01Mdz09--35e209058e6dd8c40bfabc7b61171ec22b8daf8d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

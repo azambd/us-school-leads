@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8be8241e-a9da-42e5-bdd6-5bc966a93a87
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flake-hughes%2Fhughes_elizabeth-lakes-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aUVwVUJCMStRd3dZT3lvc095RXVtemZPKzl6UDNYNlBuQzYvYnRtdmE1Qk1FWGM3ZEhzTE9PWVZRUzZxVnRvSmQyYUFUWXE2TjU1eStiVUlMWFJUMW8zdEJ2SW1tdnZQdTNoSThsNGRxbE5UcjRsRncyYTZCRkN6YnlmMEJDSCtxYUVKaVZ3WFFJSkFXWnBKbm45SGdWaEV5MXpwblpPaEthOS8vOTM3SmZWN3BBQVAyUy9ySEs5cXNWU1Z2VEVadmVXWmJBeWhoUzdDN0tXazBZdDBMeFlnS0hhanlWT2FTRk00Z21hQzBkMXdzWThVOGVoL2tpOUhpcC9TQzVlYlZFVll4blBOMll4TW10SkFmb3dlelE9PS0tUFNmUUJGb1dmcXNZNXFWYWw0ZUtKUT09--0f5c58313269818ccf086e34d0e401abd493e37d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

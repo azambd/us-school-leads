@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A18272%2C%22state%22%3A%22CA%22%7D; _gsweb_session=dERhSy9uV2VKdkZ1T0VyTXpQc1VxeEkzdUIrTG1zcHFPRkhPS2NqbStQR0FIWkRGeFdtVlR4NUFiMDJHQjFtOFRIeHBPN3hZZ1FHZGhYTHNiaFVDeVpPVGw5LzZhUmJvMytzMTJQRzBudGwzREdLOXBZU3JWK2RUanFDcGQyNVgyMVF2NmUyd3pTamZ1UjJ6MFNlNXY3a2l1MGwvWitaczZJa1ZEZUZWazZ1akJBL0dCQmpic0V1TmdqRXNFakd1bDEyU2dMQ3FmUDJWVkFzSllWb2JUbjY5MEkrNFV1bUg0Z3I5QktyWFF1QWUwWEoxY3E0dGhRNjl0NVp6ZVZoSzk0RmpKMzVINnN4SDd2YlJzL3JtKzhvbFIxUXI1RzZEemY3UTBFMjlJUEtBWUtzYWFiVDAySkRPcVgrZEZKZm5MSkdsZGp6M1ZWOFFSR0gvVldlbmxBZkFRQ1Y3bkpBSWJWUmJ3ZW8wWThRPS0tVGdlaktzTUw0RFVsZ2NxZUoxZjlNUT09--2df00b9af7ae60c7a94743b42f6e24c4b29c1c6b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/18272-United-Methodist-Child-Development-Center/

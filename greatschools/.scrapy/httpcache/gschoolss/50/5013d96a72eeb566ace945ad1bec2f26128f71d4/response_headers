@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 90a5253b-0206-40c8-8da8-d26103931c17
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fbellevue-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZjZQTXpxVEVXMXk4V0piT21MUll4bGdNdlVBTHNwTkp5RjQvTHdhOGlvb0hHU3RKY1hqdFpIZC9oZ0l5d3JXMGVrL2Z2ZEs3Y09YZHlLckc4UUdoL3ZhajFZR2tmY2hNMTg1eHd6cDBZeGJ3NHhsR0cybUp6RXJrY0MvQVJQckd4VS81ZFhJczFYQ05rOHkrOURmMVlpRHc3eTVWZXp3S2xwSVhrcUhGcFQyd1FuOWk2S0lIbVpCRG5GNDdaZW5EWllTWjVucmNaRHY3ZDBTNiswTkovYWJZTG9BQnh3T2pYUTR6ckpRRUNVYVE1VmpPWFN2U0gyWlN0QkV0d3pGMjNuYjRVTUlDOXRLQVV1aEZsU0xWeUE9PS0tSjlYZStvcHpDMHlRVWdhLzJiMC9Udz09--a0a07b5486890cf2ba0b6e3b71a21a4b290d3997; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

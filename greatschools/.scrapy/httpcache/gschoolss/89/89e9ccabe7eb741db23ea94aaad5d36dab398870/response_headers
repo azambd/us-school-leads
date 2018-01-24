@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8cd1f747-35f7-45b1-a2d6-88c03b7290c1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fencinitas%2Fencinitas-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MlA4c0c3WG51SkFJYzlYeUVNR2FweDZwT1NWMGgxTmFlSkF1U3Ezb0hGUlVZRlVkU3MrN1BiT3dqV3RJN09uRDVuQVNLTFhrN293aFNIZmdMSVYwN2d5NFFTZFNsU3Vwd2ZkNDAxVk1IaVE3ejVWQTMydC8rZHVXL2ZKK0ZXalBRRjhUeGNUNXpiT2hkV2NFT29Bdm1yT0VUaW9QTGRsU3lUcXlHVldjellhTEVqMGxqTjdlYUxWdlJSa3ZEakpKa3FzalYzV3M3NnRsMFRLQzlYUzNhSkEyaFB4K3AzL3dkUnRUaEpmVWN4UVlubkV5M254M2tsTjNWb0VpY05JY1NOa3k1Z2RrYnFhVHlMUVplVWFSZHc9PS0tOVdUUEJocHRhMW1ZQ2lhM3ZQcjNsQT09--f975a05d345b24a715b5d4b65121c4472c0d9230; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 551a537b-2b6f-4ccc-8338-aa833db70a62
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fukiah%2Fmendocino-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TC9ucll2ZzFWSXNBaDVodFl2Um5rSXlTdU1iTndQWWlBOTNMZlBnMGxGWnh3RnkwRkNHWEdnUjNGYXFZQUltSkJYTThnbzVhNDlBQWR4VUxiTTUxaFpPek5qT2hRT0ppVHZWUVYzYzc5VjN3SHBtWmJXR3ZzQUxRZkhsSnM1YW9uSlM2Z1htY0R5WGlUMUdLRGV6UFdVT05HQUVhbGVHQm44Q2dMQVlJZ0tsMHpPL25JdUo5ZGJ6ZENhbkhkTGJ4dXZzUHJkMjdvaVVPbmY1VWt0YitRM0Z2V21yOU1rZFlXR21yRDZvZnYwYTRDc0ttb05EWVR1VmFvQVhnUHg1Ky0tL2NLZVo3T1d3VmY4UmcrYkFUelhaZz09--378e4e28056cc834efe1770cc2bb1ff6f094e768; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

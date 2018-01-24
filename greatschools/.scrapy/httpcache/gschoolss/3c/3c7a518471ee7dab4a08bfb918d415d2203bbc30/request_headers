@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7617%2C%22state%22%3A%22CA%22%7D; _gsweb_session=MFE0czJpT0tNMmdMRS9Ddkg1c0tnSzlMMWNCOUFzZC9rYldWNXVWdWlVZWRqa2kzclhQeC94cEwzcmVzeTVqNEZBUkpCRC9ReGVEMlBObnp6QVBQWUJyVG1qK0MwZ2FVUFdhVTBnK2prUmpnbVIxUnRZMVZncm93SjhBbm1qWU8zb2g2NXVwcFBLZWFYV2dKNVdjQWVhN1o2Y0txUHBPNElHeHVORlZnOWhmL1FONnR4UlMrVU9lKy9vMlZvMUU0V1FaRE02MnBadXBtajl3WGxDNzQ3Y2VVbUtmYXpMQUhwQytzMU9BZkw3aFN6MjBENFM0ZkwvNFdhOERmNTJreWxqTzR2Q05rOG9nbHkwd0xiR3diU3l1bzFtWnBjdEhlWVhaTEprY2lOMFRXbHMyMGFrdEZlRzZoU2ZyUXE4MWZDeUxsb24rSzlhUkZ2ZzJhUmw2VVlseG9sNHpNTUl1SHpaTzVOOWxnYXgzSG1HSjZ5Z3k2VXExUEZnSUZSa3pnSjdOeWhwUWo5VnZHUkx1L0xaZjlIdz09LS1oOFM0MWtxQUhjcldQQVd4dURjL2RBPT0%3D--82c48126aaf30689ce3e490eed5450e8639a4cb9; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/schools/cities/California/CA/

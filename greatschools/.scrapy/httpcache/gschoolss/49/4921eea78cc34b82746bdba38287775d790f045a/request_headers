@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=ekhkbGVkWkVZUGt2TW9zRnByK1RnRGg4OEJWR1FEdWR6VHQyUSt5YnkzSVMyeHlvbGFXMVE4b2dUY3psekVqRDltRFZqejl3UzY3SUYxYnd0OGk3U1ZmZzQ2dHpNbTlYODJuMmdoWTNjM013NXJmd0tLU3lTV0ZOd3E2YVNGUXBySmp0dnJYb2R3VkRFT3Q5cURCWWV4OHl4RWtUNGgyTnczcnBQZlVZK2taWUlvOUN6ZUdLSSt4dXhVZXQ3WHdFNERTUFVSM21sTXNsZSswenIwZ0hxZlBKRjhRN21YVnNkaERuTFV4Q0J1anJBaFo1K0hmeFV6UzdXN1FGTlBhdU45dkxzVWdFYSt5VWVBTGZHTG1qZHc9PS0takd0a3NJTmtjZ3V1NkgzVHZhVzRnUT09--a54d7dd082873142e165e9bd0206b530984db1fc; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fsonoma-county-rop
+Referer: https://www.greatschools.org/schools/districts/California/CA/

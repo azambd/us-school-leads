@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A20831%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Z2xBYzdRUkU4WVIwWWUybFZkUnRMOURoNEtyV0FRS2FKUE0reGJnK2RnSXIydDZSb3VCRW1vUVZORkRibXk3RzJXTXltczdOME1JMGdhTW9LU3R1Mk1IanR6UnpJRm1PTCtVaVlCWWt6cXhSNjVHVENzNzk2WHpwaWxZcW9KclZNV0lDNWhoeDZ5S1RmdmkrTURQTXlLSDlaSG4vaHJ2YWhoQndhYkRPc2F0MDJuUy9KSm1qZ2g2YXd0clBwaFZKTEUzTUFOdHZCMDhETm1xUkFxT0hVM0hveDBabzE5bnRySWFXUXVvTnJUN2t3K2pHTWgycTdaVHJ0QUxXQmdCOWlvWHZiTVpDd25ybWxQeUtQQmhIYlhURmdYb1R2UHVzSVZreGxTOHRqd2NVU1cwNFlPTEpiNnErY1B5SVg0bi9zdE9qeDZPRUZwTVlOMHpRWUh4VStza1BRTExnckNDeGVvTWVmbVNIQzU0PS0talYzVVd1VzJ3SFJNTDhpRXp2UThYZz09--e6e25ac3947355529618f8c93accb187e14c5075; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-point; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/oak-view/20832-Oak-View-Pre-School/

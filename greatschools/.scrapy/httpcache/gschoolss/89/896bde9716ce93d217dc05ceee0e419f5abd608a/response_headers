@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2d4879c5-a2c9-44f9-9359-f18dbf5ef592
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhorse-creek%2Fklamath-river-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZGhiRmp6UUxNV1VKQVdvellmWkdyUFZnMTZXbk54M1pHdmdCdmp1Z0JKd3lRTHArSEswMkh5VjZHU05jM09hVmpUVUFzZTlpWFdqRzhOTDdSNUhxUzc5Vi8zWHVlWjFzcVZ1WTBoZ2tCcWVUTTVEVGtSWFQrRkhBblg5MlROd1ZvOFhQQkIzNTBlSW9LVCtJTGtnTWlXcEZyb3JpU3ZoTHVjblZiVGlZdEpkVXlQRkIyMmlKMHpGTmlOM3VkMXhKZlhob1FSSkxsSXFZc3cwSEJnaFFNbDA1aXgwM0ROTnpyNFdHZWpYMnMvYm95R0VvZ2I3Z2EvaWc0bmdzbDhEL3hUM2w3TWRucEIxNFd4d2JacUllM2c9PS0tL0hBQnljYjRmVklLdFV2NlV5U1ZHdz09--4479fe0d1665cdf3f1a7d7c925ca20fadccb27c6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

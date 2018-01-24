@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1d22b382-1617-4cda-a15f-a6d19c5868e4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmoraga%2Fmoraga-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U3U4QUZDdksvRGxLZEVSS2Q0RjhBbUNqazJqY2xhQUZoN0FwZFFqWUovaWd3N2F0dEwxWFZJOFRXaWhHeTRIMDJBWlhaWDYxY1Q1dDRDelhMNWp2QnhWNVdOaEZuSk9GQWxJSEhGNG9TcTZ5NmIxd3RBZUtERFZieTBjV3BVUU1WYlAycUx4WDRZRnJmMlJxQmFTSVVnSkZua2Z2VWo5RHFzVFliN0hlTEpCM2k5NDJTY3FtV3Bsek5MNUl3U055ZTBhcit0WTJtcExoaStCY3lhWGpsZzVPNlRCaDV1eVZlU0d4czljYmpleG9WTDI4OU5nZUlSQllIK2lHOHE2bi0tR2I0NjdDTy85VUR6ZXFranpBSXFUdz09--d1fbf7a5e1c9d69b3d97db3c277b53c37442f41c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

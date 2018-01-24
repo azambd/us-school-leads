@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 6e5af94a-733a-405a-b304-1f098e8668d6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmather-afb%2Fsacramento-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eU9RTXVWY1RlcVRES24zOXhEeGo3TFVzYnpJMlpTVDdsWVM2clRUSTFzckZNNUlxNFVnQXNiWVgzMmtLSCtta2hEeXIyOHlSNHpnNm1kUXBXbFd3aDA5dlBNKzlPSWh4ZFk3TWRaQ25rYmlFM3dDdERSZDJlaVNTd2tLVEZJWGJGaTZRZk52T0ZuM3hhQkk4enVtOGlYck5XblRud2hMTklTeE9YenBnM0psVlVaaUpMVUlQQnBPT204aWlyaVNpVEpZNDRQeFA4ZDM1Qk45N1BwNzNKVVNvL2lHNEJpZXVJYWlOL1VGU2R4bFBiU01QbkFEZEphWVhiZXA5cENuaUFBZHRWYVFJS292QTdPMUROaHkya3c9PS0teVoxbUp5WGtTMnNpcXh4WWM2Qjd1UT09--368144ea4bc818c74f7af6fc2bb9f9ac60838dac; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b9c19ece-5dd7-427e-92df-446199735af5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-andreas%2Fcalaveras-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UjdqL3E5WklCb1RDUmk3Ymd4cTV2Z25GaHExdUJvQUhldmpoSG9kcFZJYkh0eld1Tm93YTFXNE5VWmFNeGE3ZCtoR1p3OVpnM1ozRXZacjdoekpzeG9FMGZkdzRmZjVRUERPWHdwQ1REdENXWWdLd2hSaWpXQzM3RFFlUVAxQitSaUt3UUovWFZYVHR1Ui9LeGYrcE96RlhXNEpBNUdzeXdYWWxPMzRaU2FDa0dKb1hjOGRMU2d0bUFKSERaUDdBaDRsU0p6RFhtaHF6WXVZRDJkSzJKZTU5eitQTEFGWTl0empvMEhuZ21yMnlUakFWM2R0QUdhVFZ0Q2x2K1ZXNUFxWXZOZUE0Z0pOQ2JvRUZpTzkxYkE9PS0tY0VtckIzVHVDOW1lSmVtSzZ6SkVuQT09--4cc41b5d8b6425faf67cf139a6fc68a6fd6d328d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

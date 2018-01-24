@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b30890d6-07df-4c67-a72c-2a95497897fc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbolinas%2Fbolinas_stinson-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RzJCamdEOWJuZHlic0VyY0dsdHNpYVI0Vm5QSWIyT3d0Qm43anVVL21uM1dlWGxqOFlxT2pjZ1JzdWQ2Qm5TQVFvQTFqUVFZTmR4RGp5KzdEd3RHc0ExcVZIZ2VnVHlqWS9vbzNuckF2SmpLOHMrVG1RQ3dTR1hmOEZHNmhqZ2hmSUV6UitwQUkrS1JzUGN4TUM3R3VubGY0VVp3cWJlOEZPcFhsMGU5WnlPaEJKOE9TdkpxTjZ2YmQ1K1cvTWovUndXcVFYUXVYZlc2TEFYbUl4V0VUK1ljTVZ2VHRTMVJ4NzMrZGJrTWtSaE5SOFBERUp5d2xyelQzb0hPbnN4cC0tS3BzcWVGTVJ2S0tRbUp5UXFubGJUZz09--b0bdde0443dff33881aaa09e7c167d42b08ef4c4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6233ec10-37e3-4367-8fcd-8eb79c38b47e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fclaremont%2Fclaremont-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dUQwUTk5YlJUSWhQUXBJQmplM3JWR3hSSm1OK01LUm5XNGdXUGhLRnppZjZwMHE4Q2Q2bS9ZZVdHOStScU15a0NOaXlXUnE1OEFjY0VtQ0pYNjNLV01ReElPZ1ZKelNobTM4VjBlblpXMG56dkJpVUZHVWN0M1M3dGtJWmgzanRJZFBHeWErYkNOMmpSQmYvd21TVXdiZ2V2dUlzSExvZy9EWXU3Mm9vbXgra2ZEZTFzaXZBa1BWUDRhLys3aDNYTEk3NlJ2T0RJRUExYUp3NERMZmhQQk5xSHB4TEM0c2RVZjVtSWpNRGxaOURKeGYwS1I3ckZYVjM0d3hENWVrQUF5aytmQ0RoN0UxWWhWYjB6OTh1ZFE9PS0tb0xGWml6bTE3SlN6VjEwUldxNUpndz09--2d14a4ce6d7abb8d8b492dc893a6721cec0ca801; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

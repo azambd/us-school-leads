@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3cee2a37-a84e-4528-9be4-03c5e7b6420d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Friverside%2Falvord-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=czdRZHQxZ2dmTWJETmRpVERPbHd3cDhsaW9obTR6UlQ1OHlqdlVSL1NUbXdIajhzdEduUW41dnpscDJwUlZxMXhkTlBCQlJyZmVYZjNZOXI0RytIQXk1azFMemRXRFMxQnV2cGJkaVkwVGUzM1p3ZTRhYW1CZklocU91QjFRaGtWMUVlMWRINi9XVEdkamxUQVJOSURHaWlDVWx6dFY2dEtkNEYrMHZBUTI0NEpnV3NheFZuNmowNzE3aWtYQU1FZkYrUXNoOEZYQkE0SWVIaDFnT1RxV1hWWEgvbkM2TEppYTR5cEV3YjBZcXRjWmtVMjhXS2t3dHQ1UFg0WU9DMnFNRVpvSDI3cDBFZmJnTjlVejg4ekE9PS0tQnFQWFhUL1l0WnBYRWpwcWN5SXlmdz09--4a8afdebd00da406dbe1e96caea4fab43c0fc76f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

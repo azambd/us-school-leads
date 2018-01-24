@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d8d28361-ee68-4f33-975d-ead1136bc86d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fontario%2Fontario_montclair-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=emt1YTlWcy83bjFaMFF5S2l0NmcvWVBVRldZd1lGbzlmU2xFcXVqVWthOEV3Sjloam1FS2ZFV3BFUDdFN1NaUWp2QTJZWlYwdW1qSWdiNUNDSk1IbE9VZXpaUVdrcm9waThKczh3YTdKVjR1SXFkS2VvNFZFLy8wczRhdTA2QUpkWVIrQ2hGT1lOV2FqV0xYZXI2YXlmcHU4eFltekdNWHBIZEpZckhrRG1MNDFXRVJFOW5PVVo5ZnNIdjRFYlg4MHJSZDRscTRGUEN3MXB0S0NOMG5TbU56OWZsc3h1d3FzSzU3MUVLNk9jNTNVc2t0OTdiV2Q3Tjl3VFpBNDZKVi0tbzVBQUkxckFra3IvaE5IemgvWUZldz09--db2f1b22f953f656806820075e35afea99203e1c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

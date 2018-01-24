@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 241b7b21-ebd0-4b4a-9d4d-2d65f177bc44
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftwentynine-palms%2Fmorongo-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NU1wRDVsbWJPODFIQmtacE5uSld3aG82NUE0MU1Wb01mTXB1LzRVV0pjVU03N2VzQVdNSktqT2RRaEdYajMvRWxMQXB1TERYTUxSVmxlZ0JmVjFtZ1Bhb3RFREdGM1hwLzVQNk81RmxsOWFqRW1Bb3lDT0Fld3RKeUhpREd5Rll4bm84YXBEQ2xQaUozRVR2bVEzYk9OUG5LMGU4Q3QyQ3ZJWVhoUVR0cmFZeTJORnU1ekIyeWRTNkhydktZWWNsc2RKQTlZOHRqRXU1TG9yckNwUEtJSDlCWHpmbkswbkVBb1QyeW5haGh5VE5uZHU2Qis3OUJMMkZ1aUZSanZSWWR0NWpjZkZzZmtraEpGbm9HYVNwK3c9PS0tTVJnSnlvVDJHVytUTGhDejVJb2Vvdz09--82b17fbb61decaca145c51e5c5d73b1963f1f1db; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

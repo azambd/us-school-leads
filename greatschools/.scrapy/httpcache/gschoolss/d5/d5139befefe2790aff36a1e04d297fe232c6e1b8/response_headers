@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1e9c957b-9fbb-4424-886d-ad5ef70b34f5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forland%2Flake-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UTB6U29OdG1aM2dPK1VlYnM2VTFmYmhQRU1iMm9zWlZrQUdlWm1TcmxXcVF1QTVFTWZzZ243Q3FPd2JYbmRSa3kvSVovUm1xNk5oSU12ek9DdWk0Ujh5RnVSVUtucjZON2VNMGVYTG5TZTNGejJGMy96T1V5THRaakw1bzhnYWRPNGc2RklsTlRINU9QWVphcnJVbDRqQVY3b2dBUzd4a3ZTRWpUalg3V2hhd04valFpdURXN3lZMlhJa1RCRGw0N0p5djNIVVd0ZlJzZ1ZuNTdDVmRWditpNnVZeWJ4MHFnYnRWb21MR2dnSGxPY0JGYnhNNDRuTEFjNVBBeEpYSC0tNmQzVHlCQ1VkKys1QU9Pc0VWaWluQT09--cccd9d72652bdbb16687d98f1950b1a8d4fb7468; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6a6f82fe-1909-4341-add2-0e2b35c01eab
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcolton%2Fcolton-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OWowZy9YUXBmRnVldXdoRmtGaElrbitTSlFjSjJkS1g0MGovMFpXTjg0TDBDeTcvSk5MK3J4NVBlV25pSU9pL1FycXYwZWRyR2I3Snl4N1ppM2h3YzFnUHNRTmI3UURsb2dka1RYYUYwZGR3YXpWRmR5eldCOHpaS3R3QVBGZ1dvVnIwTmRxS2MreTVIRnhsOXA2TmVDYlpOcHhpYXk5TE9KQWVzR3hGVXV2eTYwMHlQSFpZN0NUb015clA2aDVtZjNGTXo5WXRUczdwKzVUejJXYitwcVFxZmpudjQ3T09FRHBabWZROW96bEtuckxGNkg5bldBemlIWnd6MGZxVS0tNVpLazdHekp0VGtXRnZwclZibEUyZz09--f13e13a84020eb5a15c12bdacea65e4b0fd33415; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

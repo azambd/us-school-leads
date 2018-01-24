@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 281f69d9-e322-4a3c-8678-c5bbfc95d048
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmariposa%2Fmariposa-county-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NzZIMDMxVUpnQVhWVFRDWTF5c3NiekxuSUZsZEFZN2w1bFRwMDJiV0l3OFRrZlU1dHJUS2l0VHMxYWNhT0daV3g5Z2s3ZVdHSlFQQ2VJYW9XUWVxdEJIemsrT3JZbmdDWU5YalRXYmQrWVAySUJRQXFZR0llMzY0Vk1wbWtMbTV3dzc2dDR3WGFOOWgwQjB0dlFUM0RmV1JENXpHalJhY08yNkVFQ3dhR24xZlY5KzBlUUViWTUwM2VoQlpRcWZVZE1ITlZqRXB0TkkyVzBSNHI1VkcxUzlFOHcwNWxWdWFPNXVSOFpLMnRPcXFoaXM1WUwxcXo3ZnVoNzZGbzFITS0tbDVZZnJnNVFva3EvcHpITnFhaENNZz09--8278f5a46929e8b83540d490be210cbf2bd9d113; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

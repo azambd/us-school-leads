@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A18273%2C%22state%22%3A%22CA%22%7D; _gsweb_session=bmxDWjM4bzkwQTR2Zk5lbVBFL1Jaa1JwUkh2cmhUTHAwQW8yL243WlJIdFNEU0lZYzN5Q3F0K3hSdm5ucnNrZUYxbWdFcmxkK1pzcXVSRlNXUnAwVGovWkFKc0VpSUR0RHEvTFVWcU81NXFEclNia2VjSWRwOVJ3WEt6WW1sai9ObHd3TVU0WjdxUlVxOUIvTVBkNzdZbnRRdEZ0RG9HeWloOE5FSHY0NEphZkJSQmxpUEUvMlB1azJYcVlLNExsTWNmRmk3RUxNK0pWL3I1VlRLRFVRekhtMmU0UkJnRVN5dE16N0lKWkNrV3djbks3NmhjYnN1Mk52d0J5Z0hZL2htam1JYkVSdlpDcXBMck5rakhiYU85WVQ1UmNVNW5JdGliWDdjekNoUGxsUklPMEtuQ0xhNVpOSHVVRlFDZmJFN3llaExmTHRXL3dBdmNLcnZJVVJqY0M4dGZlOTdxM0FYZVZIRWlyQnZhaEYxcGRSRlY3d0xqK3BYelM5QjRDTXhtWUxPazgyZmROaktiTmF0VTRudz09LS1ac1hOdDN3dVZ6bnZKR0hnZ2FOck9BPT0%3D--ec81ff4890c9a08713e70515fe5b4d0282ab157e; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/18275-Camarillo-Progressive-Montessori-School/

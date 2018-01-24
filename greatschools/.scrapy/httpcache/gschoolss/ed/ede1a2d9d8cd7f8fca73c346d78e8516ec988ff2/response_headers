@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8f7733b5-296e-4d00-a82f-e49b79abeb70
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-monica%2Fsanta-monica_malibu-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=blVrUFdqOFZ2ZG9xVytNbnFVME91WkJjaEQ0V0Nta3NMbFpFWGF2N3Z1eU1rdy9SOGg4NXN6U3p3N25GRmdEUmhVZUlNUGUrM0lkL1JIaVk3M2FUdDN6S1JkcTRaV0k5aDlyckY3R09zK2RCcXEyeDh5MWVmRmVCa2NjaXlyQzVuRFh2MVlNaTF1VURERHVSVUgvNDhoM2ZiRHlDeUZkMHJ4bnVXeHFGRkFsME1JSzR5S1Jqc3l3VnVDaVpkdVhDOW9vSnpHTk55NmgrRS9sVUxEdGRobmpMcmpnM1hpblhVdHVtQ253N0ZjRi9WTDEwNTRiRVNKbzFmNHFaUis5ZDhhbS9ZYVNsOEI2SUg1MU5uRUpLTEE9PS0tNkxVcVdGa0JOZjYydVE5a05qUXI5QT09--cd64b605dc7d30a3ea93b2b7b270eb7b196898fa; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e95b8086-04be-476f-a16b-2cec33cb8d5a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdinuba%2Fdinuba-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZXV6NUVLanJjZ1hya1BWcFNPNWJ1R0VIU3oyM3BWZUpNbzduRzRyZHVsV0tHajNkZktPbmpjTlYwbW9hTEp0S0VhcTYxSmg5dEthajBNaDBlZVQxc2s3dnJRVGNDb3FtanYyUEY2cUFpT1dpSnVFZHc4aWp2UVZxNXAzdWpWdzRtZ3czY3pZR0FUdzFkTUpQcjdJdUt4YTlzaVpvZ2hHRnZXZUdaTzBjSytBbXo5QjBqTStJU1BBaEx0aE0zTlBMSEUyQ0VvTHMvQkc1WmFDeXUwTlJJOEpkT2JoUTYxcjJJZWpTSmhWa3FjSHFFNy9YOG5OdFVrcHFZbzNzY0tnRi0tNzFJY2VNSXAyVDl4WXlFQmgxNE1lUT09--8f365b7f807dab7a04756f4c81e78eb1cc59b903; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

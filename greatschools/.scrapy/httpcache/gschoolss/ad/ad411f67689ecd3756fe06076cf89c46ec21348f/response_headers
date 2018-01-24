@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 079ea3b2-1989-465a-822c-1d7586f12ec6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-rafael%2Fdixie-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UEltRlM2OUlqZENjSXQ0cGlVL0E4SWlmRDE5UmxvT2lPbjgzZ1lqU1p4V01WdWkySkxyN0p2Q3VkeDQ0RTRCNVpLdlBnSjYyVm1MeERVVVA4ZFM5WlZuZkx5RjhqaUVQNThjK0xWcXFVTm1KY29VRC8yUUlaOGFoWHByMURwelkwdm1Tc1VIOGg5Qk5nYlJUblBWKzY5WEJQTEJaaC90cVZ3SjN1YndMcGExYmIwd0lueit5cThnWmpUekNsZ0hyc0ZIOERNbk9hVHdsLzlENFpzRkhrMFhPNUhkb3ltU3RzVDlMQkF3S0VYb3JDVXB1YUErZDlqZVZTdzFjL3lublpQYUQycHZnQnl3UXJHRFlTa3VJM2c9PS0tZld6ckhDMjAxWkY3VjdYWFYxa0R4Zz09--22a94f27393648ad67610ac039987bd1622da6df; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5b1163dc-9c55-4669-8e69-205ce5f590d2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fupper-lake%2Fupper-lake-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bFIxSXgzVVRpcUZvcGs0WHk5VXpvYUl3Z0Z1VkRGNVplSlRwZzY1Vkdad1FoSGdsTnBGWm5XaHRjRjgvZ1Y1VnF5RWV5ZTY0c1F0L2xKZHE2Y1Fub2lhRkVHeUtRSGJRK3pJWVlmaVorbDk4YWNGeFpIVGl1Y0daOXI4bzVtcTdoUFNiWjBob0NFZDdMNVJ6cGhlK296Tm9IZ083UU1sb0tpaUIyc3ZZTGpsTEIyZnhjb3E1QjlsZTgySWJ6bzV6d1p1ZG1PZFl5cGdPUms2bGMvdkZNVzd3elVuWjVWOWxDYnBVSHlYRnFMdUxNa0MxZmw4Vnl2YmJrS2Z5UDlHdDNYSEgwR3hUUjZvUTQ0SUFhTUJMeFE9PS0tU0pBZGJBVjNQVWZxTC8rdzdPczgvQT09--7144696a94097260698037e9ca46f594ddd94957; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

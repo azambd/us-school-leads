@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=Zi80SGpTd0ZlTlUwUkM3eVZ1WnFuR0lGL3ZIMkV3U2JwSmVKanlHeVkxRmRRSjBxaWZEUW1ud1dtOGkzRCtNcXpES0JVKzRQSUxoWVVrSE5DU0xnL252UFdIVk1yQUp3eS81WXRZUUwrUnpSaUx1NlU1bkpmUmN1RGVFeFpoOW4zR0hySklabXRrRC9TSDd1MUF4eEFJMjBMVytlUzJVaHB5a3JtMVpWVDBDM0M5bkRkeWZNaG92Y3JwV09keUNkYVNqaXVqSEw1eVJBTXpjVHhTQWoyMUdMN25kNlRaQmh6U1VZamlMczQ2T284S3AxLytzdHRGYzJtSGgxRWxaKy0tK0ZMQ2VqdDlwbEhGQ0RZcWVnaWI1Zz09--80240abdc69270c7d1d45addf7d70a4e6473b91a; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftomales%2Fshoreline-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=U1ZzaTlnb2RiNGszVlN0SmR3QTNkaUJlWnduQ2RQTTRpOUE4T05pWkJSUXJYN0dkS1dDR2Zqc2o0TnhTWHcyanVPVjRYWGNpSVR5YnQ3cS96aG5JR2JOQ0VkM1NTVFZzVkI5ZnM0d3RRZ25TdGhTdVZZZDA2NlZZdE1KU0VSY3VPbGVhNU1VQTlaZFJ1Z3gyYzFDMzZOdDlnUktPSzFHSmV1OGdpU2FzcjNlUHEvWmR4c2I3OE5XN2dEM3c0WitVZXJKZFNrcUVNMkpNK1ozL0dVakgxSURFWkdvTHdsbW5yR0pvRE9vT0R1SHhVRjNBaEowQTYxVExyOHVBZUpyZS0tMkNONEx0Vmwvd1BtWWJ1QW1YZTFoZz09--ba1e4357d15290f330f31a5d8b17cc5664bbfbbb; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsolvang%2Fsolvang-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

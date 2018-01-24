@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f8fb3f08-3bc1-42eb-b2e6-b5e0960fdcd2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foxnard%2Focean-view-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bDdZNWt5UWdYQWhTWmJoQ1VsK1ZGSm1jazlZdWF6cGxnSEZwWXRqV1NjdWJKWUQ4YjVDZVBwMC9Zc1FPUDQ0NTZBVk8rMEp4Z2FKeW1UbThHblplVUZIWXNCVk84ZHd3UndvV3FMWHp1VGs0SndLbGRGZWhueitZZEw5d2RMZkQxMzlUVzFoTzU1eGxKMTJpeC9mc0Z6T0dlazJxQnR3SzZDSTFsbm5RbTlLcWp2ZmNzeTlRTVlVRXUxZTQ5MThWSVVJZWd1N1czSml1MFBieFprditmcDlGb3JVcC9oNGgwak95OE1meDNSM0dYcTkrYTdHQTV0eEVxMjRDYUVFNC0tb2FJUzU1YklkUEFVb2E5d29zL1lrUT09--dc35f65691ed98814b98a0ad4cb47b460b8e2eb1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c57a4f43-1a86-4404-916f-c2246f6b3842
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffontana%2Ffontana-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SnIzaUt0ZGpMKzdHT0toLzRFYmxCUW1nTVdiOEYwMEVEM0lNYnBBMmh2Mm1MUTArdytlTk1RYlh3Q2M0cUQ0YXg1K3JzTUg2bTFMNkJFNkhicjlUSTh3bVFlL09yQUxKWDYwUWVjVjRiOWM5aGloTysrMVJJeUZ2b0F0NDVtMHhaRUhPdHRJZVAvZXFGZDVCQ1ZtTFZSSHl2VURMalg3cWxjWDIwRXJsUnV0K3Z1OUhYSnJWSElBUWRQSVdRRGxLU1kraHd5TDlIVUpRZlppOWRHcU9iaDRoekdxdEtCSjUxQllBMXpoOUlmUzVVdmlMT2wrKzJ2ZUlXUUt1VWROdi0tZjBJTVBjZHZnMzNhcUZESllPV0RZQT09--e7d5595bf4ae1d2f3926092c62210404b39ffd77; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

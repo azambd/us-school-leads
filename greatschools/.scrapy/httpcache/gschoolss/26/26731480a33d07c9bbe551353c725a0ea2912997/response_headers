@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8c5f634c-b905-435b-9c76-d8ea40048875
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftracy%2Fnew-jerusalem-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TDh2RGVGTTdINldlb0NFL3lFeWhGOVAyenJnR081MHVxbURrSzhyc1NJQ3ZtTEZRRDBqM3Q2dWlPT1M1Y0xOam00QktiVUhmSDlSTWFNVGZXWjlTb3FnRmllTDVWZ2lTYzMvU3lDVHlLUUwvZnp5bkgyOFhNZ0NnOVgzYmV3UE5HUUc1QzRCVlM4NVFMNHh4WDAzYklXNm81d3hSRXR3RzA5MXFNaXpiZE1jeVhMUTdtQVk5dFZmOGFrVGI3TXFqS2EreEtEa1dudE5kWFVaSUxkMVVFR2tRTSs2VUg1ZEVKOGI4RE5hUE9PcUlObFpIRXpIREdzaFF6bHNEY3owNC0tMUc4Tml6Q2lEL0FqNWQrZlVwS0lkQT09--11d83ae451c41f894c58fe91f2b4cbaee962ae75; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

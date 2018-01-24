@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=a09SQ3pMTWRMNjBkOWdiMit4NC9xb1dNWjBaZkhNZ1pvcXAwWVpoeU5KbEZzYTM5UFJaeENiZ1h0NktubFV0S3VNNGFMa3BISTEzMDZvdEl6RFl1VEFBOXU2R2lkMWRpTGwyQXpBUlZEanhYQ0xaS2ZhbzNIZk8rcGZWbXF4aTNWbFMzT2cxN05MbDF6d1hTTkdkaUFTYWRnY2lUM0VkcnFjSjl4Rk51TnBpNXorZ0Z6UDhFdkVKZDV2MVJPcVJIVzlyTEV2QkMvY3V4OHVZYXlMWnQyZXpHbjNPcHZPbThMeVUzRFVUWFV1ektaa05BazBXaXg3ZWVUUXhrRzd0QS0tY0t3SzJIaENzenVCN2o4OXVXT1B6UT09--e77571d5a20d2e5796e49fb18cf6362033aae549; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Fsouth-whittier-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

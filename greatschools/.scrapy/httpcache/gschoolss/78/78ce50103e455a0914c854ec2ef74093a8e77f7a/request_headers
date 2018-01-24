@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=eEJJZWxrWEtTTFJDSDNCZlVXc2pEbS9UY213L2JaaXZGTG5GMGNtUXFaQ1I5K01WUjJsMFVONVlrVDRDZ0xSQlE4Rng2aWJzaEZaK09QeVkwSzdPSnN0OTRGQ1pZTnd1M1RiM2krYjRQb1Rzcy8xL2dZcFpOYnlUT242b0hrc2E3eWdMcnV2VHV4M2c5OXRqS21Nb0dmREVoL3dZaEN3QVR0c1BjcHhBUkxmWDVtUUxuMTE0NE1CZWViaWRxNXJmdDQzSEZwR0RQWDQ4R0wrR3A1TG5lUzRwN0R1a2hUQnFENjVFenJLZDFTWi8yWDh5ZXFHaFdjVlJPMXRqMW9tWkQxeTV2d3FuVWtwK05aM3dDRU5uOWc9PS0tcHJnNnd3THlMTDg2MmRsMWZVaXdLdz09--43e5abebf22870f564ba51db5f4f585f96577b06; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyuba-city%2Fsutter-county-office-of-education
+Referer: https://www.greatschools.org/schools/districts/California/CA/

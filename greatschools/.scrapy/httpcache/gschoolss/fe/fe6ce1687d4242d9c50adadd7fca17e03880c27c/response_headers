@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5af9de2f-6577-43ca-84a8-9f3337814282
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foxnard%2Foxnard-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TUhLc2phM2J3M1UwcTJaMjBFWjc4YmpyVDR5QitjZWhib0lNWXhJNGhRZ3dEcjZyeTZUWEpXMnVEVkpTYWdaK012REpmYXFuTFpiKzZLUE5Jcmc1LzE5TkFxWUZ0TUZETk9UV3ErWEtRMUVybnpDR1NtdUVoT0RNdmRPb2ErSEVoN3huY3J4b3ZoOFV4MjFzalk3cWlEYjNPUXhZZU9DMXlERXdWUlJRN21OYlNBaVdseE1NQ2dEK3F0bTZCMTRRVnkrR0ozSnF2TjBrbkQyazkrczhIK054OTN1SjZzSmM4elBRcERCMVdLWEFpY0ludTJUOHhHRXd0MExYWlFDbS0tQ0dpYkt5N3NmOHJoUk1wRmNQS3hMUT09--d3ce1a84427137822e13464324d3e4aad35b9be6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

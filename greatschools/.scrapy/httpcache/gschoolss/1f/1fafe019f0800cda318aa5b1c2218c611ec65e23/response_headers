@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 04f687f6-99cc-449a-b206-c9799c83e6e0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flemon-cove%2Fsequoia-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UHAxeUs2dllWWXVySHFmOUVUZXRadU9NUS9SdW9oeGxmZTNMRmlSNWYxTHZKUHZ1clNoOE9jTENJRDAzNUVESDBzZW5YRHdqeFJtdS93cUFMeTZQbk54M3RnTkJWekxvTmU2NUg1VVdvR3ROYmREZUNiQXBvRkRjaWJJL2dtd1NaNFlwNys5ZzgxbDkxNjBpOEI5c0FmenRhT0pMZkxiQXE3OHJEMlZzOEYzUDcvV1k0b0t2RHhpeXFiYmRPcGlNbUlWWVBNb3N6Tk93K1EzWjlYaHFMVFNyNEpvclVQa0JDWE85WFYxVkFtMGRIMzFwL2hLdSt4ZUpESHdyeUhIWkM4LzVxN29INTQyWG1GcmJOc1JWR1E9PS0tMGl0M3hXTjQ5dSthdU0yN1ZONFJkUT09--3dbfae3193e6b3350189fe47c13ab8a3d6cb75fd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

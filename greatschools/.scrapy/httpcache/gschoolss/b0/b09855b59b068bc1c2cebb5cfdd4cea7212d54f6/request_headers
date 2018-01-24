@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=SEZXd0hWcUROS1RxcjZrV0VYU2h6QTYvQUNNUTdVQ1RjVERUdzhCVGNIRndFNU4rTWZGcng4U09ZMzR1ZFE2bU1jNVZZM1VhcGJaeHh6ZGcxeVNHNGhKMm5Ma3NjdUIyMUppUmZOWnVaMmZ4ZzFVUi8rbmNjcjNrTFZYaDNFZm5JMndURHdybzRGcFJBUVZxejA5c21qMzM1ZGVTMk82SC9BUG5yTGR4OXJjSkFINGlHNlpNSlpVdkpiMTdLWDNvdTd0RTFrVTJIZmJPUFNsdjJ4d0pjZklLRFZZTFpCdGUzdjVSSFQyejR4c1h6MlkyTmFjUENEcEd2UTBWTTZweWV3VnJFV1ByMHF2NHRYTmdTSXNsNFE9PS0tWThsZW4yOG1NZytXT0xXMFRHR0t1Zz09--49f9a3fa01d251650614740743f888ee1e3cda6c; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftrinity-center%2Ftrinity-center-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

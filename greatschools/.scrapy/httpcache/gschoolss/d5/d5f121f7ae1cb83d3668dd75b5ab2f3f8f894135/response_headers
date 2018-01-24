@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 21c6e0ce-550e-491e-bb8c-8ceca9200dd3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbig-bend%2Findian-springs-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=blI1Rmx2QWlrSnNtOTVJUE90VHRwWGRESSt6T1J6dDZLalJRaHF1dWMrZWpsUWZqN2hvRDNtOE0wV0VwZE4xd01EdE50eGxLU2hOekVRMWQ3aEF6b0REMHJUKzBZRUdwZGlrQ3lSTU50ZHdQSGIrUiswZ3dUcCttbU40Si94R1krSmx5RU5xaGtKUGU5dmhIZ2RnQmNKNW5zdEo0d05wQjh4WXVJakx0Wi80TjJ2VDladkkrYzE0UHhKQi9DWXpLcWpCZXRlZVpNT2hzTzlxZHFFc3lSY2hsVndYMnBKNDRyNWo3TFlSY25hRHZ0dEJEZnl1bTVvcjRBMkw5c1UzQy0tL1VIeFZ2UjhaR3dsNk1BazJrUEJFQT09--83c10a406621927361d2ea35b788f43fea9cef05; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

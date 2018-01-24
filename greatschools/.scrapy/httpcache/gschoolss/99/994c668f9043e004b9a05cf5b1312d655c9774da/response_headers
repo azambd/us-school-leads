@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: aba44cf6-42bf-4184-8659-8822ec8cd896
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flarkspur%2Ftamalpais-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VWhEZVRmZ210L0h1eUIwMXdSSmoycW9iVC9UM2JkTkxGWFY2Zkcyc2h2eW1tZDdlUDVvUDhTZnN1cjlkcWJwSW1UbVhab0lKNEdIRUp3WldrY3VobHh0M2l0TjRGZW1haGE2M0hzWmV1WmdyTGRQd3VXTW5lVkFGUWZMVEZtcUJLelcrNE4wTG8wVGljMXNHZkxWK3NNMWxhdFVvQVdQeFRSZHBwaEhRVlJqU3ViZXdUVGJMcjZ2aWNCdVgxbzQvR0RhZ2FIQm9palZ1anFHVklkWU5TMnRaUzVsK3hkTkgrQUErUy9VcURnTTFteVVpcUJPQkd0c2dOVERMeWlPOS0tVnVoSDdhTmZ2dXBxVEc4d1JnYmZpUT09--4bd7be746a643813c3b31db0777254e9ebb0bac7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

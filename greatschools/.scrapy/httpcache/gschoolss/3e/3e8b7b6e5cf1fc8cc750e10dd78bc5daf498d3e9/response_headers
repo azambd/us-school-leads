@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2dbd17f2-3a9b-4486-8cf6-a0b8c12d534a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Fpetaluma-city-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U0VQVnQrNldpOVpwdmtDV0hndHVoMHc3dldXc29GWHFNZklqOVpIM2svOWFzQjZ6Y2hqZCt6dDRSMkE4OGQ0QmxUTnpOZzJlQUcwZFNxM1BRSGEzZ0hNM3RLbExrcUFpWit6blNhbE13YjFSd000U0RjSEtQZzY4RGN4THJUT0g5aWRaQkNndHpyanZJaUxWZERtdzBORUx1RGh6aVhCQlQ4ZXQrNXhESXUzWUNSSU9lMFZndEJ6b28ycDBjdTVkM1ptNzVZWXNYaUdMU2h1R3RISk5KNHY1b1hwTkNla0pQWURyaE4rTS9FdkxxV05oUzJLUkhOVjRNK2FmWmdRUC0tZ2RZSkJBZCtXRDRuTUx5dEhrZXRMZz09--7719bc1cbe25b920e034d2454a0e684d47ced394; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

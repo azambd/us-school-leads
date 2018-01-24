@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ed69d3bd-1266-484e-8fb2-57a2adcc10ab
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdowney%2Flos-angeles-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YWNBb3pDRTJoS010SnNiOFdJdUtZTmJqVTVQN0R0WkR4Ukt2a05mQ2x3cW42ZEplVkN2bkVxcjUveVdobytiSGlVUGszMS9jb0dXVHQ0RG5VZUc3bC9OclBVcXplZ2RHeCswNGRZZ21zSjBpcmwrWTFDeTBFWTBTNktyZGhISXB2REtEbWFFSFF2OTJuZmcySWdXOGhYNCt3cjBxT1J6UXFBT2ZTYjNkZjd3U0FmLzdYUmxGUXBIOUx2Y0xndHd6anpXZnVFVjh4WTdaUjdtWkxhNVhxQ0hOSGNURUxDUDNSbTNkUzJQcEZIOUU4WU9wSWM5TzA1ZlZ5cEtiaXZnRS0td1REUjJpSHZvSjFNN21vMjg3dzBkQT09--ed61bdc8a469930492600c4dd1cb413c90ecdc2f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

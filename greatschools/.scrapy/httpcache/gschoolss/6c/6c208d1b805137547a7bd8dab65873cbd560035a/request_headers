@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=d3BFU0VKUlVRS0kzQjVOSUtsZkpkMUtKcVh5NFhzWDlZeE9URXZOSkQyWjNNdE1MdFdXWkxjQi9IZ25XRngyekJnUXJGTml6YVF2ZFZnTTEzOWZkdDFvNHo4dGEwK0w5ck12dDZuSkZzcExaL25pV0VaUktpWVY4elJaV2dWUWl5RWFGN3hUQitWUWVDMG9yc3k5cUN0KzNUM2xsRXlPZzNFMzgzekt4bnpLMDNYSHZCKzYyUDlmcHFLc29Vak1ZRFlWLzF2eU1OZ2pBdzhCL2xyWEVtdHJLNXVyN2cvOUFVOGlhZ3RUa092WGJiRS9sL05sZ28rUjlzL1l1ZWNqRlNuL0J3eUEySjVHWTVvRk1URUxzdWc9PS0tc3ByL2VlQ3JwNTdYaUJiZE40SUxoUT09--336eac6dc82ab574b4a2a3ad29df40bcd0691c86; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwarner-springs%2Fwarner-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

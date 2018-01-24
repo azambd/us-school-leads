@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=bTI3ckd0MlRJVGlkeVJvQWp3NDNsUUllSE50T2NiUFdJWXdlNS9VV285TEQ3YVBMQTN2YXJsOXI5eWM3bC9nMUxma0pqazZSbmNUV3NFOXkyNWZCU2hJNE5tM29rVCtPNjI4YXREVC9TSTBGMzV5eitpdHFTbjdkNkF2OEZvYzU2eHJEQ2x6ZENUSkVJYm5NNnVGVTZrZndxWlNzZzJaeVp4WUJrQlcyaFdlakNOT0lQRXpjRHJyZDIvR29oZE14eVh4ekdLRElzTjhwL1Z1SjZwbVJYL0hHcnhlNm53TUZ5czZPY0tUZlRpcTZhQjJyN0k2WFdxNjFaWkNkRk9vZi0tOVVhRUkwRW9Fblc0WmdXaXl0elpqUT09--2c61e18d2b2828218c202aa135e6d66d874942ad; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpomona%2Fsbe-_-the-school-of-arts-and-enterprise
+Referer: https://www.greatschools.org/schools/districts/California/CA/

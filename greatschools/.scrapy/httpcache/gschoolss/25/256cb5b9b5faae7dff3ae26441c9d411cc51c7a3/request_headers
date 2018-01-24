@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=THVTcXVxK05tdHhVdTg3UlVBYWNvMzhwREgxMFJJRkdqVFkxQ3d5T2plT0ZGN3A1akUxNGhZMkJHSFJZWmtXOUJqYTB1ZTJHNWlpYTU3emg4Ylp0anZoU0JWMmd2MXhObUVHRHIwQUNxS3lQekszTVhQM3hJMEsrNk5lbGtxb1FmYy95b2Vrczl5dVVab0JydVZuMzVqcVRGbkFBOTR1enpaR21vVXhhbDF5T0dEbTV3UnpmeThYZWpYMitkQTJTanJ4d0I5SEdqV09xbmVvQjFsYWx2YmY2RGhndFlQTnhWZzVSYVg3L3V6aXlBSTBBS2ZWa3FkZnpFMlY3RWJlSC0tbnFwN1VzU1ozaHc0TzBUUUVtY2lUUT09--6925d06873ca9389a8b42c6051ce6c32fb8c21f3; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftuolumne%2Fsummerville-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

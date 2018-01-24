@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 323593b7-3367-4058-bf53-425540f658a4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Flincoln-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R29pZDl3TEZRbzJwRnloSnV2M3JCUE91Ui9tNXZFaEt6K2xHNWVCU0JZOXhkdW5wK0hFUjhkVmJJb2FHR3pFdUVkSGRPVGlkOFFLaStnSC9pbEJYN3BmUGpoL3E1WXU3ODgyemtzV2xOYWdjSzRwems4c1A0TzJGYS9Mc0JSeWdKdUY5WjhzeEVoNGgzYVEvTTdraVdVVUZ1cVVIUGs2bVlGYXZ4TGlpeXpUVlZ0eFAvYS9kSllJQjVXZjdpYXp3cnVDOEE0NkhPTlNpMWNzaFlWbUc2cGtDZmREMmZTS1J0WGNEZTRkYys0VzNObjlvUVBIRWF1RkIyandtOHhacy0tZ2VzWlJTZ055Y0RvNEY1M3IyMlhnZz09--1dff1b21f5eed545fa627a77d6f2a5a3aa6f699d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

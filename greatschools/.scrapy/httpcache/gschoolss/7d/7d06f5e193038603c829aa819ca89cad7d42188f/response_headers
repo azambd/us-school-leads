@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dd648b17-62de-47c2-8999-7b79c3483321
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-marino%2Fsan-marino-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Zm1lVlBCQldKVkF5N3dSMGNYVS9zaGFwUFZkRHMrT0xIVWUzWGsyRjhrYXpQb0VQbVF3ZXYxbGJxRzVxTW5aemV1VXF0TkpDMmJ3dlN3WnUrSW1kYitCZkNwcTVSTEFYeGtQTUNoNGJRMFB3Y1hoYmcxUTNYWDhLaW5IZlQvaVNGVTN3TlF0MmxpN3dUZnVaZUsvUkltdWRLaUtlZU9GMURKTEJnb1BMZTdRWWhjKzFMa2pFc0hYOWhZd3dIdVlwaEt6MkZ5MWxycWZwTDA2aktyOS9meTBDUmI5VktjeTVHRXRsQzQzUVVRVnJEOHhpTHM5V1Q3UE52bGw4Y1lyenB1TitOcnlRNng4OWdxVFczbkpZMkE9PS0tdnZ6TTNiZWxsaXFycFR5NUlpVWlYZz09--4923d0d37dfbfe4b00dad97ce572a7fbffcca434; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

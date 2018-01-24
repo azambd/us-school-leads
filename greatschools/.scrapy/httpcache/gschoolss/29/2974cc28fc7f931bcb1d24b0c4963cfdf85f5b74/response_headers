@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 99cf3ad7-6d86-4450-8fd1-648b113c88e4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpenn-valley%2Fpenn-valley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RzArcGhGY0Y3VlBXU1dZNGQwT3djTVJaeE5oN3AwZG15ZXo0OGhBV2lrbHN0MTMzcWtiRVFoNmtCdjJrWjhIdUFSUHloVUNTMXdIYzZtQkQzbzVMcTBzNFFZN1BjTEIwY3VlV2ZUelVWbGFIRS9sZDF3SVR3bWdEOUphazBqQjJlUkVLY3hydFMxSlNoU1Fuendabk9SdnQ4cVF2R2MrVlNrNEJqTmNYb0V1ZldVcFFHc0NxMHdUVDBFdFNNT2pBdzcyaDRTb2lKQnUwVndXWVNsNmVHZkRCMnJybkl5aHFtaGJaUTkzbFFPN2hCV01qb1M0TjdzQjNsNDVDbE5hSlJDVVR2NUx1OFllK3F2bVBxYlU5aXc9PS0tT29Dbld3MzNNeDVzWjRwOEYvMDN2QT09--0084ae72f77b8730930a6efa7969101947b4190c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

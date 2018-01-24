@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d8fb3905-92cb-4629-8fbc-ae2dfdb35702
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnorco%2Fcorona_norco-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VVNtbXNxYzdnd1IyOVN3eUpncXhuL2QySDhmMDR1T1FrbDNnaDV5VURDb1BScW8vdmpHd2o1c3UyR0J0MWhVYWx2UE1zRDB2ck56UVZlejgvbmZCYW42WFI1bEhTbVVkZURacm5wbFFxVjVsRUJtZ2NxbkZVeUpGNU9zQk1Rc1VsMnlUbWhBaHp1RllLdTRrMndQZ2JxaEpLb2RRV3g3alVsNDFvRk1XU2dmWHJ0ZFhiWkVVUUlBMkxFa3hhRmJCZ1NPRFM0UEJJRDFrV2VzSTZlSFcyMGYxY00wbzhWelN3Y0VoUzZRZytwYXFVZ3BlK1BzaERZSklqdnF5cEFwdy0tOTJueVo0YUFuU0VyMmVQWGJCblFXZz09--4bba10a32a206b5b5ff4c21ea87458ebb3aa34bb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

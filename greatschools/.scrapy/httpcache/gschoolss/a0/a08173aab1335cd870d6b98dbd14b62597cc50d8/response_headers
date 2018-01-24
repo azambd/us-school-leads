@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d9ec1c2e-2a30-4cd2-a8ec-a52a193376fe
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbradley%2Fbradley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Wm83TjBhOWJ4MSt1ZXpjeVVvdXdCMGRUQWgrbzJQVzRQa2NzdDFFR0oxTjdiQWltU3dOZ1ZWNU8vdWU0UlY0TU1kWGhObEhpVVVLSTJWV25NYkROajR6dlVzTzJiNTgrN0JjZjkrR2xPYjJ6UWdCRGwrQS9sVmNyUlNqQTNTMHB2ZVlKWGRMUy9QZk9oaFBtdUNuektCd2toMnBlTUZKcnN0TkNsZ3NQWlJ6YTZsT2F0WDk2MXd1Y2pDN3dmVE10UDNxWC9OOFdTSEU4SkNoWXlOL09LZDVZd1dGQ0w2MGlkNUxVM0U0OWxBUFNPbmFyQ1pYQkpUUjZvampkL0l6Ny0tWWIxa1Ryc3FiaHRNK3VXcHZndkRkQT09--645f9fc8a298b22c1c8420b59be0533942e459d4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 30d2e936-0701-4d36-b2d8-bec0d6ef88b7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-cruz%2Fbonny-doon-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SkFYc0FoUVJVNDZlcloxQXBldzhBbTcwUHVWOFVzT3pONHBKMXBJaHg3YUZ5U1ltcXlmOVFJNEFHeDJzUmhkdUJraHI4Y3ZkdzdnOVcwTTM1YVFDMUZ4WVNpRFBLbXN4Q3FNMXpKRysrcFR4RnRTYlUxRjYxMC9aUUdRODExSS9JRnJGbW1wVzlyRjIyL0xWaUJnZDJxa2JQbjZFdU1Uc1hSRzJ5Z2YyS1FYSjJReHNrR2NGQk5sTFV0V3hmZndUbWIzaFZUd1pGZkEyY0haSElDaFVRQ3lIN2RmamhMU0RRWHNZcHA5Q05vSXdUSDlucWZUODdOek1nWUMyZ29EL1FDZk02RTAvM1oyRmdyS3E2eTNMenc9PS0tYkEzcFZvN09va3Rkc0l4NVRJNm80UT09--138a1c3c8d5ac3b62238211bafc2340e6a82f68e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

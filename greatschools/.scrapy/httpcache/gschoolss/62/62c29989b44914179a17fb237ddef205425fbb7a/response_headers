@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a201ded1-3976-4681-8c49-697a1bd76c8e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsutter%2Fsutter-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L3hLL0RITTBnNTBhbTVvR0R3TDlTak91aVNWRG5iYXJkWkJJZHE1cXV3R0JKaEdsRndPbzZiR0xyZ3lWRU50TnpNNHE3dTFQME40UngwRUlTQ3c1TVRUeno4bVV2OUFNMkJtQUlVOGExUHNHZUtLbEljNHZ2Nmx0RE1lNkx5NHJKWWFjbmttUTQ3SU1SNVJIbnFYcWpveVRPSjZxU1UwT1U2NDFjbi9NdXNyZXpubDVlOUY0ZXZnWG5wK1VUdXovTFNaeHdHM2laNnR0Nm9mck01Znd1V29EYmtJQTNCb1dNNFNvY05TU1R5cmZSMWFKcnozUWFQVGtZMTJOT2tnbC0tMDJxY0FpekVHeno2UUh4SlYwZGVoZz09--af64afa49a5507960b2b87179c692ce6a3eee647; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

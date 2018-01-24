@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 755ea541-3f12-4c06-b1d6-18aa16ff0cdf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmanhattan-beach%2Fmanhattan-beach-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NTQ5ckRMK29relJvVlVFWVlzRGJZaitZOFZVL1dLNWZwdEhtUEZMeFNzZ2Y4NmZzazE2bkNaRmRNSWFVYmtvNHhUUUxDcGdnY2l4Z1E1MnRvZGZnREhsTnhmTStnZ200eDNXZ3U0by9JZGtZekU0ZDhRWVVwV1B6R01EU3poU0JaL3FKZWZKaWVhYllsMkNXbk10a2ZFekFWN1FVenZnU3JGYXhScDMxQU5NcGI5RW82NVpYTURWdXB3STFsWnVLcythWTNaOCsxcHYzRmVPNmJ0cHJpSEZ1Y09kVHQxQU9kc0JiYitYckQ3SzBXZGRIbVJrL0NiSy9XYkRwNkpmd3dLWXBGeG1VS0dyR0txSjVwRjVpL0E9PS0tcUFsQmJGRkhlUFNMdFhMejN0RWl4Zz09--84b5741c7c37cc235d9f54dd8e58dcf9276f34a1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

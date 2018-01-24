@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d2853dfb-891e-424c-865c-faeaa116a384
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frescue%2Frescue-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Wk1NYkVJRzZBT2dZOXFmTlh2dnhRMHpsbitnVXljUk9jZDF3Z3k3alpFY3Nub3h5V3IvQXFZRGNxb0NNNzdjS3JGWmpmT3dYL0pjYmhBbkd5empJN3M2eG9LUHRDTFM1R1R5bjBSN1lKejBGTm1OMjNKZjVGTzY3TTNKa0ErbHhITE5mOG8vSUVkRGY1d2pEVVUrWnpuT25DaWNZL0JoODhaN2tJRzFmY3RJUW9HZ1FINTIrL1Vkc1dTcUxnT3p2VGFBZXphcmc4ZmhWOVVGYlYxQTExOFBibXY0QTBzUG55MmY2TG8rSkh2SU04SEhPNjJDRDFiMHJJK0hDRloxbS0teGNTL0dqK2M1NzJQYWVnenpNeURWZz09--6f1c86628eebaafd6156ce69739e073e152a4868; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

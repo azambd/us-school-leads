@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d4797f95-a15e-4b68-a12b-1a8c4688ee40
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-covina%2Feast-san-gabriel-valley-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OENRUUNBVEJpN1hLenpJaEUzL2lrMklHOTByUmZHaWFXMTIva3lwL3NBMis0RGJSZnJMSUxLN3BjWUNWblh5OUpnMjNCUGtFallFVDRDMDFYOE5IUTNJRlppOWU3TFV2cVpsSU5manZHc1g2Snp1cWNLZmtVQmlLZFo2NmpGV3R0RkZrRFNRcTVGTE1MajNWSE0vSGJyb0hMalk3N09Td1VHbUxWM2pWSjNjSGFJeU5kZFI1WDI3cmY4Y3lCWS9mcFE1RWhUT3N5ZGhnWlVqWjlPZVQ0VmxGUzBkS20vaWxHbWgzZHdBdHBQK25YU2VkWmg4NzljZk1KdzdpRWtpR1pqUWc5ckJyek1CWGwzdWY5dmF4eWc9PS0tYnd1czVLVE1qRVNTdHMwUGhROElMUT09--0e4e057f4a0fbacfa5ea41b0e3515a404c6baa90; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

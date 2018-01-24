@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4fac3d22-53ca-4210-bdfa-ad3ac2aaae9d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontague%2Fbig-springs-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RzlFM3hZMG4yZ1lvMk1FbzgzQVcyYWtkSWhCTFlQbUZ0RGttYkFGeDB6SHQxaWlSYVJCcUEzbnpYNmQ0RUd2RWxKaWRZWGphUitXZVZ5a1d4Ujg3NE1ibG9scGdBMmdxL29JQ0ZVcWZlNkR2dEpxNEp6T0tYeExYcU1pb1JKM0t4VGtLcjdzUGtsWmpFM0dlSWpyZlErSnVGaktldnd1RnU4WWpKTC82SHFjMEJkMFdMZGdsL05NYTY3cEMyMzFhMzE3MnhLOXV3cVE1L3EyU2d2YndCYStzSUZJd3JpTW9YS3NtV25IWDVPOHUwM0VFV2N4TkNDUEk0Ukg5VUxjQy0tcFB0bk1GcDRJZjhtS25uZ0F2VXVQQT09--cb562a4ea65a3baa8802833ef8f4bf5f53408cfd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

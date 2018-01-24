@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a6abcb42-3940-4644-b119-faa17a6f1344
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fthornton%2Fnew-hope-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=djVla0J4dUptQ1lVbVcva2RrODFYekRGVzNZOWxkbE5aSi9HR0REbE0xL1ZsR0RjVjlBVzZjOU5oM2x1SHF5b0xNdDUwekNSTDc0SGFYYTZEbzNJU1V2clhPTjYyNWgyRGlyMm5XN0VCd0k0djdOOC8zczRPM2E0UCt2QXNESmZEdkFlMkRNSGZpUmRPck02SnZsclpNNUhaeUpZTUJkWUEvblgrSncvNGpSOW1SRzFmdjVReFF3TktybjlJb0Y1QzM0NkhuZ1U2a0xCVU9SMlBvT0R3c3FJdEFJdDlpZ2lXRk1lVmcvWDNMdDMzMTF3WDRGY2ZhU3dHTlV5UzhvKy0tNHRkNFo1YkI1a1QzSUhqdFJydWNpZz09--557c3a8c3e99a555ce808b41d0dca1eca2a138b8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

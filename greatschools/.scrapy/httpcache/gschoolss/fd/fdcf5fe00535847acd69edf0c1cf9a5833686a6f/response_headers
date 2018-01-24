@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9d0f2bc0-7403-41db-9d3b-6ac577f5fa60
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fweldon%2Fsouth-fork-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SkRhaXZjYjcvbDJRVWxFSDZMN3VVekRWbkFRK1h2RnBTV2c5S1V6TUFUS1lha0xFNWp2U3dlU1dRSVZzY05Ta2xnVUpxNFJIemNCNVpicXVqR3pKOEp3aE1DZmpiRnI2M0dkV3ZzV0xwdWduS1RTMUkzTHNTc01jUjdvd0lZbG1Ga0NES3NCSHVzcXJQRlNTamkrQmkxbFhPUTB2S1RDRnBJVnAvM1AvZU8vTjBwczNIQ2gxaVhla3ZPVy9rRG41MDdxbXhEUVN6cVIyalM3Y1dxNWxHYmFBZkVieDNDbVlMa1JGWGQzL3RPUkdyVFRqaWtic2FKY3d6ZmNxampOcy0tNzR0dWNXcUpFdkhwcGQvOTJHTUJsUT09--eb3375dd9b05a1fd948bed1b8b751b9d1ff863af; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

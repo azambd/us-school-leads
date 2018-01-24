@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 50eba513-8dda-4895-9f72-0c5ac0a37d24
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbenicia%2Fbenicia-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dUJYUCs1Mkw4VXF5cXh3bFdsMTN3N2pvdkw5QWJFY3ZyTVQvVElzM0Mwd1BTRUpBbW1kbkM2ZHlhNVZLdmFzbGp1dVVmcGF2UVMrcTVnTVJxVTJtMkhkMXBxWWt5SksrM2IrNVZDK3B2SUVoanJaSkx0bktnYS9yL3NhMDVRQ0xkSlpsODkzZjA4Ky9TM3VEVHdKUFdnT2RUdzhIdGRESGR0MmF5VG5VZFFaeVo5ZG9sVDQ4NkIza3Y1bkZyRXpZUmd4SVJUWno3YklZMEgxR0V4RndLaDVmaEMxaFZ5ODF1akpPSWNGQnQ1N2dZTUR3MktKbjNuaVNzdXk2aFAvYy0tYVRObGQweXMwRTBNWGtCZWd1c09JZz09--0b289127513fdd1f410e95f1e0b15745d6f0a5f5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

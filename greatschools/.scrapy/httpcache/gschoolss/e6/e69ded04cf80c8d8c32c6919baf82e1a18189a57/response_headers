@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5b0d2787-15a7-4fad-9232-bd528d203a6e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Frosedale-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UHFHSUJSNHhOSHhwVWN3L212V1JQOUxZRjlPdmxCWS9ybzd6M3V4Z1phOHFwOWxlYjU4dmJCeWdUcW5VWFgzSDgzS0NDSXdmV0swQUNyRVVOZXBCWUUxSnRpL2RhRXhEOWE3S2hMeitRN1pDVlFmVGRuUi9QZHFpU1RTZ2l0Z1FnNmd3eVpGejZTTC9neGxiU2JoaU1uRGNGUTFwdEtNMGIxZTFZYjd0a1JBTm5OKy9oS2wzSXFwdWtreVJMdW5TME5oend1ZTR0bkdrOGM1Y0l3UTFEdTBYWVliV21PWmdyMEsyWldlTFVTcXNHSXJUM0dZNnFXbGkxbTFyOVE2RmpMeFo4K1N5dEdDdDRUSE4zdzN6U0E9PS0tUFJVcWNub3lvNDFobmcybTZDZGNHUT09--48dfbac9035ca4017013daabe5cad375f884cf91; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

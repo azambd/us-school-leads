@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d22c8fad-e654-4ecf-a978-f526c54b7602
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcorcoran%2Fcorcoran-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aFFDRnJITmNhZHVKQ0NuZ2VJOGtoZ3l5T2RBQ0ZKbXc1VUU0WnB2ZFA0UDQ2NC81bDlWVVBFREdublJWNlI0MVBSU3pubkFMNURGbEdyMmhCK05uMHNPQjZyeHd3a2o2MjE1WnhIUnhnamtodkxBdDN1UnVkajh5dDgrVEFjZU5hTm95L3lVay9lQldzL1pRaWJnN1VXNFo0NndESEg4THdaQUVxZkdONXdHYkQrQjNoS0pHcTdqekZVMlJmSm42Q01DY0tpYmtINVdhQ0NXKzZsNTJSMXZkT1l5MHEyamc2VEkxSTNiWUlyVXgzTzdBd2dIbHZ4SUkyY2VKK0xUUS0tdUIraEd3eTE3RUQ5N2tjL01QanR4QT09--a703b46060913083c22024739d6d7fb4dcd89bf4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

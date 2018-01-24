@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 92737a66-728c-4d73-aba4-082bf5758dbb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-joaquin%2Fgolden-plains-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q0V5S1R4YytTOEkxcUVVZ3B0VXB1UUZyUC9td1RjTjBtUDRqVERuRkh4VU9YaWI0djRkdlRiZUIwQUdOaXU2cm0zTk53Wmg5ZER2KzZSSTdSeUpENEpwd1h5RzBseTFTbTVoWllETit1WlBaNlFCTWZaY29BSEU2QytEa0lscjNMU00wcjBqbVlRazRPMjZKOG9Vbk1ld01QbzdBcFhRdUdwQjJtM3FxRjBaamtSUVRnWkQ5UGRvd2NxSmRES3BjQmxBR281dGRGb09XTVpwUVBYY1pxeDhUTUFYQXYyb3dNdTJtOVFLSWNaaStDd1g5S3dyZmYrOHVPVS9GenRSc1hMOE9FM3F5Z0lMTlFvTDYwOTA0b3c9PS0tNjgva3dtdDVqWFc2V3RZRzRnRHJsQT09--72a8f1013ec936b15d99028d875a951862446e8f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

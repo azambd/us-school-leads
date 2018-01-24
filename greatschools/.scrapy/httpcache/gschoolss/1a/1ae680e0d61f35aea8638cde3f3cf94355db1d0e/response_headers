@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e4095605-6147-4b83-b423-490d01291926
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-marcos%2Fsan-marcos-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aEI3R2J6MkVsMnNRUG5JMnozc0djNDJ2V3VITHplUnAwK0NFemhLZFBKT25VS1JUbDZFMGMvWkdwRG8vckp3akMxTlBVUTVVQ2kwZHpEb2s0ejlXeVdrMmpwN29Udlp5RTQycHZpL0xVV21wMm5ZNGh3OE9MTTVPZ2hNeHB1aXQ0TSsyNDIvM3ZSRzdSS0tyV0k4czRtNGZtRFNZZWIxS2NCRDFjYm80Q09mOUR3RGw4U25NYW5ESUorTjhGZEViVEtxSkNodHVJa01LT1hZdDA4d0J4ZFBVUUhKOW1JeTM3ZWxXcnE2L2lBSU5YQWJYbmJRZ2hCSTF6M1h6enRsTmNzWUZDY3FrKzY1ZmlxRi9oWnA2aUE9PS0tWmNuenVPUll3NEdGVThpMmhkZlladz09--9659aa592318f9f12f2ea44987527c2b83005b19; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cec4b090-93bb-4c0d-abb1-97ed574e3383
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fkern-high-roc; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=azFrT0plSzdoY1RTTFhMeHhORHpEUTF4UGxFVlAvZEtpZ1VYRERtTU51SGdmSjE2Z25pakVNM2NnVGJlNlJmZGIyZmJtWHROeGdYb1ZvVTJmMmRDK3hvRlVKVW4vOUJucGh5cHhzaHRDd1FaUTM0UzVGcHZYMVdHL2RTL2RNSkRIRG4veFlncTdjMWt2Zm8zei9pd0xWeWVtRktQR0lUbkJzQm40d0hvSWpYVEpkbFN6OHh3OHFCa0NabHFReEdJQTJHby9DWlZXRTdMbThPNVpkNFZVTCs2Qm1tdGZMb0ZGTkF6czE0OGpzdE9aaURXUmZtUUZnVkRmemtzcHlRci81dm90N3hVVm5peDcvM1VSRUp2L0E9PS0tdGJzbUZIMm0rQzVJSnMzWjhHUWZkUT09--a0564cfd2043cf19b4212ec3d9eec4762a800615; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

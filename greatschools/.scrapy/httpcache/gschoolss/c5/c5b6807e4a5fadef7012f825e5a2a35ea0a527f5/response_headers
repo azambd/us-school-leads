@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5ee2a7db-7025-40bc-b6b8-509d16883d46
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flemoore%2Fisland-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzRIUzdIend6aHU0eXJaT3VDdzFrUWluSlJNem9NUlNXZHBqQ0I0Y1lLRzM2WDZLVjlZcjB1eDlkVy9CaVAzNXlaR0dMeDRSOHVsR3BVang0SU9ZWVZxTGlQUUZTRTArU1lBQURxRmZtaGo4a01iRDFNOHF5bWNZUGIwK2xPcEFmSkZseEhFd2FSMDhIZmlEMTc0cnVER2VsblNCUW04SGlzdXI5RjlTM2Q2cHBTVWc5WFg4b2hIRkh0ZjBKeE9xYjNEZ0RZVW1BMGtFNThNWEs5aFNLY21wQ25EaEcvQWREWkxDRnpwRkxFanBYaU9JSnMrTUdjNWNRN2dXckxmay0tZUFBdWZGUXIxb0ljK0dCcU5nelp5Zz09--5fc168fc289092282385efb70b57694a5955245d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

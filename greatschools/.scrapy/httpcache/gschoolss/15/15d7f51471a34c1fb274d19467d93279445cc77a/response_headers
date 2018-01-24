@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5b73bc04-f704-45d4-b74a-8d47f5cd6905
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredlands%2Fcolton_redlands_yucaipa-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MUNHTzB0eWxYc2FFVnRDZ2EwN3JsdlNkNW5PNU1sUU5qTG03em9EVHVSUXkzMWFwY0JNV3ZraW4vTGFKL3oyOTRaNkljUE1OTU5SYm5zYngwUXFjNDB1OExpWElzWVVFNHBla3lNdWs0bDF5MHR1SGRNbTRzSExEOFlKOGZtNkVYaml4c1FNcm1tU3BhaWNUUVphNzVVQXFsdG1HSHYzL2oxZTRDTXh3SUJsN3pZcnJOb3BYU0dQZk9CZ1JlYlBxV0pmeE5oZHdkZm1heldmWmFGZFlRYTVwc2JDWEdaeDN6M2V4ZURuaFREdm9iVlVtRmpwb0pkdk5saEZZeGV5Yi0tN1BHWmZQemw5YmNaWnNBaldBVEFlZz09--a33ca4a78cb58149c61c489bf90192edb62104d3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

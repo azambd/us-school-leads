@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c6831b82-d322-4237-b7a8-042d7e12a24a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fangels-camp%2Fbret-harte-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UFROU0JzMnJQTUlDd3lBd0FUb1JyUitjeldiK3lQT1pOWmhLTHFoRG9WTFpKOGQ3dUlyWXdTcE1MRHI2NnhIQU9hVUNxT0FaTmZDYlljTGdJMitCU3dOM045bUMzbVFlZ2V5WUdQdzhJaXdsM2c2T043bkRHOGY4dDhNdmxZZVFtUUplR1F1WmZPVWJmUlJBREFFOTMraDhnaUNWTkpRQUx3V0hvY3dtYXpMcmdOSlhjV2RXemlzSUpISS9JcnJHemM2T0pRdWRsMW55NmFIbHBDckhKMGxrUnl3b1Y1VFloNkx5ZHcrMml1VDhJY3FFSnoxVWhyOVUxcjBvMXZPdXdGblMyQmRnSzRQTGt0V1Zodzc4MUE9PS0tRG1KNlZpTUc0b2xGYkhBcVRGVHVBdz09--77b6fd42727a8e1c8c28888213f8d6e6480ff4ca; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

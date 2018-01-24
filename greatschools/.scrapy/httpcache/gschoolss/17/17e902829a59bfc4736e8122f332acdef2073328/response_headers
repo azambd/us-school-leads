@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dcdb52e8-6d54-43ce-a592-679363e3f197
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodland-hills; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YlpaRkp6bEpkY21uNEhZZDVKUDZ6NG9LNWV0UWpUdXVPbmlqZDRSRVkvT2hVREN3UGVveUdyaVdCTzBoKytvSFlpNFExT04zVk9tUkxobE9HTzAyc3RQVmVhdWxRZ0kzOEIwVmRVZDh2UWEra2lCK3JoVXJCMndELzFFWVI3Zjdvd0VzWmtRd3BTb0R0dTJNUDVaRkhsL05RaktyQjZjYWN5enc3cSttUXViZGh6dVJReGxsUkZQTU5YL1VvaGRXWGEyek9Kd3lmblJEMXBzelJKTHdIT0hMMWQ2NXBNanhxYUtzVTF2Sjd5Zk5EUUdKeVZCcXphZk5QT2tZd2x1Nk1USDBFbWVQc0ZZSkRNU1pQZ1hldk1pbWZsN1FRcWMyUnZzMU41bTNKTngycTk5MVhpajg1Ym9pU3M5ODVITHVyMm9nWVVPZnA0QnEwUkx6aFc3ZnhsYmhwQkhiNmRzVG5ONmw0bTZOVUpWWHFzaC9aekVQMlZsK0Z6MUF3U3A0SjdUVnYrbC9tVDFTeEg2ZXFkSFJodz09LS1iU2xvL3VQRW1LcitUVkRzU0U3d3Z3PT0%3D--39fa2bf1c27a3ece166d1f8658b96ba5be9505fe; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

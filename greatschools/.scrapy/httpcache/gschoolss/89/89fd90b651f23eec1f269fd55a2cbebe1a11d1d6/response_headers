@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 902d9447-0f88-4cfa-b6f4-2fd69d322d8a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-banos%2Flos-banos-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UkhPTGlhZ2ZoYVdFOGIrUmoyam9uZEp1SUcwY25BNy9OeDhhTE5DOVAycUR6dm5xc2I5VVNyU2dZM1RzVGRXc0hPaXNJL3IwSmtlSG5JZVBxLyt6RkZiYVZialliNVJnSzVKUFZlRHhuS3dZOHVEdlVPUm9uTGtqSnJnNTVhNUE5L08yMkJtYVI0ZXhzT25qZUxXK0IrQXI5UmoycFJvUFhMNGRBdjFwR2duS3pHMUYwbHU3Z1crQUMwYmttZVNTQ2p1dThUNkxXU25RZjkwZlBjMm9sKzlVV2FBaHBGcDA3V1lsUnNaTFBhSXV2a1VmRlc5dnlSM1RsQ0FVN3VNVDNieTZkMVd4RjU0cFpGMEdyL1dzWlE9PS0tWkdvdGsyQWl4YkJkWUMwcHMrNU1Zdz09--821ec1c3795fb39e2d1a88f09361e614226db2dd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

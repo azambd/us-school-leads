@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 879713a4-11b7-44ec-9a40-3a7e0677a602
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foakley%2Foakley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U0F5djc0UEo0TGM5dzAwVFNnQWpBZ1d1eG5qNjVpRE0yT3RCa2tiL3dJSnBhWTVlZG9DdEEyRDdrTFlHQWRjUDVUL2NvRGNvWVNYSStIb3pLS0g4cVZsbFlPcHF6UEMzSFRNQk0rTFhXM3ZIOTh4LzNPekpCcHdpdDEyZDVJZlF6N255UXhyZXl0RkZ5SFhZOWYwT3pGdm5ERWd6YUxGVmY3WDllQlpRMFl4QUJnN3IxM0lzWmdRbWVJZ3FYYUVEdXZ1UndvMVgrWFRuV003L1U3Y2llRUNucE4xQmJYcEtaSjloNVU3M253aVoxZUt5d2l2NUljZndIU0dMbUloWi0tR1oxbDcvVGQwVG50SFBwdzhZVTlXZz09--70382439037be7d4384cb7902bc25d674a59ef01; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

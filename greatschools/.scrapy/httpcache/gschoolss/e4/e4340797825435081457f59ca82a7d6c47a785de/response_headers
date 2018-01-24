@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 63cd4ed6-7504-4d5d-8d2a-2b939bbd24a3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftrinidad%2Ftrinidad-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U1VRRVA4UHBocHZqUkNvcEh4NllEbnR6MGdITlVpc1FFNFp6VFhxMTJqcm91TGhoZnNHZnZuTjBqam9SdlBTQjVudnRaR3lJZk9kY1hXTENqZHJISnV4a0RYandNRHA1aTFVK0JBTTh3ampkazVvVUlyamFncFh6aU52L0tPQkJpZDh3NzZyQjZqZEFFZUZkVzE1V2svM2J3bDJCOFhNSjl4SW5JS29Id0JlVSs0RVk4eVdHYUIrUCtoa1B6R1kzTVQ1Nk5KMndKN21hc3J6cFNkSHduelhjWUM2dmg4UWRyd1M2YnFMaUVYYVZsY2Z4OWtHMVBuZTVPaGxvNnY5VS0tMjQyTUxhSHBpTGQvOWt6bWRwdUxhZz09--47cfeb829bfb74da56ad6e8b0bbc4a6a3233948d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

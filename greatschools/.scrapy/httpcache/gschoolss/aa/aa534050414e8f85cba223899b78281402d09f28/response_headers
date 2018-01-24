@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3fd7e0a4-d2d2-4be3-b5a9-97bf96bf55ab
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffairfield%2Fsolano-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SENSTlBVdjJNUXMrdUUxRDI4MWxZdVIwMlluQXVwQ01TUkhXRGZOWmlqbDlRdktCZE83eFFNUkJldmpFTTdOQVI2cnVhanFkSmdWUkkwc1dOVERoOGdRMDhkZVFoby9xWHdYQTB3eGV3ZThhdGpNVHFlc0xZTk1CNVBKVTgrdUxtQzhwZ2F5RVFlUjVRdmx2dlFSTmNqT0syaWZsd0lnaHNvQjU2Nmk1TWQzUkRBcXRlT0FNTzhLNjBXQ1JmN2ltbUZtbE1JRWZLT3JOUDd0bG1icFBkeFVTNnhJWGh2T0FiY1JqeEk5TURmT0g1MnFuOHUwR1JKVCtTaHNBMlc4aVVPVlFsRC94cnVhZ0VMWjJMVTRSbWc9PS0tbVJreWZ4NDJzdWhjL3M1NkZDUjdyZz09--0f48ed5664ff219f2ea1e61feab9a35e279d4500; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

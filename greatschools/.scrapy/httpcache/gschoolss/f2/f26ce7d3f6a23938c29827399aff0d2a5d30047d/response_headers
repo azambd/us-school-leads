@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1f843ca6-88ba-4977-9b31-8db4ad1ddb60
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsusanville%2Fsusanville-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eEpaVW1iZ2ZoQmltUDRhYi9lblFtbU43R21ORW8wNUxmNkZXMGN4WENaZVNpY1U3bEU4K3pCc0pZcjR4UlBHZytHTDFhWVpQdjZGTjF0VE8xK0VCS2FHVW1BZHJ4TzBxVkZ2NGdmbEtETE5uUjVlQXl6eENGQ29WNzRRSUxhSXZVeDFEVGlqdTIwWmRiS1FHU2N5V25TNFVROVJPUnFLRHFMbmk2UnhKOVFiVUpUTS9pK2Q3MlVhMXpMa2pQdTRoNXdJcURrNEhSajRpSE5vRnQ0ZTYxb0dic1MrL2dzRW9YWndxSU9LQzZoNGVscEtuTUdMdlJHSlQwYmlYOFBCdzl3ZE5MdWNOTnU0ajFVRkNvZWVLaVE9PS0tR251c2ZaczNRendTOXFlNXlkcXlEdz09--71279d3acd120aa6deca562ed4bd77f7f02ec4ba; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

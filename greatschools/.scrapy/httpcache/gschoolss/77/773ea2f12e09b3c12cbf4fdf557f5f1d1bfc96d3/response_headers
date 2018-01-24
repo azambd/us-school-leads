@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 3b616980-0868-41e3-a2ce-82e18195c678
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsantee%2Fsantee-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MUZudjFQRnFSYml4MnNvb2FsWmtHVWdiNm1oZDRuRjFEQTZkSHB6ZDFBK081ZE5oZzZyemVSZ21odUlTaGpYaFNjTlk2UkpUNk1iTkpncGNDZzRQWkpzUmlHOWMxOUJzY3FQWGlEV0NvbFoyY21yY25SR3ZKOXR2V0Y3ZWErNzVqc1VnaTFISjlXS1pKNEE2MjhDK2MvWmZvM1VyRmhvczRPaExyRFpHdVNzYkh6WE9DTzVrdysrVEdtcWNVZ0ZqV0oyajdyTWdkT0RDcGJqYmdFTTZ4S2Y5NndnTnlxQVNYS0ZwUmJPcTNOUnZHN0VBY0x5R0E2K2dEb2lsRkgydS0tMXVMRmNSVEIzMGZMYnZIV3ptWG5XZz09--3c7a7b2fe2bca067c73a9b356084785c2fa8f86d; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

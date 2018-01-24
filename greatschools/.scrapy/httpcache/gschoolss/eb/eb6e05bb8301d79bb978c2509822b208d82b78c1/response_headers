@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 190d8fb9-8802-4baa-b753-ce9a3d697022
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpomona%2Fsbe-_-the-school-of-arts-and-enterprise; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bTI3ckd0MlRJVGlkeVJvQWp3NDNsUUllSE50T2NiUFdJWXdlNS9VV285TEQ3YVBMQTN2YXJsOXI5eWM3bC9nMUxma0pqazZSbmNUV3NFOXkyNWZCU2hJNE5tM29rVCtPNjI4YXREVC9TSTBGMzV5eitpdHFTbjdkNkF2OEZvYzU2eHJEQ2x6ZENUSkVJYm5NNnVGVTZrZndxWlNzZzJaeVp4WUJrQlcyaFdlakNOT0lQRXpjRHJyZDIvR29oZE14eVh4ekdLRElzTjhwL1Z1SjZwbVJYL0hHcnhlNm53TUZ5czZPY0tUZlRpcTZhQjJyN0k2WFdxNjFaWkNkRk9vZi0tOVVhRUkwRW9Fblc0WmdXaXl0elpqUT09--2c61e18d2b2828218c202aa135e6d66d874942ad; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

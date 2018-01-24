@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c344a085-69bb-4df5-8ef3-af67889eaddf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Fbuena-vista-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y3pSdjEzczZLNnpEbUNmaS90amdudk5TU2xkdllsMzkyTlExaGJNbTNxcTRFZkVxNDd5MlZSZzlWelhBNDdHUUl1Vnh4WVIrZ1ZJY1dzdTFsdmp6YnZ6NDFUbFFkdnpzL0RZSjkyNmMxM3lObkY1SmpuYWNjYVRWc0ZKTTR6RzlpQUxRWGtST2UycmxkcC9GSG9HR3haNDlTRTI0bEVpVGJuYmJpSk11bHpFVnJpS25XU2c5TktWSmNuMFJnNkxnbEh4YjBzUW1ibmI0Rm1VemR6OStHOEZtakU4TTRxa3JuWmZPQzJiejdKWnpRd1llN0c0amcwc3BYdGh5Y09rbi0tdUs2cnVmdXlDVHJkNVBVSUkzaWE2UT09--5cf091ba5304e107fc1716567413e6fbb33907b5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

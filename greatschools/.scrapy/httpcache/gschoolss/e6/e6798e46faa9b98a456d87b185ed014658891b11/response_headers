@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 98081248-75fd-422e-ab39-81cda6e38397
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Frockford-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RVZjL1lId1ZKSE4ySkNLZVFRNnJIOGl1eFBjallnWFQ3a0RSS21VdUtFRzFUdFpFRzZGV01kclZsaUl0UGx1bHkyb0JOK1JhNTUrRkZ2UGNYNVQvRUtHZDhnSHhPNFF6dkJncHhZM1ZHN0YyMG15OVJwOGFKcHp3eldkTmZqZldSMXdHTVJMTno3WWxzSlNPUko1R0JGS1RmUFI1WFAyemxiWEdsSE5LdnMvQzZvUUZ4UDFtRkRQa1RJWkl5Mnp2VG9CakY3UXNmR21sbjdPNktxaS9xQVhLeW4zcjViTm5GQXJiVFp4MkZjMnRTMEpoWmxlYkRMa0c4K0pGeWR1Z295TDJnZzcvUmc0ZXVsNGIxUGdBNFE9PS0tRGM3RTFja0lYeFVQMDJPRjM2cjU5QT09--2803261dc8db9ba6d54477689115e9fda3a3b5a2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

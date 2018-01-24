@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 20caf70e-f554-42ea-8ef1-e2e9221825a3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwasco%2Fnorth-kern-vocational-training-center; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TkJhUkg1dHB0enZkYlFmNXpKYnhYTS9LL2g2VlN4SEZ0ZDQwVXU2Z2ZXdXpIQ1ZJcUFBSkExblRWWVd2YUFXNERmNHlwT1V3SjJ0TUpEUnE3a3N4a01QUCt1UnFyK1Bpc3htK1pMK1drc1pJM1pxMWhSNnE0bGFyRUc2NG4yWW1INGFWbHF4L29KOWdsblV1UkJOd2pmbldoUDYrMXNtMkdaZHo0YWxXSERNaTJGK1dSNlNZT0N5ZHQxY0ZicGdFZUNTVFZyTVVNeG04MUhaZlE4c2JEQVlmU3I4aEI3alFPNFhUclNzUENUNWtUZVN2TDZ4WGRVL2syS0lhVGtDVC0tc3psbDNMMGxRckpxYzlLMzBjemZwQT09--da5a583d4ab7eac1a9c724e3e332005b50775957; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

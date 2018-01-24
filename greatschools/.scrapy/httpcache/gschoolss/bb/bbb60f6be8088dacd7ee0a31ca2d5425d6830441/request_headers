@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=V2ZjbkJ3UkpGNGtXQkdmdnlacnFRcktzcCtWK1ZPL0VUVVNCK2tYZzJMYmRROWN3UFpRczd1N0NzcllUZzl5SitBc0dSZC91RGxCcDJXdEFVcXh4QnV2ZTViTkE0bGJXeVFndjV1Z0tXWGNmS2p1ZTlxVFdlWHVPaW5xQzROT1I1WnRXaFZFdTV3bzlFSHFUcTRZMVFvcmgvSy9VQWptQ1JvbG1tWTFmRFdvQVZtcUZldExld2RLRytwa253SG1sL0w5TXBWSzNYZW9VREVOdWYxbXI2VlJpZWFsNjh5OU0xeDJyYlN2WWNjVnZDVmRzVHdnV2tHOC9PZHhvaW8wVy0tK29ML0NBaUJoTm8wci9qZ1JTSnRVQT09--0e75b842c7ab83f46fa45be419348b53444aafa2; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Ftulare-city-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6e096c83-338f-4046-bb18-d8fa0b76563a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-centro%2Fel-centro-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OGtQZWhqVDZWN280ck1JS3QvVUpKdm9QcHRoK2NrTTlKTVM4UkFVY0pMb1AvYlFuNDQ4bWp5MlNpUVQ1QmZzV3NkQlFVcjJlQTRFRW0yd0RCMVJZNkVkbkl5elhzcGhhSCtIcDQ3MFUyck1jMFhyRmhDa25VQmhLTmZlejZZSTFrMUdka3d4bm10dnVJTVdoZ2ZxTmtHb0JKU3VXRG5ndll0RlZBM3ZzTGlRaGtIdmxmR1VBcm0rcXZFNk1jdGNWeGtSYzBrczF5Q3hzcmYwRk1INkZrUFdwNmRBOG5FUGFZZUJ6QTZPZWlqSlo3cUhEVGdTK1A3Qmpua3kvUlhEa3dVdE55RTU0U3BLOVNVaW1henBUQUE9PS0tMS85enc2TTFZdnZLazlmQlA5dEVrQT09--06513d616df582867773bfd8612eb8087a2636c6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

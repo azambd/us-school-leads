@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d9045d19-570e-4a49-a66f-239f5fa16b30
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fphelan%2Fsnowline-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Ykd2SHNoZk5LNmpOazcwNm9uaFRJanFibjRGNlc5VXl6NEpDTWZNUGVsN25zNnhscktuVzJ1bFBJVlVBcThqVjVYemczNnI3K29PQ0tDTWgzRlp3M1MrZW5UU3hMSTR0WnQ0NHdteEdINzBPazVKdmRzdWt3SmRjNGo0TFd1dE1xbDViYjFOUk5FVFM3eXNPOWJ1ekExVFBBMitlT04vOFZlMTZzblBXQUNSc3B2d1hnYUhnNXRhOU1TTXdmT3hvMm1Gc3RCbnRKWnh4QXRmVENZamFsMWp3OHNhOUpyZjlJZUJjQkVwUkRYc3ZidUNHNXM3UGplYnpmVDVKWlR3Qi0tS2hUV0RZa3daV2ZRbGwyNjVkM1phdz09--9ab5d88923ff36fbcf1f47c661cfa3c9057c6ff5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

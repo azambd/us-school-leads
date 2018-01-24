@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 81e6f0ed-7723-476a-ad13-7635fa981835
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftraver%2Ftraver-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N0gzZjBFL3V4N3BuNHJaa1hiN0lmYm5ZbUw2NGJsWlhPcEpyK3N6MVo5dTVrUGpFRmZETDd3VDJoN0JSdkMxd04wSWFybWc0NEpDa0J4eHdEYjkvTFZkZ000ZWV2OERtdnQxZ1FQOHlOVkRTUjNtYlRJc25QVE91N2o3VmNuNERkZThOUytPaUdhS2E2TW1QU1dkK0dBQ0lnazJsTG9KMFlDU3BFM21NNUpmVGVxaXgzSWJhdkdsK1dVU3cxeE5LNTFHbHRqSGVQdWFySnVBcjZENVdYcDZUNzBJakRLaTN6UGlSWlptUEZrdjYvTE1iT0pid1U2eXdjWmVPc0hlSi0tbHU3bklyNVJmSlFHTHZaeDRwQjRjZz09--ed1833dae60e45930333ffa28346e0e902ff3d9c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

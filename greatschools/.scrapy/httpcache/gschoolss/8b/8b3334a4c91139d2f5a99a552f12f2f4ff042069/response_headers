@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 83e2794e-548a-4b64-bf60-606f820e3ac1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodland%2Fwoodland-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NlBzYlh1dlZDTHY3M2ZZMWxjS1lFb2hrZ2pSMzJDSkd0TGdXN2Qvazd6ZXlWOUhMMTV0cDJvUVFsdTI5Nzg4bjNXMXFXRGhEVkFFcURPNitScTBLdGhWdHZwNDZNS3hPRWRtSE1vOUd3WGtibzFkd0habGxVM2RsUnFLTUt4SU9ad3ltOGN6ZHg0bElrb0gwS2tBcFUyeDlwNXJZYjc5am82V053OE1JRDl1UlNPM0V0eUQrcTFtNUVUQUZFcmgyTmp0V1VZVWxWSm1QODlOdDZ0REhKMWJLeFloY0NXSjQyTFUvMTlzS09SOWVINCsrVDhEOERhZ29abVpOeklJbS0tUCtJVzhIbDBYRlRvS0VTUlB5MG9rdz09--402eb96709eb7b4fcaa8b3a8e12a7602867f6577; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

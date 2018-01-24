@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6c3d71ac-9dca-4338-b95d-1cba302ac1de
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsouth-pasadena%2Fsouth-pasadena-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VWxVUVlPUjJsMjZoME45WUV6UitSMExlblZLRklhcEJ5cnJUV2M4cy9GbFVSS3ZZWmlrVC9zd0poWVRWLytNM2U3VlAxeUhEdDQ3bkhsSEZ0RjFMeVF3SVZsVG05R3lRNFNIdFhXUmVsZWhMRTZHUkMwT3kvaFFoaFlIR1FvMEhxTWV6TTZSSGZnTGhmTFJJd3A2dmg2YVFyK1lqR0Flb2NWQmx2aEwya2R3UFYxRDhkZVhaSzNzOGw0VkhLQU8vZG5adEFVcE0zcmwrTDJVRGxVWTNBRGxHSmhKVnVnS1IwTXhUUE9DV2x4UGhieTVQV3VYR2FhMnFrMUl0ZkduUWx6cU9QaEVaODhEM2pRekNxMXgrRnc9PS0tY0lyMDZCT2h1T0NJUjVkeDZQVFNLZz09--1932509048b58ae3f3f37966594b80c216c8b659; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

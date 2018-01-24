@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d323229b-c5df-49d0-afab-1e1e596b1711
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fapple-valley%2Fapple-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U2hOazhPdXdHejljWEhFYitKb21JdWpQd25JQ05TWWZ6aDkwQXZMcTljQ2YxV2JaZnpuZ1FjUnZLSHNDMXRCSS9tQVZXVWE2RU9OQVFVbzFHUjlhb25PQllRRENxT0twLzNtR0s2L29tVEZzUm5udVRVZ21lc29MNS9Ta21aNVdwWmcyYXU2bEdZWmx2UFV2cHdhNHdPVCs5QWNlZmc0dXgzYWYyL0dFK2lmcnZOdElQSVQ5TW12L3NJRHFmSlc3QU1zczJlRVZpQWdqVm1DdlcvZytta1k4WGJlT2xZQi9YYzhra0VvZEFvSGN1eTVYbzdpZEJUMlF1VTU3WFRNZmRJL0ZKYnRRc2lzUnd4by96ZnRDUWc9PS0tWDNqRUZFRU82SmN1TDlNYzdQQnFUZz09--e2e2d7c6a457857e18a47329d6cb8ce0dea6543d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

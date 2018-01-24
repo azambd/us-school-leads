@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 52c7385d-1579-4ced-944e-60067f6c4196
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmenifee%2Fmenifee-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dlBUZFgzSmdXTDNlNnZBOTUvaDIwSWpFZ291dE1pc0N0K0FmL3pmNXJTY0h2ZFFhTWZqczZyZ0tXWHhqUUtZcUNTSE0xUGRvUkxhcGhTbktObndDbzUwaUwzV1UvZlpmdmtzanN4RVcxR3JWVHlYdk04aGdaZERxbWR6UmVtUEFEdlpWOHJ6TWxzSlc1NGo1VXFORVN6S3cwYzBIRjh6cU42bmRta2F4OVp1SHdySm5vcE9DK01sRlh3ek5CMlJoTHZTVU11bzBlNDZwbWU5aGxpOGgrNkNsVkFRUG9nWXBZRzh1KzhXd0UyMVdyM1F0TFEvNnJENksvWXdoWjRPMS0teFk5Q0t5UnliQVFDUFlRWUw4TDRwZz09--49e91bf3b236115a2685ca7a68450e4bcb164e6d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

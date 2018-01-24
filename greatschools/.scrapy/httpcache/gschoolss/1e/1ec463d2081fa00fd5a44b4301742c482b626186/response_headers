@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4806cae5-7bc3-4203-ac2c-8a0a85a7ffd9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-barbara%2Fsanta-barbara-secondary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Zmx6RVphWE14V29Vc3lOaHVOTlJYYWFSU0c4cFpCaGQyUGxhQ20wNjc1MWdYZkI3ZVErWWhSbGhTZjNRYTB2OUUzKytlUy9iUHY2VGh6cHdVU2YvOVVGVll6RlBONFJhR3NJclROMjhndEExc1Q4YSsvTElaaEhrRjk1TExFVW03a2ZYVTdGeldsUld2a292NEhsMUlwdnI5eXNmVWNNUFg4eEs2d0NZSHl4MW1YVERiVndDeC9WWTVEcEtBWVprdnhQUi9DQitubGduZHk4aG91ci9zTmJ1SnFveEpZTXkyWHdlaGxWSzJFb1A1K3UzalVrSk9XNElNQ0lKZ25nR21CWndPVUxMTUJKRzdyZDdsWG43NkE9PS0tQ3FkN3hlNWwzMVVvek1PaXBxTDdYdz09--0eb63f0265f97b959e5f970522a909ee623dde29; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

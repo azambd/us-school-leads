@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=UkhFdDBZTENoVDI5SVBHdVBvQm5reEJDUFpGWWNNYzBuU1Q3MWR4Wm5vcWRQZ3Awam53Tmx0VzlUZTFQSkpFN0lIczBubDBiQjdFVTVLUzVTL01LQ09Td0o0cHhkQXR4YVBSTnByMnRtS2VCUmNpSmxFQndZU0d5Z3dpQW9ieWhYNm1TWEhEUnI5SGZxQmhaWGdGMmlaS3FETXBPcThkV3JwQ2wyWXRkb1Zia3o4cUllNXU1S3NvYVVBMEgwSmcwaVhvNTAxTXY3alpXZmh6NEIwVWFJLy9PQzlqTVh0UE0yT0x5TEp6WEJCM2xycHI4Y2dRSDNnRFlxUnR0eU5BaC0tR2g4cWJXR3hGR1lBdFRYek4vUjRnQT09--8484a9494e3b6492b4cab8fa04a3bac8415e6f86; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Fwhittier-city-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

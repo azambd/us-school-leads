@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 71681075-2ddd-42ea-b3b0-ed5ca5fbdc2a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flivermore%2Ftri_valley-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VDd4Y3Q5c0Q5Ry84Qkc2cFNHc3IyZDVEMnVHVVNVQ1NKSzhjU1ZlbFFSWktxaFV2azFqUDdDcVQ3Z1Y4bFFnSzNkeU05Q0M2Y09kdzRwR0UrK3pDYmZHSllWbnNacGh5NHhHZVZvcE82MlloYmpyVytna3poQkpXbjNFczB0UEZTMDhLZWFERnZIRHZLM0RqT3puenhrQk04eEZ4Qnc0TTBMTHg3LzQxenhVZWdjN1JnYk05S2lIeTJzd0pUWXhTL3g5Ym9VQlJpajN6NklndjArbUxmb0R4NHR4d1VNZGtxY3BlSHNLSU1vbk5WbG9WMXh5WVJreVBVNFpyZVlJc1l3M0RPNWdPV3o3dUlDY1NGUVk0SHc9PS0tVzJCUzh1bTlta1BsUkxoZUduSmJXdz09--dce6ba28a5906d0faf0fff86f8930aaffddb04e7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

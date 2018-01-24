@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a55ea170-7faf-4de5-a452-277e62a6dbce
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-cajon%2Fcajon-valley-union-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SGJuMy9ET0JLMml6VGtGeUxiYmJOME03UDc2aGVBMzNHZ3RXektQcVR4TGUrdC85bWJhOERJcVcvRkNkMWJVTXQ1RDRIRVUyNVI4eUtubGN5Nkxnc2pTd1M5a1VaMkhYRlpwQTRTTCtsMGxFSzl1TlNOQjhaVTBtU3FFb3dGbmdFR1pRVC85Ukg2bVQ4ZU8zNVVKWm9Yd21ub2MzWERNejQveEsyNzRUTUd0SEVsVWx6VG5GcXpsYW9NbjVwNjcwRGRuc2dpZjFCcUNteDhqWVFob0l1S3JHWUpxNDRuNlN0YVA0dU8zT1NrL2xkd2dvVEdwVE15QmEva0ZleFBXQS0tdXhETC9PQzlOUWRsRU5DSEdYTTV3QT09--8cb591755b72d3b7058fb869313c4c4edbff9fb0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

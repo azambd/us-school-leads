@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 68932f08-1402-4659-a42b-3f1f743baac0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Fwilmar-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YjdxcmZPUUhVSi9JNmtBcEpFMWc5Tk9KVTNWZGNEMVdzMDB2Q0w2ajIrakF3UzR6Y0dGZ2FIOTdkSjNFYzRYSitpTmU3SXRwZW85MEJ4OERZeEJEaURXTEVtTW9vbG9QRkZDOHlYZXRMUkd0cWdqQ2NwRnk3MEFOdHhpeFNTOTRCT0xJYWNDdVA4Q3hwL25DeEo0MEswNzN1SGV5WTRVcUdyaUticVh5VmwrRTZ5d3I4UjZtZjRubUxWQUs3MUE5YS84RC9GeUMzSnNEZkZnOHFrMFRlL250d2RJNUlUTUluMjR2bWRaV2hXcVRTcVlYWXVyYk5RNGlqWFFpMVRwWi0tU1dlQkRKazZyTlcwU3JqVjE3NVhlZz09--7f1a578fa77068e9a7d03415ae0045b5b8ba4ac0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

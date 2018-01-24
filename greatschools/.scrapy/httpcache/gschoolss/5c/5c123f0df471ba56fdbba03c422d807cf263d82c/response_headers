@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8738dc8f-4a81-4d59-8650-7b1c1d8cc9ac
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flancaster%2Feastside-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzhEcEtjZW10U0xtV3I5QktaSVFpenRUTDgwamlnVXp1dnJTRzhSdm1Dd0huTjRXa3Vmd054eGVOKytKVzZObXRFYTJib29xOEx5VzBJbllVVzhKeWVZVlNMWVk3VXVsSnpuSzc0aDJmeGpzQ2tlaVFIV09zWGpra2RhZnBkWCtpWXkwb2NmSmc5NGt0endaVjZlUEx2T21SU3d2dDBCWFJQMmFqdkczb0lSRUpkWnlxQnF6MDYvRldubmFJdjlONG5USUNzbUlIS3AzN1gxcFoxbEpUMlE4RHo3OHFqWjd6QW5Sbk1DbGxUb0taemllZ2lUWm1ZbWNuS0JoZGZpejFzMEpjTzBpVjZkUTl4dmR1R1dXYnc9PS0tbVBvSE1sWWVXMnd4b1c4L3ZSNk1NZz09--e50da17b70bf0d6546826d74d8dbe67267ed2c14; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

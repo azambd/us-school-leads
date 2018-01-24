@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: aa56383d-94df-49c6-a4ec-d57f5080cd2e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjamestown%2Fjamestown-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cWFIL1pMZVlUUkhOWHZIajlMaUpUMmdnZmJibVVzUEpveVNmQWllUGVpVVR3UTUxMkx1SloxZ2hIN1Z3d2Z4NXhYcjh6SHlIR2dUUTA5c1hLalduUkJ6ZW5MaVlJRnR5TE5lUzFxbW9LWTh4WXBpdHJVeE56aTlVM2lPOURJTlJDSWt3amMvcTRIbzhSZVFHZzVGZHNScXI2aG5KSG9kZW1vZENXWWlqa0pRY3lNNCtZZXM1NkdLb1dNKzBoekxqaXFHYlpveVNwRUwvYnBSZCtRRGZGQWwyMjVNQWJQMVVZUVViNjd5MkRSQlBDQyttVk5JNDRQcjhEcUVyZC92ZkNBMnZjdldZWFFyMmlENEZlYzlZTXc9PS0tTDRzTmpKUkZQMlNiWjFKTW1ZNTRFQT09--0138b7726e537515ec4734f708baf0dbf8a7cfe4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

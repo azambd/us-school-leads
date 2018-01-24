@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3fc37bf4-4f7e-4e21-a82e-681553fbece1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fquincy%2Fplumas-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Uzl3NFE2anMwclMwdWtnR29FOCthSU9BTGlKTE9Lb3loRmVhOGd2YTgra3dUbHQzQmNKQnprVlA4UXYxSE5WdS84WStlSUJqR0c5QnR2Yy8vdlBMbW1HTDFKNzVTUzAxSWUrRGw1eTUvUVlPVURFYks4NzVpSVpNSkQ0d1ZZODRORjRkWDdvdy9hRUtxcHZjSE9TdWZSREJ2U0JBNVZzbWFLQzdSS0tqWDJHM1lIRHJVa09DS1lEWktXSTB6UmlPVzB4TjBydXZHcGVQQTR0MWhvWDVlRDIwZDMwck41TFc5eHlUWHNLL3BtVHRvQjMxRkhHTXpjWnlLb09mNDJ6dy0tZ2xWUldjeTRENjY2VGNIblFTcFliUT09--13d91ca37fc9e810a93f69d6a4ecabdb4b0a5403; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

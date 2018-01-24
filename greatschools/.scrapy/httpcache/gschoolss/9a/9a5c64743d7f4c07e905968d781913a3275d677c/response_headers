@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 12c1d3e4-9b26-42ff-b8ab-e186e865fc39
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flynwood%2Flynwood-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WWlwRDhpbis3ZFc2cGlZYldRU0I2eVJwUHdBb1JxamEvYkNTMVprbWZkN3hRaFlyQ0lZK1dodFk5TEdoWUNWWU9yQTV6U1ZzWW42dUFzN2wySEJnSjZZN3Erb1ZZK2kwVmhuY3RhUU1sZlFBbUxFSkZpZEgxU05KN1ZmcVR2eDlCN2czV09YVGRNK2RzUGJ6UkNOdGRJNlZTNkUzRWdVRXl6dzRUOFpvKzRYRG1NTEpGTW1SLzlqdXpMWTE1Nm9VNmhDcjNsd2xCdE8wc1poOGlVMS9xOUdXaVlhQ1lJdjRmTWNXdzlEbXZ6RWk0RmFYalQzeTI3a2Y5UE5HLzFGZi0tMmxnRVRwMlgxOGZRenpDOUxtVWtoUT09--0231fa2ae003386a31fef00659b5f4b5513d15df; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

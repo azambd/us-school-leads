@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1720dcba-a290-41df-b561-fca311871364
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcosta-mesa%2Forange-county-department-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ME5HUkJvNTVSNjhLK3g2ZTRrZHE1eVdHZXBZOTFzUm55VjkvSlNZNG53c0hadEd6VmdNeWtGM3VTZjdYUUpPbks1RDNLSzI2dlJRalFFV3lkWUZDZGFJZzdSdy9TWjl3ZFZuT3gwT2RTOTFZMWNoTTBVTWFCNEVvazA4c25NL0ZZWlh4M2FxbDlwL0I4K1VLTTZ2VmhxTDVmREs3b25wQ3F1THBQOWFoNFFla3grZjB1V1hPZmJGUUFYZWl0RXVKdWNNa0UxSnFaTWkvZUNXUm5wTkNPSVdaMWhQNGhlYnlUdnREM2pCbFVBYUlyeVo5dGNjTWhaOWMxNXJWQmtZUDBRV3dVMmphbFBxTkRwY0xKRVF5bHc9PS0tcUNXaEF4S2YrcVV4M210em9IcHEwUT09--f8f5b69847c3099185edbb3feef55530669d44ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

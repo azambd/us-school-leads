@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=czRpY0ZsZFA2Mk9wWWNuL1RRZGY3R1I2NjhBRUsvUGJUQTVCNFYyQVlxb1BTME1KRTFvckxRUHdUREFkSklMSGtlNFkyRkJuQ3pzTktSd2paTkZOWGphMXVISUgxOHMwUTMvWnVHZ3lYUWdZYjcxRk9OcGxPcTNkZXJ5SG5yOEdOcjRScENCZzlXUFJqVUVOUTNrcy95YVJ1b0FoNVkvWDVCbVhONlVHWEtvTmFJM01DRDRGNWIyUEJxeGdtWkxQaE1GSjdrR3pYZ2Q1RStRTU4rQmw5RVBPS0JpbkdSZ2M1dmFBTmUwajczV2xJSWdOT0xURTdTcDFqUVZvZlZoNC0tYW5zYkZXUC91SEpId1dBMzVjVWxDQT09--49e1b1c877c16a752516951cf7bfaec359897eaf; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Floyalton%2Fsierra_plumas-joint-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

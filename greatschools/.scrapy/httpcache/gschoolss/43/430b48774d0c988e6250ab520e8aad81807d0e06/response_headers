@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5554ca2f-1780-4c32-8119-43bc40817372
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyettem; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZGJPMnZkSGxGcS9PcFF2NmpFWWNiOW81MG9kRFpJSnRVZVp1M2tjTkFMUFMyMkIyT0JTZEhYdUgwbzJMYlVzU0R6S0dzRW5xTXYwMHRCQXVKeW80cE9FMVB2cUZoQlIvRmxPeTJWREVKTGtKVU5adFp6TTc3R2RLL2ZUSDk3VUlReDlmYmJLRDRwMGVnWHRKZTVzMUo5NUVHcmpnQTVFbjFKNHVIL2MxY0laR2FITm1EVS9aSkd4RUtMM1pxMHBzaStWSmxCVDNqc2RzM3ROSHRQT1QrTzNzNVNqQnRBVDUvcGtMMTZvOU1BazB1TzBrSW5hMGhoYVUxR28rc2pGK0JrM2RwT2hUUU1qbnAwQzl3TkRLNjhzUnVORy9YaERlMVVwQXJuNzhKWjQ4U1Mxd05jZ2hHem0rUVpYa0daVTNtUURUVS8zZGhlcTNva0NaSEZNRW5hdlkxYjZ3QzI2THM3QlpRTUNRSm54aGE0NDN2T3MxdFlLenp6SnpZa1hvczNMdmFsckhzb05aMi9sbStxTlJUdz09LS1sYTdoM2R6b3NLZlJZSFFqU2p0eGJBPT0%3D--01f705ebbac57dc061c0e7633f7a353f091132e6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

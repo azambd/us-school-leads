@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=V3JzRCtqWHc4VlBRUXdwbHgwMTYxTmV2WXV0bk9MTityb2gzNWozYTU0TXNFWk5aenB4QTR1MHl2N2F5ekQ4RUdrMHBRWDNmSVR6TEpPdy9VRVVYQXlPamVENnBsQ1Y5ZWc1S2t4QXBqYzhHVG9LQU9aamNOS2dGMzVqK01jZWpvbE1HYi9rQlhqdEJaKzJmQmU2dVVsdnJCZFcvVktWVEw3L0ZUUHMzbjJRV1FRS0N5WmhRdmVBZk1CaytKRkpicHpDNHBSbmxlSGNhbERmVVRIMk9qOUlFazZjTFVCYStmM0FLbEp1V1FmbG5MNlRGTmFKKzRCcnpNSFlnZ3VaNi0tdTREVlhTZFhlZFFqRE5PYzUxa0R0QT09--5aac68d077a2bf177d4af400ca06e9162e5595fb; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fperris%2Fval-verde-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

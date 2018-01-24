@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=NDZ3czBoMll6TFREV280OGkzcXU1WGhTcjExRkVCL2JUVlZ5VVVJVERSOHE2VTJrU0t6eERCSklPTmxVN1NZckRncTI3WjZJL0FQWG1FQUFkNXFxUUtUZWV4T1BPL1FuNDJSeitrZ0diMFNtNHQ1aHFoVEJHUEd3TDNRNmdkZTV1Mm5udlVaZkx0RkJ6MFNKd0owWEVxbGI3dkpkR2gxNUJUaS9PUUJjVmpsZllCamJrbVlUektUUEF0NXV1dUdlcFpxTE4wd2hkM1BlQUpjVXJvSE9oem5qYU1CQUdLZFo2Zk12Q2lualJYSm4ybk9nTldvWDA2V0hnRTBDKzFWRi0tK05VcU1yVHJtTjV3NkdjUklWUU1Idz09--b73533b2074ddb2f4f41f82fadb73d297844326a; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Fwhittier-union-high
+Referer: https://www.greatschools.org/schools/districts/California/CA/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 85cd6160-56ea-4a15-b656-af5f1bf1dc1d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-leandro%2Fsan-leandro-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MnVCOHVRZGlxUDBKNFFzcWM1Vk5KU3hZeGlCZFFjNmlQbWRRMkpOZlBxOUpPdXB0TXJ3Mk9Wb3JJV25JNTdiNHU5VUNETWtNWitGVE50OXNEclNNYm5YOHFrNngvZlE3TGNTaWFFNFJiT2xxMDZXNGtSc283Smp5ekFXNHRCbW5MTlN4MmU1NGw1TTl1Ukt2SGgvN0VMMm1EMk1yekMrT0c3TDNVWXRZMWZQSjRaUGgzcHVMaTFwNGUrdVBqUkFNUW9BeFhlTFpjQjRKU0cvZmYxWFNuV2xocTdjV0hVaC9mRzZhb2VaVC9pZ3JGcDgwNUxMVUl3bE4vZi8xL0p6ckhhQi9IM1d4bFl4RTdGWjRQaWt6N3c9PS0tNkhPVnllQ2czOVJXNytHTVBROXBKZz09--a98b02194a41c71c02c4defa54d36f7c8ac6bf7b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

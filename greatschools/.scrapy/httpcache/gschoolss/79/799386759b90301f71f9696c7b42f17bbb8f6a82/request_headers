@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A12116%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Rmk1SXBBZ292WnhYZWN2ZkNGb2l0QTFxaTFjVG9ZV0wzSGhvRHd5VzU1NVgwV1ZvQlR1bmRCc2FoZXlmVkZRV05JcXJnWVNmRCtLT2w4b0R0ZnRFWm1yWE9IcVpqaW5QRGdzS0R2NFVMYlZvVUNKdFpZZHN4SWFOSzdMSTJmaTR2SkNSUnFLWGhseFFHY1kzZzBVbjViSHNzMnp3RTRQTjZCSGc1L1gyTVRKQzBiQ0lHWW5PN0E4R2hielFRMWlFdHZ4NWxqYkhibmNKUlNVMlZLK3FDdWd1UTRVVnB1OTNYUVY1OFFUSWtFSHprcWc3SVFEalovVW8wNTNLT3lLQlNWM0ZlRit1YkdXVlFES2p2bmFHbnFYNGdEZG5hS2NzNXRLUFVtMEt2N1E3blFLUlVHSW1wUThXMnpaWnpTRUktLWxYbDBBczJRekxzQ0hJbDhxQ1ZIdGc9PQ%3D%3D--c8421885e286359a51db2a25e9071a57abfabfff; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://blog.greatschools.org/2013/01/28/greatschools-milwaukee-offers-free-resources/

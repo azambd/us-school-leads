@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 23515bda-3e1e-468d-8c02-d0a22729faac
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Fgraves-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YmRqLzduaTZPbC9iSURlOHEvSjRsSS8wTDVkVWg4SElGUWtWRXV3eW9jM0ZhUkQ1ZHlQaTZGYy9CZUR4ZEF4RTRrb2NwSm83eFRtcWZEQmdkVnhjcDQ4V1FSVHBUUVp0M3p3VnpiWDV0SFJPeGtvdm5nc0tCS1h3Q3Y3WllqeU92akVpL1ZXM2xxZEZQUHV4c2xWaE8wQXN6UERJL0JGV2h3MkNSWEFLMFhQZUNQcmVvaFV1dTZYbUZ5WmRVQldCZHpkV3QyS3VsZ0dCR05RUUR0UmZxZXgrdHl6S3liYUllc05oOFZHTk16SWVtOWtONHcycU5TdXh6T3ZwNU45eC0tVjgyUnhxTHRpb2FTdDZhd1RQQmFQdz09--117f873ed888c037d784b19a1496ce2fc2679b4a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,17 @@
+Status: 302 Found
+X-Request-Id: 2c9c93f2-9480-4218-b3ed-5607f4da2232
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsomerset%2Fpioneer-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a3J3bWV0U1ZuY2FhcVVaYzc4YlJpTW9NS29jWWt3elFnUWQzM3h2allTcUpaUlo0ZGpMbldHQU1IYVk4UGNMdGVqNUx4YXNpQTBhdG5VckxSdHFxU0k1VkFSeFhvMlMvWUhwZ2F3Z3VCNDJ4QzZSYUlNOFFGV3R0YlBnSWhYMldUSVJ3MWJVcGpGdE1GZmQwNm80VWh3QmxiNE53MEwxbGRjY29KbGFRaGtlR1dtMkU3UTlUdTJGYTJFeUtsTlIrMHE5NnVxMUpHYzhTUFgvdlNtSjhONHYvMnRFWUNBNEtqcXRTek5iRFBmRVd3bTlBRDRpdTVYYkxQeUVWSlRuUi0tb0Fqa09SMlN1Qm83TjlXYWh6WG11Zz09--7031f2b320bf9f60ec6ee87e397cf6772a386385; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 13:43:05 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/california/berry-creek/pioneer-union-elementary/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

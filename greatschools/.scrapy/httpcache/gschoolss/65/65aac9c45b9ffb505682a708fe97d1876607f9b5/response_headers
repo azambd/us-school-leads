@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 50375c93-b314-4fb2-86be-2d04b07d9d28
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fauberry%2Fpine-ridge-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dHp2L2QwYys2eVlpOVpUVUFBTTNOSXZld0o4aWdMVjhPa1N3ZkhlUzBwWUs0REpXcnozbDBXZ2h0Z0pXYXJ6eVE5V3ladjlSVlh4OTM1NlorYXREZlVraGVSNStXREM3d21BdGtqZFRUVnF5LzBIbThhNy9RSXUreUt3S3BSZS80Um4yalp3MlBUOGNFTHB0VEk1YlRNT1YvVHFSeUt4aFRSaWdaTk8wQ244R0RNQVZ5S3JXQlF1dzkrMHgzM2R3THE4Q29EVE9qNSthMk1ESDdjcFFKRUZzU2hMeUJoY215RnpDU0VJSlZ0Sm5lOEdicmgxR3lHVWVMMUxNTUVQai0tWG0rQ2g2SW5BbEhhU1hINW84ZFh3dz09--fb4832f1a0dee8cb472f3e3e9e77e7b1cac1bd38; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

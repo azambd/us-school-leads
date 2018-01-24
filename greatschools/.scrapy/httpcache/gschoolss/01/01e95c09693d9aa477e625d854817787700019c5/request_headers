@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6951%2C%22state%22%3A%22CA%22%7D; _gsweb_session=NEtiZDhKbE9BTzRsYUp5SnZmY09BUHpiRXYveVlrWFJDYmFDY1lsRHV1Vk9LRmtkcmhzWVFmQ2crOEtEWE9ZK20xRGhhVnNRb21VMWVOVTZROG5Odk4wOVJKSnFjWFdIbE5jMllYeEpCRjJRVzVvQkNDOWJzaHBwN2U1OGRzaDlNbkRJaGpqZkpLcWFVNVNsZW81dXlQRkQ4ZzhEQmNLNmt0dmpyVHBVdjRMQ3ZmQkVQQlExTEEyVmRpM0lsRFJ4WVErTmIrK21ENVBBWGFHb2QxVkVDWXJQTHBLMHpYbzJqaGFYTmIxUW5vTTAvWEMxR3BnQ3NwdlpaQnJqN21MelhzU1ZqYksxaDZCOGRPdnFEZTJxQ2lYSzd0d0NKMGVaWDJYQmtaUUZMVEp4b1lkU3pFTzIzY3lKNVdWN1RpWEJsWnFBbVhxMkRTTTNDSmw2dzc0bHk0bjljYUY3QW1uQllpY2gwR0JMREJ3PS0tY3pnaWljL2szMndQR1krM3Erd0gwUT09--4ccd658c7e2362264a1fac3ac94c8afa5010b8a9; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools%3Fpage%3D19; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/milestones/puede-su-hijo-aprender-de-lo-que-lee-en-1er-grado/?lang=es

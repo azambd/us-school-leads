@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 35408dbf-eab7-48e1-8883-b35ac380ba2d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffortuna%2Ffortuna-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aVlFTmFFNmVXT2toTm5RR1c5bGhLNXdSYmovTVNXVmFhbHJPaXhOS3kwVnZUM1RrSmZRdFdxWGhaKzFnbE01Ym9sS1hYSGZnamtGdnd2NitLZUc1ZWh6REhrdjBxS3ptaTg2QXQ2SlFCT2szTHUvTUFDbEJtZnlTaXVGWUxCMEsrUTd5cUMra244NThIa3FiN3JEK0tPT3JNbC93enFGN0RndmJjZWNQbktibGtnOUErNVV1YTVXMGNsbXgvcHFNcThSQ0tqMU83NUkyMnVWWWpwZytDcU9ueVBGYjgyOHJUOXhxQnRmQ2dDbDhVMjcvK1hHVUxPVE5DM0xrRndxSS0tTXowVzZhYzFKZkx0REk5bWdkbWY4Zz09--f31c55c615c075ac2bbe8fe80715b4d087688bb8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

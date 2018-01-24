@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=YjNnSzJ3M2IvZk1DbzYrNlBsM201a0ovR1ZFOGY0c3dabVgrZW1SNGJjOWgvN3hnMzl3V0kyN085ZUVNd0szTkMzMUMyWC9CTTk4c3BGa0g5d1dVOTNpZjUyWE81NDZzTzdadFB2dCsyMDVsbnM2OUU5QXFjUTlsWVJXNXF5bnYzU1pNcTBwOEZXMHRyeDg4TzhGeXRCSDJZUllrOS9jTFpYeFV5ZHU3UW93a1BmMVFRMXI4WEVUWG1XVHNXT0NtNEM0bnhBdFNyRndOYkErQ1lLZWk2KzBadmlDN2M5WEpaSnFia0orNk5FSWhOS3JVQ1g0cWpubG1sK1lhQ2ViS0p6VzEvK2YxS013bEdwK1B2c0VwVnc9PS0tUTEwR3M1MzUxV1NRMmQ1dHVkd2drQT09--e70061f0f6435af7c84763c20b837097481f375e; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-sacramento%2Fwashington-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

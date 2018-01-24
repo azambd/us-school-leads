@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b35fddce-8e50-4cb3-a8e4-0e3b6068f366
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fventura-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eDhTZ3ZoeTE3TnRzc2F5ZEpnVjYwZm44eUg1TGQ2UnRxUXhBVXNYNUY5M0FUUmhXOTlqcXpxWWt5UVN1VHZrWnpEV29lWmUyR01HNUo4RUZzRWNFT2R1bXNXUWxRWWU2NDBZeTc4WnorUmVKSUllUENsTlA4TUtWNFFORmgzRDRlQ201b2JVL1JSZXQ0a2xwdXRBcmE2cXEzcnVBcCtLWFJ5SlN3bHhlQXpuRHJTQXA4ZmZ5ZGtOTTQwby93YmxIZG1iQ0g1UytkcXNzWmp5aW56ZDU0K0tXcnVOWGdhRGVTWkcvUStOSVYvbHJxamMvbkxyTHY0dUZTN3ZZdlZTUC0tbi9Qa1RTVFNxUXM2NDlzMThwbWdidz09--39708e24b7ce2e74ad27e6394c237b678a392360; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

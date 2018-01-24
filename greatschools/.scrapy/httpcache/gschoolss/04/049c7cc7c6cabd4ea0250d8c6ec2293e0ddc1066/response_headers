@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0fb1a130-9caf-4900-abfc-bdd816ecc6c4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-diego%2Fpoway-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WFNqWHRwdmhJQ0l0azlwVERBMzlab2NaSUw0MkZaMlhFU1h4SEFBcnFzNnVGWVZsWXJOYXFwRHBueTljdEVXQVBjNzVwWWdET2tnZnl6c1BOOFZUWGdYYVNyV1hKWjRNckpoL252U3ZYV0RTNmFNbVNYc2d2UmppakF6SzMzMW44OStIUE8veUF6Q2tBTE8yQ0E4bUJEYmFwZmltclFTaGwrM3B0QjBtOEJTZ3dRckxBbEtrRUpSR2tOaU1zdlhyMzVYSm1uQ21DbmtGZTJYcGNzRSthVVZrMWZmLzByN3l6NkZnVTE4cWxKNzNEVkRrZGtlYTNtNzFMRm80OEhzMDB3anVrVlIxZm53OTdDVk9uSUFBVWc9PS0tWEp5eWNGUzVSdXlBZmZNSDNjWVFpUT09--c28c6c24b4b94dc86d43e8a0a272764ef276e67e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

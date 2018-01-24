@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ee3434bf-d1f9-41d0-8a29-17c17e0f1a48
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-dimas%2Fbonita-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cFRmaTc5QnN0eHd2NzFiRFVmN21RSVgwazBnellvV3RuN2VmSm9ETjZHUHJ2YlRxaElicS9LMklZQWpkeDRRaklEUTFJYUc0Tm9teXdLSlEyZ0Q5cE11WFJFNDVSbkJBV2ZRZ2NIWStXbVlVVTZERlpGQlFDNDBtT1haWFc5N2psVEZqSkVNbUR0UnBTeVZEV3VxZWtjZSttUm5qbytTYmZxclZtRklxZkU5ODJtWWxkWFBZa3RFeFA1aVErL2pjWWdVRHZiKzJ1ZzlVSnBwdWR2cS9nQ0k4czFqWWFtNXdLdElyVkxpbjE3d1M1MlZQQWtuWUZqb0JIOUZmbnVCM1RmWTBQL0JobUNIRFIwTDlONDRnN3c9PS0taDFWQXRROTBBN2VoWk5EVDlWSldRUT09--cc1b00259ccb248012e72e3d94116a3921cc4e65; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: e9e8b273-de29-4ee4-9cd5-b58a958ab7be
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwestminster%2Fsbc-_-pacific-technology; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L1VSck80VnU2MDdVcWEzK29JQkxLWTVTbm5TbSt5RjNiVE9UMWJJTDBLUDdrU0MybTRnZVcwdStCaDNqM3BZRnRSSHdsOHlpc3FQQXdkTGIvdHFQRUYzY0xJZEZCTmF4MGhOVmxrV3hRcXE5QllOOS9XSTFFQUx2b3Y4UFV4MEZDSkxIeXp6aDVCQVd6Tnp2WmZ3YTd2VG1nTENiWnRuSUJuLzNvY245VzgrYnRrNEViandYWjhPN1JVMkM0NW1HNWxVRm1sYUs2a2lwWUN1NGNmYnFSVW5KMmZzcHJlelQxN3BsTHBXdVJvYmZ4RFNCSHp2MmwwSkR1TE1Ic3NiekRXdjZrZWdDaTI0RU9GdzFJVWpHSkE9PS0tTEs4T3daQ3Uwdkl3L2NyQi9tczEyQT09--8ea382b5d1283c8bf9ceb42d091ade9f3e54d3d4; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

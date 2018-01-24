@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4b6a1d24-58c5-405b-85f4-afa65f673379
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcampbell%2Fcampbell-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MDNCQTlOSDBYckZNZ3gvbGxHbXFUU0VoQXpVRFNBWXYyQk9QSnpzZGVUckdub2xZKzNoMDFvNi9WY1Z5dldYa3J1ZzEzQm0raGlPaCtvU1BIZ00wT2xRcGdHd0RHK09zZ2FzR2dUNkhkbDkxUWxDUXhTSVZxSUwrZ1hBc2libEwrUTZZZzFvbWNhR2NEY3VnUG8wMkJmOHlxSmJzaDErVnpYQ09acXk0S0s2ZGQvb3Z3dTZzYUZtaktCOHFySHNSc0ZEeXBkNHR5YXBhTzlwNkxVZ3duOWNuQk0weG0wUUFZZ3NTNjJoV1ZKV1FhU3FLQmR1Q0xjUXpQSUp2dnE1ci0teHIxNUQ0eUtWVUZTNDFiemt0TTJsUT09--f951ec9b056d5218b8308faf21864e7d25c941e5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

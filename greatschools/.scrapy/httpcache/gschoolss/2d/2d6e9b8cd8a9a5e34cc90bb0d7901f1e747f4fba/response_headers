@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5d6b7fb1-dc90-4307-a343-c5d2d9d77b5e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falturas%2Fmodoc-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZTRNNlR0T1hRL2ViYlhNemc3ZTlVbHhTV1Z1OWRPNlNJNU81dUhEWnJ4N3g5NnZFSUN6TG9PN1RSUmozNXNCQ0Jvenh6M1ZGUFM1ekY3S1pleC93bGlWaHVyUHNLS3F1YlpHcEw0UlRhdG5FM2pKc0w4OFpyV25IRXFWbkt0RUpSS3ZUQXNsUSt5QTY0b2x0ZkV0MkczdGNjcTQ1MThjRHFpRENQQUdpdVBaU1dHSW1ickREYUxmdUdZQkZJOUFtc2xOdmtYMW9JT1lWeHVLbjhEamFCSFlQb24zQjlQS0hkT2V4TGpEYTZmcjlQNWxXNG5VNWtheWdrZng2dDhFOS0tUWhQdGdNMHkxNTlROXkrUEUyclp4dz09--14a6391daaddb6037ea685512d4977e06be8a03f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

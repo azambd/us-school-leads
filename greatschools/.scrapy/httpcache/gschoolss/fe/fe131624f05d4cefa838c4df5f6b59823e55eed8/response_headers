@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7005d65a-0b63-4098-839a-b970da1959a1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmanchester%2Fmanchester-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z0lld1M0OXRXTjg5alVPVnNoN0VwbWhmZHhFaGlmTnpBSEZPd0xoMERRZTNGOHNzS2ZrcHdveDZnRnZCczlDTkp0OTZZL0dZVVZNc3Y2YnZ2Vm1SQXd2QlZFeTYyK2J4TEU5Y2VrbmlPeEZJMUlQN3ZsUkVNbXdaU0RIUUNGVGRzZDlIS1pudHN4Q2pmOVBweHYydXZSQmdBK2xhVUZPUHNONVRMaDNxUzAwQVJGY3AyWVNobmtMVDZrRjFjRkQwYmpHYVNFVmJRc1RTWlJVUEh0MVZTNVB6SHhaYVllNkJqcUxiOEp0SDY3THpWS2FqL09ZQUwyRXp4Zkd0UUJkMXk0dUVlZ1RrYTh6MGNDelU1b0diMWc9PS0tVXVpTFNzVlpLdnRNWk5DYnVJTTgvQT09--8cfa0347c97bb9a4a941026822fbc06d5b0c4a0f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

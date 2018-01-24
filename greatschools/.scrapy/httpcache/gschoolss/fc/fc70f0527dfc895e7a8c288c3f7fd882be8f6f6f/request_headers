@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A18272%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Qzc1SW01S3MzSkV3MmZzb3FFc1pXSDg2REdSc1owU2ZJTmk2U2l0VUJsbTdwYzAxakh0Yld4SUpLM0lwZGVTYVV2Q080QmhiL3ZjTkRUV1FuWUNmRFZ6cEppTmIzRzEzbDlLc2NoTU5OT051UlQ2cEF2QUFVb1JYUFYrM3hTcDZKaGsyejF3ZmdHbVk2RHFpNTBsZVRsTVgvdXVaQTI4dmQ2K3BCZVRxdkRGc3daSENxeTVyYkU5THI5QmVsS04zMmJwUXZydmVtNWxhQXE5ZzkvbnZmSW4vbkp0ZjQyNGMyMnA5ZlprYkZUb2REenN0WXJKeDU0ZkVSOFRveUNGTUEyNUhtK2tGUDIwMFhBMUhDUG1jK3c9PS0tMHhVWFV5blRJQ1dJWUo4SVpLUEU5QT09--9bc97658e1ab70208a4954634a2a153249052a51; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/18271-Kindercare-Learning-Center/

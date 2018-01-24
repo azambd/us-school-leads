@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8be40095-1ea3-41ee-948a-24e3856f380a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmeadow-vista%2Fplacer-hills-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aW1Nd213cG5IcWVSRjJjeEg3aFJ4Nng4bnZTVUdzSnhlVzl2V0RyR3VPWlJkWWFEa0dLM2hOejJBdG1ZUkZiaHM2ejhWU0hIcmpDb01ZRGZkdGx6YkdwempjTWNpYUJHcEJROHVIWEhGL05MNGxVTWM3WklxaHpBeGlCZVdxM0NhbEluWXBNb0NJS2Z0b1FYSmN0NDIrWlNzQzg3cHRTMS8yL2FYQmRmSS9FVWc2Mnd2V3BlVjlUaUxJWGJsNm9EWHdUOUJ5ejZTQlFlbnpkMXVXTmZCL09EdlRPRWI1OUNQd1FNb1Bvb2tmMTdZOXErMU5vNkF0MzV0UmRCK09UaVkyMlV0bkZKK3FTL0QrR2pTekVCb0E9PS0tbWJwaFVEQTFkZEhDc3MxcDBkbHBnQT09--5f91afe7cfe7d3982c421dc92e99d0d467fc442a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

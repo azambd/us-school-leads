@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cbd0ebf8-758b-4fe1-8ee2-8d8b679fd072
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fportola-valley%2Fportola-valley-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TmhpRm9FZmw3OFhSV1pJb2lJanlKNW45d3IxZDdpbG5VczNTWHEweTZkN2JJMnF2ampYQ0xDVDF0OXhBb0FJYnVvWjNLdVAvUTRQT1ByOGtZVXVlanNrR1FjdDNZZ0lzcjJ5bjJiYS9lS0ZXZ3FiQVlTeDhtZ1RBa2xpVjhwWERSZGpjYWFpVkxSY0U5U3FqaWMvQmZXUE80dVpUNFVJb2pEbU9hVk9tS0RqWVIrOXg5NFJSTEZ4bFR1eUNkWjdkZUFSR2ROc0xLb0ZSaUgrN3ExSlVNcVRRYk1HS3BTa2VjQ0gyazlwKzJkd1dhWi85bi9pRlV3ZnUvdjBQTmZDLzNyZVkzTEUzcDlXQlZaSnF6NEJtWFE9PS0tZXNkWGtsdnJtME45TVdnVGh6VUkxdz09--f61d01cec079d67b40cdf5c0ae86aa6a44bd6623; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

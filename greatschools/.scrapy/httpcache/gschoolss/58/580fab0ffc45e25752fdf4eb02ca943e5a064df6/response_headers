@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 61dcaad6-cde1-412a-aa50-027979e8664b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Fliberty-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SEl4NmVhaW1FbVN6Z1ZWdEpGM1ZRRld1bVE2QzM5azVwT2Zya3pTSFRkaWdCc2ZoWFNvUHQ1dFdCQk0yWjRqd0NoRGtiak5WREJBM2NhdlVPNkpiZk50QUkzTDM3SUtLYnJrcGNFWS9OOU1vY2htbWg4b0svdC9uSTMzUnd6enZVYWdqZURwTDBxWVI5QitISmhveW43dzNNU2wyajVxdm50eW1wa1lkbHk5dWZwdjZOMVlGbC9qdVYzdC9NTDkwSU50MDYxNndQenB4ODN6bjcxdWp0aGZRLzhjZGtTSkdGdU9qazFsM05uejM4UnVCckJMT0V3YzJqK05pU05tUi0tdU1hYUoxaE1SWkNKZFRUUDdGcGcvdz09--499702923975791414cba8e6c451996c0dccdce4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

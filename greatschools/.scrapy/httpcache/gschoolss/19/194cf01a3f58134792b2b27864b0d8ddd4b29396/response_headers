@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: e7e964da-574f-4e10-aae3-ad9e61a79a51
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fenglewood; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=akZ3OXN6dUlOeHFtSWRiOFZIZTBnVDlIeGhMUytkeHB1Z1Bta1lScEJyNkJDcXo1TlZVKzA3dWRkRldXbGplelVTb3VCQnVmY3dXRG56WHhGRHhjc25CYUtCZ3FQVGJBWEVSdHNoT1MxVGVuMk9ESXhXM0hVTzVseFNmQ3RuVlJCTU5ZbmtFL3JHSDNUQnpaM1hPVGp6WldhelN4YWtuTnphdFU1N1Bka0daMGxXRXJqRTJCVDl1VUVhelNsYzRFYzZKRnUxN2RGd1lzYkV6dW9uRittZi9SOEZYaUhiNEU1N0l0ZnhaK2xDYXppYTNGci9jckNYYkVydHlHbGJxd3ZFTGFhSEV4VmhtUWpJd09zY1lJSlNCWFdyOXl4Z3FlR1UxK2hKaDQvTWk4TXBJcVdiRi9hUkVGYm9SZWRSWGxNdzIwUHRmSVVwSnFwa0NFZVZKYlFQYTlmY0s5OVUxd1pzblYwL0ZYZEZrUUxMdTJCL1VBbndNY1ZPdWtPSVpGNTIwclNqK3pGODh0MGdHakltTG85dz09LS15eWh1eC9BcHUrUUNWVzJMRFZXWDJ3PT0%3D--dfd31d3a515904e2f0dadda4556b4bac5e3c62c2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

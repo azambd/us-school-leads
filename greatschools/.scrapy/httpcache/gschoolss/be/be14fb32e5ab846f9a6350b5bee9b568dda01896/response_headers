@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0ff37a1a-d2f4-4e6d-94a2-0005ecb18cac
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foakhurst%2Fbass-lake-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N09IdVc3ZDIzQVVabUNzT1pSUWlUeHVHNmFCemlqK1diYTJCNGdoVUhtV3lDQ2hnNEkvQjBFQTU5OUhPYUhYK01uVVBqSkZiVlJmY1FiVDUrL2sxSi9YTm5QellWRGFmZjFFRUFaZWMxUlp1c0dTTTFVelBwT0dPZFJ5VmZtZm9mak52Yk52OWh4R0tEaFdhVnhhUHIzaWNtbUFoS2R0SVk2US8vWnlDYnF6ZEo3WUlTempnVFQ2QW9yM3dzZ25wR2k0Yjd4KzJTMkRGNlU1cDdhbjdCaWpZNEVIV0ZBa1hxSmNYY3kvMzZlRllUK2JoTEQ0ZS82VW43WXlvVjdJTS0tR3hUWC9rWTY1dVZydW04TGdDNlRmUT09--c52c62a2fa4ff75d8189019365d8a0fe8ab6fc86; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ca9f30f4-7695-4fc3-a5fd-4dc724143f18
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgoleta%2Fgoleta-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QkNzeXViTERGeUFlTk9EdXJTbTVCdXFydzVwb0pvaS82ZWpaczdjMFk0MEs2SUF6WktHUm9LTlFmeElYQVRDamNLc1kvdzBwWUttUUsveG9ha2ZsZDRBNFB2bDVSZUJZSkNTcDFTUkJUUEZxWUUzck9pczJ5YzlTcDN2aGtMZkx6LzJNTHovaTlrVFhFMzlzRi9QeHQzTk81R01TM0ZmVGlFQWc2T1dDN1BrRytHNUxMdTBvVDZpZkNNV1VOa3g4TVoySUpCNlhMRVErM1pNUzB5dWhvcVVkeDNNSzI1Z3hBNnRibjlGck5hck9BS1VQNURoeGdmYUp3ZXY3ZEMwMC0tZ0l3ckg5bGJCb1JGejBDU2kvUWcwQT09--6db3392cba1ce2338a87a34e825c7133809a559f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

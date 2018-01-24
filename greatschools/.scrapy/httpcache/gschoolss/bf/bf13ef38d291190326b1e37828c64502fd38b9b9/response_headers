@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8fa4aa40-6eae-4b4f-87f1-a8af36813105
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpleasant-grove%2Fpleasant-grove-joint-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dzNQVUZwcy83SVdTaTlWVE9EcG9WZVpoOXFZb2J2TzdNRGJ3Qjk0S2lVTGZ0STNDVEphbVJBVUpDcWlFbkJsbEQzcTBtdk9vcDNaR1llbDk5dVZ5NW1EUnVmd21EbjYxblo2SElWRmo1NVVyNiswZjJ5Y1VpamF2bzU5UE5acGFoakFwQlhJcit5bm03T2tLbHNrN2k4eDJEemV2aXlqeW1WWERUTC9iM2lianhkUDR0UnpnN05SeHFpaktFeUNyalVmWGNNa1RPcGd0dXVQaXpQT3BHK3FQZjV3dXdPYVRxdEx5QnFBUE1EdlVPVnFrN0s3SHNTK0laYWQ1Yjg4UlhQdTVHMVJkZHloNW55R2lSNjBsbUE9PS0tSWNIVFRKd1JKWVJIV2NvOUV5Tm03Zz09--f3aaed1f0f8a2c08d73e75afd28cd37059dcd457; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

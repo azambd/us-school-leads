@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A12757%2C%22state%22%3A%22CA%22%7D; _gsweb_session=SHRLc29wU3BWK0gxWmVyWXYvTjhJb09iaTgyRzFESDdVWW1ZLy9meFNpMGNTWlFDYi80amRBY21hWVNEYUFKcEF6akdVbXBCNGVTWlMwV0Y1MUhDRWlWWHpZWFhOeE8yNGY1WC82aWRHQ0pkZ3lwN3pEZTBQRU1DbEU1QjlSZlVhTFFXclozN1BEVXhhckM0TmQ0MWkvZmIrLzk4Q3R6ZlpKNkFhVXZoaENaYUZhQVVEVDlkQ2NaQUJ1L0dNdDBjaDNzVER1bVdGNUJCY1k3MUhLWmNST0o0S2owSUZERkhHQ1h3eEpBc0wxR3BNMGVHSzdnZ2pSUFg2WkswUGdNby0tWTFCZWpZeVpHbUFHa1p5c0NWUU51UT09--710dfb6ead60f54d9877631c8d9019ccb68965ae; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fschools%3Fpage%3D3; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/12757-Camarillo-Progressive-Montessori-School/

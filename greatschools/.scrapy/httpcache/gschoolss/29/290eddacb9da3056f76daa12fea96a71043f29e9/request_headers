@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A18277%2C%22state%22%3A%22CA%22%7D; _gsweb_session=YmdxR1NtQ3Y4US8weW1RTmoyM1locDBHMjUwbTY5MkpIMEdCZFVqZzB2Rm5VRlhPZ3lhcG1FekdUQXhqbzFZalNENEtYbnNlRXBubGQyS3NoVmxjcEo4U1NDOVJxOUYwU0VjUURJeUFBNXJQVWNoZGg0aXBrOXYrWkJCZXVzV01NSFhwUEZZdllad1d4aktUNXJLdVU0dUNvUnlrenRlREFzb2c3eExwZUFRdWZjRTZYZ3FDTHZ1L2ZmNERBRklWSTZscnJrR1V5amZJMmF2RXhPSTd2RHpGREtXNmNJZEJpVzl4UXhyVHlRVnNnSDc0S2R2dUVRdHo2R0NUcmtMbDVVWGdRT2t4TVQ2aHdnNUhHbUlEbyt1N1pnL2w3RmZZcUtzSDdTRW9wTU4wa1JLcG0zZkxpZDV4ZEk1UEl1eUNpUk4zTWtub0ZLRVJ0T2pld0ZkdHQ2RTVFdko4K3VGT1dWczJMejlNbTZpQmFZUlI4RE1uUWtqemVRT3R0NytNdXB3M0JZNjNoWW5XdW5oN29IM0xrZz09LS0rVUt4NCsvMVp3Z2U2clViVmtTM0VBPT0%3D--e8f3e4653f2f2076e6e9905a6cabb5c8374cf05b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/24049-Divine-Mercy-Academy/

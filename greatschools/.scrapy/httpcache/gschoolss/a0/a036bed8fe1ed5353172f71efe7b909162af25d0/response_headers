@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 57e380e3-44e7-4127-b476-f33ca18bf8a4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Forange-center; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bmNKOHJOeDJTOFFJTUM0VlU1c2h3U0VQeEhzaW9kQWZuRzh4WDlyNmdRdFN3K2FISkIyUUZVbkZ6aW5oVE82LysySVFhNTZ6dDFVLyt3amxVOHZ6em1WdFFNZHdrbStBYXJncDA3SVlGYmxCWFBhcXdjV2cvV1dhM1VSTVBiWHAwRVNHcktMM1BSbHB4a3dEeTRqdHR5Mlpjd1dsMkNyUjl6WnVULzhSSEo4Q2pMSHJMajNBTzAySGxsRjB3VHRWVlR6bFlzUitMVFpLUHBoMUlzS3VhUW50eUM0ZkFEcnhqRHMxYWltLzRicU13ZmZUNmRWU1c2dE5iUlR5L04ycC0tRVZTRDNyZVBOcmFyYVBJOVRIVlpuUT09--8daf34b287faa4349b889e198d8c7f0457429eb9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

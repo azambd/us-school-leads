@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cf46881e-e93d-4ddc-bbde-2ff079c2e410
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-sacramento%2Fwashington-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YjNnSzJ3M2IvZk1DbzYrNlBsM201a0ovR1ZFOGY0c3dabVgrZW1SNGJjOWgvN3hnMzl3V0kyN085ZUVNd0szTkMzMUMyWC9CTTk4c3BGa0g5d1dVOTNpZjUyWE81NDZzTzdadFB2dCsyMDVsbnM2OUU5QXFjUTlsWVJXNXF5bnYzU1pNcTBwOEZXMHRyeDg4TzhGeXRCSDJZUllrOS9jTFpYeFV5ZHU3UW93a1BmMVFRMXI4WEVUWG1XVHNXT0NtNEM0bnhBdFNyRndOYkErQ1lLZWk2KzBadmlDN2M5WEpaSnFia0orNk5FSWhOS3JVQ1g0cWpubG1sK1lhQ2ViS0p6VzEvK2YxS013bEdwK1B2c0VwVnc9PS0tUTEwR3M1MzUxV1NRMmQ1dHVkd2drQT09--e70061f0f6435af7c84763c20b837097481f375e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

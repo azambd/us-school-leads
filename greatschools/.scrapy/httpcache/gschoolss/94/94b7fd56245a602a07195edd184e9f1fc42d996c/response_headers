@@ -1,0 +1,18 @@
+Status: 200 OK
+X-Request-Id: 2699e686-c036-41a5-a177-d0d19448cc25
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: eduPage=y; domain=.greatschools.org; path=/
+Set-Cookie: choosePage=y; domain=.greatschools.org; path=/
+Set-Cookie: enrollPage=y; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=Milwaukee; domain=.greatschools.org; path=/
+Set-Cookie: hubState=WI; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools%3Fpage%3D22%26st%3Dprivate; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WmgxM0JSSjFGbW1rbzcza1RuOWRzazdFS0dsZWpEbE5zd0t1c0VPckhhUlYrUFkvVTk3ZjZuZU9mamZxVFQ4TGxvZWVac083ZWhTeVluVitETDJCaFpsQ3ZQMEIvS1hQeHROSWExeG1yU2ZjcWc2YzMvUG5TV2lWZ1JLRmNheE82TEg3NFNpUkRTc2RyckFQUGx4N1lIRjRXNGxKRS94UjZWZXYyQ3VKdWdLbXJQREJLWWhGQWVDOXBXYjg1SjM5bXpJcVoya0djSHkzMnNmbkpPWmFjMWZzbHVMcDJKR1pQZVM0RlUxR0RTdHZjUzFzc2RVNFZxUmNtUTR3VEVNV1hIVHlTeCtib3lZbXpOdUhCKzA5aHgzeVVMOFlDTGVseUI2R1JUby9NTm1aU3ozSUhPRVdsYXpxZGw5RVFhN3pZc3hXVW05elk1OFBjampRNStKNllhK1VVaXNiLzRuZGhCUkowYlh2NE9SU2FvUzZoaGdaMDgzaE95N0ZsbHZTMSs3R005VmlDcHBwcnBBa3lQREE2UT09LS1nc2lkazh2bjdxSm42V1hmQi85c3VRPT0%3D--4bb5851a9f49f35f4b9b2834dc8047dadb98727c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

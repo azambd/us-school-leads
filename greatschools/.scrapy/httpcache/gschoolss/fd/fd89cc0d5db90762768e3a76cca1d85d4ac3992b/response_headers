@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 77512299-b6be-4abf-b0c6-f1cf938d105c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Floomis%2Floomis-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S09nYUlmWDMvYWIyQ0NaaWtsUVZTc0NFMWpXNnFJK1YwVW1ramppUFI4NDd6SFlMbk1HeENhV21pWkdnZTJwZTlRd2w2a3Q0YVpoRmhIMlpuQXh6N0JMRms3SllqS0YvV1I4bW1GWkE1NkVsUVdhWXNEWEtod2x0VjZyS3FKK2lFZjVOaGVGMTk1T0xSNy9yTHRKM3BJMFhYRXlqZ1R2VlR4K2xha091MDlleHNJUmtJMDNFcHJMZmFOenZ1cFlJVTdnL25nc3VRL0krelJ2NmNOSzlpNDFGTDZnQ3M2WURJYkJGem43RWpwNzRQSXNBbkVRdUwxc0cxMGZTb09vNi0td0VBZjU4c0htcXdYMTNWai82UzRNdz09--1e025a61461bf77226253892ee43ff0090a01e02; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

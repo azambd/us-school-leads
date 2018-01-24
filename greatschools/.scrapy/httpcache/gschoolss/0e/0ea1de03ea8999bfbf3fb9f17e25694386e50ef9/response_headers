@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 39a41ff2-ab68-4158-b961-722de782eefa
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcrescent-city%2Fdel-norte-county-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L3ZQV25HYUNHRVJGTFBjbEp0cWt6NXhwVVdUdThBNDFNc3A0aHk5aEpHQWJDUldJWXNPbFUxVnhXcnd2UjZ4SkozQnVhSjlOMHpyVXVvd3d3OTByM05qZ2hlYXF5L09GTGp0bkUxaXcxaWtkN0hBQ1I3ekJwZGhoTm10TkRZTEFsaStQcnI2cXkzQytGdTZVNzBIQStUdmx1OXRoVlF0a2lQVEkxbU9hckpxdWpvcXRaaFBWVGtCZUQxQ1N2d01sS0dlMDhIdUpEY1ppeWdTR0k4WkVpMktkaExDaTloNnVCMitHK0NON0V0TmhzK1VuM3BiRnEyYVpHNEYyaTN2dmE4emd2UkJlSVZ6RGVReG1UNVJyUkE9PS0tWEVxNUZrK0dWQVBZNVR1YnpOWkdJZz09--2c463ccb9f77136bb473bc44cc84eccbc5245be2; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

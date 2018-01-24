@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 201a3061-0628-4021-a5aa-261047ed1d68
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkentfield%2Fkentfield-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SnJDMGw1R1gxaHBRS2ZYTlB0OUJiUE9mMXlHajdsV1JtUG9XakM3SFVReW5oTTZJRkcvK2VtSG90dGpVQWwvclI2OWxwNUhOQmkrNkpPbUtLMFJCdUxOZ2xWZFlMdXBLOHU4VEs0Zm43dnFCbTMyYjlTZk5CVk5Ed3daNzJKVmNUbmpqUktEQ0FZdTluYU96M0hUaWcrZ2F0aTlxQi94VU52ZUNuY3lwenhHbkZpekMyWVhGNGhQdWtBa3pybFpqTFUrRmFyNUlsVjZmWW1ZUlNMRWFnT01Ga0RLeWZPWHhqUXNCVkZidTFlV0h3MVBqVlM5VlRkMUZFTUVvdDljTHI5ZklZVTBDSDc3d2dmam1sZTJKM0E9PS0tU01uMjUvYmZIeG1iUkMvUFczUlRFdz09--bf2d6ace5b3b4fcbbc3c60cf6523016d1207b99a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

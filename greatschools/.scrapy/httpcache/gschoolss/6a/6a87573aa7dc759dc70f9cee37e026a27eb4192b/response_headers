@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4105e9ac-3287-48bb-8c6a-0d87f0eed560
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcardiff_by_the_sea%2Fcardiff-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bFZoTzYxUVZmYm1ET0Yvc3NnK2pIYzF0WlJtRjBJdGNxSTk4L3BTd1JMZk04VVh1L0o1Q1RUM2dtT2VCSTluNXNxdVo3a3gzUzdJaWNPMjlPRDB4U3BmVDAveThvVCttQlU2Q0lJMEExby9XdEpEblovUTArUGE3TkdyQTgwa0dHclR3MFE5ajZRbXMwdnluRzRYODZtZnI0eTlva0NpN3NTTEdKNnNKaHBISXV3VFdTbkt4ZmtkR0RHejdjQVdXcm5YY3lBWmFYb1o0OHpyV3A2elBXd0xVanFFWlI5VGFsNDhlclM2eTZCTmZoeHJjWUxSRk9CNnZ1UlVPTWZXNHdyWDRhQVJFSThNUFVUbkQyV1NOUWc9PS0teHJIRjREaE9Kc2NrUEFBOFNUd2F3dz09--7a1eab084eb4a452e9e838f33233a87f470f0262; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

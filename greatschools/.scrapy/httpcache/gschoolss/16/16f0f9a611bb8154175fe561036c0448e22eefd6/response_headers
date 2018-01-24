@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 0cdba5e5-5275-4825-b509-234d9a829467
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=e16aba42-5f68-48aa-a64b-8b1fcb35f63b; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbaker%2Fbaker-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHMzMjN3THA2eGtLbDhNZVdaT3A3YUx6aWNNMFliNjk2VWxYdGNVOTdjYmVkeTN6cjRvSk9WcjRYVzYySUxVOUZIR1NQcE9INUhOSk52VjdubnlQSFc4YUdMeTE4ZERQNFB3NTZlbGI3SVJ1a0VGeFE1QmZTaVlkdStRNGFkRGpEbDlMSXF5SnozZlk3bFRTdStpUW5tWkh2VklLSHNBVm91VSsybk5RMXV2TVVESUs2VEFHVkFPN2RWZGVYSkFLVU9XbWpsM20wTFFRdDhRL1lBZGtPYVVCckFhN2pMeWE1OGJLL3paYzBCUXNKdENXM0p1ZUZ4RVp4bGpaN3oxNC0tczZKS0E1d1RwNXp5LzRsR0RGT0pwQT09--e6f8ae3db5fa01b5c13ba1f9f57a6ba80c704b6e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

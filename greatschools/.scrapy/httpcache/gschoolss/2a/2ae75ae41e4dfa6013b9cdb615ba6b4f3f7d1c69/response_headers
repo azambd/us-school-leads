@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ec4623af-a714-438d-9aff-fbde2f96ff91
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredding%2Fgateway-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MXR2eVRGbG95aFV1S0hnb3lGSi8yYXBza0ZSWGgvR1k5b0RzQjFIc3MvWFdRY1JtU3RXYWU3eVd3Sm1aZVhROGJGR0lPditvTFRISVdCdGxsa2hyZVI5MFRSazVOYytEdFhONjlLS0VpUys2cWIyb056U09hM0V3elI1amdKUUlpdndvcWxOMkF0a0JNY013OGcyOFR0ZjhhelFrcGNkRS9hTC9USExYaWtHRFA5WTQyd05nZE9lOUZBMGlBK3V1WTladXYvYURpMHpKcXBNN3NINnVZU1JDKzh2dFFYTTE3UTh4eG1YdHBuT3FiNXVUVHpJanFJUG4yUmpDeXErSC0tTHBpN0JjajJSOU5yeUkrRUVyZy9Bdz09--1feff21df9a6281b20d21e78a8c1f47e2ee85eaf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

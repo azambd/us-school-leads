@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: e1f91d59-e7bf-457b-a65b-b961f165fee2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fweott; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MGZacjdtdFQ2amV1VFAybXhsYjRRdU5XcmpWaVVnVUFqdkV5OStJUjU1OHI0N3lCOUc5Uy9VWjR0MUVEcG1tQmhjODVNekdMQVhrWjN0TUw1bm8vQ0xyd2hvVVcyR3JCL0F0OWY1bWFQcnRUcFFtbGI1UWc1dFM5S2p1QlQrVkU4TU9iQS9lbVlrUWhQODFleTQrc0krUUk2Qjd5V25FbS9xUUpWRWw1elFkV05UYUpJTkV0Qko2RU9EQkNNdERjaVpTY0pGOW9hQ3B3alpmc2xPaGdsdUtEZ0JCRFhidXNqcEhVNmoxeWNKTXdqT0J4SE00M2tyNlpvUlluNVJVTXNhU1hXcWZJQXIyS1lPTHdDMElaUnFDTUtKbVBSOHdQayt1ZjBzTnhEL3ZrN0FmMjRSZy8zT3BUSlRZT3BqZXVhSEI1UTFTc0NMVWhrYk9CNmJBSTduOUJOdG5BZ2pRa3dZSCt1T2NEZFdPazZvckUraUJEbVgwS0F6ajBXM2FjZVVTdTJuQUV0OE13dTZONGc3aTl6QT09LS1aTUZob3dHWmlYTWZURi9mWU9rU3lBPT0%3D--614e27c50345a32cc283294033170af9b490751c; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

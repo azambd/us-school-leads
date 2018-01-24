@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 529be0cb-4fe7-44b9-b3d5-b981e685a1f7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=3f86e7cc-f225-4f87-b775-f45c65fe478a; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpoint-arena%2Farena-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SW1qZjd1VXdWV3RlTGlJVnBYVkhDT0NXTHJnMnFqMGhLVlFXNEJsbWF4R1U5MnlFc2syWktWOTJNdzVicjdDak10eXZpN0lYMGNXNFhNYllpcTdmZGt3WXJ4TVg2YWt6ZGNjQUdmUnU3NTl6aVBnUXdwSGN6QnBTcHdxQ3EzZTZMbXdxeDY5Nlh0US9rZyszY2tkczRkV3NERlpGcTZpZDd6eFhDbDJhSXdkOHA0NE84Y2NMOW1NcllCSFc2cUh6TzJXY3JZK3ZsUHB3QVNtSlQxSGFHZ2I0YkhweTFid2hOWENnaXkvMW13WHpHNFEwcm9vVzQ3SHd6OTd4em9NQ1l2WU9LYzROTXJhSXFaM3NtQjhkT0E9PS0tNW1kajJsZW1hUVJRTDhtSVhWcGZZdz09--99f8db0122b59bf6ea209e6d0fadaae5e86939d4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

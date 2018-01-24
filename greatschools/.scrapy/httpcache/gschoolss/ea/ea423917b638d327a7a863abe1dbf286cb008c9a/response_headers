@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 673c7401-c07a-48dd-aaac-d2f83ff896fe
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwestlake-village; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M3plMlJlVlc0QzAyaUtoT1hXWXhQMzV5dHhZWG9OdzdOSjhTU0hUOWZJVzFSZkRYQW1ncllFakVPSGlJa0NBVzJDZnp0Yk1hOHo3TGNmbnF4RmMySmFXMFRxdUQ1L0F1UnpZSk10akRiZTlBcCtOdU5FbXczaTJHdGtXbmtUM1NSTEU0cFU0WnFhMmJDOFZaTG1jcHNESHBNSjQwYU5oUFh0VkgwZCs2THowWXVrajRzRlJKTkRJemY2RDZpU3MraUdyYzc5YTlaVkpSeklwY0Z0NmhER1J4bUJFRy9yeUd6T1A0UVovQVRIQ3RGeklXT3ZJdlBBV0JTWXBiNTV1dzNjWk9DRTMyYnloQ2VmcUJhRW5POHFmZ0xsNGcyejg4RGZ0ZXRuNUhmNzVZc2hjblg3K2xiK203RmJLRkQ3ejdwY2YwZDAvUkxaeU1pdml4QVJOTk0za3hOMU1EVFJ2b2hEK1V5R2VZdnh6MGdNS2Z4MUc0a3JlYU8yS0JvMU9nWERYSE9uNzFITlBNNzhTWUVYeXR0MVlpQjMvclBVbks5aWhrWXpIR3FVST0tLWdFNlNrR2E5cnQyOVIzcVVUSkE1M0E9PQ%3D%3D--7deaf642ca8f3c0dd2da0d12d721670021779557; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 19721969-2de6-4d50-aa8d-142578f19b33
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Fburton-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aWYxSjBqY3VaU1ZqdlpwaHQ3SFhRTzRWWHY3Z0k5VTN0bjdEVTBHMVI0eVZjK0NrV3Z4TVZGSDZLZ3p4a0ovR3NHKy82Z1lUa2RrZCt3NVQ1bjU3RFJiaWJaMkJNWlJ6b2Y2bXoxL3dNSm1UQlQ3cHJTaFJiQVlOTy80b0tockRPbFlIeGsrb2d0RWhibm4vcEZRTkJndjdQNC8rYWlJWmJxRUhRZVBpTlYxSVBMeGxBci9zQkphN0ZvelYwZnQyWDhwb1dHZG9SL2phT0dJWEg0RTN6eHljNVFJMW94SEYvcnpXTTUrSm9sUkIyMXM4TDVrNGJEKzVlYTR6bnhWcGdIWjFJN1VYeGE3b2RxdE9QRE1hWmc9PS0tc3JMa3RVUzdCaEY1MWtkaW5QVXJvQT09--cc195eeaa34bfe0ffe005a1814f478ce64e8d5f6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

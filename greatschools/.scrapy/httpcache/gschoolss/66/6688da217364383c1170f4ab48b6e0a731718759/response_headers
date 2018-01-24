@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 19a68fdc-1d85-4de9-af92-26ed867d56f6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fadelanto%2Fadelanto-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K1EraUEwbndVQTcra0pyaTUzdXppREtFTE5JWHZwMmtPUTVCeXNJYUtVcWU5SHp6Q0NxY1d0TG1MSE1UUEJMV2owUVV5SFRnODFvZW1CN3ZzdTdUUHhXR0tPWFZxY2s0MEhrV29qNHBKcm80SHpEZDQ4TVRXNTVpc2IyMWhyeTVTaFBqTzg3UVRITi8zQ1pNOHM2QnhEY2FBSG5Wd0JvUUhOZE5waGZmWll0ckpNUTdKM0hzZExxQ1cwOEN5S2xZdVBUYTQ1bVl1MFFiYkYyMHhYZUxRZDM2S3Y5K3c5RTMwRlZjbmdkRWdmNE5zdFE5eGFCa0hzeDFJRCtqTHZHVi0tVHQzS2dPMjVkbkV2MGpKWEhzcEI4dz09--90905478b00383a9d5d4a0096e61895d3b90cddc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

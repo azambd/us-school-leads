@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0c5eeeb9-daad-49d3-96c5-41dd69827295
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flinden%2Flinden-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VXdYd25qaFNUcHpLWDhscjNuekRNYkEyTEV3dlhVSWVnS3ZzVnV3QmExdmtZYWxxd2lMTG81ZDRQZnBDOVVaNGozenMyZDkwQlpvMFh5ZjkrdjFRQkVSTzdpU2pSVFFLRTBIUDIzQTZEdjNNQ3d0YXM5QXhpR2ZoT2pLbWZZRnpwY25EaHN1bVBOeWNEYXRwSmNKck5VazVuYTY4cVZ4OEJzS1Jlbk5XZzd3TUMvZU91L3ppMXU0NTVSVENzcmF3NHJsZXlLRHBna2VQWUVYd2RtWnJBQnY5SXZOK3p2QTJBUXBMdy9yaGZ6bHJPT05XYVlHNmcwWWFKejBQNzNCNy0tdThJcDVYSEQ0dlM3Y2gvendEVUFNZz09--4c69bc03cb0e153c4dff440cfab80f10bdaffc2f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

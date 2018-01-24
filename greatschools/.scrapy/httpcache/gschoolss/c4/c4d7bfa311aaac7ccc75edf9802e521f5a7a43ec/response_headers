@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9de5ad14-95f6-406c-a004-f5925172db43
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjulian%2Fjulian-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cmNTbGk1enFEbUgzY3ZDK2ZCZU5RWU1aWW95T2lmMWo3YXhVU2h2am41VWUvcG1xNVhTdms2RVdqdGEwaDhUV3RjemdzSkhkSWttaDJXSW5uSllGdnVTd3hLcTJRYWJESmk4RmhnY1BDWXo2cjRBYkp2eXlxL25VMDdzdm5sdGN3Tkt3S0FhS3d1WHZPM3RjbFU2aktOWjJPZDBnejJybmRJR1RwRTFrQVR2MkN4NWdmTTA1a2lOcVZyRjdOUXNWVDdySGcxcUN6cEttbHQzUGpZbjM0d2RCTEFGaldicFA4VDFNMU9UblliSEdpbUxwMGZrQ0xFNjF0VWprc3R1Ly0tbGVJZS9EeU96cC9meUJNUFA1WldpUT09--a7d4e57ffe12ebddeef059f8c89549c5dcb8719b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

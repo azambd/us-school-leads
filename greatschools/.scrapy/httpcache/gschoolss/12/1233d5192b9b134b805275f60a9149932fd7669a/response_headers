@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 35916606-9ca4-49e2-a3a8-ead935460972
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fbennett-valley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TlZEYWVYeXlJbDNPTWhEWHEvYzlXTHVnb1JGcjNBcnA5VG9WaDZ1SnVpUHFDa0k5M2Z3eDdPY0lVdEs0eklIbEN2MmVwV2JPWHB0UVN6VVVNM0xrTU9OV2VoUmJVbDcyOU9XckRudmVLRzlNVXFCM1pHaER2RmQ3dCt1YnNkbWpPZ3NmN3o2VHdWMDBzVTA4SmMyeHl1d1RyY0RJNTExeHp2L3Q0ZERORzV4NldYZGt6di9ZNmVUZGNQdUNZeGJ3eTltVkRScmhGOHNPZDk4L1RrUEpqMHgrMFIvbVBZMndKQVVpOHNWRklzWmx0bHNDc0lNcEhvWFM2eW5LNWNKenNvSzV2Zi9RN3IrTjlUdEpvYjBKMFE9PS0tY1JNajk0dVJncmc0RWo5ZHliU3E5Zz09--863c714931af89bba44535fb5052f89a3ed4fa9e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

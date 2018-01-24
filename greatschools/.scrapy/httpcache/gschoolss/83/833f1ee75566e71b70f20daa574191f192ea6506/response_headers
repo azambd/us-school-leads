@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f4cdcac8-c0bf-43ec-948e-119fb0ad3991
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsunnyvale%2Ffremont-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Q3U3Y3V2RzNVemRpYjNVdnpSOWJtMDRtZkh0N3l1M0VncDFtREpOclBrblV2Y2creDBnLzFzSTFOYkdvY3JLamZsSW1zeDJ1NlY4Qk1CekhKdWFyK0xOYVphR2tHd1p5MU55djBrcE9iRjNiWUs1NTh4ZVVzdVFselM5QzdsT01Nbm5kVlhwcDNSaXlZa0kxYkMvb25HZXQrRUVsMHRRZU1iUnZ2clhkc3lIQ0VxMzlodWtPMnpLYVlCczVRQmtHbUgxVEw5WUJHaG1YQkNONjVBNVJ0RGh5UEFpS2VBZXZLTFFMMXo4SjJGS3NyalFOR28wZ0sreXZ5L0h5NlREcHV0VjZ2dXhBMW9HbnVpS0lWUHhhd1E9PS0tV1l4bmRIV2NJYThLd2dxKzRsTHF3Zz09--c01daf2f6b79b33b2ced8091bffa43318ff917ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

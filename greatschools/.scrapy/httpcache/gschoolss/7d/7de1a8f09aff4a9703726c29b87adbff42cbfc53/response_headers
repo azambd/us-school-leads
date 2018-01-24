@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4e03b064-540a-4d12-ab9b-3e3ce1c5fa9e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshafter%2Frichland-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V0VhK1VOL2JZY2FESEdQSjVzL05FVnp3ZXNIdERsYTduQzBiaVZpZUJ3Nk85YTlDa1YwOTRRQnl5eUgxQUlHRk1YMGV3ZTF3alFENWlVME52Q051dVFzc29VTkxRdys4ZTNiemlFSXU2UTRjV2xUcmdla21xVDVhVWhpaUhTVnN3cVBjWE1vMWNZWUdpaXZFUlJFdkVBZ1dTZXg2YmlXMUdKN1RPRHhUeUI4RHZ2STRWNnBQMjg4ZGFsb2VKbkNNcjl3dFoxSUxtbFlrRnhoNHVldlZDV28zdUo2SXRjeFRNdXI5REF4KzgzMHRLc09Xc3dGR1pYaGQ5dmNjNjR0NS0tbE05QWtvNzlwa1VVQm1pNDV4c3Uydz09--5e1737d24ddfa650fa1319ad9af0f845b7b655aa; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

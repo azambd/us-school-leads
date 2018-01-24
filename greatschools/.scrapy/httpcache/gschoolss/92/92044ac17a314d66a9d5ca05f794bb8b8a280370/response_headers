@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f7776153-fa6d-40ce-b4f8-f6214eaf0f52
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-molinos%2Flassen-view-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eS9HSlA5L0pUL3R5bDV2NCt5VU0rbjMzTDhBVTRYOTFMd2I1TXdVcVdLbVRLTmUvaEhSd3JaTTgvM2tSUDZzWGM5N2hEckRNVjVBRFpaU2J5eFVERC94MVFnbm15bXZWeHlMQTBjOWRzcTRnTUd3azNHT0dXZXJ2MTRpbG8zSkdpYW9PWkpPZnBCTXRrQnBINkI1MXZXSkhaYit0d3ZDblVmUEdJK2R3RHBTb1NCeFhoa2V6SFVZNktqRmZSaE1abGlNTU5PK2l6VEZMQ29HSGZoT1l1YkJITm5QVU9QUlNLR2JGWVRTQVRtb0h2bmp4OUJIN2pEZmFjSGFwZS9JUG9Ma2Q3YTBDeUs1cVRnM1VFQllDY0E9PS0tcW5xeGNDYkRTQ28yaVowaDBjQXJXQT09--69bd132edfb312572c5b2539e0788885e35d4138; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

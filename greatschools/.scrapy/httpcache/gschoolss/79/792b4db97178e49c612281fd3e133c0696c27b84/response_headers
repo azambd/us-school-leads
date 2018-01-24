@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4244922e-9b90-4f92-87d4-b9232f98c02a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fenglewood%2Fenglewood-public-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VDZZS1RneVVYY2ZYNkFUM3hmWGFyaEVnYTNZTnVEdFJLN3N4OWNEMGtERkNEVGhuZmFLMEErRUIrMFdPdFZiQ3czUlBWT3RYeUNybkhFaG45NDdkeGNaeCtSYXdHeS9UaFVVOW9ycjlEVFVWcXZCZ2ZDWVNGQVc1UTVpKzU0VmFsalA4S3ZPaTg2UmtLcVY2MFF5aEt4Qkw5S0JaMHpPQk1HK3RMaFJtWVNwMDcrbDdrRHJ6cXBPaHVCeUk3NkNEOVI5TVQzcURUQllhZy9tMjUvck1VcnpQR1dLcm5mcy9zSkxHNE9aN2MzK3p6ZjcvMjFCVmR0Q3dQZ3NBNzBjd1h1ZmNtUFVpejJOWXpKYzNBM3lzUVRZTkM2Q2p6MDA2Tk5mWGdtdWd3VU1IVEp2ajIrbndlbzJ1cXF6U2licmVTZlg4RVF3U2wwc01WaU5yU3YzTVltanNrZ1RXbE94a1lqS0xYVUcvRjRMajFhd1loa1FBYTFZQThXY3dpa05pQzI4eG54ZzdEY1YydzhiTGVKTGRLdz09LS1Idk5SU3JWa1R1alNtUzBQajcwTHZBPT0%3D--52418988ddf0199ef75b45f33fce5310c7ab9497; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

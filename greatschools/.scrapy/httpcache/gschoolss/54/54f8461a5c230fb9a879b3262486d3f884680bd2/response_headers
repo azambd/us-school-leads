@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5d3eb5b7-0ee2-4251-a05f-6e8ce3375bd9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacerville%2Fplacerville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cFRudnZ1ais1ZHhNQWsrbGd6ckRjYVFkUHhlS2hUVWNlQXZmK1hhTE16c1BmemVMMWhVMDdhaE0xQW1KcE9kcTlWQ21BWEg2eXV6dGFZOHk0YjlZQjBhZ2FWSURIbk45Vk9XL2l2M0ljVjBUYTM2Q05Xd3VVQTFHdStER3B0VmxpVkY2TDZtcVoyR3VnTTQrNWMwZlJhdWE2NEkvZmRHa2dhV3hDMGF3OGFsTUFNeFh3cm5nb1ZVSHNmdFA1NUhIM2ViVENtS3NxVFFBcHRQU2hxSEJuMUM2dkFrRmRHTDh3enM0KzNJV2hWZnR2SW9QSGRWWWd1VnJ5NEU1L2Z0RlY3RTFUQkpiTytCbnZBNDA2UjZXTWc9PS0tWGRLaWh5cUw3b0w1cUcrKyswNTRzQT09--10747bc17b593b793303063e52466515137f1e91; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

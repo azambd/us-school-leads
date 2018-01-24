@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9ebc22fd-8c1c-485f-aa13-a058e7562848
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcalipatria%2Fcalipatria-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eXJPSEVXd0FGL0pncXc3OUdXRDE4cHRBNC93QUtzaTNmSVJyWDJ1YzN4ekQyYklZUWdMSUlTNDd0aVRKSjBmeVBIb1ZOVjNVVVA2ejdSN3JlVVp3bGJDdERXVThXL0ZRNG93QUVpZnBKUVcwdTBzNW9EK1dJUUFJd3kyZ0dXbjZmWmhpNnRaS2R5cWxWT3NVdHNZZWV1dlJYdmFYbjdNQ3AxalNrNUdxK3l5NVBRNi9sQzc5VFlmODJzOGkxOW9RemJFbzBiY3ZoNjRpZlBaSThtVDRMOWhNTXhsaVo0aTRDYnptMEtGSXJCMXN5SGVmLzN0ck05bUg3ekNKRXNSWklkNEhlSVdFa1ZEOVgyYy9Jbm9rQ3c9PS0tRVJDY01uQWUyMUx6WkZrMzBUWUcvUT09--edcbd1bbd413ab44a5f7a34ee435bcde96821d2f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

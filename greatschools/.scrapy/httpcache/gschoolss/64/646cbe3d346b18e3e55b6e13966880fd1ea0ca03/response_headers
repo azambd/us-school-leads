@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c3fb5d63-5987-49fe-af49-50cdb6e59081
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacerville%2Fmother-lode-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Uk9HMDd6OWIxMEcxMlBoNmJTa21PWi84K3NqNndUQmk2RUkrSS9mSXl0czBQcGZ1d2JGSjlXME9XU1NlZ0lad3hQYTE1eVpGTWR0ZnI4ZVpKa3NjeDdKQ1hpeHlOaGZWTlY2SEx2OWF1b1RhdlFaVU50VXp0RUxVZEJoakR0ZHVtM3QyMlAxQjlPcmxETWp4eE85K0x2VVl4WVFyQU9XTCtPTGFtZmZGM0s3SlQvSWdDNjhuOEcwcHpMeXFGV2ROM0dBcmpkREY1SmF3Tzg0bVpsMDlXVTBqNVBKZDJzakUzUU01czhjV3hrWERxMUZEWVRrbE9ZeDFsSG1BaGl6M0dVWUNmc1p3RGozb09FNlN3V0QzV0E9PS0tSFo0ZURaNGc0ZWhtdTk2TFhtTko3UT09--752d997a67dfb569359b0467266349648dd59f76; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

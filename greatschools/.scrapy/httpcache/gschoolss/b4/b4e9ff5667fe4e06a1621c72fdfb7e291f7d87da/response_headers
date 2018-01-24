@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 19200c8a-b39d-4d00-b6a3-c6f4f70a9f95
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-ynez%2Fcollege-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YkdFYjZpZlVVTkZmUXF6Mjhab29VcGlPbmVsd2JMYXpzWlJwUEdOZkNoMkJKenkzZTMraXY0Um1XbDF6cThxTUZmWHkxZkxaNjhTRVFhdEF2aUdJaGwyMGNLOGlLaWEzNjgrWFZCVjNWMExJaW4vbTZsRmd2ZmdLd0gwS09pTDI3WUF2V1JsT2lYYWVEUVRKQTdCYjNFUHF1eVJkSm1CSTJMZkFJV1FhVE1UMDR1T0pRT3NTQVZaRVRkNUR1eHNXeUlWS2wvbnpIZTd4aGNjcTRMYjUvdGwrOFZTTHJ2bjZla2t6dTVNbVIxeDhyS3VSYm12bFdLamVCdG1MZXhZOTd5R040UEhaYkJKNXdqZkx1T2ZlRFE9PS0tU2R3L2RjVEZMbHJ3SHZ5RGlvL1FnZz09--1e5bc70a86cabf8ee09e1c4a8ee051729c114cab; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

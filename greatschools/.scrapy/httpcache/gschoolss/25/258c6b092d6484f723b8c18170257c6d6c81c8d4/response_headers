@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 17354c13-205b-4b10-8a99-d3d6363d7950
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpomona%2Fsan-antonio-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aE5uc0VTdjZXV010MFpRSi80bjRsUFpQR3pOV3RxbEVJWXBXemdpbm1GT1kybTgzRWUzTUdDOEJIZ1FudUxVL1NsZ2JxQ0NTTFpRUzlORW5tSk9qOWlYWTI1cTNCQWVCMEZoVzhWb0hmQzg4Mjg1dHFibWdMTjVlQW9aeURqcW56alljbVBEa1plTDlTYldHaXR1Vk5RbkFIYnk0Z3hGTHpucUNSTXVkUm13QkkzbXJPK0pkb1VpN2toYXRhSTB5anh0eDlucmxtK3VYUmxxcFFaVmx4Y0tKMEE3Q1ExcW9iem9XN2pTS29yYVZ5cy9CZTc5ZndMSk16VVptLzdKai0tUVJ5ekp6TUR5cE10UHRvSmUxU2Z2QT09--e6ef1cb74df9ef04efa83bbbe43634ed7b8ecf05; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

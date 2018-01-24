@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 82854696-0314-43b8-b98b-2c601409edec
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fukiah%2Fmendocino-county-roc-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QnBjc1pRVjljRGxtTHhVZllCaHd3WS94ell4NEtGRXR2SE42MzNVWFM3bmFUeUdqT0tRRjVWcldXaUprVXgwUUoyYzh4d1c3MmVNQUg0dVV4Z0RMaEZESVlyWFpnaXV3cFRHVGFWaWh3LzJNbzRPdHF1aVpxS0hSUi91T0pkYm9LbEtVV2ZhVWdaQ2VtaWE4ZGs4VVFJOFFZcU9RVGsvNklsNFVPa0ZReUhndU1pekF4YWg0ZW1Cai9qSjhDU0VkYWNSelZRVUJRcGhsOCt6ZmJGamdpMDVuS3BDb3dsRTk4Zk5HeDZXVzJmOVhxdlhxVlpSa1JpbWxsYjhhY3hZRS0tZ1p1NE9xSkRSV0crbEpBamNoS2RZUT09--6500a934acb3141f45fb6d039f8a7eb542a0047c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1c6c25c8-dde0-4950-bf06-12b112ddfc7b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdaly-city%2Fjefferson-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bFIxUDUreTYzOGxsQzJnL3hXUVV1SVU2cjhXOTEwdjRXQUFrVnBKWmVMWURJRkk3a210M3d3QnhHL2xBY0xOMjh4UGtsVk1PUjhjOHVTalF2ZDA2NHNZMWNwVDYxTlc0bWJKYzA0dkNETlhTMTRwRW93cktVVURoOXFBUHJOMkY1TkVxcmx2aVFIc2xXd0VISVY2R2RLTkRSSWJZUFlPK0c3OWxnTTNENy9jTzVxNWZpdW9UMGNBSVJTVGpqR0hHY2lBU0o0azlVelRtQy9xS0FML3lkZHR5L2d5dGpUNkhmUDRSZ0hjZXgraVFya3RvUytLN1crdTJCRi96ZEtKNGk4aGhVaWZLaWErbTJSMXU0b1VVRmc9PS0tL3RtUlQ2QmR1VzlnMitOZGFNQmthdz09--46696e2714f952e9f544625bc01c85196b93a3e5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

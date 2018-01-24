@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5e8a70f8-65a1-414c-bcc8-b26acbc348eb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frio-dell%2Frio-dell-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHRWTTBxTENyS3RlTUlvYVJhNWJ4Q1M1M3BwUHJUeS82RDB2K3ArYUc4eFNuYytEQzFSU0M4bzlEYzJ3OSttMnBHYXJWcUpYWWkrdDRDY2NMdTJZSlgycy9Hb2ZHc01udGxRWHhRcktYMUxJVnRROXlVY2FjTGJOcDJtdnJWN3M0UzNaWWVxLzRKTlhvMzRKeHY0THBoUVNwT2FXN1ViR2liV0Ywc2ZQcUZZM25GNWIwRXpLYU9MdEoyRzlGcUdpMjhwOUR3Q2JLNmlEVktncUxiRUJjSEVDZm9iY2ltNE1YbjBnS1BIZEVkOVhiaW9YcUxEdGxCT1JnWHRUNGw2Qy0td1JGaGlYTEt5K0o0THdvN2tzRU95Zz09--d6a30b6083a27281f717a55756da5f78e16b0664; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

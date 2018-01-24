@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 73576614-26cd-4771-ab83-41fb11320154
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpond%2Fpond-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bUtCNHlIK2ltbTQxdXhIQjVxcXhPZGR1TWVUanBYZGdYeEY4TTIyQS9NL2ozN0lnOVpYY25lcEd0dXcyd1lZRWNFa3FMK1dMUVBxLzdBaHFBZjljQko0dW5LZUJkK2w0S3RPS3RUR3lNT0hhWkhid1JpOUZuemJBQkdEb29JQkgyMnRyb1VxUUljSHJWY2xvODBWR0JrU0YwUkNud2wxKzZUd0lqSDVkOHdydXhPbjhCa2lablFqTlJGdVhYNk5zS24wTENOcmhYR2ZhYUtPa01PWnhSbUNPd2hockhGWjdPaVFORTd2UTlkcTNKY3h5MEVSTEZIaVZLem1jdmRoMi0tekZ4S21pU0RRSE5jNnhRQXZ0WDFHQT09--94a98a500f55686d8ce8043085ff06a6e2e8ebf1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

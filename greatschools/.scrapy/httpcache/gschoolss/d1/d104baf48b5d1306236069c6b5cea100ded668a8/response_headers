@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f968d639-bd6b-4206-8226-87ecc53f6dbc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-point; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RWdpR2w0NVZSTXRyTmwyTEZzbll1TGluRkpIM0FRbUtwSitsbFI0ZVVJTWpuS2h1djdEWFVKY2lURlFucjh1U1d5cnRhbUxVNjM5TWpTcE9UUi9jV3ljYkdpOXVCbWdyaHZiQ3N4MURiUDZUcVY5dHgrMkkzQ2E1REJsSWpIVlpTM0hsSGk3WVV1MWlseTdwd3ZGVUlhY1ZKV0hWOVZYYmFMUHVsdWNzUnRrU2ZGZjcreE9mZTZpOUk0NklSK204b21YMHg1NWpUOWhybVNhMzBocHV6Qm1jZG84NXdBNytUS1BOMkM3Z2VnaGRPbDBaZ3ZOYUJwZlFWZ1VJZm5kdElaeUF3VHoyWlNMMTl2ejMyK2hqM1E9PS0tNThzUFgvQmI5Z2NHRXg0Q2wycUVTQT09--480d1e2367159c27c55c50a074c74a66c5517ca5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

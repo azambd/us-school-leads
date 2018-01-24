@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: fafca834-f0ca-4e6f-ac51-13cc46fbfa75
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fnorris-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bkdKMkVyYTE5Um4zSlVZOEhpMXRxeWVOc2NndVA1alZzSXlUM1pXOVRUelM2WlpDbS8xWWo1ZzNGWXlDWG90VTN0bkFMVk9FKzhGaU9oSzV5U3JvaXA0TE05b3hDWk1WeFdCeUh4RTZuc05jTVV2aUlESUF5ZnRwSW14VXZIT3NCNGRiVW5QM21LcU1hbUUyZGhSTkhPS29nZDR0V1R5ZUY1L3htN0k0dWZmN2d5ZFg4enhyQU91Z0dCckhCdllad3hmUVlpS0hLWDRRanNOM1JCR1dha1VJT1YrbUh3eHhST0JGV3R5V0ZZemxNNFFxM2JpUVo4ZWQ3NGFsN0xZTURtY0FVaFZQTG9ab2FuWkhSL3BrQXc9PS0tK2xlYm9oV2pCcThEeWEyRVpMa3ovdz09--e77195aa43b5a45339db03a7a1f884326117dbd6; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

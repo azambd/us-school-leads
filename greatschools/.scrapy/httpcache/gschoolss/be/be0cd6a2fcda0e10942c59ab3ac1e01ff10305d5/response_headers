@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 810166a0-603a-4051-a8dd-4a2d2d5df408
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fterra-bella%2Fsaucelito-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RkF5NVRxQS9hMkVUeEttRlBEaVpZNU1JdlpDSGh2bDJiQW9IOHQ2OEp3bExkV3gzb2NGNlRSSzkrS2JQZ1FNcnJJWE5GKzJVVVdvTnFUZFNqOVlJaUR1MXBqaTdWNDUxRXNWams0WEYwbzgvaUlFR2daRk9KODlqTUtVNWFsbE54ZkRSRlJCVnB2K2V5U0I4RHY5WnZONHJpbVpGMFlpYUVMVm1zd3FaOWVUVC9renFDQU5qRHFMbXRYUDZucWZYS1o5YlFWb3dML2FIUSs2UkhzUG9FWGkvTWRLTkdVMSswNDNaeGdLYkw4RU52UWhMakVpcmdWSHl2Zml0ZG5lN0IxSUY0TWc5YmY5ekp5MUpKc1pLS2c9PS0tRi9FOWFzTE5ESit2aGpramRSWWY0dz09--8635ab39ccb77bca70e7cf72f153bdf51f798ecd; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

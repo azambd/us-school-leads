@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f4cc0927-f0b5-4f8d-9871-65d3a8d5dcb8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frio-vista%2Friver-delta-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U3YxbTFOWHFJT1EwTmd0RW5UZFhFUmJST2Y3TkxFUHNEUFIyS1NTYWRCSHZKQlpnYXhTaG04eTNTQ0ExbVJCdHh5Qmg1TXM4NHlVaFgvc1J1eDBYL3pvOEtJZlcvdFpRb20wbGc0a215MjdpbGRjL0RQT0ZnMU5pRGFTVGtKaVdlMHlSalpZZ2VIcTR6TExoUG01elRMenJOZUc3R3R1Tk0wdjFKZmpXcllVNS9FbmUrQ1NIMStjNGZFWk1tbkcwZS9Ya1IwNlN3VGNReWpNdlFlVElFeGNZYUpyVXlDWW0vQVBZdC92b0orZmJPc2c0SWNwaC8xRFFjWVlmak1YUnUvVnJOeWZtVFd4TzJYK2paNWtVc3c9PS0tV0Vva3dlaWQ4TGdqSkdYa2t6bnlwQT09--2f25f75d5372f44567363c1dee03b2d19865a855; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

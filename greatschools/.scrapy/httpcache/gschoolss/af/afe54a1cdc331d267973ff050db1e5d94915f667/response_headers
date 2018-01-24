@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 57c0450c-91af-4c4e-a6e5-5a48670823c1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmineral%2Fmineral-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VS9rOUM5VFAxL3VTYzgvWHBqSGpUUkg2VitPanBTbE5oUHp0ejMxRWRKWW1TQ0lscjkraUZ0di9ONW9QVURxbzNXd1M2OHY1aXVUL2dGTGY3d29rMytyT084eE8xMG1QMTZ6NkhIK2VUTEppbGN5bjA0U3ZldW15VXpRT3Ftb3NDSmoxeHFYYWNsWlZkc1l2eERCZzBTbnhQUzE4SStYbDk4Nmw0K2dWUm1wUHNMbmdaQXV1Wkl0TmRSL2dReUIwSlV5QnNaMlg5aXVRVlYrTjg0QTFuYnFsY2lLeGRwVVVDbDEvWEFpOWZaMUNIM3dNQXlaTnZvSWxyeHFKUExENC0tRnJzZ1M2TzlyeWZ0ejhOREh3bTdodz09--05806285deecc617282d594cf4075391411c7ec2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

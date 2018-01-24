@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: 729fa25e-12a1-47a6-bf07-bb3e486329c6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fleonia%2Fleonia-public-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SGVkU0crNGZubDlzOENFTE41NXprL1c3RmpLVFNvK0s1YTlab1U0cmJZaGlkMWxGdksrRSt1NFpBMlN4YlN1Wm8xZWdJbExnQnRIbFNmL0FXWjU1ZVlybTVzNWhmejYrdHkvZS84YlltTGNBZkNiMmRlNDAwdm5vZk1lallxeVRLaHJzQnlVaWdQekEzS1FZLzBVekFnVmh4QmxjNnR1VXU4RTZuOUtDWGZNb05tVFk1OVNQSWc3cWRQQjhaZnEvRmt1Q3ROZ0hjTzFrY1hBSHdvb1F3NHZTYTk2eXNvMlhPWVppeWd0a0x0dXc5Nm96T0p2eXNCYkNRaU9zd1RxSXVIbVBxek5QaVVURS9sRHBFOVJiRDlyMVVZNm9LaHBsdGd6UVZiN0xkQkJ6Y1NxRjZ1Um1yWnNUd2xJYzZweHdPbnNQaEliQVVKOTNJbGRmSk94UnViNGRKclViaVRSSHRKOWl1bFNLYlNqbkVjVE15TlR5U0JLajVONlRBcUFsL05PKzBqKzBlQnBFTFhJMFFzWE1kZz09LS1jNmh5bVkyNWFWUlFENFp2bXRzeGF3PT0%3D--d6a79344243e6a12196cfb1b255de49517e3e868; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

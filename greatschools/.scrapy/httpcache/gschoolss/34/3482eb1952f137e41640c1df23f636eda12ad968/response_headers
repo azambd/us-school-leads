@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 8b721146-98d7-4fd8-86f2-77b08970c96d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=San+Francisco; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-francisco%2Fsbe-_-the-new-school-of-san-francisco; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U2p4WTVLTTZuU1FERk5sQTNvc2wzRGJBemltcmZTdUVGaW93cllDeURVcnljUmYyQy9LSE5uM2l2NGhUSFVML2U5V1JlQTQzdWZPWE5FcFhRUDQ1U0I0ZU52UEN0eC9pMU9CQ0E1OGNxcmJxdWx1WlNPNlA0ZWpsUzJWeDY4NkdON0hTZlZ3a283QW8xUUJlQzZ2VjBTWnlvdGhmSHhTVDdvdjROSk54aTRrdW9ueEgwWXI5dnpOOGhNL1k0RzhRTVFDRkxJMUZBQm9GWUdtTVVRRGVQWThqakF0MGFvVWdtWGlOTVMvYTZ4S012VWJoMU5OdTM4bGYxejVDeituNWR0Z2VpeHUrVkFBcGdjMmVoa1BzZVE9PS0tN2RvdVpIUFZiWjRvaVBEdGhDU1RXdz09--1eadbdb39ae186c03be66a80d1e60019b1f0beec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

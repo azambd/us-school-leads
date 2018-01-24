@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b77a00eb-9f59-45e3-b387-bd90d8d79ce2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fontario%2Fchaffey-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TjF4eWw1VS85OGlkVUhnalYvYSs5bnhXeVRWRVpLN05UYUF0Y0ZiSnpVS0RiNVI0WDJMRHFqU0RxWDNBRnc5UE9DL05xRVF6d2xweEwwNmZNaEtrVzN3d1h5R3ZlUUplZmpNc2wzR1RRRUFyZHh6Y1B5WllRLzJJWi9lNmhVQTgxYlkwWGF4WVBYY2d6NDZWaHdJcnhjM0xuaEI0aHhXOW1UNitGUWt4Z3ZnU1prd2E2bWw3cmlDWlZuZ3QrTlJPVXJGaXZ2aG1pcHVhdE9oNDJGZDY3QmVjK1lzVjNFYnhMMnQvbUFTRkNrd2Fpd1RVaDQ0TUIzRTdzMjhiMFRJbC0tMFFCaEZWNGorejJoWkVhV0VZNEdQUT09--a9edc2212fc9859f93a305819753a0c53b04c310; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

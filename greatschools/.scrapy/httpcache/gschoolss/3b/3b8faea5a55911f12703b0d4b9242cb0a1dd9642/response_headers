@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 6cb734eb-4acf-4cfa-90f0-7c2af67292cf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=San+Francisco; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-francisco%2Fone-purpose; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b0kyWHZ6YXhadU8rRGhUU1JmaDdDUjc4dEVjbVRqSkRtQ29kYk5RYWQ0YlNJZG1mUmo0QWgzT0hSQ0Fpa1BjQTFwU3BLdkdUVUd1ckNGZzdNQWFMb0hrUjdYQ2RyZzd1NUxEcXE2emhNSzBpVDJUaHY1OXpvU0hldVhHVDlkMjkwOUpkbG5mb2xMZGhCRXdyZFZNQ0x5ZThHc3V5dUZvR3hIcHJWSC95cEh3dzVKVGxnajBPN04wL0J3ZXZqRDdqZVZLVW4vN3o5WEh3T1AvK1JGODFScjRnc1RlYTVWVG1aVGpwclNvd21zSFZUL3JFYnhpZDJ0a0hRSlZOMFFycHlGY1g3SDhmMUJuTTNta3BhU01GMGc9PS0td3dVSmJsLy9UdmJmVUFucW1NNEs4UT09--273419064c764d108b5945ef5324856ba084c9e5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

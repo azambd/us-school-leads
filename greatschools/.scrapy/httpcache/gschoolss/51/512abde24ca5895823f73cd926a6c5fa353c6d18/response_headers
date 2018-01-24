@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 858da68f-d381-4314-9708-95b6fc10d8f4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcosta-mesa%2Fsbe-_-magnolia-science-academy-santa-ana; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T0lGSGZ0SmhMZld2TW55cFRQUDRxVW9XbXFzMmd0VHBmQnp6SkRkMFZwVUJFU3B6b094em5jSWxLa1hmSDh6MWtzcThYUUhFV3A2ZHMxK2xQRjJ6dDZ0R2I1ZzhuN3BieDdvK1JzU29Wa0pXSmdDcnFMcjl2Rm50NjEyeVZSNkIyK1hKVW16TkZWY1FnOGJjSmdITlNYMnVha1NCaUU0YWREQXltOTRmM1Z2SlRob1hIWStjVDRVMTZUYVM1dXY5Y1FBcFVaWlVtVlVwUnh2ZGdlQ0tDSUwwRHE5WEpTVWJOM1FTNzlCL3BVYUlYZHNweFNpSXZXU3VieUQzQUxyaDFaOFJWZjhZZm1kVWttZTl2TTg0MEE9PS0tMys3d1hSSjdtSmxTU1VId1gySVJLdz09--89a8561689a8e231db7ae80866ee37049ca3c9a0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

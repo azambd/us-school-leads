@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 31309926-ce52-4296-8dbe-0d0fe914e204
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvista%2Fvista-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dHp3dXBSMm9vbUZzY3VKcnV0RVpKTWh2MVU2VG9jQ3pVS0YvYlNVMW9PY3dpd05QOXRTR2RJeFNUK3hveGQxUEl0Q0ZYVWxCTE1uWkdJYXcvRitXVzJxMWRXWjFXWGNzRk96VE8xY0hlemdsZXFHbE1HajNSaE9qc3B5QytCekZ2cTdkUG9CRXAwS1lkWGY5bFVJUTVTT21QY0UzbmRBZks0MkxMT1NnZ3JYbHZUeldUM1pseVlLaHk5cG9PdnFUMENkMThEaW1NNGFOMmJqb1NzMjlmVjlZb0YzWHIvNjM2M2FJM2NucEJzMGZXRHR6K2puR25GZEJCUElpelVmTi0tZjI1VU9mQk1kU1lWZXNYMEhzMTcrdz09--c3f767b79baba2567d2d3bda9f09702fa9d4b661; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

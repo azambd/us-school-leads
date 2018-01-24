@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9f683e26-adfd-47f0-9dfe-39091657431b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilton; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NWJjSExlajlrbnBOaFhPT1pTbjhCZVNFb1lXbVZRWGk1cldHS1BQZm1mdWUvY1YvQkxPQ1RvTTBJcUtvN3ZwZ2VjQkFOdk95YmpFWWIvcDNmdTlqZWcvV3BaNk41dFhEZ3JUSjRiN1U2eUNTSVpwbHVDaTNQUFNhZVFJMGRJb2czY0hYQXpTdWlRQXgwK2tXVmsvc0tEN2d3RWRDQUVUL2JjSWh1cVc2V1UrcGxnQTFOOU5EQ3NaVXNFdXZWQW55d2x6bGNJT2xWVkNaRGVPM2lJVGxOMWNGd3hMY2ZFTzRIWXZHU1dBaXNDM3d1eFk2dlJHTERkQnJiSVpZSzFobjJ3U1draVF2SkE3QzkxYTcwTWhURlZVa2RKeERFSVJEdWhJMWx6bk1DTjNJbjBmREt3OExQQkc1WFFQSlVBRmpUZitQTUZCRXNaeXdRdHE2N0g4RElqeC9sbHp5c0lXWERJMG02NXBrM1QrUlFGby8vTE9DQmprTUc5VXZuRzlnbmhEK1NEc1lBRStXcyt1YmZ4NTJudz09LS15dkNOZDRNZUVWblltSjY5bHNGRkF3PT0%3D--95b79d445b7cf3c4dba859b347b6e49ca7bc37ed; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bb0b4db0-4106-4862-b41b-a0e4848648bf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhollister%2Fsan-benito-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Zjd0WGtYc1B6QmNXeFlTZVZIUDdpUTRXRkxsY2JaM2VIYWcrbDlvajF6U1BKRXVFN3QxcEJNc0tZM3U2Z0VqY1JrbVplMENhdGNNN04wRzNOOXlXaHFuZHlyK01Ba1NiaXYvY1luWXhkRkJNYUQxbzJSb0hoUjZycXo5VlFWTlhiUFczNklQR2xucjRMakRsL3l1OWJlR1dNTkV4Q0doemVneDd5NXpuekhNZmtvdHNBbDBod1VoZHVKSGlVV3NLUHVJMlNWcjBRdEI4YU9oazdCZ2w2WWhsdjBjWnFzR1J2TEt0UE16QUhmMGIzNnNlMUJtdlRKWnpGRk9ZOEQ1Zndnc1liWCtESnFlNzYrUEZ0WW9wNmc9PS0tMWlSclU5ZEpHbDl1RXQ5OVkwUE5tdz09--03a1f7221b8684acf3fd7b84b122e2bd80eb8bb9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

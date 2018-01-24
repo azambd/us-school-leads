@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 86c6035e-89bb-4f89-a24d-6b93f3efb88e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhitethorn; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OXhpdng1dkNoYnJvbGU1L2JZdmFueFQ4RXhRY3NnNVI4em9qRGRUV2lkcWcyQTlHK3NEVmN6a09mYWNnMGhGVVAvVnl1dG9WbWk3QUxVN2tEOVE4K3hWamE3UEJrWHVQdzcwK3oxckx6b09oU3F1d29QcVVwOW0zdHZ5UmRYTXVNSmcxRlgvNEh0OEJ0REtxcFJFU2F6eUJEVDBBRlUzQkJTbEFIUkxNdnFwaDM4MytxUytmT2xJcjlnUzBEdjdHQ3VDdzk3ajJiNjVyelcwU3orbTh4cFdZVzcxblZhZ2YvUGdJVWZEeHZlS09jUndWbTh5cUFNSWptN0U4N1FoSjd5MWdoOUxIbkhvUkMxL3RpWU5MNW9MMVJTZExMUm1aTDUzTHZmWGF5OUVBUDVBblg0cE9rVFJ4L1BFajIrcDVOUzVMNUxGWVZPZERnUTNMUVhFNXJiZXV1RnBmVnBJS2JzSDkvZk13WEZBZHRRTDJnL3N0aEF5Z2E2LzNmTTNXNGx4ekQwbGdrVTllL1F2ZWRIVHdjUT09LS1tTFBjd2RxdjVtbU9udXNQTGMrQWFBPT0%3D--fd98bb2f0c35099ee55b4e5105a0b24a180bdec8; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

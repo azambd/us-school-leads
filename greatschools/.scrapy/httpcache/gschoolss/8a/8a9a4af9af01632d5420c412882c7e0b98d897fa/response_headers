@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 09504076-bcbb-40f9-9f96-66f2f9cd8977
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontague%2Fdelphic-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dTJnOS9YNlBjYStIYnpwdklEd0pCT0p4TjBPdTJxN1JVRXVKUEVCbWJZWUZnOUNFYlQ3WnZsNzlPdVpsVnNLQklmRXdaT1BUZzcyYXhmM1UxTXFremFZc1JUMU90dzlxWFdDRE1KQjFvQzdGbGVQR0lrMFdXUms1OTZlc3pWaVAyUVZGSjlUN1Z2SlkyOHM4c3dhQmdKRW0wM1YyZ1RzQU9OQ1Z1SG9nUEZtUUkzZHpHdVBMU3luQW5HV0pDOGtLdG9TNU5DT0JwWXVsNWxRSGxQeEFRL0k1WTEzenJsWlo1dUx0cWdBeTlTQlI1d2tPaFQzSWU4WTI4Z0FnYXhsQS0tbG1vcHdzOCtwY0EwTkRWVGpEWFk5QT09--be4cd3c1ad0ffccc33ed4f74df61c5d083df84fa; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

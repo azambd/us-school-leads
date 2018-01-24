@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=QnE3cTFMSnRkNkMyMUFyMnpWRFFzQlNYbWJ3TkJib2JNZmJmZFFPY3JWSUxGcUtGdEYrNjRHUWJzQTlLQUw5eVBIWGExUzl5N0pWMjUwLzdpOVRLbCtmNjBPYVdmQWhEM2VoNzZpc2RnaHVKY1NCUy83VWlXVU9ONXdHRXFQSEtVZUZUQ2h4dzFRMnlXYTd0aU5DRWZ4UnJNTHIwYWc2UCt5N0ViYkI5SFhUT3NiVUczQXFzc0ppamZ5MXNlQWNqcGdodmNkZllxZHhFbXdNRHpydWpKOEhNSjh3Y1E0Vmo3WE9nWW8vUXA3NDhJMjhGc1BodXQ2VlVvQUhYclZYVDMyNG1DY0hxYzF2b3ZLOXNFNURqNnc9PS0tUmt5RGYxNUpkdlVtZXE2Kzdhc3BNQT09--b83bdd67c6626f667a52583b97f62af1e044fa4e; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsimi-valley%2Fsimi-valley-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

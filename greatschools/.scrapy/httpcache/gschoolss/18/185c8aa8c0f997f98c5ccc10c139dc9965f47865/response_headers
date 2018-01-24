@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5124ca2d-c1f1-4515-bf16-c72d2bea1780
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchowchilla%2Fchowchilla-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aWVEUGRIU0FsSlJPdEpxQy9kMWlnSU1uRDZUbFc1dEw3dTFVcEJMaDlzSjViVDhzUmJEMmZoaG5zRnFaRm1SYkZsbWFxZ2ZHM0tlQWxtMWs5VGVrMGE4ZWtPN1k4ZUpzSnRlbWlwbHFZUUNKWFVmcmtYZmlGb3ZFT1pxYkRHOWd6bU5VQXQ0MlhwK2FveXRyWFg5R2NHSDJrSzFQaWYvKytDQitBcUhwNmI0czMyYVo1RXdhbld0MjB4SEF4QzBpYTlwV2JhK3BoMDFrNEQwbFIrRzNIejZsZ2QrWlc0WjhRQ2tWb2lnYXFOOVAxdXczYkdrWmhQelF4UThjdDRTN2hZbVNkOTR2NE9zKy8yME9nWnA3OVE9PS0tQXdJSG5rY3JsUUZCSVA1T0dncTdndz09--9a1456f86d69e56261eff15bf8310763faa2d658; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

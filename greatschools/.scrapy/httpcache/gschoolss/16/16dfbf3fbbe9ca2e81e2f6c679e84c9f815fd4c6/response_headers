@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 96a71907-1506-4b5d-a6eb-465457de2602
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fescalon%2Fescalon-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VlhSVVhSZlcrRmFxUHI4M3dzQmE1MnhMVmp0WWp5Vk1qSFpnWUZhaTIzZ01jQW00Y0JHY3Eyb2NFMGRGQXh2Zk5NbVdZRDA3SkRwK0xxZTdOOFNxV2NzbDZqWHVPenl3c044aVJzQzI1aGZINS92M25BZzBiN3UvSlBnSmJzYUd4Q3FpMmZQdWRrQ3BDWnliZWtHaEJWSjNaV3lxRXI0VTljYnhNbWZLSnlzWUVORDh1T2FsdG5GeGRaejFKdzBRQnE4MHdWVnhObFFyWEwzOHkzVVQ1V0wvOUpPMnhJYUh3UjYwUlhCWS9UbUpETlIrak9Jc2k1bWt3ditYU0JKTS0tSzBjWlpRSVB3MDFraVRLSENDZHF6UT09--cd9bb2f55eeccfcf9b8ae6f736952e8a6e22e400; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

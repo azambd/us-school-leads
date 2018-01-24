@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 429005fd-6cd1-45c7-ac9c-ecbc2f3e31ac
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-monte%2Fel-monte-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NENWTXJCTkNFQmZ4azNHM2tjYldTMDVYSlNwcnEwSnFDMy9QREZ0bk1Ra2krQVM1NEw0S1JuRk5sL2Jxc3UxK3NMZWVYckx6ZlBrZkd2eFUxYkw2dS84MWNEbHV3SFMrdTl0b0FIeEI5L2dFZFJISGRCRzllSCtNaEhZMm9TTzFobm4yR1hURGpjemNXbTZXNFpEaitVZEtTN2NWQm9HTWZrTDEzakg2TVBOdXdIU3dYTkI4QTh0eFJTTlBWQ2FNQjkycGdWcFZwT1J5ZW9MNDZvZjZFQzd5MmUyQVhIZDRUU2Q3R2g4OUJGU0QxSGR3MUZmQXdRNysrYzdNVmRXcS0ta0I5dVpCNmZLNHFObTNCWXJSNlpxdz09--ab10debf31530881b7be05e3a707c8599eb03732; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

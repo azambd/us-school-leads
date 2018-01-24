@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 51ea86cd-cf14-4b2a-b81f-822bfd524606
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feureka%2Fcutten-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dlB2RzUzTUw0bzgyS2hrazcvK0tpSURndFZnNnNTVjJtWDJJTjl0YWpGZWlUUHA5ZzBjUkdFSnJXNXpsWFMzSmMzbkJXZlN5UHFTbkFiTXZlNCttWGJwd0J0aThKYmZRVFpGV3g3cWY1U3h6UVpPTjdmdWtYU1M1bjdwOSs2ZlJsS3Y0Wm0vdVZRSHg3emVNTzZqZEF2M0VWMHpTWVJGTGFmUTFZdnBaQ254WUllTk9DRExOblpNaHRlUDZYSittYnVPQmxPTGZ6NUlybWlnMjk2NDl0OGNpQXFUL1JoNnJPV1UwVzJSc0x0SUNaS1JxaVZsbnpRMnBUVXNZMXNBRS0temdhYUtiRmRlUXZyRFl5STNvTU9hZz09--f19b69620ecb19c61cddd9ac695722c5525ed646; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

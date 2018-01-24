@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d52f0a76-17d1-4fa2-a1d2-195679c7b3d7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredwood-city%2Fsan-mateo-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dDRHS3k5Y1VEdHdyRXhhOGdCdVpvdTcrVGVSUHJYLzh5N3p6cWk4NWJnSFo1YUNQdGZPZnppRG9lVFRnVlA3Yk5CSGFtSmdNcmc4c3FpSjE3UVM5ejBVZnVUSDIzS1k2SU8wcTU1NTdtN3lWU3cxM1FNeGpXSzhOY1FLMzFEemFNS2RLYWVhQkhuNnVwTXhGdUUwcXlDcFZWUmk4RW9VTXMyMzRHUDV2VFZ3RDZhdkYxL3ZiWmFibDh6Tmt3bHI5ZHhsdC84R1d6NUF1NTgrRXp6citqVEh1U0ZKWlJNcVRyaTh1NE1lMENNYXVLdHdlMjVQNkhXYXdkZ0FaK0loeC9Sc0hoVTkxK0VtckhGNUppb2JjeUE9PS0tRDBUazEzczd2Ym53OXg4ckNYUHNNQT09--1ccfa418f32a7ac4f766547f99d75fa452b26c1b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

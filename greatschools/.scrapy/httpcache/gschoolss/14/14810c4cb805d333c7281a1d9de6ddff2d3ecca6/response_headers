@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0c1657a0-cae7-430e-bcda-2cbae9345d47
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbuellton%2Fbuellton-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V1dmeVpDRW9XaXhpMWNsa2U0TE8wVnpOT2I4NEs5ZHQ5ZGxOTXhmbTNYZ1IwTUpwVzVvUTdXYzZtMFpLQWlmTi9VeERRL0MwT1NBdjFoVG5PSVI1WEtOck93YlZSb2RMRFk2UHB2NGpkRUdKVHFzc0JIK04wdHJHc0JTdWUyMVNjekNLbld4RnVPRGdQVUxmRldjWGFTRS9DNFJ4RURqNWxnM2dRcVFSUXBlK3k1cmpvUTFpd1VQSlRSd2RjTTRSNlVUM3U5QjZPVHlKMFBHUmc0RW90SFFWeDFlNm83MzhDNTlkY3ZsbHVWRWNWYW9CL2V4MHlYdEhleUtmL3o4SS0tY3plUG5vMEdxNlowdG84aVZiYnh3QT09--b9dcb2e9f8bf6f0502a06dc780dd09bb61930ed3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c4cc1efe-5603-45ed-a630-c356cc23ef5e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwildomar; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L0xjS2NoWldYUUIxdDBsUUpzZXk3eHdtekxobS9aYktTZUQ2S2xPZEJWaXpUZ3owR0R3dHNnVURaNHNDU1A2SE1GM1pnb005M0tISE8vdTZGRXVTU1BHZFhXVXFkMVZRM1puVGQwT0lqNTJKa1l1elJDWE9Ua3BZUmExeG9odmR5VDBzNkhqMjZ5UXBRT05VWHY4SVRvZHJ1MmJ0OE9hVHV0RGFhN08zbkkza3JkYlFqSm9FTys3V2ZiRTN1YVlaQnEzTDRnTlR6K05GYkRXYTZHNzVMNGFpV09lYWFwQzJVK0czZE1KeU5QeW9Bd2FoY0F5d2Nya2doc1Z5WTczeWg4Rk92RGZqQU1TaVRBeE9va25JOURaZ01Kc1pVd3c4UHZZSzJ2cW9VdTdqNzRPUFB1N2t2N3VNL21PbnRvcitPSW5TeEgvLzVVYk1DeHZpRWhtYnNudDlWejh5UGdmZW1WV01BaUlCVDJ5TmlBenZEK2tKaWtHaDBYK2N3cE1kWjdRekhlK0xBUk1GUTViVElIR2R6dz09LS1VMlhmUE1JR3RjcE5pMmZHVjRjcm1BPT0%3D--7dee27773e58e42fce28961454303b585073196d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

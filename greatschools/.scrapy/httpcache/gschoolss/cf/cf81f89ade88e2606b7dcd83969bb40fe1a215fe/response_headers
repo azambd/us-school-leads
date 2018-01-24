@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7b8b9ab9-9ca7-419d-8a76-5918c6cc9a18
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsusanville%2Flassen-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VE56SDlMVFhCOFowRlhIY3M5SlZKS0hkMktVcktiN1N3TEo3bWtIaC9ZSFovbUtaK2NuNWZBcll2cXNEai8reTl0VXRZUzJjRTRCTmNoL25JWTZTem5HMWVTRk91VlNHdVN6QXFFaWZCeEhiVEZaZTVtWWp0MmNqYXVlNnVLcnIvalpnTi8xaml3ZGZuSGNEdTNpazcwSjMwK0gxZnlKVGtrQ09YZGlqeWJ4SDdKeTkwWEhBdkwraTBqRDU3ZWkxSFJMM0FRbmNqVmVYTW9IL3R0UFFGeGxpSHVZWnlwbm9pWFRteGlGY01hdVgzUVBPZzNUZ28wWVNNcEEzWjFEOVFnd21MMFFiR3hpOTh6MElFTGNPeUE9PS0taDN5WVltaGF0Z2ZQTGVWdXlUS0pZQT09--e1355743e3f0415f3ac35f3747abe8b22d1398c3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

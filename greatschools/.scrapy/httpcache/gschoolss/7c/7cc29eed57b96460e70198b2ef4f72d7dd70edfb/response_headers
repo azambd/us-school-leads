@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 047e4445-60c1-4e80-b73c-1e550cfa8282
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flong-beach%2Fsbe-_-doris-topsy_elvord-academy; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dm9FMnVyZjZjeE5sMXhaS1VqclMvSGJGODRSM3ozVVh1OWZhUmZXNGRsajBHZFFDYXd2MS9OUXozSzJFa053RDMxQ0NIQzlTaW1CWnk5UU03MXV5RlJYSEtUMDZGSEZKVS9iMllPL2pwZnFDOFhyZFExbE9oMnMwTW1keTBOYXoxQStUSStpWU9nNisyUnh6QldsV0ZIamR1YnFuNFBlMnVPdTlCK1B1eUVOMkNqQlNqM1gwVXJZVmRuZmxueGRJeXA5Y2RhWTFwa252Y0VneThTR0JZSmJlbXBzT3psRGM0RTA3cS9DbUovNWpmV3R2Y05jMnRnM1N0LzFKN1pTK041dXkrQjVrZnkzbzhDcEFoR0U3SWc9PS0tVWFmMDh2UE1yb2VicnNHZ0E0U3JYdz09--84980fc6131c007f40b09a1d52fc28464fe3b65f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

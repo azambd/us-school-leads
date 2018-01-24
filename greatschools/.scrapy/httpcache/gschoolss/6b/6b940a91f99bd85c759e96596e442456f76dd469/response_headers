@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: efe471e2-363f-41a7-96a2-6a84947a9e7c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forosi%2Fcutler_orosi-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZjlFd1BOTm0zQS8wNEhmeGt2VENHQXN4U3N2UHRJTXUzVExjSGxhM25wZkhQQURpUTk3MExXdlJ5MVM4Y1ppUjZpenp5eGdPUUFFSG5uREVoRVhFdENkaXk1RWY5aVlQcitCZ1ZleDJvNkpOUWI2ZmhBVGdmcGlmVUk1U3IzWFdadWdPcHhON1h6TURXVjRlRFpjdUVrOHF5TTlLYi9tOHJhZ3MxUmZ1N1B5SlM0aDVYR2hycWpmbllKNDFvb0h1NzZnOUozYWNCS2k0cnBNMUlEYlN5OG5nOHd3NHI0ZEdxeDFKckNCaEY4aFkzVmhUUmdkTEI0QXVQTjhuSTJ2OC0tYmJTNUVUOEpKbncxZzN6d2xPS0RSdz09--c53c034bfaa64f99309e031a2534b910b7e60a6a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

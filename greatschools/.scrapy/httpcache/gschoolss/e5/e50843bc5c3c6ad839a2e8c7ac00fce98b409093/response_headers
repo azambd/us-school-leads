@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4e398abe-0db7-4811-bdc4-b5198e58cc91
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fcampbell-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SEhiZVoybGs5dlVCZFNmeGN5UzE0ZEsyaWZPbGp1WkoyZDdUcnlTRWIyL0hXZHZOa1c1Z3FKTEJlOEhyT2hsQ0V6R2hPVTkvTkpoWkphWWxkNlZ2NFpsN1UwYS8zbWZWQ1FNbENUL1NBZitybTJzUkh0ZG5HalFVR3VyU2c3TmdzOG5aVXYxV2FkLzBiUVN5cXczSnhKUzFGWURKWmg4NHltZ2czS1pBRDFBVDVZMndMNGlvMWNtZFNrRk00MC8yWlBTY3dZSElLNFZ0aGs4cW96OVhEdHZBb1g0UUgwd3lvaU1xVG15d2w0L3V2cUIvd1VSd1drT2pzUnR5dGl4ZS0tQVh4anBsWWtIUkVZc2RueE1QOGtVUT09--c1fa714c92c782c27877640a6aa23c7b9a548778; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

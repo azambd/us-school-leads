@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=aGJ1TG4xTWVIVS9SdFovR2ZwRFlVaDE3QUd2dFJPRHQxTG0raU8vT1YxcXU2OGhzcHF1S3ZLbTIvYmE0K00yb3hUVk9wdjNwU2taTXhRdWZOdjJXaXhnOVFnaDR0dDF3akJpWFd2Zk82T0FCTUlTc3NIZVVweVdwNmtxYzZOaHlGYzVZRCsyeWtHYWtzbWc5SjBBY1BMTkNhdFRocWV3ZHp4N0FyWkphbWdMS2NLSUVaUCs1MEhBcXV0V2pnNUFLUzFGMUZMc2w1NnQ0SWpFMUNYaDNWc3hPSTB4TlpXekJma0FMKzlCNjJuZ3cwcXZlTExrY1ZLek5FZHNONkxvZS0tOXVTcnN2b1BzcE5sbEpnQzdvOUpqUT09--c7f40603f61c4d1a11955d2fc37108795be2d5ec; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frichmond%2Fwest-contra-costa-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2ac06b0a-2c88-49ef-b606-401889942f9b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fculver-city%2Fculver-city-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TVJmTUxnWlBCd3ZIbCtDdW54T0x0R3VOZHZvVmxRN0FjSVptbGJsaGhDTi9pcERlWmxQS3BUMEhyaldNYjBGcjNIMG1jeWVhSFhNNHhnODJqdWFDc3prVWw4NTRvVTZocmJyNkNiRWRLdUtsdXFpczhCNTdjekV1dDhQcHVNNDJGT0hHcksyQjVScXd6VFdoVll0VkcvbVVLSnozQ05ZYUtWNlllM2pEaGdsZ0lDSHppMXBuVkJNcWxMZ2ptUzV0TkVCeVdnR0ZPYkF5WGEwQTlheVFDKzh6ZStscHU4a3dQOW1OZFZRNnpQQ2hmTHJoZE1aS0Z2TXlmVThXc3ZGTVJvcmtTbG9SWXN2THpxWUhtZmdwdEE9PS0tY0FyR29FQzJzTlJNaTd4ZUVnaWlxQT09--ef8601838e0a4e720bbee31443669f5c317699be; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

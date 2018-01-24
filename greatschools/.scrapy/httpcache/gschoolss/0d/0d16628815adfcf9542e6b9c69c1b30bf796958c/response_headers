@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c270e42f-b5f5-42eb-9b20-7d3b43a534b3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpalmdale%2Fwilsona-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MEM2Ly8vc0FEeU5QQzZJRjd5K3J0UjFoUHJ3RWdGSDZmWlRMa3FvOWZQS2R1MGNGVlkwOTFOUVZ4WmtaSlVZcjZkUUJpaFI0dDVMVDErNXdqbDRwTEhjaVMwa0hpbVVka1NaVFl1a2VTNmRaN2VHaHJRM010TjAvQnV6c2ZocGVlOFc1M3hac05pMmV3TVBrK2tXdGVaNi9CaWhvTUhNeElSQWQ4R0RWYmpId3VucE1ZcmFESmx1NElJSlVxMnZVRUowK3JrYldkclhWNE1hZXlOTmk5Skc2UG1oQVNDMmNJOGlhTFFrUGJKb1lVOVdqZGpnc0VZM1N1blNIYzNacy0tQUdvQjNKcHEwOExrcHcyU2NkVnBaZz09--f7693a1a4bddf74f20012ecdd91cb467e5526fb0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

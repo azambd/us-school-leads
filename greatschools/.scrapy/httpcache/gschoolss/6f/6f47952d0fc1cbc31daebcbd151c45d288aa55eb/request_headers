@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=dCtFdnhlT2I0WUNxZEI4ZDBzNzByMGZhcFY5VnhIRlB2cHQ1L3RUN1RGVFZ4QlppN0dFVVBhUHNuUGJQMFpWSzRQai82MmhRM2pSd2tyU0pQaEJXOC9kNTZRRThFY3NuK3pHdXVQSjFXTkhITHFnMDNqVmJzRUphdXA0VFpNWjYycFZDTG5KT1YxTFpSOWZSaUJHR2taZS9qeUJ0aVZqalZoMXZva1dON2lSNXpJeEhzWWk2NFlKZXd3RzNOamRlUDJPU2xkeDVhTTV5emVwS0hWSStVTVIzVU5vUEwvdWtIeTR4SkZUempiNHRwODVTa25NbnBOeHVTS3FGdU8raC0tMGNVcnVLeUhqRGlKQnhWVUh5OVFoUT09--360291301c0ae099eab828657bd76fd82ca5b6a6; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyucaipa%2Fyucaipa_calimesa-joint-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

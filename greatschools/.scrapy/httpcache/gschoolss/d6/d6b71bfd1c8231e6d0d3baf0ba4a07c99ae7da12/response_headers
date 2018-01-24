@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 090340e0-e74b-4298-a887-078889c4ee7d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flivermore%2Flivermore-valley-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RVJCYVRBZlFzSTB0WC84c21zTS9Ta04xajc0d1NMOHF1UWN1d05BeDVveG1PUTV1WEIzeGZydEJtZXVuV1ZDK2ZRcVc1V3VFL1hXeTZjZFY0eGtUUU95WkFXbFNwZ0RYZnFEa1NiUWRZa2w3OHdDUk1tTXc4R3RiK0JraHBWY0QyWFc3TWhXcDhPclpBeXExTUxYRnRuYkh5b1J0Mk9Xc1pCTVAyZDdVODZDbUY1TWFaVUNKMDBqZjA3Z0MwMElIdVhZOWVWeUdDMVVZMXRxWUxxdUJidERtVjVUbUh4ZDFRRGthaXNkbkVqTnhDTXM2Z1I5Y2RyK0ZXU2g1QW5TUGtGZnNwb0d5WWcrOUZ5VWFtM1hoZEE9PS0tUDljZFBLVGoyWGU5Uk1lTjE3NktPZz09--4d2ea39b58efdc1239c6dbbbb510fef6aff6a49c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 302 Found
+X-Request-Id: a2a977dc-b259-4327-a5ba-d8f32374e462
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: _gsweb_session=YUhTR3BDYWVsTGZEWnpldWhiWDZIaXViQVlyNEszZ0hMaEVhQ3ptb2hNeThra1BMY2RPUE1pb0Q3Z3pPejEyQzlWa2JSS0RLaS9CcjhyZ3hKbDhNQnpQUGRLVkgwUDRVQmsrUHQ4akRUc2k5cEdJSURaeE95dnl5dzRMWlVseE5CL25RSkxwRXIzM1JycWhLZG0yS0ZhSVkwMHJpMjhHbFNFUXF0aFNpVTlkVGNZRTNGaDFZcnM0dFkxT1J1K28wOFUyQzdoRmtwS3JnbG9sbDJCa2U5UT09LS1VcVM2WkhKdTYzYTk3c1VqZEJvYmlRPT0%3D--ef5dc4e232e3ab7e83e3c37250f5db1eb3597aa7; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 14:00:25 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: https://www.greatschools.org/schools/districts/California/CA/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 14:00:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

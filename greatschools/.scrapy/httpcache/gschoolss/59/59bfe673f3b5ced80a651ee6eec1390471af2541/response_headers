@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8c6c65a8-4332-492e-be6e-0de6c1cbcb01
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffortuna%2Ffortuna-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHBBU3hxYmZRelBnSDJPWGloNVVQSVc3NUJnOVZDN2JVZ0lSTnBFcnp0M0thNEZhL2JsSy9ERUJhRlJ5SnQxVWtTbEJFUVlYWUovY2lSOEdQemxBajlXdXdtWXk4ZXRqWThmUjNuUUlSY1U4ZldNaWFheTlXWWNXUWttTnJtVVYvNlRhZnBUQWgvN09HOTdSbjhXZCsvTnJzWGZRK1AyWUFFdEQ4WWx6OXpkRmFLYVNhZzZNTVZSNEJUM3NHdzVJTXliWCtSY082YnNlUzB0cEs3eklMVVRHM09FOFJ5aDVQWms4WHJRV2RqWHJBTXUwZzhlMXcwNmhJRmk4OU53WC0tRmE2cjdnL25LcVNDbUVrUjJTQkZLdz09--9ad0414a189f4c0740c13719469fd3cd2aef41a0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

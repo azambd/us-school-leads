@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 90b455ae-7797-42be-8da6-8abb13365966
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpatterson%2Fpatterson-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ekx1ZUhiYk1TS3NUQU9kM2xUcjNyVGxMYittdHE4d0JuZmNnVE1sSUhqd3RwTlVBbExPKzJpdCtvbE1CWjhsZ1N4b2JGTFRWc2NmUElSeEh5RVVMQ3l0bDY1TElXTXpVTzhLRVBEYzk3eHc4b1REUEJ5OWJxSjU5akU4RVBOZHkvdTljMEtlbXltdE5uQUdJL3ZFSTRIbGw2aVZzVWhFc25TUVUvZzFlNjQxNkh3UTFpWHNTK2Jxc3AycUFyQzVFdFdUY3ZNQlZtR2tSZ0xUNkFQeTFNM2xkL0dRekZkTkN0SjY5b2pZWlBJUlAwRDFTS1RpQVhCd2pFeStCTW1mVWE2MTFJVWU5MFpNblhQazZoUStOeGc9PS0tVEZ3M2RjRUdCdi9ha2xMbHlRR0RYZz09--7f9b8570fc0a0e2c0cc9c36754f4da4bc15d32ca; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

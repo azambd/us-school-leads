@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3741b4da-1710-4a9f-97ec-3d7f85868a52
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmorgan-hill%2Fmorgan-hill-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aTJodlhtT1JiT2tnaytCUndaSzByZVY4MS9sTmJZbHdxNTdLUnJxQXI1dThNZVE3WFFEQ1VadVZ4NHRhT3pnNjFWaGdUNnVXK1B5ZmlCUk9lVWVlWER6am5jYnRwSFdRVUw2WWpuRWxFOExoWjZlTTdqaHdWZWlaTG1uWDZKV01SVXdZNGtVNGMzS1NINmFSWHpQOEZSL3d2d3VBUWVPMDFRSmZHdlFnOE9kSk84TmlFSnBESVgwNnYxdjQvdXZpUTFCdEdjSVVBTTJNOXRUS2MxRXNqN1Zuc0tOd2RaVEZiVVVsUFpiWGlEc1FLVFZmQ3l4RzV1NjI0L24zbTF1YXRzRFBLR0ZER2luaGN0L2c4czg5N3c9PS0tMHJBV3VYVDgycldRUjM3SU8wNG9wZz09--bcffcafaa1020147a84363a7f5b70f8f0a938891; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

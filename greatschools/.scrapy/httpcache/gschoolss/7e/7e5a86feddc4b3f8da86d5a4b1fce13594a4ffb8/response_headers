@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c485203e-72f6-4acd-91a4-bd87f757d7dc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-paula%2Fbriggs-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RysyQ1dJVTM0NHlWZU1CcTFteWVoc21hK3ZLaEsxanBUSkIvMExiRmM1WGx1dWpxdTViYUxaUGtORDZoVThQbG40aVlIQ21EaS9rbzU3NWtvajNpWjVCL3BEMWtPaEhjVEJvZ2VNY1pOWlVza1ExcTJYREx1SXRFVXJCdXZOVmRGR3hDVXBNSTh5blhRTFZodTRsMXIrbFAvY2pwWWg2QTVtbmxtYXNlZXBMaVc3dk5pQS9mVGYyRFR0bEhobnE0QUtkYkdiV2VXMnhRYnovUXF5eHg2MklLcVZWRk43SFo2c0E3QTcyZGcwWTdXOEk2KzRIRjNaSmVWTXNzci9NMDhnM0QybWVseU9LaHpLcm9GdkFCZFE9PS0tNUpIYUlBcllKV1E2eFAxdjBqWGMyUT09--7dc34a1945fdcd737300c4b079c578cdc6080233; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

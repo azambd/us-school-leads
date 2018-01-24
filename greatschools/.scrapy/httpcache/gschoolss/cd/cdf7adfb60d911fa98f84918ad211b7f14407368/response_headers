@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9de34ff2-3998-474f-92ed-72488fc612b7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fred-bluff%2Freeds-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QnUwWklKSWNudVY5STJHQ3JZbElZcXNCQUZFdjJSTHBCNkI1TEVVRFZ1WUk1cnhJUkxDQlZOSDI5VVc5dTFjL1JQODhpS0xSUk9LN2t1alhIMEROV1ZPazFtYkl0U1ljbTJPeThxUm8yZFdRUi9vY2RnT2lrRVFKRW5tVmdHYkhDeE1IR1o1aEdSdUJYTnVJTUtHcm93dmVDZlZDTURuSGNFWWpJa1g1L3RyM2dLUXd4eEU4SU1aT2lpa0duZnZINFF1bmFGWU5la3Zhanc5VzJYSlVWdEZ1QlhsVDd2cHN6NTYxa0RrbUVOVStYRUlDZkRCT1JURnZLS0JqREVlTmpCMksxOUQ1NktYK0xXWnZ0bVUwbUE9PS0tYTFsbFpLSXRwM243YXlsS3pBaDBqdz09--9d723823044eb9113caddbe77598c5ad16ecf25d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

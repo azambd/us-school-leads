@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d7c3e4e0-9a66-41a1-8b48-3435e0bf83b1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdublin%2Fdublin-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NTNIMG0wbWpVZXJBOVdIcDRuUS9RdEU3dVlnamk1dm9QTUlGQWxSV0dRQjZpdW5jcUsxZmpYY3paY08rWnNYaEdWZmdPYWR0a2R5cGY2UGxHN0J6OS9EY09Yb0o5SUVvNVV4ZGJYbWVlT2d1Z2pOeWZ0MEdXUGdLQ041TkEwOFRJVzVqM0lHTEY0bXlQNUtKakJZSVowQ3FXTzQyZmdpT3J5dEsybkJMSEhKcVBDRXdpNWE0K1BValBFdEowZW9iQjFLL09WSytXUm9BYlBwY2tzZlZLT0V0bllsSUhMWFFqVkV3MklXUTNCdFlQcWRsQ2VRYktpR0dIdUxqTC9HeS0tTlJUYlpXcnRLZ0ZjQXg0djVEbHl3Zz09--b7badf5601bbc2b9d797879b4691d8859d63d25f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

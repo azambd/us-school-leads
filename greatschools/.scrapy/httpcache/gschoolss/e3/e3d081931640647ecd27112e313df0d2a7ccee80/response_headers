@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9e00a837-23b4-41e3-91f4-0bb65e3be14d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fexeter%2Fexeter-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dXdSN0xQTTMwaFhSb0FGdzFhZzlYQ29zWnFEM2lyTkJNLzlTRUMrbllpVEY2UDBveXZ1SDl2LytnK0FQNUtqOE9XL0FTYlVSQmJKOEx2RDdVemhRVnVGQ3YzUUpUSVFUV1VQbmM3dGRMUkFuQ1pmRkVJMVNhb1d5ejNFVFdxY2J3L1NpTi9nSXkxUlZwenhlZ25KQ2xkcUUyTmpXaFhjRm40aFZxN3hRL21JWEJ4Q0lkZHJIR1hURFR2bDBUdEp5SkVMRzNIQ2NOU3I4VTJKY2lCV0piZ2c3Q2FDeUdQY3lranh1RDVyY0JVUU0vMjFpeEpubHRIS01kV2luODlERy0tUG51SGMrZ1UrUmRuby95Uy9KNVc4dz09--b451c0bd4c71c68b5c49f574791ff7865cc3c1bd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

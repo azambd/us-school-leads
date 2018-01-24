@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e65511f7-d03a-4ca4-ba22-7cf9f96a632b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fburbank%2Fburbank-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NkRZYnBYbjJHWWg3cVRSbXkraDRJWWk0UC9oNWFZanZPWUluWVVZQ0wrclRWMmZMVFk4alpVWmxnQ2hBdmpWcjV6VU9BT3hCK3VLUTkrSGVPVVpHQ0dFVVp1ZWpYS2NvQlUzTHFvT1h2cHNnTnRyTi9CUXhRb1ZHK2g4UkUrTi9ROFVkaEZDay92elVjOFJsV2lOeUVncjBpa2dqdHJScXVpUVViZmdtRElvbURkbDRQejdWbU5SL1RNZkRsQUNRSFhIRWN6bzkrenZ4MStYVWYvTWxaSnl4OWl6RytOOWZ5VE5SRDlFenE5a3ZHeGtiVUFXSmRYWGZTeGRibWNyYS0tNUhVQVE2VVN6NUFrSDgvUXVubkhRZz09--fac9014ac66da70a8688a0c31298542bea418514; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 70846d33-92e3-4f05-81ee-0136e2546784
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fla-canada%2Fla-canada-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QVY0Q2x1TmN4Ty9TRm9KNHNUNk1RWitENS8xVFBzbGhleU4rVis2YTlwN0ZOaGJkZ2lqQ1VPaTZyUW5JMllienNqeSs0MjF0eUp6eXNqUkJiM2VxZFBHakU3NkJERU1WcEtvVWwxTmhpeVYxSm5XUmhrOEMyK1p4bXRiVlo2S0tKZjBpSzgxVUJNNlE2c1RQNTBBOTBvdUo1ekc5c2ZrYnpLcnZzUGo4eWVSaSszakFJL21yWWJJUzJGSGYzZmd5MEdpb0Y3cHA4ano5TktWYjRvaVYycUMrSlhISG9RZmN1MThwMXZYNWRtOHorVXREQlVRRVc5anAremk2N0l6eW41UzI1YS9HRFBRc1dKUGR1OG9vb3c9PS0tRHNxSmtiZGVzNXFWdWxILzIxVUdJUT09--6a50a88e231735acb396a4c2e214bdf6c703df00; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A11899%2C%22state%22%3A%22CA%22%7D; _gsweb_session=eWkzUDlJTWxtbkgzV1p3MzAyRHpmeHZJVkdLaHFiNFRKOVQrRVlpVlM4M0pwdENOamRYLzEycmhUbjI3cU13VWk3TGhJN1BJVVBJNVZpWVZTbkpOUnliREdJL0RZTGFUUnZaWjFmaUlhT3FYTTRvSzAwWE5xcW5Va0FlWmhLRm4wVnpFTHRMbG5GeXF6eXlsMU5Tb2xQM21pei9TNk5HS1pSZXJuUm81dXdDSFJVbnNnbVhHeHpITUNlMFlaa1BRL0IwWWFGbGpiRzJwOUo0c1ZBZG5YaisxSnhpUVI1U200bzVtWnQwcXR3Mm9ucXA3L08vb1lKK003ZlJyWkF2bi0tUmkyeXkvd21BOWM0czF4bGMzMjdTZz09--037abaaa265b220773fba3a62522d88f1fba5b25; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/15496-Little-Scholars-Montessori/

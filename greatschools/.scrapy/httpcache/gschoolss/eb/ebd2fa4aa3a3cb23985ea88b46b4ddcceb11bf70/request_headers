@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A29239%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Uk5oZnVWR1REeDIyenVKVWJ5eTQ5QTRyTW5zRGw5NEx0TlhLZjBCSUEwUFM4MjVXei9wRFIwdk9Vc09qbjVtVXp4UXQ4blYraUFFenBGdUxoUU8rZWVMODdHR2E0RWJ2VE1yemtrNldRa1liY0pqR1NzdUlPaG05Q3dEK3dhUzlLSllPYmNBOGo4L2tzZ2NHQ2lnR0lOY2xFNE1wWCtpWm1WNU1GN0VxTC9WZ0QrcXZVWFYrRUJzTUZDc0QyLzlaNE8waXErSVhnb0lMb2tmN3A3ck5NOG5SUURmdGVmeFRqZjg5aUt6WnlOcVlhbXNjd1ZSelI0UVNCUHhUMU1iS0Vxa01vOE1wU09UYzVIenFtdlVsbW9mNFhmMEo3MVY4L0ZrTE12Qk1HalVOa1ZJcFhZaFBJcUVNQ1BpY1NmUnB0MzFvOHpaSit4MTlKVXJLWlNvUnZwQm9idmwxSWhzQjd2amJDT1FqUlFYUFJxL3haVCthbGVIVmllZTJGeXcxU3lnM05xVmFMWkZZWjF6TzNDNXcrZz09LS1GU0JzMXQwSmNiYnZzQStaNkF6LzZBPT0%3D--69086661a3e01624989f62d94d2a745cd01a0ad5; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/29638-Art--Recreation-Day-Care/

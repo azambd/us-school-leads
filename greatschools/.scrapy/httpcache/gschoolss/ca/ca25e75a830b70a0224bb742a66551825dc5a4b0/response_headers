@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e6d077a2-a028-4a15-8ace-29363bc739cd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frosemead%2Fgarvey-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SStCUEhUMEVHT3lYNGtiZnZTMWd3U1dVUDVLeVRGaEdMUnpZQWI5QzVaOE1UYU1VdXZHV1FyUmpWUnlPcm1tbzRsUlBMWEVvcHk1ZWU5Q0poSmZJa1VNWkFYMzhWNGhwbXhlaHlLdFdlSDhrRDJ1MG5xT1lQQk16SEpSbElxaFJ3VytnbkpiRTJBL1BZcEE1RlJJNWJGdTl2bytldkVaKzczYUNwUnBrT08wWXprWTlyU1hPNUx1T1ppRGEybjV2VlAzNzE2WmthV00yNlFOamtWQzVZYkRkSWc1K2I2eFl0Z0UyQm1SQ3dqbFpycGZCdkhPaUNOWFRmSTBibWFmKy0tdHhJdUJISnl5RDlKRGRySkRoQlpYQT09--78ae66f1181058e58d25173ee9aeee7db3320da9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

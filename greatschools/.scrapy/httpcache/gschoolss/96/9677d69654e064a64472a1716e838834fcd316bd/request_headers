@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A28679%2C%22state%22%3A%22CA%22%7D; _gsweb_session=eXhtUnpDU3dVNytGcGhPVkNJRnZmV0dnNVZZL0xDckNLMUtPdi9BaERGb0c5NldVQVVucG16UHhsY2U1cG5DVG5BdjRKSU00bE8wSnN6bWJWMHVvaHZIdjFldnhKcmd4ck1JMXpZNjRnVzdwWEVhL2xQOVl1bG9wVU5ZQ04yQUVpd1RMQWNCNkpTR1E0eVA5WHVzc2JxYUR6Wks4aHhvRktzRVlHYXlVRVJ4aklzTjltbys2UzI4YjY5WXBhT0cyQ3hWUnRZRnBLWXJUUVZMVmozbjl0QWJQeUlJcWdIUzAxQ0xrajBjcVNwVHkxQWFCd1prQ040b0E5bzE3cFpZekd1YU5UbHQyem9uenRUTWVCN1dFMHRiNHhsK3ZSMVQyRTlvS0xlNGU4V2ZtQ1pyM29rTUxLR0JIcTU4aGZLcWdNa3k1YmpRb0trdWRyeHVRcWFLeXdUR2xBK3lzMlUweWtmTDdLbTJYWThqVWRkRG50Mk5Za0tId2tlNVlnOCtXTmgrOG9ZV2dYSkNjaGM0TnJ5NVViQT09LS1EdWhWdk85Vnl0dVJZWXFETGVFa1NRPT0%3D--6b88f04bbca96964cfa2e258d0cb9dd8389c4bb1; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/29239-Valle-Lindo-Head-Start/

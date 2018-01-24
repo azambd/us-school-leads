@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c5d057c5-eb42-4e2b-8a2a-a2eeb63df807
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyerington; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WEJtTnFjOGpVTEFXblBDUDRKVXV1Yi9qNExVTmV4OWl3dWhRTC9QQ214WWxabUJjWkZSSHJXRkNsL3E1QUdScDRtSk5JU1pjNFI1a0hpTjFvVlg3ZlFXRkxPS1l3UTk5bzdLOFd4ZlF4SHRNV3hiWWRSNC8xWHhYcUM1bjRFZ2o2eWZ2T1ZMQmN6WE94SExLMUtlNGNiNm5JMm1EQTFYYkRuazVjYWxJYnJCY2Ztb2NuKzNKWWhCcmdlUzVHL21zVVUzMHQwWVR1Ylp5MzJDQkgySnkwbGJkaG5SVUJpUnIzYklBTVN4MkRSdU4rK1dLVHZLam1yVHFSZVVhMTZxRkRtRHNYMFhKODdWM2E1cHlaV1luZmlVOHZpQlUzQVJVNW54b3ZmUTJlQ29NdGh0S3pzNTR1a01vd3hoa0w1ZFdLZmRFdXNiMys1Uit6MVZTUXhLMjF6NCtjLzRBb21QWG5CVlFYUDhMS1drR21XQnpta01od1dVUlROWmpNUU5vSTB5Nm9HdVBJbzJsc0ZZMEJ5VkFGZz09LS1QdGo0K0IwaGpIVmwxR0lDRWgwWVlnPT0%3D--b41fd65077d6b4ea8be9208278245ee020d04d59; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

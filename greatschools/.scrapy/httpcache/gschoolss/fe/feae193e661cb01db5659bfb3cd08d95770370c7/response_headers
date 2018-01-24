@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 23e819df-9c83-4c03-a740-4353f53df908
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacerville%2Fgold-trail-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TVdDUEU1eDhqdHV6TEFnYWFJVCtma2M4bDhieGN0VWVOUlVVT3hybWl0d3N6bjBxOWFBaGtyV1VRMllmNlduK1lYZGNMWFJzdUNCN29zU2ZDSTk3Z3dEbEE2QnpUbUdBUmh0a2F5UmlKWHhqU2RkazBJT2pqbzNTV1hsemFkUmJSckJydkRFSE0rYjZsRkY5U2VZamd4aHdpaWdNQzVLTTZaMDA1My83dUVTUGNqVDJ5THFEanZPbjRsK05qb2toTExMbzgxc3NLZDUrU1k3dWd1S2FYYjV2Y083UEIwQWtSN2JRWE9PWktrYzM5bm5xcGtGeDdvWHZYbkl2TU9HTnNCV0o0c3BqWW8zUGtzTnZ0SkdTT0E9PS0tcXBKdkRDdmhtRloxa00rRkRyK3RFUT09--b044c7597662042908c5189a72f6d7fbde15905b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

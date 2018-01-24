@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A12757%2C%22state%22%3A%22CA%22%7D; _gsweb_session=QS9ZWnlQTHBvLzBPVXZYbFNCc29qVDQ5OHpkZmJNOTNPby8rbU5Zd2VYcVNqR2RvNnhkUHN5VVZleHIzMDJZS3RUbXFjY25NUXJ5WnpQTU55ZCtmWXBEREVUOU04NlpsRTVtVWE0MnkrellmSVE0RTJ4WVhXamUxQjNtYzRKeGFNVSs2ZDQ5NHFzbGFucFRzUHlFdU5xdHRqQlpSeUkvQ21QT21BdEYvSURCazhnK1BqZjNYMTNWeHJPMzB3b0I3bm96enMycmlhUUFoNm12cVZaUlczNG1PWjRjTXFXbGsyVVZ0d1gvbmsxQTJMMThGRXVlQlUyNHhCcG52RFlNZzJ5bHE3NEphUGljWXplTE5TY09Fb2RpV09Yd3M0SXpQdEJhdTQwWFg2RDgzWTUvcWkrOWZvcVJKS3BtS2ZKZUNrakZYc0RoTytxQjRyZktOMWJ2dVRLTHFUc2VhZW9HN1c2b1JPV3Y4V3MwSWZCN05YRXgvUjhTbVowTlJmZFBoZ3V2UzFsMW5hdGhVa0E0OFlxK2g4QT09LS1sS0JJSmhqcWlLS3Q0cmFCMGVrOWFnPT0%3D--3ee9b10508f95b67e65d4e97b6cef69dc399d8ee; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fschools%3Fpage%3D3; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/schools/?page=3

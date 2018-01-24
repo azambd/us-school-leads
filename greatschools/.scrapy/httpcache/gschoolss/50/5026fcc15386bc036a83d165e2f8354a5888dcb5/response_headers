@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8f63bee0-5499-47bd-bbf4-c790baf37038
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffairfield%2Ffairfield_suisun-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WHNVU3NUMjFIUjNiUWdVNkpvbDRsOG1aZWU2ZGo0UXFOQnZDWTF4Und3SVRtaDBaWXl3VW56eG9PM1ZxOUtQZEw4MUoyWDJ6YU56YmFFOUw2cXRWTzB5NDZXcEdheXpsdGluQzVhVzJHQjRqay9KN05KaUdacGw2WUZ1djU0Tk5aZzk4OUl2bit3cGlOUCtmZjdTV1Z4WXJUeDJXSmZUSnFtV3Awcm5hMzRBYkR1ZWtFK1NwS2dDcUw2N3V6YlV3eTdiME5hRTNmOHRKd3pIMFNyZkRzUWVxOXppek1SdVBvVEs0Q0JBbFZ0Y1dMejBGbzA3Z2J4bjZEbVJLUVc0MFk2aTBmYk00eVVROFRaekRNajRBMGc9PS0tRmpwTWhXVFh3V2JMU0wxMzRrUnhYQT09--6ce824b58a7f6c8c939442cf3157925f451a5f42; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

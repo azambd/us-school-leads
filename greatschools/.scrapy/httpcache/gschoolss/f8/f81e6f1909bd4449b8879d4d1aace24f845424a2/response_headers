@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d350585a-1c18-43d1-8e4f-7ea564ab48a5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flafayette%2Flafayette-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VjlHZWtvdUxNcDVmcHZtbVlTSGcwOWo2V21xLzJteCtOSWxlckVqNEx5Qyt3OWFlNTduaEF1MDJPWDgzdmtOaHIxSTkwRS9ILzJ5QlBGdVZCTlVuYTdOM3VLZVltL0NrR1Vuc095Q1J5ZkN6cldaQk5QUk1jYjY2MUJLV2FHUFRhRUtZTGN0dkxNcTNMc1JUQUdGUVNOOWxMR3dtLy9ibTNIWnNJVkRoN1ZUa0pOaENPQzZyWDNRcTZPcmhNTHVaYjBINis5T3ZZRmZxMU5zb2lCN1U3S2wrQmxNSmVCeWRsdnNpa1FlR043U3Z2UW5CMlByeDhJRzVmMk5yeTlwdlBMbFVyaEl1M3RjYkFha1h2YXMvMXc9PS0tMXZHSlBXbGw0RFBGZk9nMDJOSURaQT09--f314db184af7a54fc6179b25b2dab1cb32c589be; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

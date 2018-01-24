@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7801c09e-90b4-45b9-ba12-888a3ef8aa69
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacentia%2Fplacentia_yorba-linda-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a2dzZTNMMjdFeXU0QktLakYxMmhWb1ZMSFZMWE94Q2FWUEkwZlR0a1F5R2hlMW9VaU1IbGNkNWpoYVpjcUJCRkJpV0lMUllrdjU1TllyNmE0V3BhS012d1c4U3VoZXpDZjBUOGMxSFRWSnA4ZEUzaUNGQ3NiRkI2cFd5ZklvejNBSCt0cFQwZDJkU3h1TWpiZ2psR28xQjZGK0RzOVlpSTh0NUU4dTR0RFJnWC94OWtxVm1mUW5KQ2p4TEY5bUhHdnNkanRPTVY2bnJVWWZldHc3bVFYMHV4azRmMWQ3K2FyV1JZV3d0M21mUjZIQkk0VFpEQ1NpQWxmeUpsWk93c0hjUDlLR01uT280QU9sWHdHWVZCK1E9PS0tNnU0SWhCOGd3QXQ4aWtoU29oQUFUdz09--7c1da3c9e61fbcc244ba3aa3b8ae1771bb84b03c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

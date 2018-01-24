@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A27603%2C%22state%22%3A%22CA%22%7D; _gsweb_session=MXZ0MmwrSVJocEFyOWh4bFZHSkpVSDZ3SmZSbDY2ZXhodXFmVHJlZi84MVUwQ2htSW9sYW5kalEwaVFPdW05d1pxMGdDcnlNWTNLejVFWENFaEFEWUR2RWpLdVJKYXhKVGlOTEpRblJmWFhCV0NRdGJuVTlXNThIZlA2SzFJaUw2bERwaURueSs4cU55ZytuS2pKZkhZVk1zMVBYS2ZpZFRvckpmZjJ0WmRWZnp0VDdnVjRjNVUwNkJ4SUxZaTRsbHFZSDM4blVVc3Y2cW1VVno5RjJ1SXB1VXFyL3BsUGpGRlNBVjFHcWZ5Z2pzeGl4VmtRVENqek9lcWszTW9mK2JidzYraURCR205WmlmRFFwRWNrdE9xREx6VUY2R1BidWo2S3IrY0pRWnBiWGhmWkpJblljSzgxV3F2dUZNd21HWWtqSmRYSis5cDZsNEZNRThwdDl3RFN4UDd0cmtLNzlEdHhjSzJuNGR5YVA5MjhnMkw2Q3JWaUdWelBWVUxuakJiN251dzdPajFIdlhSKytCazRWdz09LS1lWGU0a3lsZ1hOOXNQVFNncXN3a3lRPT0%3D--ca4f6ee25fb4504bab107d42f4249023bb6cf7b8; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/30505-Building-Blocks--Of-Faith-Preschool-And-Day-Care-Center/

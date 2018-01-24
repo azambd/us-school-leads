@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9f5a0f18-9615-44ac-8139-b611f4bf425a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsamoa%2Fpeninsula-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NHZqME53MTVKdENULzJKWFRiZXNoMmdlVUthQXNlblNlUG1pQUwyM09DenFtR3BVbnJDQ0cxby9FM1lUNTMwa05GcUgyVDQ5SWNlNUFTc3lPeGRUZ3FqZ0pWcUJ2bzd6OFVjcnJtYkFrQXFFQk5wclphRzJERHpSTnlQRWVia2svaTYzT0I5NDdvOEZTbGJVUXgwUVNneUhtekZ6ODNrbjljODgvVUU1VXlpTHJ3NmM3WFd2M2FtNE00S2VlOEYyUXhpdk1tQW45dkwyNXdDSnlYMVhRV3NQZjVEdVg4TWxSZGYvM2wwc1dBd3MxalY1WUdVMkRsZ2ZualNKaHN5Ri0tWnlBUGhIeEVndTV5Mmw2aUJsM3BkZz09--4d48fa0eee3f931197cff5c0c01f6b9892acb63e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

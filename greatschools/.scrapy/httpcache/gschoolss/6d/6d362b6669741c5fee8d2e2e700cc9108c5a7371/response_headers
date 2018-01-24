@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: aabb9162-dc84-4bc6-82d1-146feb50cd9f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbelmont%2Fbelmont_redwood-shores-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=THhCTnB4djJodTUrSXZtaHh0U1hXSCtKcHBWRjV3MnlTTjBsVE9LbUpYRExHWEczTDhVVnBqcWZZaE9jc2pyaTJzSkVIZnZtL3oxQkQ1OW5XZkR3RzRreXRxaXZrT1Jyd0lDZXJqQ2lkSjFHWmVQd0FrSzY5eGlwVEl3ZVRkNU9zdUhBYVNIRjdVSGtnTVZkTmtzRmtwMXVtK1pkSHN4NjFYaVp2ajhrUEtYL0xNa0xGSlRCeHlhS2RXYVBTVFBHK1MzdEJnSGlXbG1nVlpzSXhGNnVPZXpoNyt3TDh6N1lLVFJ1enhXL3k0d05ldXhubnNQa0V6REZGak5XYUhnUS0tSTVST1hZaEZmdHBVNlFZbG1oQi9Ndz09--4113d52d91f2482abd49d146dd6445d59805ae76; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

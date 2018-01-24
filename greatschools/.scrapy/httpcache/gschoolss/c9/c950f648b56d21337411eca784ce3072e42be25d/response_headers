@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: b3db2b7d-2af5-4a64-9dac-70a811a94504
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=f2d6b216-7e47-4a01-8d44-fcca59ddd602; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbaldwin-park%2Fbaldwin-park-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MUV6RVhJOVVqUDNaTXlBNW1FQTlPT1NCSE16MUVyc2Vxb1VrZjl6eGkzQ21kUUN3Y05SOExsczZOV0I3N1JxckJGY3E4OEdwaEtiVEVYa3piWE83a2dNK3M4NTdCNC9iNFRRV1EveUlDL3UwdTQzZFhPU3NrclpCSGdEVFB4ajM0alRKeFBUTlN5M2JNRW9PcytreG1vc0M4MW5PNmlvMWdVa2szbm1jKzZuQVlTS1h2REhrYk9iYld1cU1XZzhHcm5oeWg1TlRXR1BEK1NLZ2YwNTFQM3NpQzNHZm9HRnZSSHNpV3hTakFEMmVaYlVwVTdVT3VyUExuMS9kUVFRSStOVVpxdTA2bXpjVnhSdVMzT0NQUEE9PS0tckRUWmpNK3hFNWI0RVVGY1ZqQ2NpUT09--1d746debbd2bd4e509a233b422ea451f1760cb6e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

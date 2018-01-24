@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2267def8-5e67-4aab-8041-4e0d7671f6d0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-los-angeles%2Fsbe-_-new-west-charter-middle; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UmRXL2owaDRVNGR0N0Y2WmdmQWJUbXV1N2FtbXhZdDEvMElCVjJENjdaYk5JSk9KdytuOUJrWGU2R2U1MVR5TklRT2R2OW5scGplTEdyZWUxSTFwRTBTdGVJSFNWWFdyTmFkT1FtQjJEL0xkMm1lUUMvVWUrTmVMQ0diYW1VOUxvYzNhbWF5YnppNlBuYTVjbDFGdVNWbXNFTGhqUjlDRmlyQXhKUG5aQnE5d08yS1lwOWc3Ymw2QXpWUjgxKy9tTk9sN0g5MUNVSGUvbjArby81aE5iTEVubERZU1ZlMFFpdExGQld4T2IvZWpSR3dLeWIxeG9qRDhTKy9MOGpHeEFnaE1NTHhlajE4WCtURDZtSXY1S0E9PS0tb0R6TTgrWFdoZmdLQlkxS3ZqT3hhUT09--0078a425bf4a555dfd2a01046cfab2673c06c408; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

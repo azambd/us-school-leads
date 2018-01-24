@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 95d0f780-f720-465a-bff4-6c0761ed1f29
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forland%2Fplaza-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WXR3em1Ta2U3bTgrUVlXeElBd01aekZxdnoyM1llcGNSbFpRSHdNcDFRRWdWSk9UOVFOVUI5ZTdpUWtvQjZTTHRmQ0Nvb3haSDJWMlkvTVpUR01RWjF5OUJ1R2E5bDliQ2hyOUN1VDNSWG8rNDlxa1VKbllQbEpWTGFGR0NLR2VBbTM4Y3pEb0dRQ2RYM1dXRFJRWW90b1hzbDVnZi9XeTJKQkl3cWpDZjlwSnhOZkdJbWtITjJOTDRuUmdxTm9ocDQvTG1xZ2NORDNGS24wT0JOUnVWWklBV25wdWJMYW42YW9HM3Z4K28zYjJ6VEYyUVdLd1NLYllBcStFaWpydi0tWlpRSldNMjFiSTJuWVVyTnNFZ1F2dz09--8f9a328e9b226735da9372d1aae218dff8ef85f1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

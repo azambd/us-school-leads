@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 5e8e03dc-af6b-4e11-ae93-493b65d55998
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fschools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T2NvWVhWVVc5UERzWEFEZ0plbUx2bmhFb0s4dVg0dnlsU1VsbXpSL2FSMFd5WHgxMUZUUk9LaHN3WlRJTkY3amNCTEVTN0FqU0U3SGZ0R3pUQUNRbUVZZE1mZ1RGRVJMUm91SWxwN0xBWk9nZ2hZVzkyZ0JVc2NFVEFNaHBoV053UW1oUHdYc2NZS1g5Lzl3WWxFM1ZoNzdESUw2Vi9BMm1rcFU1TSthSnhmY0lJTFl4UDMxSXQxWEY1Q04xRCtPVm5xd3VFYlVFYndmZDFMLzRjaDNXRkdBQVFsT203bTlmbXROR21lYjRwTUg2dm1IN1lyZGc2TUY0VWtQTWFnTGUyc1FmTytMOTMyWHE0SngrNTVXV0ZsSXg3Rm0xTVU1OVAzems2ZCtpdS9GMWM5Z1dKL2dUcHFNbHBHclZXbmxKR1RlZzBWNVRIV1RuN3kvRzNLQjFJaEVVNHhiMTR1MldQVTdkUWdQSStoUit3YkFaaG9ZS1pUZ1ZRb0JWVmRKQWQzSzV0dUtPRzhoYXI0VXF3MVhWUT09LS1wYTRoNTRjS2FzemxsMVg1dlo3ck5RPT0%3D--0b1f0e376a753730b86b52f4e3218b156cd66e9f; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

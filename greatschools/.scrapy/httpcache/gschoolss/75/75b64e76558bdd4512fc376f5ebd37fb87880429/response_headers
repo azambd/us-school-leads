@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4c5f5b90-dbd5-4bf2-b9e5-88475d4d7abf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmccloud%2Fmccloud-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VHc0SWR2Uk1ZSndOMm5tSkRFcXlXWjdYNjQvSUpmdWVrR2tsY0lrWlpxZUMxSmI2QStIY2sva1dseFlqckIwS2JkNjBncVBnRXI0NE1hOGc1LzNxMXRmUXI3VDFsblhKbDZXTzNKUnNsd3ZKbndBOS8xT1dueVhZSklIR1hScEtzV0FoZ2pmbDc2UzVHaHpLQllJN2tSRG1SQ1VwYWFxMHdDZlQ5MElleVBNRFlwZEgvOGRIQkMvOEpMUUo3aThraWtBNWh4d2s1S2tEMkd0R3Q5Qko5RldBVndwVFozRWt3YWlzakhyN3ZzOVdSck9lN09VTXJMdHNSWjExczRoUy0tdTUvUXg4QTYzSnRBZ3BFVlJNYUpoQT09--449e94855e9fa9bf142c0419de8dd0f1e2281175; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

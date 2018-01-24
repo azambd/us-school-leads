@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4a77fac5-ef4c-49db-9165-07e0bb2ba036
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frainbow%2Fvallecitos-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZHlrSkQzMEduVWpBRjRyRzNkdFdGR0VtLzFvTk1kd3ZBQmlyenpTQUEyTVdFMEVqclhjRktuWGJHZFJNZHNhM1RISVVuT3lBU1BpQmg3R0pTVnZmMUkzazBEWUVLYlMwb0xkb0tTSWhOb1oyV0Roa09ZTVUwMHhscE1qekU0VWRjRnpsUkM1cGR5OUYvaktlNXlia2Z5QWdaV01zazlyTzlDcHRzako4YmNCU0l2Q29JNnp6VVl3eEhLWFRQcE00UmJFS3RKWldSWTJ6Vi84UDBxbkx5RFAyWlFDNzJpakRMMWVPL1U1d1lwMnMrdFNUTk1DQ2ovRkp5anNnNWdOTi0tVkwwZDFQTi8yTEFObDhXZlBJKzRlUT09--7e5f1865dde2464b050bb5fee49368a0427be0fe; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

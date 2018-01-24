@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 904483c9-e165-4b85-bf6e-7276c37fef2f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyuba-city%2Fsutter-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eEJJZWxrWEtTTFJDSDNCZlVXc2pEbS9UY213L2JaaXZGTG5GMGNtUXFaQ1I5K01WUjJsMFVONVlrVDRDZ0xSQlE4Rng2aWJzaEZaK09QeVkwSzdPSnN0OTRGQ1pZTnd1M1RiM2krYjRQb1Rzcy8xL2dZcFpOYnlUT242b0hrc2E3eWdMcnV2VHV4M2c5OXRqS21Nb0dmREVoL3dZaEN3QVR0c1BjcHhBUkxmWDVtUUxuMTE0NE1CZWViaWRxNXJmdDQzSEZwR0RQWDQ4R0wrR3A1TG5lUzRwN0R1a2hUQnFENjVFenJLZDFTWi8yWDh5ZXFHaFdjVlJPMXRqMW9tWkQxeTV2d3FuVWtwK05aM3dDRU5uOWc9PS0tcHJnNnd3THlMTDg2MmRsMWZVaXdLdz09--43e5abebf22870f564ba51db5f4f585f96577b06; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

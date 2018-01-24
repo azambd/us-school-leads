@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1b759002-98e2-43a5-893c-814960ac6ca8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvalley-home%2Fvalley-home-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dk9mRXJxWmVwdzROL3pvT1ExVWlQczR6OWhHOWJyVEVjQWx3eStWTGoxWStiTHFDS2xJUEw3YXkyTDU2NDJVRHp1UGdkaXUvTW1sTDh0Y01aNURxOElmQmVrOVRNejdmblZ6YUxLRVJya3dUdzBWTkExRmVZc2d4ZEJaeTBNQ2lWTTJRY0Q0VVNPV0svU0FkWnd4eTY3UXhHNjVRZkROYU9yVUlGRmpYbU9KdCt4SzRLczgvc2QyTjVPN3NJL2taNkg1VXVMNjA3NXd3L2hqTFdISlNmZ2o3aEpuUXlvM3h3azRxNWV0VWdTdWZNZTRxTHNNUE9yNStpTUNBTkNlS3JlUW1wbkdUSG5tOU85Ny81T3N3dEE9PS0tZmRkVUxGd2tyc0NoTzAwRUpaMHpyUT09--1962a8b76767d2e81d9b4a56981cb064bf230658; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

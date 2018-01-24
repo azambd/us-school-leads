@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bec377f5-6bb3-4edb-a21a-0c5a23a473eb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Fpacific-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=elEvaTNseG1FUVBmQ08rZG02UEE2UDZaN0JkOVNiUXJKdERTWmt6QklGTk1QSzdSNjFMWHVsQTIxamZRZHlZVzJvV1JwVkJXZzNVVHBtM0NvU2p0MWxoa1pxZHFjdjVQTHNMWTNuWGZvdnNPT0ZENDM5TkJqTEQ2ZVI4VXBKQUxTbTdCakNIMzFCVU9ZODhQY0M2bjlpbjF5WWVWYWR3WmtvR25jYXhiYW9KVWVFZzk2YnhKVE9kSVBKNjBLMEdOZXpWK0VaelhoQWN1K1hZamthVG1ZRGtjMngrU3VlS2U2MkhaQXJ6RDVBeHpyeXJXaTFUbmczNUZ5bVo3OW9XeC0tT2RCd0ErQ2hnd2VYamFBbS9mZkpvQT09--aa98de2c85dc029a5c1fbdd820854a285aa999c5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

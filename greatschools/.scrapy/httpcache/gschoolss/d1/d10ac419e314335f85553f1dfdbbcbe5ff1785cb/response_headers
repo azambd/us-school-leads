@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b20e010c-b100-4f5f-8681-7edca5a0f384
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmt.-shasta%2Fmt.-shasta-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RmtMcngzdC8vdm93L0E5SnNNTVZGN1hjZHphbHZ1UVIyYkxOMDZHS0g0T05lbWQydENDTE84ZXhGd09TcUhrdFgwblpSMDRlaXJkdWxNRHJKYWhLSlV4TTRPUGt4amlReVV4aGJCT3BKajAvNTBSS054eWxkU1lmQ0dqZWFiMkljYmgwN0NpUDFkSkNOMGZLZHJEb3Byc2lMa1E0VHFaMFBIN2FjSGdXaXA2MzI3dUx5SExjWC9HQ0MvVjYzSEtmVnE1ek9haGMvQlpDWU9Cc1pQdGpvU2QwMkM5RHJJZ20zd1RMNkNCK0NZZ0E2MXRPMVNtSmFHOENYR1Jid29PaDNPWWdMa00rYXZTRzljNUdIUW94N0E9PS0tdHg5TTZCQUlOYmVpdUZLc1dMczhrZz09--be3cc0c78066bf04985f17e6f7dbd8655920fba8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

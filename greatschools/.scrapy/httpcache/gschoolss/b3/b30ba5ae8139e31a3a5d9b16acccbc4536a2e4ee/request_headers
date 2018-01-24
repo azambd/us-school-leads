@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A30020%2C%22state%22%3A%22CA%22%7D; _gsweb_session=OERpL0pZczNwYms2alJxZHQzbGZSUDhwZU9KOWg1Sit1bC9LWnY5ZEMrMVU3M2hlcXFXMmVkOTBlVWsrSTl1QzJ6bDd5Tk5mVlN2ZFlkY1BPNGFJM3hvUzQyVG1vMElPTi82eVlCSjlXYk5RSDl3TjREQmc3ZHlKYTQ5b3V1RlBJaE5vVWJZN3RhUFBXWHF0ZVdpbVFLK1hrc0VMYkwwVkJDSUl2Uy84Q1BDZ09zWTliVkNXeHdCQnpXa2ZRdCtlVFg2MFdsWHZCa0xCY2VPbW9ZRXFhRFIrNHFtdy9TUGVqd1hIMVZvMlVuYVU1MTc4VWdJQlhIWGt3SGk1MVJrNkRQUm9DdXpDWHJTcHU1VFJ3NHVveDczejJVNU55YWd6eXdFaUxmZFdjWXlPbTJWbEZUL0J4Yy9ZT04zUi82OVdONytzWmt1WUdEanFzNWNLT25YcHNFRDd2SGtMeE1VTjR1Y0VzYkxySEN3UDRjcFRpT28ydktiNk9Rc3lVVDNaSjJZa1FKZHJrRXpuRW1ET01JSVg4dz09LS1XUDFGV1dwdHVZbjZZeFg1M0I2SjBnPT0%3D--944cd48650aca76238c925b85872eebed46a8992; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/30020-First-Flight-Pre-School--Child-Care-Center/

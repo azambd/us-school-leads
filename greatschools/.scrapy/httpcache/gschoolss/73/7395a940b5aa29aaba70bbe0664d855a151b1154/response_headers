@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f6755130-afa6-41a6-b495-47b0dfb2f003
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jacinto%2Fsan-jacinto-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VXhQZktiUk9HRExueXUxTVlSdWR2d1BjdE82YlJBR2ZtVmJpRVlxRkdHTENBVzQxR0FBZXptdnhHd1ZleTM3RkNoOUdVQm5tSVlBeGRTTFNONGpzQm4vcHJpWjczMFBvZStnYXdlYzVzNmp4UHVOeG0wd3JJNmhOVkRJWkd0ZVZ0OGF2TTRwcFhnUnhraHBLYnJici9rQVRLeWgxZlpsMS9XSFZrMGFZd25lQ3dkU3RyTDZlMmR3TjF2MVRCbzBrTElWRm05aGdRU1A5b2R0UDY5N0VmMjlEOG9BTSt3K0xJZUdhYmtTbnNtc0VZVzFad1FYRm11QitzT3FEL0dkMzVJbUxSKzRzV00xNGxhd3RtcmZBK1E9PS0tclc0TWlPRG1CNWVwdVBub1ZIZ0xQQT09--c9321bd75d11d0f04e9acd86f02c94336daaffdc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

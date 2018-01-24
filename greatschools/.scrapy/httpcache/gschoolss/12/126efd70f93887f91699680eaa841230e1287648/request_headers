@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6153%2C%22state%22%3A%22MA%22%7D; _gsweb_session=cEp3SXY2dGNTSlF6QzZhOWNoTGtOQ2htcWdPd1JscVNRZGNUZE9FSXFqeHBQNFhIQnByRmFPZHhoSjg0VXhhdlBCWGU0cDVIb1BOZFVzV01UdzFwVjRMMGVHNm56TVM1MXBaU2RmRXVGRVBPR1V5cTFaQkYvSUIzbjdzcjNyclVLVWxxalFvd3JIZUl4VkdNWmVsbHRySTIxamdGRDN5NzhKcW5OUU04clVzVGVOSmEwcm11UWdtRmxBR01rS0QzUDc2eVZiYTZONHNxclZZUDBrMmthQUhVb0F4QUNOcWJOL2QzeWRLQ0pUMmFKdmJmNkdiREpwODNNZ2p3bTRxUG1MaUJWdWMzc2ZQVnk0dUYyN3BxdTBuOGRUemljWHhOeENoMzlRamlwZkhiMUZnbkwwcnJNaENSUk8wait1TWdYNkpweGJBNE91VFBkcFd4aVA4Ny9ORVhoZUpRUVpieEJ5eXdqVkkyYVlBNkVaTHYwRE85a2pJcmhFSzlSckNPb012akFEL0VpaHBvZnhrNTJ0NlJmQT09LS0zRzFhOVZrSmdKRXBhNlVBQkI1TG13PT0%3D--d3a30b6707b6b66607dbbaff27c2e48ee11013fb; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Ftenafly%2Ftenafly-public-school-district%2Fschools%3FgradeLevels%3Dh; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/new-jersey/tenafly/tenafly-public-school-district/schools/?gradeLevels=h

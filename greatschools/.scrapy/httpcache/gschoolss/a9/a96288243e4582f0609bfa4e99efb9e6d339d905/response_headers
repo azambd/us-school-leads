@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 19332eea-931c-4b24-a7c6-a9665466a511
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsebastopol%2Fsebastopol-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RTNEUHI5YVhlREVMc2FNSFdZTk5yZWEyUXVDOXR4RjBGQjFoSFlBbkNWcDNHZ2YwekhveEhnZVd1QnZxakVTaStyWmZFYW5yTG9jenhmOE5Ib0pUSVc2bmYzQXo1ZEVxWmFMQ083MzduT00vVExlRjRZczVMU3RBZU1CaVFQL1d2cjNJQjJsN2RlMTdUU2pIL1docW50RWJwMFJHN1REMW9CeGRQZDlpUzhiNWg2b2RBclozZU51N2kwRkgvVXpodncxL0hXaVplNDVjMnZxWFNPSDNkK2lSVm82ZGl6T3UxcTB0YVBBOVowMGVHdlRNYUp5NHFRZWtvcnRaY2lGQ3NTS1hmUE1kSFpRYWZLeGhtc1E1R1E9PS0tYWxGMnJIOVdKbDdxclJUbTRIQ2tidz09--cad7e4df67e4c50904fc898e5bf4d702bf10e4c8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

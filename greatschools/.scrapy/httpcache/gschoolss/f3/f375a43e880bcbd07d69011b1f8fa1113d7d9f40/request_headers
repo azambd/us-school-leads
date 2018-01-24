@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=ckhRRUtqWkd5eHFGYzhHUmw3OTVIK1BwN2laWUlBb3ZBaFRVNFRzSGwyTFg0dkNBWlh1ZFhpejRkenAxeXZVM1VSOGxZbGJiWUZUL05GcWpvZWg2bVE5Nm9DaHBrQmJSUTdnUWwwUG41b1RVSm1waTF0cTJjSDdCT1BZWDlwRkhsUCtrRFk2ZDN6N3NoUis5cHFOVmxsRGE4a2tOTmNNUXdnTGVEeTMvQkY0R0ltYWFZcVlQZmxTKzI4MWxwL3lOSmtYYmxYUlFwWGpWQ0N5dFZHTWFVWEJWRUtNQnd3QXh2NGJBVzlpSHc5UnFQdU9tOHdyUExxanNlRjVYcjJ5Si0tMlZYUnh2Y0thYkxreURmc1E5TFdkQT09--965e412e9939df3aae352f032c83b3325a5251d1; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftipton%2Ftipton-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

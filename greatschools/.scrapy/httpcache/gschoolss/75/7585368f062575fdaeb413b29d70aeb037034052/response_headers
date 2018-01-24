@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c85d5300-7c18-4ec2-bbff-0f16697f9f12
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fguerneville%2Fguerneville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c3hFcGtNRXhZM3lnbGZCSHhQM0FxSHUzM0RSZ0doaHVsdmNiYmJqR0Y0ejEvZ0JXd1ZGK1p4OEQweVRpekxjdTFtWWU0Y2dNRUpMYVFIMTFTS1EwQTBYWVZjcTYzYWRRNTJnNmIydHdtZXl3TmxXUzdWR2lsVm0yY0U1OHZpS21WdUdPT2loZkUzcnVmd1JPOXFHZHFlaW1INWdjZURKWWFrQTF0QktOWS9jeG5PS0F4Q2RiajV4MDdEcDRVSjQ1V0hSK1NnN3oreHh4bGRrRUhTRU5NKzRaYmhuVkdBVTE1QVg3LzJ0Q2pUL3ZBY2VzaE84SXlad2xOeWR6QmVzM1g1d0tTZ3pLYzd2ME9MRm5hRXZSSWc9PS0tZ2xDMmtnY0xJN2plRDMwYmQvRkR0QT09--f85f9bb4a50b262f26c1e67ad447684dbbb2b3f4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

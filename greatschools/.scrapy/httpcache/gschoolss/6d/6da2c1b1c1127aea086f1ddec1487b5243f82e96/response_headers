@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b80b0f62-ce6c-4165-883a-fd0866207e93
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrass-valley%2Fnevada-joint-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L1oxRmQ1THdyWDBQUlN0TXRxOGdWMGFUM0FJbGNlOTNLODkvcWxTOEtjUWlUR3dEQmQ2Qy9hNTBXNVNzQUVISGh3ZWtTcVJRWFRBdFkzcDdSM1JqUjdvOGlVTXcrZG5QNlUyWVM5VmVSSUt1OEpjaCt3aHhCZTVSRGp2WSswQ1RKRW01SGFnVXdqc2RRRWxIR1BUUTZXaFlJTkE1dTNpamFndDFKTDdQaTkvOGNUZTBPSDJPektNSy83Q3ZPOUhOckc5MzQ2WVJlWUN2eWZoc3BWdUdqT3I3Mm5SZlE2UzZHUEJ1ZDFxQ2hyd28vUENpYVkyR2RGNkRQVDU0VndETjJ0Rk1iYk9RMlJybWRISUtPYy96cVE9PS0tSExnUjc5TDREeVdEV2ZHN3dJZkhUQT09--9a0d2cd90392c262f4ffcadcb1f58f63eb0e8fb9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

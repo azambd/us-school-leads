@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2570884c-fa02-40a6-8d93-9b7722520832
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpollock-pines%2Fpollock-pines-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OGxCVk9UTjNYZ29YQXdSUGI5UHpiU2V2cXR6U3RHYUhEUFZjSFBOVUhGeWcvbHU5bkM5T0FPMWFCQXNVM2JtMFpicEwzZDJjdTlEM3BDdm9kSHhhR29ucWF2d214N1FZL0N2OVdyYXZBa3VWZ2ZGYTh6eVcyYjVpNko1NGNZdnpTQUlnM1IvM3pDN3FLa1p6ZTg2RW0wck5jS3QvV1pCT21HNUpkVjl1WENwc092WS9ibWZaM01oN3ZqU0NseDhxWTc0LzNxRFk3NGNwSHRKSGFjMk93VmhwME9sWERjNnNJZWxpNlRZVEV3QUxhMzF5QXkzZDV5L0pZWGYwcVRsSTEvYm1XM0VOTHNjUkFPenRkWGxoN3c9PS0tYkdoeXgvTEdrdnllaDBJNk53Z0t4QT09--8cff3f12223da93bd1f8b8f4bc0a84ac0db05090; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

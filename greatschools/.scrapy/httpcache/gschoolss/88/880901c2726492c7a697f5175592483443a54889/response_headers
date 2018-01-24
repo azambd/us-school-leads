@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0ec31659-28c8-4060-8b66-78534f3ec5e0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgreenfield%2Fgreenfield-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bDFQblVDMCtvaW5DM2RCL3lmWWRDU09BMW9RMlRtM0hXbTRtc2xKRkRiMFNHWTcyM3lWL2JabURXTVRxYm10OHk2RVlpbHZhMk83a3dEYmhXOXdiaWxTUlE3NmNCdDlhTE8vUnc4ZkV0MEVvZ2FUVU9hakZXa1A2TzJuWHRBbWtvbkJSUWFpbWs2NDBRcENRZnh1Y002VEpnL1FvbC9BSmp3dUlPNGo5MTFvS2FWbVhCMHVUV24wRzVqNzQ4UnNORDBTRnZzcWNXUjVhNTBKOWk4UHhiR2kvSXltdGJSNDFSQWdrSEUwM3M3ZkI2TTBTVWw0MkNpYXFudUorNXowWE9ocVd4cG4xUE5MU1B0QW1rdlVhNnc9PS0tYWhHTnErWThmY1dZYi9XLzNpWW94UT09--cf7e2814e46508a22caea32af74edac28d52cbcb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

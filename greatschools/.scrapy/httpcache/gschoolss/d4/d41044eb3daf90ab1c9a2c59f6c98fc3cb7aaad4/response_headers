@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 696aec0a-a5df-4d15-a28f-53c515507570
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-diego%2Fsan-diego-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Tk1aMGpVZ3Q1VjFXWGNjemhhS1dJeHB5TXAvaUZEWDZ0Y3AvK2xMMU84bDEzOHBUb0pYT3lyRXVBaWxURklJbDZ0bGJMWWZJd1dSajBrKzNMZVNXYURqNm4zUzNKZytHZjV3RDhXMDVCNENRb0lUMlVmZDdYa2dNTXFJZXY1bDdLanZkVUZNaCtxNWEvZVBkakN6R0E1Sk5CblhUVUZ3Q1BVd05Gb2JNSXZ4ZTB4SWN1TUlsV1JjK3ZjWkNOY1p4UnlhVjlhWDU3SEFBM1M4elZBWnRMSGNLeW5Nc0thMWJ5YnIvNEk3TXZSeHArMk5nNHo2eWd6c0pJOUxnUGZnbVdRWGR4Tno3TndMa3p2ZmpXRjBQWUE9PS0tV2k4S2ZBek9rVDl4dGdFT2dQY3ZlUT09--3c01591e4f1d65dd867d269ad2b0e87149a41202; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

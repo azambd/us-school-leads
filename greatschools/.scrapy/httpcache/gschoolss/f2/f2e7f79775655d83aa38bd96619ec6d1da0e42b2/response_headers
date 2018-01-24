@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bdd6d217-6e20-46bf-a702-ebe360cc71eb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Fwhittier-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UkhFdDBZTENoVDI5SVBHdVBvQm5reEJDUFpGWWNNYzBuU1Q3MWR4Wm5vcWRQZ3Awam53Tmx0VzlUZTFQSkpFN0lIczBubDBiQjdFVTVLUzVTL01LQ09Td0o0cHhkQXR4YVBSTnByMnRtS2VCUmNpSmxFQndZU0d5Z3dpQW9ieWhYNm1TWEhEUnI5SGZxQmhaWGdGMmlaS3FETXBPcThkV3JwQ2wyWXRkb1Zia3o4cUllNXU1S3NvYVVBMEgwSmcwaVhvNTAxTXY3alpXZmh6NEIwVWFJLy9PQzlqTVh0UE0yT0x5TEp6WEJCM2xycHI4Y2dRSDNnRFlxUnR0eU5BaC0tR2g4cWJXR3hGR1lBdFRYek4vUjRnQT09--8484a9494e3b6492b4cab8fa04a3bac8415e6f86; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

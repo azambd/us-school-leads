@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8c0d9809-99b5-4076-8b3e-1cab0811c2f0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontague%2Fbogus-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NzNjUjZzK2RyNWNhbFlWRkhJek55aSsrOEc3NEQrYWFLVzlYSjZXNXltcWZrTHc0MTJJcldtYVQwRXV0YXNlQWc4Uk1FbW90NVJpMVhFQXVEcTEwd3VUenkyUHJHa082d3RTa2lPWmgvc3pzUE5ZMlBHK3pGSEtkUkFjaUU3Zy8zVHc3WU84TkErYzBpWDRlbERaendoTWg2NDZGNzBEYndJbys4dHI0MUtzVEpIcE5qQlZ1QnVUQUNmZkw2UURseE5XMmlncjNnOU54dFZTOERmWlZlRUpPZGtyVHZqZ2JYRDNDdmk0VEZvbU9lM1BYajhzY1owM0Z6QzVJVUR5Ry0tL0ZZMy9TVUdDUnI0N1JrUC9OQVVOdz09--7b41a4d4ae9eabe6f10bb96d0b783dfdb2450ba5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

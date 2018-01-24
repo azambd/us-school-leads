@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b86b53f2-778f-4141-95df-0e8252b3e7e8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feureka%2Fhumboldt-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eFBUdzBUeU9XQlMyQ1hGVi9IUGg0WDJQdm9jWnV0a05XWUNEOXdxWkFtTk1hd1lsOHhMZm5iMFc0SENQNkJxNmY1enVPUFZrSnZ3S0p0N1NLU1RieXlEUFhXWjhVb2UrMFF2NzhnTGRud3R6UlFxckhib3BzZVZZYnBSTEJmZGZzNjg0TS95MkE0TEYyZDhRMWFVQldydWRPYU5KK0dmSkJwbUJHSTNkZWUwUXpRS1VoSk1Na1A0N2c5dGdsQkdYanRxR3didC8rTkFMUXRvYUV0WTBnS2g0bGdyUHN4MnZyZUNPNGFHQjhEZDlVNStVeWdCWnRsYkxVbmtBU1FjeC0tbjJXaDJyMjVvVlBNMXdLVVdwUG85dz09--a77519a0cfbe7432451fbed6909d1fac8860ec9e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

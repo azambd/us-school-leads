@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 122116ff-5014-4a7b-b7a3-35a67c3fb343
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Francho-santa-fe%2Francho-santa-fe-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SjZZZDkyTXh2VGg3bDFrRSt0cndqY3ozS3JvTkdTb05kaEM1YlhWVmt4aWFqc1oxbFVmR3Q1NG9Gd1hsbUMreUl5M2s0MU5sWmQwcXlLQ2gzcmFCOEtkUG5UdXVDY1BiRXN4aVg0NHltMnIxZ2lCU0I3M0VXZENBaDBHb3dvcjkrUElSRGlrdHVYTWFKbmc5MGF6NUM4V0o1WGp3STE4cklSOU9zWFEva3dtVElwQ1JMV2wwMzlSV0VvZWkxVmdwTWFVdzJYOFUwZmY3RW1pbldVOWNDTHlVeE1jSlFEUkM3RHAvNTJsbzJKSmo5c2dQalh3Wm9DcWptQkxlbHJJekszZXd0Y3JqN002L3dWSTRZeHY3Rmc9PS0tdEdhS3lSYzNNK0pEMVFiOFI1d1dCQT09--e6e8cd670bf0d1e01b6b175ad1dd3151b3e9e92c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:02 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

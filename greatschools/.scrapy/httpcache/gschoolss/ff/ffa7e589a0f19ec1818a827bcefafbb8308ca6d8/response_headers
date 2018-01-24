@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6654b860-c6d1-48c2-bb7e-61c820dcab7f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffallbrook%2Ffallbrook-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y3Q2dDMxcldwdDNHaFhSZkI2cjF0aGlwNzNleXRvTzRrSUQ3blkzWG9SajJBMU54cXpNdkZjd1ZMTEw4U1ozMlBMZCtnK3BhU0hidjhwWTEyRHNHcnkzbXo2eTlWK3NBaVMxL2tCUHdDV2tVeVlhSkVMd1ozU2FaWlpzK2tVOXozVW1YQmNRc0JVcHBjSisyQmNBMG16OTBQWWN0QnR2UVZGY1JLMlFicGM5ektWQThLVXJjWDVGNTBqcm9aS1J4ZmMzMktTaHRac1MyLzhFT0Q1VVY2ODZCV0tuNkd2WkJyQmNIWk9uSVdadDJrbVU4dVNNajVtcFFmNWhoeEE3MEVCa2luVnUveFk2R2ZLWTBINDNBVHc9PS0tYWp4R05jQXBhcUdsNkJ6MGNVTk94Zz09--ef67512da995c3c02671216d2c4368840ec8cf2e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

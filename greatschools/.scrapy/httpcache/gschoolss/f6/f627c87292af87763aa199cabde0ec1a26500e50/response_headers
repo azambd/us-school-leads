@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 278705de-abad-4653-bb76-1924f3ab1a0d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgilroy%2Fgilroy-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eFF1RmNOelR0bkQ3dzhLRUNQcFdqTlZQMmxGcUowbXpLdEwrTVlwOFRXRnMwekgyVFVrYndnVjZDQk1BQmFOMUpmSkVrWXdDaGlncUh4SDdZbzNzRzlOZkVHenhlSlpOY2JBdUxNVjk1UGZ3b2hRTXBXdVpBRWZuU1dOaUlEV0ZWcWFMMUdnM2xxYm9YcE13cFFPb1BqallzaC9Nbzk4RVROVkpXOWUrdm15RUVITzZTZU1nbWxFMDVLZTNyK2tmSFRoKytWMm5qOEdXUGl2WFVDZlhSL0lKMmI0UjgxbS8yYVFMaWZ1bGo1TlM4QThZaThpcGV4WUQxNkJFd2pJTy0tdmRrRlplc1VBamVBLzBib3FyRk9RZz09--5ae9f963be6820a3a9b834889679affefe6282cf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

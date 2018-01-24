@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 85e6c133-32b5-4d89-83d0-c9891a84d08b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-diego%2Fsbc-_-high-technical-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=THFvWDFaQmlDMldMeU95ZTRDU255MmJWd3huTjhUNEFRYVR3dWMwYXBMdWVtL0VMYURXL2ZiOXhwRTVBbS9LSFgva1ByTkQxUmt3U3NUakl3Y3dZeDJINGpWNWd4ZTU1cnJUNFZEWjJtK2U0Skl0ZXF3RjVycjEyYkRTYkE5VGhLSlFQV1NTNXdyQ3Fud0k0SWNBTXQ2cjNEZmhvcWZnUytSWnVJK0VlV3hpaC9MK3ZUQktxaEtIaWNHUnBSUjdFRWFpVGluNjN5UWVmNnQyeFVmdktZc0QzNTZvZHBJNUNuN3NEV1E0THp0OEdBSW5pOE9wVTZqcnN5U293SjhTdTZ3UVdiVjM2RXFYV0JVZ0ZsQUw1bkE9PS0teG1rZ0VqTVNQVmZnYXZYK3pYZWNoZz09--fe7ad57506b1d6f7294f0b596da9fb7b7b498c20; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

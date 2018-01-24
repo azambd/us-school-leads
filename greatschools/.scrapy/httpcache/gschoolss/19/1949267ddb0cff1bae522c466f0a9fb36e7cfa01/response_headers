@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 03db6e82-e8e9-43f2-86ab-200b5739cc0d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdelano%2Fdelano-joint-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MS9rU1pYODFyOXNrOVpqNXZscFZMRzhJeFdJMXBiWnh4cmJpZkFFYUVHNGl5V2FPRnRmNWZza3ZyNitHTFpzZWg3bU5KS0VCTGNoSlY0SmFCazhPRnoxMkFvMjJRNTBMZWhNalAwaG92cWppT3dRN1I2OWJBN3JIVFNJMGI4bTU0RmIvYUZPbHRsM092WC9sd1lUQllwOEJxZ0I1MVhxc2l0dFY0Tld6OHRKeXExT3JuQTQ1N1pNZFhUSDFMQ09FcnBXUEJVTWxEOVptQ2llQmFXTDJPZ2YyVkxQL2NxeElSR1hveHMxWkFZRmFkZkw0Rnh3UEFiNmcybmZFbEpvRC0tT0NEb0YwcEgrNVBuVDhUMk40R1BWZz09--734776bafa9100db33669d4fb0ab570c3cae276f; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

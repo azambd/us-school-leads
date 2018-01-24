@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2243b2db-0a45-4478-adc0-48087730a835
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fla-mesa%2Fla-mesa_spring-valley-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TUxnYjlsRUMrbDM4Q1ZOdkdLL1BJeTZ6czlLQVZlSlFvVGhnN1NGT1FtOVVYcWw3Z1AwMi9OUzUvWUVhVUNUV05sZDNUYytlTnBtNUpuQkFZOVZsL2FsVlN0c2RzTUp5VGhTWnNRUHZoKzRvRW8xU0lOcnQ0L3dXNnlXVVJaRVV6MnNIRm1VaUdPUGczeTN0WkdzUGxRVTdPV3doYndzYktja0NKalArUGNnTWRxdU82aTJqdjNydnp0bUhoei9uRWNlb1JRZnJmOXBGVWoyUGJBSXlnYUZkZ0lGelYwN3YxNnFEd3FrdExJSytyaGpiNnV6R2ZWck12dVBlWWdFcy0tM2VrNFRSRVJ3NUxCYzMwNXY3aW9qUT09--da05a3c3745947bf0646f13bf8fd4a5e3a00752d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

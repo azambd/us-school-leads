@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: 4f51c686-96b4-41a1-b7fe-f59128d7919a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fdumont%2Fdumont-board-of-education-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WDVkMTE1ZElHVnl4eHNING53c0NHNkpFc2Q4aEY3WEVvREl5V29hQ2lyMlVVaUJKWEZ5cy82U3ZRbUsxR1haRlBZVFV6ZDRjVng4akQvM3VuSG1IRHFYdjFEc29WQ0RwcnB2bkZoaWhiWDJUM0w3NS83cFlORzBaY0l0TGVJRjQ5OTVMRlhDQUxxT0M1VS9WRG9HVkpOYUhEL1hza2tFZkthdERPWGEvajh5aFhwenArMVNtRVkzLzJVVURNRkRSQUEwN3QwQlBoMVcyMjZ0dFRaQkIyUlczaU84aHp3U1dFaVZmeWtnYlhrWjlXeE1ma20wNmpHYklGell6WVd4bmcxV0cvdHFyYjcyN2FqN2oxbm5vV05MVzV2QVlsbS92VFovVVRBSkpEdHcvR3pXQnhSY0lJV1F6NkFJLy9QY3R6MTA1TnVhYTFXMW1SNHNKRG1UdkJJbHF5NGYrRnJtaURkS0Q3aGJzZkREZEJJaE83UDFySGFpcHlBTkdRTGxJc2FGK1NaVHBQMzZFcFVDNElFSTNXZz09LS1ZNWNLYXdjL2lKNDYxL0pJKzhTUG1RPT0%3D--382d653c6bc6a6b033cc35ceb03eec9ee85b6832; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

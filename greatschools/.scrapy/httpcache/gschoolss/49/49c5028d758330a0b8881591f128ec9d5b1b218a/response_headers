@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: 471760b1-e3bc-4489-bda3-d007ddcc5eae
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fhackensack%2Fhackensack-city-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dzJqbVBXRGY5Zld0WFVZUXVURGlxRG44aWUwTjFwTXZ6K2h5Q1UzdFJTL1lIRXB6Q1VzWlBQOHpvaXAxR2VMKzBlMWMwQ3dVT3liUUJaL1B0RjcwMmJSQWhSUENYUG5zT2dCRTVpUlJvUXMvK1hMcXM1T3J3YzFUVW9jZFdYQkMxclZYbThMS1BNM2ZVZzRlTEoza2RGR3prN1dDVGFMN2NPeVlWZFptNzlHaUVUazBUYnpNSlZQOHFlQVdBbEtuVGsvYnBybzNKelRvZjVxQm0wT1FlQ3VoZjdFcUxrWDllb1M5K3JDSnFzZUxMbys4eEd3QytFOG1KRlo5VEdYY2RpQWJLZ1hBdTAvaVpMbUNpaUIzUzJhZDFyQ2M4dmhLNnJPUlNQdmF2S0tQbDV1WS9EaDJDMTc3d0JiN2xLdEtzZ2hGcFZYa2JYeUl0K1lwMmcybkYzQk5mL0dFam1kNTl2cjd6OXN5ZE9TaWNpeXZHenNITDhyeDUybGtzam5hRENEZjlRYnM4L0xuVktiV2lqQjkyZz09LS00Q1R3MEZ2TWtEUFRSRGJ5YlJJNSt3PT0%3D--f13b56dbbfcf03fd3c6db90178511d0d43b25365; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

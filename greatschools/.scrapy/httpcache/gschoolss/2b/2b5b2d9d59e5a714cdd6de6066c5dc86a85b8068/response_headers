@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4bcac465-0c70-4652-afc0-537941756d0e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsusanville%2Flassen-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z2dYcS8yWEM2WEVuNWREZ2RPRFZreXdYSXc4dmF6ckFNeXV2R1dpQ0xMUmRRcTVnRzR5TUU3ZXhrc1VaL3JnVUNqelBaSVJBMzdWcW9xTllwRGQxR1MrdU1FdGVLYUtYN0RnQTB5NEZOR2hudnlMcStia05MTmNtam5EQ1RsbDQyMGNoQVcydjU1UWRZZWxDM3FDUG9OSjE1Yis3dHdYeWQ4eS83ZldiTmUzMmxvb0gvSUwxazJjbVA5My9JM25sbnh3T0h5MnB0cGVsbm1jM2FXWVdFV2lyU29NeTYvQ2NlMTdBUU1KaGxkcUhxV3NhRmdRZWZJZWFZNWRTb0ZBN1hUZDdScGJ0dVFWNGlmK1g1QVFjSEE9PS0tM3FCek4wTjVJdUVqbEZQNStOKzhhdz09--1e43a9305c33728ec8d9c8c3950d99bfcd47ee6e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

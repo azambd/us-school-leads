@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5209e830-54b6-435c-a4ec-fc0268bf6442
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flemoore%2Fcentral-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzUzbWpKVXNuRXZlZ2ZKSUF3bUdWM3dLWVN5Q0Y2Z0VuaHo4QUd2OXprOTRRK2xWMXozZ1hqdVA1dHRXQzBuWlkxZVQzRVhNYUlKaDBJMjlyQWlaKzlsZFVaU2RJSGNOVFFIaWhLL2NSektpQnl0Mjd6eHd6anUybUxwTC9YbmZIMmdwSDJPczI0dkg1a0Ura1NRREcveVl1aWtlQTBWQzVsY3NCS1hSMzRKMy9KeUNDOTZMa1R0K3ZTemEvdWhxaG1nMWxTakllektZbGp3ZU13MDlMZDJZUUdaQnFIZkRwQ2Y0dnkrdkUya3M1bndlL1kzY1FjTkxodTBsRk1MeS0td0xTQUtOZS8wcy9NVi94akNKNzk4Zz09--8af12388fb788b4abb4b4f367b5a70717d249115; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

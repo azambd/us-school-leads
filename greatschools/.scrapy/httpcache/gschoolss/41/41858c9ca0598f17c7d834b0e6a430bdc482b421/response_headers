@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 16b57c4c-6864-4607-a197-2d30f17d87a2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftehachapi%2Ftehachapi-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NENWMlhKeVAvUmY4a3YzWW14TW40ckxodWFBTmV5WUo3bkFOcm9pcXpOM2lXRmhoMU8ydTFjY0VDWHNJWFBhUkoyWDZMNVU3TkovMmQyVnZBaDc5YmV5RzdkMjQwVEhYclhEd2dRblBCSUx3dmZib1dkY1Y0bVFmdTI4VXVPbWZSWFpFTEpsa0MyYjVVOHNrSVBkTWp4aXVyL1VtQisrazRLVFFCMm5LYTVDTk51Wkc2emFQVytHOWI0N2JNZWhxR2R4NzhoWHd2dzdWdXQvc3d0NXREUy9zemhjbklSRHYvVGdwRUxsdmJzelhLU2JybFVtU3JOa3JvN2FiMVJNb3RRS2ROREsweG5KZUlGS3ZqL21aK2c9PS0tNHRqZkFjaXBUZkVYT05xMVJ1VzJMUT09--2a961f0ef0a8e9a7f23d81b3a736d37ce08d6483; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

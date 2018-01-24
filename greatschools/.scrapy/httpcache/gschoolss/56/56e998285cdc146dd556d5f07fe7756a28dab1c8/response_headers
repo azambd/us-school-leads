@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cb3c79c3-3dc2-4236-a73c-3ba328f77c09
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbridgeport%2Fmono-county-roc-p; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=STVmZU0xclJRU0UwTWgvT240cjlUdXZtZUttUUJPNGY1VmhoWFpqdEE4M1hnYjNraVE4RDJ2RS9lallPWGJ1WGtNclB4N3MzRlMrRDlOaVJHdVB4U1F6cUhmT2lsZUNpWjdFWWJpK1NFNjVqalJ0a3crZ1Q3NlNvTTR5Wk5pUVpnQmN5R1lld2lWeHNDUzV2QjQ2cVhhRlRhd2FYYytObG11cW9zcTNBaEdQS3dBK2RxSmdoQWlGZEJET25UdWVpWW1LNmJUb04wY3o0QnVXellQYjg0L0VxWjh3QTJFb2RLdFdmVUw4RzVVRmhGK0dOdkRabW82WmJDT09CalFkcDRRNWQwZVNMQngyTUhXYnBRd0MzdkE9PS0tcm9VWVZIVGRwc0JZM3FFVXBPUklJZz09--330e2d08df3a26ba1a8a45d176787e96427e334f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

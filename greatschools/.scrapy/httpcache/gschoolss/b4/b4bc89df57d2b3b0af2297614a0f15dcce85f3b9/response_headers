@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 84c53adb-af79-4d1c-883a-0274f2ddd348
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkelseyville%2Fkelseyville-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M3FCai9ZcVhOSmlEVUJoM1ZVeWllcXFIN1M5bUNsTnQwbExjODVwMGN6YzB4Rk9aTHhNdEovZnpUK3VreXl3RzE4bStLMk1BRHFWTGlTUU0waE5BQ2JnZDZLL0xHeTk2Si9sU1pveDlyYUM1TU5Ca1pUa1hYM004MmhQNHQzRVpNMWJReWhtdTRsQ3VpamJ0Q0R3SEV4NjRibCtwYXd2UE9MbXl4VGVyOEp2Rjc4SGRLSUVxU2FqMExFYnpvbjlrUlpVZ25lV0Rzd01mejFWOG1mYlZuQ2s3dEFkUWJlZUdMMk5melJwckpTQUZJVEVoRmtYRUNiQjZ5OW5XQVVYV1FzWEN1c1BYNTc0NGpLUUsveVBSN2c9PS0tY3l1aFcwYmZxMkpxcjE4TGVMSkVMZz09--b4fedc6c8f9aad5f5ed8a61605c1ae1551672f4e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8bf61fe6-1942-420c-b643-7789582c8bdd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshasta%2Fshasta-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y2pFbG03U0tRL0RHbVB1alBKWnZsc2hERmZ4Yi9Ub3pBNnpqMWhxUmlsZFI4eFZpTWdXcnZFTllFb3dFZVpPL1FUaFl6Nmtad0V5ZVVZbjRpbEpkQy9MeFZlK0g3YlF2TUZmN2VadkJ3V2UwOXAwOWVpMStmbnh0SmNCZkhpNEpsWVlFNWVzT0xPaUt0ZG55eWRRZzFjS2NrZHFYZ1JKZTF6d2ZCQ3psVWZKNER3VFhyQ2xjazlkZnlYVkt4aEFHeDl6OGErUzloUnAwZGwzekxramVXS2U4MDVxV2hBdjBvdy9DaW9tdzJGYXlYOE5DbFY3SmwwVjRhcEVlT3pyMi0tdUtYeEJXcXMwY3BRdWpZbHh6UElsZz09--6276280188694e3bb36ecb337bacc6339a98454f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bef87fb0-1400-4fb2-a572-46b97e055f6b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmerced%2Fweaver-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SGpJZFlRUlkwa2xZN3VENUJ1TXNlRngvaWN1QWZpZVZDVGEyTThCajltSVdOby9XQ1V4dkdwM2NjMFZ3QkxBanY2bkxHRVlzNlk3STJYRUNSUklrUmgwQlNGU3NWcis4TnA3UHNKa2ZCY3Evdzg5NWJCanRNY2VLYVRVNE9jNFBrQXJBTWJ4VzBiaG5YcUdOeWNmMVg0M1hHRW1uaGJrZXdYdHJ4S3l0UnVNcWwrQmxYbEljMzNCcFFCbURCUUhOR3JPcEowanFLWW5xYWJKb3FnREVVTXpFVi8rdGt5MEEwQmZ1eUN3ZDBPUTFacTQyVEJpRGsxdWg2dWtTaTZiUC0tdXFnOE1peVcwNUxRcFNUZkdtK2VZQT09--42b339023489a5c8b98f2ee7140bc6d7946d5d2e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

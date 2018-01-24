@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: _gsweb_session=eTBLWWpHUktqZHl1NXJtWE4rTisrUDlyN0RzRTlsT0Y5eFRNU2I4L2lJRHp4UTBDbnppbG5oVC9JMEpaUGliQU8xaHdnZ2ZZSUVFNDVpVWpQNWRyYlNUR1paeHh3elk2UmQ1NVNkNCtKVzlBN2pVUlh1ZEVoV2UwRXY3SUNvMzV1R05reE1hUTJJcDNuMlBQNW13U3dkc09hOFIweC9NZEZlKzZJQWlKNEVnclZ5TTlNY2VuKytrWWRUNjUxeENzYTBPV1NQR1ZhMy9kRVlXR2Y2V2JNSFh6YWk4cnR3d2R2YU10MlFXQlBzVWgyZzJUU2xaVUZ2NnlBamlOQmRPYTdTSFhXVk9KcnlOUzZKOEdZRlZoVXp2TDFNUzJaMUxZM0ovTEdMbytkM0xHYTBWaFZkU1A1Q2xKMFlNazh6Rkc4UDE2S2RhRnZuZEZBcjhUeEVXSzlEQTFLT0dYSjR5c2VBYWlvME9DOHhSSHNmdFRiTVJlMk94T21wUXJJbUlMeEpwemt6OXJsMGtPQW1JWGFSRjhrUT09LS15K2VGWmVReElkMUVqVzQ0aURFbXJnPT0%3D--a72eb85fe81f0ac05c76a26869126684bb2c92d0; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fhaworth%2Fschools; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/wisconsin/milwaukee/schools/?page=10

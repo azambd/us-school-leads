@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A10200%2C%22state%22%3A%22CA%22%7D; _gsweb_session=OFZ0dEx6azlvTG5Gb1UvNTlkOVJOWGlZRVZTYnVUbnN3L2RDRFdDd1NqVlg4NzdEbGw1VUppY0dBZS9SSzIyb2F3eVp1cG1ZQTUxMVN2cExwOEpGM0dxL0pjTy9wSkNVK1Z2YXBraHc2czlmVis3ZEFOcUkrZ0ZIRlJ5V0Uzd1ExdTR0OEk5WGxKR0tzM3laL3JYQzNXRmhZS3RSR3QzUUYrcnVIZ0FDNlU5RDF2SmVJeWpBL0oxQmFrV2NkVzE5OXN3Y3NxbmdvcGVTdWE5amJ1ZDErTEFJT0IvSXY0SEV4aEV1aGlRNkczLzl6S0o5ajBzamRUTXJ2UVFPd0xNc1RnR08wYTZRK0ZMbHIzWU5FSVFNd2EwK3p5SU9BTjB3dHZNcGR4R0pRaTRSbFkzM1VWa2lENytnZGc4TGVLZWpISWdjSW1PdUlWM2g0NHNSSEpCUDE5aTBBRTBkOEhnUFlFYVB4bWprOWlSaXM1SnlkMDNiNlhsd0VBSjYzb0NkWnV4d0w0R0ljTGRheUQ5MVFIdjNVUT09LS1ITFdNRmVXSGF1QkxRTUwzMEtGekxRPT0%3D--42def4749d70503975e56f298d52e759bf522cf6; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/11301-Pleasant-Valley-Christian/

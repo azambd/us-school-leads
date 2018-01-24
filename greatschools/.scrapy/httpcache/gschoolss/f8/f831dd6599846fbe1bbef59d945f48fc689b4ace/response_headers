@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 66344ac7-488c-474a-b01d-173949d1832d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fberkeley%2Fberkeley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ekdqVHh0UDFiYWlyL1paSlF6SkFBallVTVFPcEtmNXVUZm1lQndRSG9hL1g1NFZWRmJ3b0x1aWQwUWtHYnNBUk9zaHJGaDlheCsxNWMvYnJQNmFndS9LMXRieDN2SG5yQTVyWDlJd2YwMXlvWmh6ajZlSmErKzZqUTRsanVsSEdoRDhYMExManl4c0pET3pwcFo0UUhXelNtbE5LU3dhYkdWY3pUMDNaelpIWGZGdmpIeEttQ0FiRzduUHlZQ2w2bFlna0tDTFcwQmt6UTN3U2hNdk9VV2lUNlErOHNiWFJmaXpnK3c1cXA2WFhMc1V2RlM5MmlxZjlyaG5Ec05iRS0tRENPSk5lQjg0a1R3YkJZRkV1eUpaZz09--b2f40a5eecfaa2cd09434c25a0329bf36eb2a748; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

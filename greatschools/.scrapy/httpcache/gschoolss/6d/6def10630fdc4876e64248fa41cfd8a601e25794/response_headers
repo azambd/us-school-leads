@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 58909301-15d0-4fa7-9aa0-9d1c1ca966ab
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fport-hueneme%2Fhueneme-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RGtKWFY1Tm9DZ0k0ZWpsNC9xQ3I5d1JnQUVPeXpsalBqU2tONVQ1RFdpdnIzdkRNVG90ZGpqTkFOaDRVUGVNYWhZQktsNkNjWjZlL29zUWFISG1LNnR3aVZBVzYrcitrS2hqOU1yRjB6Y3p0RWFkdVdUdGJBSTRyYTAraGFQUnhCUFlnV2RVUmtheW9SQUdVT2xIcXozeEpoOGdOU3k2Tml5QldyMlV1LzhEWGxqVm1WNHhPSVpnVStFYWZiZ2pRc3l6cFkzNG1WQ0hsRjNrZmYwNms4Z1VCaDRmTzkyeU1MbHJGS3k5cTUwYzJBTmVyc3RRTTJTR1N6aFpSK0QzcytHWG9FNXlvQVBQMW0xd0FmQ3BoZ2c9PS0tNzFXTWF5Ujk3dW40azhXb3FEUi9NQT09--783b73000c5197f2965af4fa4ff6da3ef740ad94; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

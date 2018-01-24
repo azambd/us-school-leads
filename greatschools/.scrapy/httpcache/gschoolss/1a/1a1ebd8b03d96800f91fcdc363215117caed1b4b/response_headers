@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9009d3c4-91ce-4998-9194-4d26347a4991
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgeyserville%2Fgeyserville-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d1JxanFoTjlvZVovc29BUi85cGFRSGVvaEpFSEZuSFRFNzVrNEtzM09mQmFNS3g4TlBsaUJsN3lucEdkSkpEWXRyOWVKbjZ0YjQvaTEyOWs3SXZjTGtmUm1CaGUzdVc5QWF4Q1g4RCtGMDJPTjBoa25pdGZMK1gyZkpLMml5T0dzb2Q4Z0Y1OEZqcUU4RVZNcXRjcFNDYXB2T3BjYTRqUXE4Y1dSUzNYK2xBTnZmcU1NWEVRbGxrUU9rRXhMYXlibDE4UDVDK3dHMnhsd1BFYVJIY091RTBPK1lOVUU2T2hueVQxYVNmc0pheHlvSVdldFpBSE1WaGVPQUhWNzJOR2hxRzFvYXhiTmdjelUxdDV4N0J3M2c9PS0taTJBK1pTemZ3UjE5NXBMOWt1M1ZyUT09--5575ddad412e79d98b714479bc514500a4254002; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

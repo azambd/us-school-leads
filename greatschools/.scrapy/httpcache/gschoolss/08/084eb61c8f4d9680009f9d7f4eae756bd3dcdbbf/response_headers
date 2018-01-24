@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 13d1435f-adeb-4fee-b205-6f15f0f5cb7d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flewiston%2Flewiston-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QU8wL0Eya1ZPNmlVR3M0NUdTaEF0NFMwajNvZnFHUjN5aUJuNlNMczNkN1RVdzZERXhHb3lUeVhYSzRzNHQ3TzJlSmlKZ3crVmhRclBPc2x1S3orVUtsbHpkZDZ0ejMwRHYxeG9VcEkwRVNNWXhYeTJoSlVuY2dxUmozTW52ZmhjTDZPdENXa3lyMURIU29vUmtJUnBiWnpvcHBNVHZyTTh6ajBkVmFEaWRlaDh6dnNRaDYxbDZDeWJyNDBLYnZMMVhmWmFPSno0MzM2bmNvYUVQNjRXTm9JVjZIdUxOUWlIYW53dCtXY3FwZEFMaTlod3Y4QisvRHVGN0wrY3B3Ni0tcUJYRjFEcmtEVUdRc3JZR3ozYlE0dz09--71f1344ab47f7e5f9a4fb8713be449f8dec111ce; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

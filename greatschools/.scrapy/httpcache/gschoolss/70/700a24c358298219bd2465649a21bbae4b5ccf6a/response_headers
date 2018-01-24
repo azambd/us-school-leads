@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 47433cac-853b-40dd-af21-95b84a12ac4a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdavis%2Fdavis-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OUQ5ai9GcGt5azdsZEUzZ003dmdiR2dRcWFpK3BQM1E4bTVSOUJia3Z5eVM4R2htV1pQK0VXYkY3Um04MmhXZ1Mwci9wbktNNHFEK0h1bS90TWJnWWJ1KzdSaWQ5MERucUpaN0U2NG5TRzlPZGhiQkpVSHpwZHN0cGt2WUhGUVZ4NldYM0kvNE13Zzhsa3IrQ1VEcVJuakE5VmZtVmg3c0dtckN2MEpjVUx1MGF4NlpQM3FJY0R1R1ozcVNFRXUrOC9MaGZHVWtJRkMxa0d1NHFkS2ZneFhhTVdRbi80RkN4OTNvRHczMEVmNTN6amNUUG5tQmtMR1czMk9zRmppQS0tUW9yeGdBV0l4SzVVMGFrMGJ4bDYwZz09--c2b251a75d1ec7b9d32e654af13d247aa50b9f4e; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

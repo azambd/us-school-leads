@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=QVZPb0Rjam9ZM051YXVUVVZVVmR5aHhTY3NWMVVZTFd0a2JMQ0RvRWdVdFgrSlJoTVZxUUJ0UWxob2lxV2wyR3NOeTJETDhkcEpTUGZka0hXVkpnTXVJMVgyVWxKOEwydGFpRklMTWdpbXdPNjJmQmhnNHp2OTAvclpUWi9GWlUvYlJLK1E1dzRCL0Q0M0QrM3hnQVp2WWpQRUFINEdQTUxvOURaOElreXlSL0dmaG5SaW44aE9uSlVvNmxHbzdzaklkVWJkN1hoWXdiV3MrUk9rUWt5QUN0ajF4YWFzanFwM2VkNnRFK1ZWWnhRS3g3T1gxNFMwTWJ1TE1Sams5YS0tQlpSWFRTbUZock5pYzVvZDhxQzQ0UT09--5a53aa45c7f1bb259a0156a288caa34eb338e36f; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Ftulare-joint-union-high
+Referer: https://www.greatschools.org/schools/districts/California/CA/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4de1c5a6-e704-40e6-bc95-3e2d974f3e5d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falpaugh%2Falpaugh-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Ty9SZW1LSERTR25DbXVmcGo4OVRsY091L3RLSUR2NzNpdC9YUDFBUUZRWXp6QVJ2R21FU2pVbmhNV1JBL29SQWJkVVNSUWJ3OThZSHZLZEdMaVhCQ0swMC9NaU9ERTNiaTR6elllcmhhdGF4dmVKSElGV2gvWWhLSGtaUHR5cnIxOGJCZVF4RFFvOUlxb2RhL2FBZkdUTXR1SWxyak5NU0E1L09kSFJEMjdpRjdlZDUvaVhrQUhoakI3N01UckNJT1NUOVpweStGQ3BaVk96RGp0Y0RaZy85SXhKSDhqUDJ6V0xqVlJjREwyOURFZXdKMTVEY2Q2STErSkZvNXU2Ly0teGc3V3B6RXc2cUVxQ2g1ajhEQ09SQT09--354a89279f6275116cf74b069035838138f47d50; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

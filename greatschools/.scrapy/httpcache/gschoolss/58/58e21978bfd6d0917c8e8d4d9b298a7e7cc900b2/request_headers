@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A3500%2C%22state%22%3A%22WI%22%7D; _gsweb_session=cXVLK3Q5ZG1ObzFkSWJDMENOVHFoZThNZ3NYT0lvaDJmQ1dSd09YYUhwNyt0clphOGhTb3E4UEdvVUJ3dUhWTTdzQWMrK2VTL1A1MWo1YVhPWXlDdklyemFqb0VlTlg0MkF0cEpBbkxNa0lIY1VlT3RWVEkxWThCVVI3bEQxdGNBYzJ5cHREaWRHc2hLTG5JZ3BJZnVjNHQ1bkZoeWthM1gzZnZaK3Q2Nmp0ZHA3eXJyT0d1aWNjV0VxMEQyc01PYVBLT2Q0N1NlSWt4RTlJSW4xY01Nd0hYNUpBVkc1dHM1dmJaRGJZckowTWVuOUhubGd0TmpSVURZcERWcGhDeFBDdjFVWXBmMll4N1ROVWRaQmRFWXJMaWNyVHZMWlk5YVRYWjhJR3p5YUgrcGJxQjJ5dUlMaXR2cWN4ajVFUStGZkdVSWV4c3kzR3lrOUErN0c3R2VoQm8rR3ZSS3M5em5vZ2JsTWxuSEZjPS0tWTRYSkRyN3U4TnR1VnM5WGJmQVdFQT09--ff6af9499ed89dc3c3f3df108a0e60e1403a85e4; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools%3Fpage%3D17; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/articles/por-que-tantos-estudiantes-destacados-terminan-en-clases-de-recuperacion/?lang=es

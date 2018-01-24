@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A11899%2C%22state%22%3A%22CA%22%7D; _gsweb_session=UWdjNkdrYmZ5UVltRDg5RGQ5WXZoYlhGUGZ5VHlqSExJaUd4b1BlMVJJNnZGVWJlaUh1T0d0YWNLaWlTSDc0aFU4Y3N5QnlYSHlOK1piVWVUdGNWM0R2L3RxTlovWFdmdTZTUUNJczIwYzRNemtyMG0raTRNZ1AyOWNtV1BUa1hwZTJxYzFJWHQ5ZEVPQWwyNUpyZTl6ZzM3ZTBQZ25XdHVuSUZvdlFQOVVBMlhybmJSWnNRS2QxbER0bklFaDVSYnJsRVlCaFlCTVBlaHJiUk1YMUhzS3BaNVNIVmVCbnRlMG9PRlNlQ1IvaUdnV0o0dkVkTGJranVkVEZ2V3dDNlFKeGhaVkVIR1o3aWpyREJYMXZlbU01bStQMFFUVEpaOVhOcFllT1ZoSnlzVS96Mll3bk5KSHU4RHVlOXFFZ2VzVG1oQU9rVldUYmY3dlBpL1l1aVNNck9iYW9ySTNNdjR0WjF1YUY2V1l3aXNVUG5rcytjM2JlUE5kcW44ellrYmo5dzlqV0VobGtrN0V0aWxnc056QT09LS14N0dXQnk5VEptdVRCVDk3N25kWEJ3PT0%3D--72f2771a932385d3139cd6e2423e8c7e80e4e34d; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/11899-Homestead-Alternative-School/

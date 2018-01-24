@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A2572%2C%22state%22%3A%22WI%22%7D; _gsweb_session=T1N2SlRab2lES25kNTlFRDdtRWQwNS9uMm9oVDhrcER2MmNTVFd2aEs4UVRDT0hQZ2t3MEU4cWR1d2pxZnFZbDdsbk9Pc2tBVlBscUdVWDRaUEJUYlRheWc3bGpGazJGSDNjWVNiemIxMzlKdk5USlZad042clJXYktPODdpemJqb3Q5aXU5SnpkaTFkb3kvTS9nK0tGd1Z5T3dLalNGOEtSZFplSGpPMWdzUUlCVEk1bHc2SzU0ekF6WDZmeUVwR3ZVV0JCaHU3Uysxc1BGM0xrK3dOcHdESzA4YlBXNlA5SUEwWFAyOWRXelhmcHpodjFDRkNJdWdIMTBuSE1ETWFSeGlTUkluM2I2b25NU2c4TTZzbzJnRG4vamp1UUhYcjZZcGpmbVJBSHlqZkNGSVRZdlRiRFJFc0NjRng2d3dQSFBCTFBTYzd6S2I1U20xRTN6MzhWWUpSeWZ5cWRCY1Y2RTNNWUpOZTE4ZkNRMURESGg0OW1KeHhSUFlvVkR4aEwxajhBR2cwSG1nd0d4VVVIemp0Zz09LS1wY3crR1gzWmcyTDlMdWlEK0JDZG93PT0%3D--f86bba8010348af5ac13abc7f28913da958b1963; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fnew-milford%2Fschools; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/new-jersey/new-milford/schools/

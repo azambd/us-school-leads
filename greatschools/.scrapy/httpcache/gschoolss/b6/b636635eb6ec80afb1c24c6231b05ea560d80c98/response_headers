@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2e2be221-50d7-4e7f-8115-0eac003b308b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcosta-mesa%2Fcoastline-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VjhxZ0NmR1ViSlF5VGdiL3NzamtqanY0dzdvNHRHUU1lQ3JRZVdZUHh4RVBGTXNwL2VkN2VCZmozdmY2YXJ5dUZjUEFWSUduNjF2UVZHOURjSFhVSG5UNjk3THBNU05rcW9QcFdsdEFCYTVhbEpVWnRWTEliR0NlZkozLytXTXdRQjdnM1ZhVkVWQThNengyTCs0MmxyOGNqdTJjWFNuZ2dEQW5jOEFVcDBNYkJKallIZHM2T2ZkaisybzVwZ0V5YzM4NmRlM2FWNi9FSXRKMkEwSENEU2JtOG1oSGVjMDM3dGRVQkhJM0RGZGoxMDN2Q3l6SGYvelpuaGdwL1RuNElleUxJTnNIdFZBV0pOV0EvTGhidFE9PS0td0d2dW9lZGNSVnliSGFYOTZSdlduUT09--153ff9a4e817ca15347d7c6bc6fc85639bac6a8a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

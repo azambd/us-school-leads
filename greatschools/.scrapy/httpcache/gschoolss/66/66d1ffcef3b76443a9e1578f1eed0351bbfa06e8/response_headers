@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d726338c-5616-4d82-9302-44433a7ea11f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhornbrook%2Fhornbrook-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RnFVTzl4dFY4OXNYanYxQ3E5UFYzRDR1cjdXWU9lOEo4NithV0F1OE8zUEdRcnJRNXdzWXlPWUx5T1U1b1g1bVphSk0wNUpBTi9WS0ltUTRaUlJVcWRvR2Z6MHZGQWNsVHFGdEZKdE9GNWxMVldLMkQxWkc1N2w5dHlwQjduenNwYkZkWjFSZFA0WVowOWdSbTlPZWh0K1dnOHo3VHNwNTluUGtWbGwwWE1lTHppbU1tbGdZUm11c2dYR3dwbFh5a0s5Rk9IcVAxUmxuTmlheW5zK2ZWNnFVMHVrTUZDaUdWeTQzL0pTQ1NCQkxkeVJubGUvV3JTRlJ6bldySmFOcHk3b3JMWGtHaGJPZ2RUN1RReDR0bUE9PS0tU3ZFbXFDNXpxK2F1V0htWER2dS9rUT09--dcd21e0803b7388bdfb464c541ba30c08f7b2904; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

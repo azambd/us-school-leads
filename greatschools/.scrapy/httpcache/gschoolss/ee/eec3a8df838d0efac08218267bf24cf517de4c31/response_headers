@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7545a605-a508-4a7c-af68-3be23787ffc0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmountain-view%2Fmountain-view-whisman; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WmZCV2RlRzBvdk44S3RhMDd3T05sa3RHcy9Oa3UzKzZUYm1DanA3Qks0NnlObDBoUHFnS1FLRkZVY1lDVnVQZkVxTUYycXU3RzJKeXQxYW1LTWVjYkJLaG84Q0cvamRDYnZ3WFpZN1NnNTl0bW1ZaDEzdVNaVGs0c3BoTnBQRjlBOEtJb0Z0cVJyeDZCVjIyRlkwSUZaM0FGS1VjTmw5V3Arekp2MzVPSldPUUZxNk5LVGo4UjZBRFdyWWFjWUZUM1BjS3ZMMlcrNDhIMmRrcFoxTFlCbFAxNDY3QVFlRW9mcmhYNysvU09RN21OYXFkb1A1V3d4Y0lOSXhrS2hrK0N4QlR1Sm5USWxhbVpzODh1blhkU2c9PS0tMElvVjdtOHpPZU9lUS96WjhQTExuUT09--8a5544b01c04cbd942d98f61e565720f77bdb03d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

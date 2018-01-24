@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2e18eb77-88d3-48c9-a33a-0c7b0538bf03
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fedison-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=enR0UnF4ZzdWd1FkdGVHR1FKSTBKZ0RuV2lYUGpodWlqY1dMU2RHMmRWdFhMOXY3ZFI4d0Z3VEtzcFU3em92eDFwNjY1RzRiS3NncWNvb2YwaGVyN2ZoSDRpN2lnc2pESTVpN1JGYmdVZ2lxMUVabjFCdm0vaXdEN3Z2b1QxbEFUUkJGOGI5bWk3Mks2bkJQZ3pDTnUyQ3JlY25WMmZ3NUh3cmJDODkyRWVoZFUvQ1ZpS0N4elVXZk0zK2hmR3JVT0k4REEzYlo0QXRBNWlDOGl0ZTlZbVM1OXQveEt0VUE3SlQzQmZsYVhhdFUzNFJUd3E0WkxnT1pjd3BlcURQTjRQNWZuVndzemt0S2RvUlQ1MStBOXc9PS0tVFFYZVJJSFBVaTJGd2RzNGNsL25qQT09--d4db92f00ea973326634dc15c46d933c809d4eb3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

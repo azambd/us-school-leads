@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ad353d7a-a672-4a3b-9516-f5441f5bc821
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjamul%2Fjamul_dulzura-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bjFXU0RkbzkrRVl5Nyt2WlJXNUtUbE1OdDFmVHZhUVM2YVNWbXdqQ281dXg2SG5hRS9OcXBuQVZmSEVMZWgyS1JZVVJOTThPUWgvNzR5ZmVxZytqRWI5cXFZUndqamhXaFRlcEV2R3kxVTQ4SzZwK0hHTVFxM0MwSktHaEgvOE05eFB0WG9EWnJiSDFEOWRlY3UxWnIydzVrRVZIdEcreS9IZXRnSURVNXFaSGU3eXBkNy9jMzNodkxNTnE3WGpsdENsL1BiV2VYaUhMTlc1eXZHZUZUUW5GTGlodEZsbWpJci84bHpqM0FQU2tnQ3gzRGRXd2ZyN0w3T2x6NmVMRS0tZTR4djJsU0FacnpFTDdsRkpESXlEZz09--4bd3ca27a6b905073ce9cf4a128dca5234fa36db; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

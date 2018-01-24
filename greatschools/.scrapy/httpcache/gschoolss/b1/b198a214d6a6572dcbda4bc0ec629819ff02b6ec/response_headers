@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 78bc6733-ead5-4659-8afd-17bc20e620ea
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Fwashington-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QkRIQVp5NmY2YlZ3U0o2NVFERkIxZDNPNldWc3ByczRYNS81MHdjQ21HMWNmSzdkblhwcGpNVFEwRm1BZm91Qm84anZONGNMS25PU0dvejc5cEg5cmZqQVRIdjJEMWxiblZEd0hEMXM3b1ZPLzJqUTJHSy9lWnlGdVJwVWJIVDBuNkdFZnBSbUxWbmd0Y1BINXJXVDc4Rk4raEg2Z25abmZKa0Y4N2ttc3NiaU02aXd1QldwVFVXTVlra3F2a2NOMlZxVEJDTGZndmt0bzRheWNEcVE5dDdUUzA0ZkdTaWFXZ0xIamFQdHJxdnNZNStBanJpZ2hIWnd4bjlHSFBQNS0tbStOcWhncEdaOWlrMnpHcEQwQUQvZz09--01b6d599842d2b8b46edf60b8b3385e52448ed3c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 24ff9400-1b0c-48e5-9f91-1bc816a9b066
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fatwater%2Fmerced-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dWl4c0twQ2laOU5ZUnV3RE11dVUza0RlZEd6V242aXZyUkJNM0Q5NDhJSnhYTmg4TGJ5c1VKZE9WU0c2eEFmLzV4aW50a0U4SndaeEZUUFRranhjZlhVRUk2aW4waWRoRE1jU0V3QVVOaWtyZEFlN3dmQ2N5Nk1DY09CdUVkUkJNUFNtdzVhVCtpdlAvUEJzMUp2cmtLb2h0ZGVHYk5rS3Q0NVNuSVhGZjhzK1RFVkhrQ1BXMW9sMXk5ajFyWUdHOVgyMXRHSmpOaFhGVlBRS0pWdHFOUGMwV3JmNFA4RXlvcXpRZzU5TGh4b0JtYkdPRlh3ci94NjdKVVJKQVplaS0tWmZJeHllN294YTFkdVVsM1ZOM0VHZz09--4cda9d3710fe7f499c3ce7d3ec4a66866c989117; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

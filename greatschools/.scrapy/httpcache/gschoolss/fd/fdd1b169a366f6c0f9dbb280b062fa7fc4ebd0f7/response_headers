@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6031bfe6-54bd-4325-85fb-bc4a37bf3086
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffairfield%2Ftravis-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VzFiQytPcitpSG5nWmF2ME9nRnNDekIwNEFFSkdGMTMvbXNRYUtFbGcxNDV6RDBZcHpVTG42N0VuOTd1K0N6cHFpdjljRE9EbmhleGxiYkhGbGtOYVhSSFpYS0xDTFFXOUlKYkVNcE1JZytCbTArcmlxMXBRN25VMVFpOWJ6clNtUTNaOGRBNXMxNzFJN2ZxbnlTMThQdFlWNVB3bGxhNlVVS2YvVWVCamoxMkw5ZU5MczYyblJVK3Y4cDE4Ym5zU3RQejBJUW16bXlHU21nY1BvRkVmK0dndmNPNkVOUnBza1RqZXgyNW1Db1NCNk9jQUtweU1xdlJqWGlCdGt0RG5IZ1Z0M2x2azBUQ01BeXFhYTNsYmc9PS0tNmhJSTU1ajZncWJIalpVUzZXdWhSdz09--7905b09d08fb3870d3013eff4cd20c5cb4a69557; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 473a96bd-fad8-4529-8de2-80eee36ff718
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodside%2Fwoodside-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eG05eWFkMDltSjNjUjc1WEZhdXg3ejlnLyt1T1F2TXhwOXpITW9xWk1DNEIyU21GSXBBc0ZHRG1MQ2NCSktOUkdBdEQ4ZVRjZi9aQjFVTERhQ250Z2p4bm96NVZsSy8vOCtkSm1uYTJBN0RpTWc3Nml4ZzNUM0pBYkVRc2tTTkY2VWhPaGpQQWdGRDRvS3dKUm90T3BIRzIrWUg2U2M5UU10YUpXL0RyRDEvYWJUa01RamhZQkNCN2w0Nkt2WnJtRFNZU3FGem93QUc4YVh5TWs2YzV1ZEtyVmNZRi9FaEt6ZEtiNGtBSnV2UG92LzdOblBrWkNKYkxvZEJFVEZ2bS0tdGUvbG0vMWJhWXMvVUdwbG9PS011UT09--6f6e701640172d068d6a3649dd69f2b9ac8426d8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

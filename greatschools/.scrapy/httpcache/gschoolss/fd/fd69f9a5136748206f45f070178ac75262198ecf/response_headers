@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cab38e0a-64c8-4549-97e1-f4bff17e1026
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanger%2Fvalley-rop%2Fschools%3FgradeLevels%3Dh; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S2VXbCszRWI3KzhsQ2JGZkszVkN3WG5tREhJc0VEOXJUTUowZDR2dXErL3NzNS9jd2pxdXhpTnpROG44K1M4aDF5SHVFYmxCc25ydmFJanY4bjZLbzRCd2dHVWplSlBTNktHSVVqWTY0RU95R1FCbG1PeGFzMis0Q1FKS2dGd1psTGlmclZKMy9kYWtlUnFmSk9oYlZrTjB3RnB4NDJmMEZkM1ZiWExnZVBJLzBrUlRnSXdRT1dZSlgwQnZCbE9YeFFVMmwrSTcyMWhVK3hxaUkvSHBwbG53L3E0OVh2bVkyTmQvMThyZ0VsSXFzNXlBL2VlazR5bW01RmIyU0Z5ZXY4WDF1WU1IQnQ2emdWRHo0RXUrRHlIcFp4OEJSaEFKK2tsNlBha3JJbmxaYlplK0NQZ0JuK2tPdDZ3UHV4OStCNGpkanlFd0lFRUxyUm9VZmExWXpTVUdxMXVmbEFqeWRBeW01SCs3cTF0aEJkeUdwSVBBYW4rNHVDU0QvSDRJLS1EaDNkRTlGdWcrN3RFT1d6SVhvM0h3PT0%3D--b9670731a970cc377cfe70676ce0e442027c1bc2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:30 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

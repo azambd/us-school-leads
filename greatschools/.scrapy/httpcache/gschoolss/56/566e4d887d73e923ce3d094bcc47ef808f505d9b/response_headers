@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0991b7a9-91ce-42e7-ac4d-5f9f4f10a56e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-anselmo%2Fross-valley-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dUlMTUR6akNMVVNCSHIrb2QxY0lFMHo2b3NzblNpKzNuM1lKb0xzRkprWU9HenhlVGdJSHc4Uys5WEZyK1BPd3pFbWc2dWRjK1lGc1VtMERCc0FUeEZleXpsemZrdHd5RnltVGpaSXZqOEQxdWtjZm50VEtpRUZtU1NJUTRQcTEyS1d1REExUDV4QWFrT2VBdWZucHZRWklyMW5DaFEycDdEWDFLZ2x4ZjRzQ210WWZJOWg3eXNvTEpaZzMzZVhVbmFnZDVwY3U0VkNDdjJ3VWJHWTk1bVpDSktSc3EyNnFvamJLQnVRb0VuTGlZWEk3VzZUVHpkVzNBRkdpbERVUXkxMDBKVjBiOXB1WHl2YUNaS1NiMFE9PS0tNkU0MXAyS0xhOEJId3JxaWN3Z3ordz09--e1e947c68ed153ffdc24e5f2ea930c4281ddcc84; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

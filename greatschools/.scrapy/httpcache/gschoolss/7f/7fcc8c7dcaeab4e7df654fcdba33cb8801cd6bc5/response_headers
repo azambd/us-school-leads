@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e5c57dea-8aaa-4889-a3b6-86242b8cd4eb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flitchfield%2Fshaffer-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dFErWEZmUEw0TnI1V2U4RS9FSWd2bTMybUw1S1VCR1ROU25sT0VwZjVGZENDYWlLdS93OE1NbmhWZFNaSUY4YndYSm1uWmx6djg0ZnVKUE1tS2hZcExqQmFpc0RzQWtRbFF6UVRreEJNeFJJcWU0SmZtdlo1OXR4QWJSY3drdDlxQW5zV08wcXhuMWtLOEphT2tHK25LaE1zN1ordUxZVS80SDFwWkpEV3lDUU16cExvNjUxejYvUEdIZXcvNXFUbkFNRmlsSGM1RjJZN0ZqNkxnUmZvZDlleEZuSVlyTzEvalJBL3l5eUs3dWlobnVIcnhvMVFUdDFwTzdDd0JwVkV6azFxamgxKy9VbThKMnR1TWliWmc9PS0tejZKczQyaVBuYXhHRlRIbDJvT21WZz09--ce27f27c3dc7b3c68ef6bb4d3461059013286047; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

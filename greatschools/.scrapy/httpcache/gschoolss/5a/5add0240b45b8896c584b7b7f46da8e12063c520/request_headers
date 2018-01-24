@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7742%2C%22state%22%3A%22CA%22%7D; _gsweb_session=TWRUKzhIdUtIQmwzamJzT2ZQRHRVcityV0tJK2VVMHJNSGlabGYwSjE1YkxSUmNPenA5ZnMvQlJhZVA5UDk1Z3VwSmJuUXRib1lob3lxTmE5YjRzSHk0SHBqWkJlR1NXOTk1eXIyUFQ0QVp2WDI4UWxnSmQycFBOcW5HVFMzNVdqWmFSWlV2WXB1TDRPQXFKc2lQek93bkIxT2ZoZDdoNFMrc1c2YWJVOFJkenIyUlhIZE9QaWFzTCsxK01TR2dPU3hWM0g0NUJ2d3pLUkZHNHJINEY1dXMvaitwUWsvdnRYWTlPQVdMMmhlTGxOeFdvVWIzM3hvMTlQVy9ieHdYZDFObHE2aFdhRGVhTDJDRVNUS1hkRmdQYWZ5VEFxSkloMGdZcEpONWN3VlVycGFlZTBqR0VtY2tIWkh5NjlwMFZGV3l2a3ZsUnJ5eXpiaUxxVVRETUNMcjFqT3oxOVVPREQ1aDh6UlJ1bnRJPS0tbzk2RXg0RCttZ3F4Qm9tdGJwOFIzQT09--4cf1a0858df8e53fd93d95c2354873a88b01ca1a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7742-Lincoln-Elementary-School/

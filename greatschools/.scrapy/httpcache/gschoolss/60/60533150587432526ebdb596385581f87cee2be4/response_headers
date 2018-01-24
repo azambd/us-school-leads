@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0f82c9e4-db05-403c-a9a0-7cddcc851a0f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbyron%2Fbyron-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cnlZRlpndFpKSkpGRW8zN1MvMGx6R1ZWY3cycHZ3aEc1ZDI5VTEwbk5CRmc3R2lUa0pyNC9Fcy9FYWpVZU9yOGZWUjhKWEtiRHJ2MGNJakpQa3Q4ekpzUGRxSER1a0tGQkRlMWhWeXlVYWVrL2JueGgrL2NwZ1gxT01qNkgwZGxHdXRkSXk3YnAyS21kem5lYjJMSmg0QkdUaXpDWW1RVFowRW1QWjFGNDNSQkg4RlhCcTZjaTliRzNWTml1dmJJaDRtR0NZL3VEQW5IVVBkTXQ0QVo0NTJvbUV3dmhFeGptRlp6ZzFVTVhzaE41NFcrTDZEQWhJMmJueVJ2NGpYbi0tak5BSUFmbTI3RzZtV2RCcHNRU2FYZz09--b3af4c907b67c7ff6a0e3c7bbb3fd6ff27c4119e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

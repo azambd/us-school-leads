@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0baedff4-13d4-4e90-ac73-d31bfde41daa
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwindsor; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cWtCVGRRUHh6bDR3VTNqeWdYYlltQTllUEROUlVGYjczU1NMQjdKVEJBdDdsSS9OMHNiVXg0aysvalRFSTlVUm5aVFdNUE96aTNwSFNqUzVUZXpqZHRNYUNqblNMbDNVRFBGT2g3SHpXcEswUUFJZ0RtWVBUY2lCTlZaZ2pFSkJQeldyd3RHYlN0MWtCR0dUR2Y3MTV4dlhwQVU3RnpKTlFpdHhOeWlyRzNtQk9kR0tnR25xbkk0MHREVFVKNEl1Q3dhV0U4SmtUVXUwZ2dkTk5ZSi8xR2ZmSmtJRzU0UERWQ2dHS3MrVHB4SVJhMzVWZXg4M3d1YmNCRm5oK2s0ZzVDR3l5dVFjWmxFSFNnV2ZkMlVlY0VEMlJqNS9JRXlLSEZqdHV5RWF3Q3BlSnRaQzVlUGtwSkgraDF1YkZlOG1NQ3NMYTR6eTlUL1lVemtSeUhSYUxtNmdNRDNQWEpnTEpBTUpWNU9QeW5TRURGMEUzNHpCSTNYWmgwM3N0cUs2b3JVV05lSjJUZVRYeG1Ea2p5UGt6UT09LS1EQkJGaEw4M1Z2VUpnVnpVRXVUNVpBPT0%3D--b00f22c32be7892993f98bdd853b4a798d6ce8c0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

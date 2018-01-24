@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ddc0f4bf-858b-4893-8c31-e5c9e0e57d7b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhanford%2Fhanford-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dlJRZEFpRHdpazFIcGU4cWJZUmFMcDlCY0VXNDlRbHdxazdVcy92bWFHQnlKOUdzTE13eE4yZ01YRGNhbzRDa2Jlak4wbGo4STdnVWJIWUwxQUpURkZKRW1xK05wSTJxMTdmQ2swdlpjR0NoeDBHUll3UGhzMXdpMlhTNHh0TFM2RnlNN0RsdU9LUEFYSUQvMmFucU11NGVDYVJIUEV3N2t3bXp3cmhSbE80UU93NytRM2VrTFkzWk1GUVJDNDZHMk1GU3l2dzNpVUpvaDI3NllhSDZmWVZtNHozKzhoQWpxSktYMVVVRmU0aThFSDcxOHRSZk1UVTJia00xbHlOcy0tOWxVcWQ1RERCTVQzSWg2MXBZZjZCdz09--565dd4717e595466527bfdd5d762adc2cefc1857; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

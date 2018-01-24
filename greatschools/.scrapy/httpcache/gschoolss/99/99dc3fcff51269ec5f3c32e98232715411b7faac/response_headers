@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b196f070-99df-407f-9410-9ff5a3b9be7d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fparlier%2Fparlier-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SUlsYmRlK0xTcHlYdnFrOWhXbXlFNS9LV1V3UWJCeDF1djhFVEt6bDg4a3pocnFiZkpWY2E3SUtGMVQ4b3NTWmNObGtUeGp2QW5MUS9xNFFxYnkzQ2N4NWFrSFBmdzlub0pOeGUxWUNNRy9kTnlxNzIrY3V6K2ZEQUJWMEZXc0g5MnFBbVBBT3BtUTZLL0w5bUR0OFRCNnRFVW5DYXVpWHp4WDNxY25ZOW90OGtvaHI3Z2xqSlp0MnNlMHprMFpoKzh1aWVQLytjSTA3MndIbWNyVVprSXcrUExnSVNpVlN1SGFrRVVNWFRQdWNFZEZmMFdIYk1xWHRPWnd5TWRURy0tUE83dklBTjhqWEZBT29PVzhYZDFUdz09--111b6dad96258b2c3e111ae6d9ba340d8485a2fc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

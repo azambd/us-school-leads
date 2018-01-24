@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 28386cf2-c34b-43d4-8778-0bb905e1951f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fventura-county-office-of-education%2Fschools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YjZIdjJCcVdMTzJUNU1BZHROYUVBdDI2SmpRejZHdWJzSm1DNGlqQThWZFFHMjB0UkxHLzQ4RTBxeGV5L1BUc3IzWGhLQ0Vha0VnNDRKZThabjNETlk4a0ptYnQ1YnJFVGs5RktScC9DU2VqRVdwSzJSQno0YXlZWkRjaSs3Q1Q1bzJGcXF4UVllZ0JKNzRYUG9iUjRteGMxU3pBVWduK0Y1UytBMi9nYkRCVkdmVzdhd1ZONWxoWkswcVVIT21zUkJZRnFBOExpb2pVOGhFcytlNHE4S3VUZzV4N2NEVWMxa2dJR0VYMG54TkJ4VU80K3o4cFliMEw2UFJwcUNYSzRSeVlOck55M0E2cENyc2hQYW14YWNQRmt6cnlaVGRLVEJuZ1c2bTFxTWRKTCtWUjhwTXY5dVV5R012QVV3MFNGNWo1VWsyeXJJL2o4czBoZ0Z0NWJmTk1WZkIrd0p2RnRySE82NWpGcUtEYWFvdVFoNDQySDVSVXdwb29YSFBHazg1KzVyZ3d1VTV5M2RUQUdWbTJ3QT09LS1hSU5iemgvYUc1YnJMUlNrTkZhL2tRPT0%3D--4d7857bba64a5ba89a5813f9e2438c69ce5ffaf8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a0c62932-cf02-448f-9673-719185bcaf41
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnevada-city%2Ftwin-ridges-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Ky9lekxIV0VrM0tnQmhFcGxOcDVaWFB1YTFHaUV2SEFnbXVYc0svUy9CYzVFaHNwdG5Bb2FNaUNzZUpkSU8wcUhIYkp1SVJmTlFNak9MdUZSb0dyY3h3K05DTG04UFN1Q1U4WmNRcDBuQ0VzTUNzT3B5UHZsU0dOMFAzL0pocDFHcy9WK3IzYU8wcnpOckM2L1I5RDBhTEFCL0ZxcERNVFhsK004RURsNjVvbW92RnhQSG0xNlZlSDB3aUpXYnd5TTJoemczZTgrWDB0MXBibk5GaGsrSmpsYXYzZEw2cE9WVGJlcGpUMDRBQjEvRVZIb0MxTnZ1bkxJRk5nR29WZ1h5VTA2TjVGSXMzNmVmWERDZFUvOWc9PS0tWXBjeWZjYXIxLzYrR1lpNHU0dXlBUT09--94c486d2291d85fa947e6676a39d55bd6407c7bf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

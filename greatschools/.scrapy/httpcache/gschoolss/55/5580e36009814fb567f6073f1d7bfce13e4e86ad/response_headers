@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8f17e40f-f2df-43c7-b833-67bbcc7d8e5e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fventura-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WlI1Y1F0REJINTd0ZTJLRVNRTDJueDgwQjEzTE1VbHZ5ZE0xZXMvMUZ1MkdxeEZhclBpR2hTSVdVOGtTY3ZrdzZpS1BtSGtNeFFac3FLRC9UV0ZCOURMcnVNK0FnNGk2OFNhbDc0WlNmTWxvMzIwRzgyK2ZaZ2M2TXllTVVQbllMTXd2Y3RaaXo2NEhUbGNwaXcyS3BIaVoxWkVkMXhJeHYvMzQrQm1UM21uSDA2U2xMS2xWZFk0bHJMcjhqRlNsdndvOWpxbWR0NW8wTE4zM0F2cnZnQ0pHRmdWVzdGLytjVlF3cTdObnFDNHFyYy8vOEQxQnJjTmx3bThWMGlsSVpSOTB5L2RuTERqeUVxS0t1V3dwbEE9PS0tSXlLbjFSNURSeGhDeURhVHFvcmZqQT09--d74bff42544e24d44da650fda038c65efe282278; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 2224ac0c-c1ed-40bb-8066-6ab7a33f6c70
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=San+Francisco; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-francisco%2Fsan-francisco-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V2d2VmdYcmwyZWpDbFBPQzlURmRhL3ZqYUZhRlBwbWQvUXg2THZJaThudGY3SG1VUWx0Y2ZqZDVoQzhZS1pnemtWMTZ4SkNURVVqa1YvYjhiUnBRcHY1N2EzaER6YTZhcHpCL2lqQTJsK2VMUWRYYzByVm1uL1UxdkxyaHdMOHBYYlBzbmpoaXNFOW16NzhlcElRQ2dPbTBBOXk3ZDNyRXcvSG5DNUR3eENUU3JJUG5yWWhqNWEyS0I1K3pxYlRBOVVPcVVyejI1WW8xMXhCNVZ0RklNMVNoZ1NMNWNZL1BISDRpVHFBaTkzK3UySEh6UW5rUmdIdkxuQjNkOHFjeFVZVGZhWXFMWGYveWhML3J3bGhRMHc9PS0tejg1V1F5L0l0SzR2WHdOQ29Qb2p0UT09--9d8cb6340871c91db664f2815164f832a6342aba; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

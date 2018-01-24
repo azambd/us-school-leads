@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fbeb7671-85d9-4f79-a1f4-17e6c5a2e21a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flebec%2Fel-tejon-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a3lSS3FjcVYwZzJoaGhtZmJpRFpSSEFTcE9SRm1ibnNaaGZPM3NmTlNPMFA1akJpa3ZQRk9hTjlhRzBRU3ZITHhiamtNaHNEV2c1U1RYbmFYd1BKK2FVL2ZValJycUN4MHJjU2ZpbEV6VXlmdVhTc09NdlFUcEZSYUVMZ1VFbHVZTU5mSzBVa2l4ZDMyeVlxZnp4S0ZJekpEVEJ0T2dFckQrOThRWE9aS2tPUHdXUWhBVC9XejcvTW1nL3Z6SXhuNm81K2ovS2x1N245RC9uK3hYMTlta1hOSFlGNzMrQnFrQmxnZG5BRVh5UmNxUDUrNi9aWEJGdVh2cHNzMllHKy0tRHU3b09xK25HYXJVd2NycEl0QlQ1QT09--6eee254efcd68cba7e1c037aacfb660223eda710; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

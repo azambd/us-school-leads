@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ddc1afe6-3ffd-4b19-b3f5-16d192f78385
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwillows%2Fglenn-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S1NLLzZML0VUUXN3RE14MksxTTBDTUl1UXpONVdxQ01RTlRLT1VQejcrc3RmeGlQRHhHWGVqeUZRK2s0QXFLWkI5M003M2Y0bTArOW1neU4waWwwMmZDLzRhTzQ3c1FhN3R3bHN3bVBxbUd3dDdwQ1Vta2M2QzVSTzF2RzQxS1Z1a1RaQldoTFpORDh5QWdobUlPMmRiMWlXYTFSMHBhY2h5N3FBbTJQc05laDVmODlxdmtLc0VwKyt0anpLUFZVZ1F5bWJSM3RkVDJncjgxVFBHVXVJQ3lsb2FNNlRUTE03dmtOVWoxWjgxRVJsRS81dHhWQ3hGVkZmcmhPRWZnRC0tTVRxSmUvTk5yOU5ocmRzVGdnVHNVZz09--37cff6c8e71fe3cfe545372452a7086e6205cdd9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

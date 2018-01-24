@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f99256f1-4eba-4db5-8874-136c7e1fee1f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwindsor%2Fwindsor-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OERQN1dWN3liQytOUTZaUTVsMXVuUEhVWXhORkZrcEgwd1JSKzR4NlhIRHdXKzZNWEl4L2pZN2xSTkRUS2VmRkV5NlU2c1FrOGdWRWJ1dHhlbGp6QnJ1Y0x5TDNzYzhTVzJlV0NJcGJxcWFhT3BZbDJYL2UzRU5VVXllcUlUaFhVcU42aGtSa2toZ2hUVGU5TVI3WGNNd055cVVoK1FDdE40bWF2V0tvYVZCNlhnN0pOL1ZURzJIMkg1MitUbk5yU1ZqVnhXMWZJMVNIaVFXV3R2aUpFVGlXVmNCcGR0S0lhdi96T2NpaHAxWlJIWUF4Y1lDUGhMcUx0WnFibU1ILy0tVWZmRUpjL21ORk05Yzl1UG5YQUJxZz09--ff563f7b25079f44732042a5700f61d6a6ab53fb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

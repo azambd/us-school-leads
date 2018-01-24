@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3c19e9a9-e6db-4552-8011-a4dd61ed6675
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwarner-springs%2Fwarner-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d3BFU0VKUlVRS0kzQjVOSUtsZkpkMUtKcVh5NFhzWDlZeE9URXZOSkQyWjNNdE1MdFdXWkxjQi9IZ25XRngyekJnUXJGTml6YVF2ZFZnTTEzOWZkdDFvNHo4dGEwK0w5ck12dDZuSkZzcExaL25pV0VaUktpWVY4elJaV2dWUWl5RWFGN3hUQitWUWVDMG9yc3k5cUN0KzNUM2xsRXlPZzNFMzgzekt4bnpLMDNYSHZCKzYyUDlmcHFLc29Vak1ZRFlWLzF2eU1OZ2pBdzhCL2xyWEVtdHJLNXVyN2cvOUFVOGlhZ3RUa092WGJiRS9sL05sZ28rUjlzL1l1ZWNqRlNuL0J3eUEySjVHWTVvRk1URUxzdWc9PS0tc3ByL2VlQ3JwNTdYaUJiZE40SUxoUT09--336eac6dc82ab574b4a2a3ad29df40bcd0691c86; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

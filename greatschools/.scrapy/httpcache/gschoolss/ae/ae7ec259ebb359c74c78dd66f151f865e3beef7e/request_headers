@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A3393%2C%22state%22%3A%22MA%22%7D; _gsweb_session=NHlDUFRpajFKSUpGcC9xMzRUV1NNNGdsU0pGb2xzMFljcTRIZ1JrbGVGMkxUY242UitDckJ4ejZQK1hBYzNzOVVCYk10d0k1bnp2SkpPcXpEc1V1ZXgvWk9ROXZOaHNUSTg2T2VpT0JhZk9xUE1xWjN2L3dCY1NDU3h0dWRCWnJjYnB5OHowS2tqdXZMSS82dWRKYWlpeUtSMTdnRU5wVms0QzZDZEJVbDcvSHl2VFpGVkEyU1pvWFU5L3VRRGNEQkxvT3V5M0lrUHIrVTlkeFc1RmNObE9ydlcvaUx0UnFESGlrdU5TOWpOQmtPY091ZUFTRlBYbGJUTExFR2MyZ1pPVDVPZjluUnV5LzhMWVo4NnRKWlk1OFF6MzRpWkhmUnpNR1ZubFYzcTY0dTdsNGlTZ3QyVUhhY1Ardy9UNU05UXhCeENLemRaVVhuMXNObGxaUG0wWGp6N3d2RkxWQSsyYU00TTJiVTRPZ2dDRlo2L3I5RG1mTmY0YmtXRnVmVmRPQ0g0Q3VRdS9haWFLWHBDMXlFdz09LS1DYUZQbktOS1lQOEMzWUhSYzI4b0FnPT0%3D--77a829d23b81d022899fa969d76114bb41893f8a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Ftenafly%2Ftenafly-public-school-district; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/new-jersey/leonia/leonia-public-school-district/

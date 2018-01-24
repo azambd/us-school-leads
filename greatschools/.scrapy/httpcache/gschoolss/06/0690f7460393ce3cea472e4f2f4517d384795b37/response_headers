@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cbbd2d2e-1531-44b8-b126-91512deb4097
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-gatos%2Floma-prieta-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N0ZSWGI2cWRCK2Y0dkF3NkkyUGFZQ2twUVZUZzRyVjZuNTBvQ3RmSk9PSFRiVzNRalI4bUJyb0lHTkJHb1dveW9PNjVqbFVlTGY1b3Z1NzNITnprRGRjOW4yTXJZS0F4VU5uMTNhS0dvdy9OZ05ZakNscktzVXVZSno4ZVdmUDBFU2ZSNTg5RUt0U2xnWEsxdWJOQndIaTB5dGxiZXpDcjlmZGM3UGt0RzFWdUQxQlk1OHRWZjNiWHVuMHpTSi9WLzEzRFZaOUQrTW1XdG5rWGJTN2VWbEN2bE56UlJWTFN4SWFReGdLS1YxM3RzelYyMGw4QW9Tc0EvdVRTK2tPUnR0ZHg3QkcxVFB3OU1nT0xKNFFuUFE9PS0tNHVRc2FXRE5yZ2llRzY4SHp3MnVsZz09--581e77678836b1906dd7a0001fd1310c6942d742; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

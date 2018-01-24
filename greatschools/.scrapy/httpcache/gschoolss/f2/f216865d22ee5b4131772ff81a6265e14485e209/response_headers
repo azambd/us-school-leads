@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 83da96ca-7282-4e22-b698-bd586f5fdd88
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonora%2Fsonora-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dWIyeUVkU3oyb0FBdCtIVkhKa2JWOFlSSEsxa2FJS1oyTEcxbWtmVGdoR3oxUzBCdFFmZldlWnNnREVVQkNVNEVEeWY3Q01UWXhONFZ6c2NqU0pKWjdrNDBBVTROdVcrcVcySXROcEdpZHcxTVM4UWJWQ2ZDZmhTY2M1R0hLTnd1OUE2TjJoRUJtUFo5NCtQTFBmZkpVWHNvY0lFRk9VUnVUL0xHa3h2S2dURVV1TUhUbGNhbWJRVUNpTVlvRTU5SklWRXZ0cUI5ZGdCNUZZWDJrRlpjSU0rRFRuNUFDWUZSOEtUNy9vWlJlREhZUlVDQWh1akRCSHJuSmtKcUVwUC0tUWZwSVRSZ3VVWUZLRFNkM2ZaR3FhQT09--650fd70988d8538275367ba4634582cee3d5916e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

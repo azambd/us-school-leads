@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=b21zV3pBSGFGeW5MckhyeEhJQVJoSEV2d3dDS000N3MvTWV3ejlRVERSMmpadzlzQmFoTWQzQ2NacW5pWkRDNUo0ZS9iL0IrVzZic3htVXlnalJDNHJ4MHpYZHFaNjl3RitnR1Bzc1FhM01zaWQ4MFF1TW1wNlRPbUYwVlovVHJTZ3ErV1ZySWVnRG9LNmpjbUsyb2lva0sxN1NmQldQLzN6RGl1WFE0ZFRGRngvd2UwMFJQT0ozdldZSXpld0VXajh1Q1lKZHpuY3hzOGgxOG5Wa2pCblFUVlRTaS8ycnRzOFdzTmVHREhqZHBZS2ZGL1I3eitTdDA2YXExVy9pcXYrQ2J1OXlwQmFBTWFiT2tLRHFsb1E9PS0tRmszLzZTTWU2aXA4VXhYMUhTVmxudz09--777f9c66968a734ed3420d66dbc20c50dcbebd66; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fvineland-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

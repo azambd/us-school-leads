@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: abebe41f-b1e1-4476-a19f-1db83ae9fb4c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcolumbia%2Fcolumbia-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=anRHTkliTHk4N0ZieFV4SnB5aWtuYU9FVjFyZmFUZEtWU1pyTlNCdytsMnZ6ek4rQnZ3dVd0d3JYNzlkRmk4b2FmOENvenRsbDlVd1ZSSmhkV0JPYkltcUJYRGxyd09ERGc2V2N4OXhLSUt5RXorVzNqQXJxWVQ3VmhYTnVrTnFuajMyYlRqY1QzalBsNm50QXhUdE1VYmhlSGVpcVRqUnV1WVByc3VWNE1iUkhtV0dvWWtDbWNiczIvU29tdjNIWGpYa25udHZwTVdiRkNBZnEvc2w1L1ZZMmFvNm42RkxVNTRKUXpoQ3lhQjZYYVIwU0pJenFIaW5ib1NJM1JwZy0tYm9SNGRQY2RCSG5RYjE4SHpUaGtGdz09--7c6deb8f829381b7df064ad046dbfc629ab6d021; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

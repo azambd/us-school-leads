@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6e43c72a-0f97-477f-a0be-4bb1774c7d72
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbig-bar%2Fcox-bar-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bmFkOXRUdnhOaXJUand4TDJuRE5kWS8vcXZjM2MrdDYxaGN5c2NqMGwxS3kwajNUWGRVNTlISkVBN0NOdWhUd3NBVUExbnh5VFVjU3JhUVhyQ3JMRDZMV25HZnI4TllmQ2EwN0pxMG5BSkdlSmlyZlFpb0NKWkQwTXp0TERCdnRPRHZVMVg5S0FQVkRTVm9MS0ltWU1udkpnSENkL29yeVk1a0pNRk9GQTl1alJhZHJ6MFp5cVd3dHVyL3RzRkQrUmpsb3QrblFUaHFmdi9lRnBWeFh0aXBETTMzNlh0M3R1MTgrclNpZVgxY0ZVaTNEVHVGZk5tcldBTm5kTkVPNS0tM0doZ0JJTGpCNzJwbEpqUWRqRjVEQT09--6d75832b0a3ca1be1646a09ff95c24402948220c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 0b9e16c7-3825-4c9a-9c84-ce2e1e873e23
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fanaheim%2Fsavanna-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NXI4UFEwM0lWM2dMbHJ5WTFWV2hTVjNKdXVyaHNqOXZVNThMU1c0SzN3U3Q0UE93dUhiMWpoWHljWk1zTDZxVjM1anRSWFAvMjBEbjAyclhPRnJlcnVPWG51MHdYVTc0Y1V1T3Qrb0gwejU0SXhZQVI5ZndFd2NRMnNWcGx0WEg2bzQySkxEa3V0bEVVNUNrN1dIU0NqQmdpanlqSG8vWURVL1N1NWJFZnQ1Q011U1RSTW1GWEd5LzJBMG5KeHI5bk0vZExmN2RCa3A2dE9vc0RRMGpaNFVoNlB0cElKemd4Z2ZCTElaR1VkOE9yNHZPZ25MK05FYkViVXZDT3JiTy0tb2dwbW9peGJydEg1WEo2dTBUTll4UT09--6b668ac3b3af924028c75f162adfc53e7c95eb50; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,17 @@
+Status: 302 Found
+X-Request-Id: cbcbdfb7-0b62-451a-a7b0-0caf3afebd7f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Fhope-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c1lLOXdNQ3BkUS92cVdTVjRNL1hVck1Oa05yM2x0TFFlVXNVaStLUDZlWTcxT2Vaa1Q2RFZhMlZmNnNVazRQa1hOSnJSN0RMbFlEbjlqVjRRYlFLeklSUWx6dzU2em5KTjNiWEV4dU5yY08vR1dnczZIMzFRSnNOM2x3YktDTG11MjQ1eHcxU0k5alFLMHZ4K3NGU29kZ201QkJOc3gvVUhLQ09JQmJGMDl2UlZwUzQzSExadVk2d3JEV1Vyam9aUHdKcmRRdk5vVnpSVVh1eEFIQVlkUW9qOGJOd0wvNzZPREF1VTQ0OFNwV2htaVcwcFF0R3pvaXk0dU13c2tkb21jSlJjRDJGdThRS3J2WGpqUWtTbGc9PS0takFWNXpadEdGZk54UjlBZUVQelpLQT09--110dd7df475cda412995d361d6b5748844480c06; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 13:43:31 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/california/santa-barbara/hope-elementary/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

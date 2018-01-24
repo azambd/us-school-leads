@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 638bcf48-f097-42fa-867d-63c68a555f81
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmodesto%2Fsylvan-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z0daenFlZ0dYaDZKbjUvZDNJREQ2Vjl2RFFZY2NjVGxML1lmWTRQSVdwSy9DNjRVaGF1ZFZSNWg3bGZ2NmFZWkNOWlBLZlpLSzIwTnpLVW95UXJZYXV4Z09JSVVKV0ZDaXhXMmlJUWRBaEQ3K3lPdmJDTVBidktuakpNa1Q0RHJLTlVqWUxQMno2WFpLamUycUVQN3ZhTFNjbXhGM1EwMFpPbXZvdXBzdDY2MzU5WitQWVhCKzBnYmN0SDF4NFErYVBpSDdmcFFCK1pZVzltaDdFVHFodGNhN0J3RlA5NmZmNUFQLzIzL1pGVTcvTjMyZ2JMbXRLOGpYUkxuSENVMS0tYUdkTHpuQWs4NEJ2R2RmN2xrZW9FZz09--9094a4615d92db451620bf72561990ae05f360bf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

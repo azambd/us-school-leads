@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3826e53a-64a0-4ffb-9d85-839faa255c47
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frocklin%2Fsbe-_-western-sierra-collegiate-academy; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a3VWaU85ZmRFMWljZE9aeDhuUTRlU3h0Y1VQUzd3NEUrQ2hSRDYwZ2tXMUl5eDlwNXlBNjYvbE1DbFN5WVhPQ2ZNT3psR1M0dHNYbTczbWNqbTdoQzFCaDJNQlZHNFZDN1dXSXlHUXQ1U2IyeTRsa3JiMzRqZEZPSXpGUlYydFFFSXlFaTQ1eEJnOVduTFJzZCtwbDVycnU2REVEMHJlUzdDcGlwYTJEVEw1dXFpOVl3N0kzVkVKMHh2RTV4WlVUSWFiU0hDTGszYWtjc1FKYUFISVc3bUlodDhHUnkzc3dqNEhPUUVNcjhnb2hvdldXZThqTGdxeThWajFTRG15RS0tYWlBR1M3YS9ybVd2MzZES0hUbHZYdz09--d0df32c2e151d46e3217c23d4722eb9a8b5ee2a9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

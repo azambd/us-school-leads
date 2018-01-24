@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c16a4bfc-5210-4630-bbb9-a26e1fc8e486
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwasco%2Fwasco-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aGZkTDFEZWdockNqZUxXVldZWFcvMWdZbjluaDJERm56MVBQMWFEdndrQURkZTFla2dQcSsyK3NMcXRqSlB3S1dYZ0VWVytlUy9oaWJjTC9UQ1lZdnJ3dng3WDlSYTN3ZHFEd0VSamhIbE16K0EraWhYWmhYN0c3SVZEbVIveVRiSWR0SE9pTUErWWRsZ3AzTDRIOTlvRlMrOUJ3VHhIdHI4NXhiWGVTYWxjRkRtRUhjVTZBMHR0d3hKem90NjR0ZURtY3E2VzltbzdSQ3lRME90Q0JBN2NEczNGZDIwVmo0U2QzRWdnOXo3alF4VVdwMTY5cDA5eVNQbDVQek9Xcy0tU1RnSkhteVIva01HN21ER2JVTStxUT09--f036a7f327a33bf2a7862281f2266e5b06b6d8b2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

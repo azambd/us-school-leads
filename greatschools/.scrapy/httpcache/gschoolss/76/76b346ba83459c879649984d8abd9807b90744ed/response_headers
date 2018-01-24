@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1c05d258-943b-48d8-8f31-cb7ab1ef6145
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fstrathmore%2Fstrathmore-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y2N1RmtJL3Nad3RQb2xQa3dlUTJWMUxJbDB0ZTJBNWZJM0hpWlBvOUg5a1VEU1E5Z0ZOejdNR3lJeTFrTWpEQm9pekd6a1BxMEU1VW1zWEJpSHg1K1VIaURITnV0SXFpbHNJYWptQ3VGTVV1aTNYeE96UGJxUjhUWjJHeDRLaUhTaENMaE1NM1hsNnV6MXQxUzd2cko1cmhhQzIzRytIc0JIZHhaUzJwNFRuWndhS29JSnY4TzlIaml3V2wrZzlmY3UzbkVDOEJ3aGxMVVordG0yN2x0bHA4VmVnWllVekUxRlV6WkQrdmtSQjBmVVc5UDRzd3JSRzlKS1dlaGVmZXF3WlFHSUdyd09OMVBqd29RbjBFelE9PS0tRVBab1NxZFNmVGt5K3hIRVZYc2F2UT09--834225964d4133b36a5e3fd949363f6746e3838e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

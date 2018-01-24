@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 15eb0146-a75b-4d4f-9d71-c1529a9003bc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgalt%2Fgalt-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Qng4ODVCZGdXUjJmS2RZZkZvYldBSmdTWFc2Z2hUWmVHY2hWajNuc2VvUVh3RG9ObmZhV1ZxNmpNVkt1OFdTcUJqM2w2eDBNQW5RWUM1SDFoN0NDbmVUZjJ3VW83eUgwM1BtU3FDMlhrRVpQTWoya25zSDV0MW1lMkhpQVJja2p3Ly9vUEIxM3JNVU5RbjFUdXNzQ2lJbFVxbW9lODlCMU01K2RpaFBQK21kRVc4N01pWkM0R1MrbnBEWkxUZy8waEFkOFJPdFE3VUVyMHZlVDNQWGxoUS9yQStjL1B0bk4rWkc4cmxFbm9yMUs1WWdlUVE5T0VzVDVqSzZRQXc1Qi0tU3ZOUUplYndLZHJ3TXM4eDdINlZ5Zz09--8b93be8f226b827fab310292486a497fa0df6161; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

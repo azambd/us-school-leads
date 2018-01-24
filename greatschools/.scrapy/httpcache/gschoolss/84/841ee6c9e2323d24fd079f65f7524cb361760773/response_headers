@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2b1a2e08-ccf1-45fb-a44f-ee12286c9844
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-rafael%2Fsan-rafael-city-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NXlmeTNQUGZKOWNGRDNpU21scWZFUERLdFlKOWs2UVdzWi9KUllZKzgzWXhydFROSGNsQnV0KzdqUVlPUldmdDJ6LzZ2VS9BVXJrQWdWSWNXalJ3b1lSUmVGWUxJQWdkY1NRYnFUbFZyUURSUGRxNlNwY0FOTDhnV0hTVVR0Qnp3UXBJei9OWUFBSFh0aHNFMUpUZTN0cURhQTI4dTRqclR1aVFxTjFZTFh0Z0pPekx0RFhJdkYxYXoyWlJGdlNoZExNV2xWSk1uUW1aWVkzOEJVVXBnY0tKMHNCUlZMMG9qQXhWeGJEL0lzNk5pbGVaWWRrK1Y5UndqNGdDQUZHRTdWSGk2b3BiOHZvU3RaRHdKYTVtdGc9PS0taS9BZzF0NUhoVmpLWE9iZ1BqMmdZdz09--7cf92e2d4e863fb0dff5dccdc66e67dc8116aa3f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2f561df9-3a07-4652-ad94-5019255746e7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fprinceton%2Fprinceton-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=anZrcHBqM3MxcTZBSXE4cnJyUDAwb2FIQ3lsS3FyaHZ2Qy9OaXdYeXJRU2FBZGNzN005eWtCQzkremlkbGpZZ2lISjl3dzZ6Q05nbENVaWZCODVQZWx6VWNOaEJaWml6OGd2dUsyZ0kwUTIxdk5TQVc0THZPK2ZuMmlVY0hRaG1KVjRRMWU4cWR6M2lkUmFZcnlneDJQbVBPZHB4cWdVUklremgySWR0dWtTNVdIbmVjZmRYYm11MWhuV0ZlMkg3bDFZc0tWRlNabjh4Ri9CQnVmLzRiWWQ2ZDJxbTduV3ZCejArbmlXeHJjSGtZVTdwU2tMUGxzWUI3aTBDZHNjaEdxU2FzdVpwNVpBb01XWjgxSThyM3c9PS0tNEdWRU9oa1c5anhyRTVoU1QvNGxrdz09--4a55ccf21b6de8f27eb7f4559a471a533965b402; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

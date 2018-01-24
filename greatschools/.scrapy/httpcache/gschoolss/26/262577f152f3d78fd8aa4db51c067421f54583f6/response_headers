@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7bb7c478-5cd1-4ea6-8e0a-c6ccdaa09599
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-cruz%2Fsanta-cruz-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T1BPS1drZHJEQUw3MmQ1YldnbVRvc3lsMFZkMHhFRU9sN0UwMjhpT2UvU3dPNlJjREI0bU5nRVNEN05qSU5jMXd0K2hBejVRLzQ2N25DbWtQZWdYU1UwdG5zQ3Y1VmxtaFhZNUFFd2p0MW9NcWlBR2JIQkNCSjNEUnZ5TFRtV0lPdlh1a2JLNTFhYXhFSk1uMDFsenpLVVpvbFhFN3R0MytsMDdpRkRWNUV2em5iM2o5M29mbUplNTZHdXZrMExPSkVrMjdNV3BvZkZoN2F1U2l0bEpiN0hSTDR6RGxmM3Z1eVRHeDRaR3VCMXpiSEY3cG5kRmdKNUJQRFc3azRZdDFTbHNiNkJSYktBK3A2MnVvalUrMVE9PS0tdHJRRjZFM1J4aTBJekQvdHVRMitZUT09--581b0a02030925000eb480a828b6c7303140741d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

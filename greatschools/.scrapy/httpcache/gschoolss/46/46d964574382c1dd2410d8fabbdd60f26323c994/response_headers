@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 518153f0-e3a6-4bed-b563-c251c0878de2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnapa%2Fnapa-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aEtIS1BIWkFaSjJMa285aVBpMlYxWGttRDdha3djZHN6ZHpGZndtOTFKdTNzNi9yR2h4dUZXN2NzVDYzU0kzWGdaZjBaYm5Nb0hNTkNSeEdpMVBlQ2NJQ2svLzFUSGhWNTh6bWtsNGF0dmRNTVpNUkI0WE5Dd2g3UjJzY2hzdCtpNTE0Q3ZmaXYyV2Z0VW9oUWtmYXNtSlYwU2dtQzZXdjdMcXl3MlA4YXAyNlNOVGRRelpYaFh6RlVJOW9MR0k4UEk2ZjNDZUNFbkdtTTMrYzErVDFCaTZZaVpKaHRXN3ZPTVBOTU1XVHYxUU1tOVc4cmdXY2orZFhQenByRVVKQy0tSVVnbDV6NXZFQnVmc2gxQjRnV3JPUT09--a01aae0d052f4825433e347b48a709b849a8e9af; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 229d4f6a-5fdd-4328-b5da-1ddeccdf5029
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fanderson%2Fanderson-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VmtpZXRKaDRFZ2pNSDRLdXl4dGRRQmhtMHBPMHhYeWZEaXR3Zm5wWGRQaGxhT3pVMmZiMmswd2oxb0hVSlNyeDJKS283cWxMeEJRdGNTYU80YTJOQWFMV2thNzFScXRKL084U2t0S3NyWG5Rblp1OUVEeUlVNW1tYnJ1MER2blpIcjdGREw1UXJRU2ZPdE1GN2R6RytpUWJvVjlpbWxjTWE1b0FFUE16V21kVmVCWklKbldQUWhaMUdEWm5zbTBzdVRqWTFWNGpkSHFuOXBxaTU5SGsvd25BZmRxanlvNlg1VmkwdFJLMW9kZUcyS3NMNTAwS3MvSVBNczRrOElvWS0tcVBtZG8rQWV1VmJqaDgrN0xxVzhZdz09--f56e7fb59c092f70492ad4882d671712222914f6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

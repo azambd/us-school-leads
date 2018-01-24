@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 50b456f9-683e-4cc8-a1cc-40ad72bd1afc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Figo%2Figo-ono-platina-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzEwam9SVHJHNVdmSDc3ZWFlcysrc1hJNElURUVCNCtqeDUzTTZlL2dPNzYxa3gvU2l4cGhqV1NkL1lGY3BzTFhzdmtleXRkajE1d1BydmR5a0NjdWl5eUxzdVBKK3dxS0d6MVliWkRRdkNQMlllNzdES24vbTgrUmZmVFFoV0NGWktLOERWMVhwaHRNZFplQlBIeEpTZ0pPb2c1ckJVVE94cXE1ZnhocE1jYldSZGllay9ST0E1QkpaQVJqUnFBYS9uY1VsdlZJOWtHV25RVXZjS0R6Z2pQaXBLT3JySzJsdVM1QVRhVnBMZzdMRStpODBveVk0RzdsU3BmL3Evei0tZ3Iyb3Zwa0s1eWI5TmZaZ3pweHQvZz09--dc3194fe9ec2aa5a2b46b35cee6dab452af83be3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

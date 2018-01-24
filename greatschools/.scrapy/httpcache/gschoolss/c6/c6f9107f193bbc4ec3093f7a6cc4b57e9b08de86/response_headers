@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1f5d2c3e-8fc4-4342-a73b-115c2b2b95f3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcovina%2Fcharter-oak-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b3Z4U1FzWDZIekZOcW92MzF2N0lqcGtaOGdzRC9JU0w1azJBd2pPRTFTWUZkNy8veW9oa0xQNysyTnREQWY2Z29PYk83cm10eGlQYlpFemJzSlEwRTZDV01NWXJZYnZHeDRhSDI1QXNmd0gvSHRRbi9jNUNKaVBQUjU1bWNIOUlxTU5zQ2ZOQi9vWVdvTW1ZbkszL0NpL3I3Skd1NENVcHc1U01DQ1NvYTB3WDEzdEJMU21JQUM0YVhWZTZzNENzeVhkWnJFamZrVUFDa2ZtNzd2c3NOWFRBRWFvNWZLblpLaUZhMVlacmxhWjJMME1iL2xnT2s4MnI5M3d2TjcwRy0tWGgxR0Q1Z0s5ME5NUldRWWNTd09uQT09--fce8ba681d987a51b7022820ee9cdc8000f5e370; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

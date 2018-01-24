@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bada034e-0e55-4ac7-876b-0c0870921d78
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flong-beach%2Flong-beach-unified-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N1E3R2dxRlZFcnpUOFBOMWFnTFRpY3hsSXhuYVNaMjJuT01QNWtaWC8xSmlUdUNhVmNyWDJ6RlhpZWZESUlwUG9QZFVzRkUvZ2wrcEtPV1d4OWM5Wkl5dWVLV0hkdE0rN0ZkeG5RS0QwdnNNcXBhZjhtZ21yTFZFQ29pOUl6YTJlOGozeTlsSkd3Y0xrRGp5NjUvZlpydlZnWTJhS1BWaFJubmRFZ0NwM3ZoeDJpZGoyYy9pUzAyaFQ0VGt1NjYvSmo3eUxhMHBaOVFRRk9XSEY2d2toT1YrajdmWWpIaGNMRTNkWnBDVm8xV0lvcE9YN1M5cWRndC9SckowcjlLWGhpeG0reGF2QWhJdDB3aW13cVY3bVE9PS0tdEppN2p0aDBKcXpnb0FKYTY4T1VTZz09--9802d79a828ab950102a86cad0816b09699bdec4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

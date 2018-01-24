@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7757%2C%22state%22%3A%22CA%22%7D; _gsweb_session=OTZTOEtYRVBrMjlBN1RuOTluNEhxRFliUGJ2cG9WUWwzZjNtOURZQkpHek9GMGdhU3h3Tjg4UFhNVjMvWE0rR2tsRnhwOUhKZkZNaDVNR2FkbUtSS2pVRStoeDQrY3ozUVB5d0hWemVrUUN3SU1INVhUSEdneG9Wc3d5cldNcFdrZmlzbUVpWXVZMWtmOU5qRkdtZSt5TUNPYXdmSlFMUTk2TWhyQzU0dy81djgwQlJRb3RWMEFVWmxKU3VhbkdBajh3VXFDVGYvVU1BdGJaNWJ6UlUyNnNUTmFjRUxZTkpFSkxOOElKVlZGb0RyN3o5cU1kS0ZCUWVjaXl1TFI2UDU5MzJVYWtnbEVJWTN3VmpGUEY1RE5BVUVBTkd1TUJiZnVnUGRjUXlVQWhpNDF4UjlxSnM3T3Fybm9yTnZPZUpiUDErdkY1V0NrTXNjQjl1STNMMEVpS1VNQXdHbEVRTDU3MWQwdVhtK29ZOTNyWHF6MzQ0Z2MwQWNOUk9nMkNIbzJnRUxhaWljL0NFOC9ESUw3M2ZUZz09LS10NVN0WHF6Tk51Z2xVNmJ6WGE5WGVBPT0%3D--b068cf86d074875a186f6ea432930de2ab92ee71; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7757-Ventura-Islands-High-School/

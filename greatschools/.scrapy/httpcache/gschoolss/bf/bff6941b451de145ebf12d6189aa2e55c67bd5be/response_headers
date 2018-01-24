@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ca0590df-40fe-4582-bf08-0e962607c45e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-rafael%2Fmarin-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TG5ReUFqQm1LS2huQ1U1UjdhTjBiZGh5ZEwzbTA3Rko4SUZTcG1WalgxeWdidHpsSmlEQlVadDl4OHhyKzBhb1RoTlpyZGhxbjdORWlRRWd3U2xLMDBCdGU2M3dqTGlidEovMFkvd1ZYZ3RPclF6d3NNZk5OakpoSXlNVExMTkNiSGQwc2FtVW1VT2N4ZmVmdVdHUWErM0JXeTY1MmUyNEZpRUN4SEhMN2JCR09OQ2gwZThRc2lBWnhSS0R3QVRoWVVLTVFMTERFS0tmSWo1QVo2RlZqbFJ0ZDdPaDRhUW1JZzB5Y2NyVHJmeGxXdEpNRmNtdko5Q2tKay9rcnRvd1pUanhWcFFYV2RRZk1ORE1YMEFNTFE9PS0tTkZDY1JqeTRCN2IrNW1zdEt5NTZIZz09--e67cb3d171b64020b75ef0a6b9fc2afe177bf4d4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

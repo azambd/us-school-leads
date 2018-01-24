@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ae69cd18-9f37-4554-b5d6-fc40f7a01eee
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flawndale%2Fcentinela-valley-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZXgzaW1hcDZhSVlma0NkcEVjZjRMdys3eVBnL2FINHB5Zkt2WlRzSy8xMTAxNDc2bFZVOVlmbnVweEZJQnYwMW1UR1ZrbWR0dVRlWGZ2YzdFekNiSllwOWJGbW5XcTdtOTRDNGxXL3dBRU9wZ1pOWFg4VWFsN210Z3FNYytzMFhqWm84blhKNXYxc0ZYbDRMTDY5U1VQb05pWkM4Z3h1ck9ReXNQSm5YWEo2bTEyQXo3bksvU3RlOHlEa25VU3RuYkxOVmd2TWxCWE1wL0F5eFN3bmtUUnp1d0Z5dmErdVFWK3kwOTdLNEw0OG9oWGlHRkY0UkNqSjRyWlhyUlcwcS0tSHQrRDhvcEF4clVOWE41UnovN282Zz09--890427081b185448f911f93c08c277d67b0401bb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

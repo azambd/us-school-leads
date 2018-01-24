@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2c134d87-1b41-4bf3-91bf-af90feef1dc0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgalt%2Fgalt-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aW5vN296ZjVwczQxUFNudkpHRlRUTnNDaDVJUVo1WmRkQjJpRXlnQXgwd25HR1VwZUFoSXpKZVF3dS90Yll5cjd0S2ZUWStGUnpvM29NSTNtclMwdDFqTGkreWZUT1dyNXMwNkVwUmpNNDB6OFZxRmM5MXlEVjJvM2EzVm1rR1hZMmk2NFBPUkRzNG56a2R6MVJvZmphWnY3K2xwMWJNNGQrUU40VGo4OVM3MW5hQ2lPRlVVV00rSTQ0b2c1S3ZyUlhQNWVrR2JNbElmdWlObXVpUnJXWVRIaVBtZzdBZlM0NmhEd010dldxYzcyWTNJd25Ha3ArUU5WZzhVVFd1eS0tS25Ub0JtL3J1eXllcnJCcHVYcGJ4UT09--d6aa3dbc2a0ec0ec58574df8f9a87bea05a31a29; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

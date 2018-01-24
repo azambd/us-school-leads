@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 616b9e08-471e-4dd5-bf5c-78f7ccb203cf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwinterhaven; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YVR5WDNiV2RTaFZsR2FMNmxPTklIZWNHNTNnWjZTanF1WFZCUGVaemVnRC9yNnI5ZUlDZjNvTno1RzVSUjNBYis5a1AvdG0yRWNQY1BqUVQ0QnNMdG90eXRjTXM5dGxYdzFYUkpta05pT2tRV0UyM28rRUVXT1BoOFNVRmZYRTZHWmpwZXNBT3luOHpBYjcrdld1dys0WU0vSytvTncwcEZOMnVueUFpd3ZuTk9zSnFlQThqemVnUWRlK0VOOHFoM3BZMVM0ZVNBRytWM0RiME10UFpzNmVUeUV3S1RvWERQeCs1NkVudmU0OXU0STVUcUt5OVByOFdML2ZXZFFPQSsyOXVaUkI4U3dyeFJlbzgramhxVmhYYk9MMHlDWmRFdlV5b2tsTzl3aklFTXJMN01ZcnhLQVV3bjQwWkxZNXBJMU41L2toV0VvTGhPVW8wSGhXS25IeDdjOWgxek1rTDM2dTdCZ2RscUwzRkllS3RnZ0tOOVdJWEFwb1d5NWNGdi80QmRYZi9abWRBNDJGQlVGRVFIUT09LS1naFgyWWVtQnBaTlY5SGNuV1lNSHJRPT0%3D--c6f8e5f9e9a74284a47eade649a6fae617bccf1d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a7c8f174-e7c5-4b0d-81f7-af89112e3c90
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-ysabel%2Fspencer-valley-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WTc4Yi9STVc0RE9raW81L0NNVHltZzhKZ3pvMU4vZXYyZWREQ2FmRnI1anNsb2ovckFFT0NvQzhzaFpRRmkrZS9OQUN2L2taa2tlUUFDMEFxSXB6N1ZNTTNHM0JJN2RMWlR4MTE4T2hpZjdKZXNFVUx4Q0QzaTVBVE1yZmF6b1pmUFpJMTZEM082WnZMamFFVUNnYnkvNmtmcWVDdDd2NzNKb09HRUorV2JjLzFySDhFTGFWTUJrNGFiSUlHb01nTTIxUExMYmZKNkFOQ3B2dm02NXdBYks5MGFjOUhadnB1ZVR4aExna3FsOGZRVXhKM0x1cDJTNWVYbWx4Y1VFSmZvdGU3eFNMWkR2enNDaUtXakwxRkE9PS0tYXpvZUUwTGtTOG8xVGxnQnJ5b3d3QT09--d88f1547d5253a0bb1eaa7337ae971342ce9d32e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

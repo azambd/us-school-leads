@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 8c177b0c-1729-4f45-8035-9120ec70ebbd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnovato%2Fnovato-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c1NueHQ2MWNRRDBoM0s4MHNUb3dGSFV2UG1obWVKWXdUK1QvRGYxZmZrbkc5L05Mb3NFdCsrWXFPaEFnZXFmNWs4anFQS2ZpQjlGYWJjQTdBZEVTdGxMdUo1UVFVTG1VRFNZVC9EamRxU2REeCtoc2kxNm54dzJXb2M2QmR1OEk0dDBVeHE2a3dHZ3NNYzlrT3hPSnAyd0ZUYnE5cGdGaWd4TTZoMGFaRHBPY29oVmUzdUZNR0xSSTBaUGw4RGMxNFJmeCs5UXQvMjRiWlg4K0ZLb3JEOVhGbytKQ01mM1owQmlTUTVzVTBOQXRnRGptRVM4Y21YYWFiTXg5MWladS0teU85MEl3ZHQxaVp4c0NieTc3QnhLQT09--02f5a06383ff772c80d65d53bccccfe84b0fd7a3; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

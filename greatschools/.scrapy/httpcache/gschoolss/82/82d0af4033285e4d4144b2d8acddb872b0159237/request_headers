@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A9302%2C%22state%22%3A%22CA%22%7D; _gsweb_session=UGw5Y1hFU0h0OS9sQzhJOHpFaUdTUDVaRkJSeUVoUEpQZnU3YTROTGtlTmxtaGtIU0pSMkJLZFVON1lOT1F2RU54MDR0em0xR1B1NldXR1c1OHNPb0xoaUpCSGl4Z2MyQ3hKNGlVQnllVEtjWmlBLzJnWHd0d1YrRTBIVWNzckx2ajJWOFVjcExncVV4KzJqTGRVUDlNaTMzTnRyMWNMclF2SmRZREtVdjhzMkF0L2ptOVlkQUxqb0JCSFdOaGZsK0twaHFiNWlFeDAvczdUL2pvZ05OSWtnd1ZXLzFGN1drc2kvZk9Ga0RsbmpzdXo5cndVeUd2aHlFbncvQzBKUGliUGJQL296ZXRKYlB6b0lQbG50Q3c9PS0tbVRWdHRnQllBTEVuN3BFT0xIdysvZz09--4ca8c88f4e5e542f2c5e265adc46a5cdb04893db; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/10200-Casa-Pacifica-Non-Public-School/

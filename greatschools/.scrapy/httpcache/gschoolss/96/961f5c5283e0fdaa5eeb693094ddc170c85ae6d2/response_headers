@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1bcaadb6-a170-483e-9af8-ee249e5a1f2e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fturlock%2Fturlock-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aFdITE4zOEFXd0wxWW01QmlyYkxGaXFnMzRXWFNwY1FiYTdIaDlNL0Zjam9EUEF1Wk12UUd2TG5nNmVHcVc0N1FhYmE5WVQrTnpGNmxabWFQT0daNGRsbjV4UVFJS1ZQTExpRmFURHdwK1hYeUFQMGFTU0lPRXVVbURNUmNyWUdnVzFQdGN6R1E5aFNBMGhIamJiSnhOVWQ4RnF5TDdaQVpNZGpHbVlSZmdnNDdaU1NjUU1Fc0lJVFJSSlZRbFFuZkZvS3hCUVo1cWw2MmFFV0c4QlpOMHpnckl6Zm1vKzY2K1Q5RzF2ZDh2TFhVOEVmRVMwcDJtaENZV3J1amxRVC0tc1VtWVM2U3JRdEQ5SWF4TEs5U1R1dz09--cc7795a2ceba15d9f6180b3b8fce4bafc0a34f3e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 71588f76-8593-4e18-848d-5da998f87550
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyuba-city%2Ffranklin-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dHQ0WW9jQlo5MFdLYUJjelZDUUtUK21EN2E3NmhnZ0MxcUQrc1M2UHZMcS9TUWVESmRDREJnRms4R2JoVTloemJWaHpKWnhTRHpXNkQrZUo2NlZxS3R5cUpUK3NqQ2hhUXdTNm5qNXNpd2thWWREWDg4VzJKSGVHaEgycVIwak5OL2xoV1JxR2lCLzdIVzBUYWVuam5Sb3Arb2ZhQTdacFBLZm9vaWVjUFZ5dmM1TnA4UVZuS0JNNGxOR2oyYlQvYWFTaUFhclVVSlJLT1RUZlphcVV6dnVUVXlOcEJRRGV3STJ4blBzdlNWcGpQUzd2RzQxc0FPRTBiNnlMcjRPcnRVQzFyUzB1K0hLZGJnNW5QVlFNb2c9PS0tREs3NGVlWW5BQkxySHU1M2QwaldDdz09--64154921e927e273a6e14f3d386e2cc536510b56; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

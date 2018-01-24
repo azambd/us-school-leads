@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 07bb2c79-f936-4466-b103-0ebf7897f45d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flucerne-valley%2Flucerne-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R1lnVzNXb05heHVUdTNDTDZEWW53ekl2TzJ1M0F1L3EvbnFKNEdpQXZRRnBSK2V2MWdKajVwMW9aT0FYNmNlOFRVakpialZMK2IyZ2R6VmN6eGUzYlFQeExmcFZhLzc2QlhxV2tFMlZZcHljaUdIaURyK3V3TGdxUllEdlVUMnp4U2wvVXR5MlJrajRaWjEyWUF6amkvSVJCdytMYlhNcENBa0FpVWJnNGp1K2JhdkZQaFhVMitGYzNYMzJiS3VmMHZXcHoybmVwVFhxRlhmbDE3LytTYUV0UnpVcG5OcGRXOWNPSmhUMGhWM3crZk9IRmRqNnJ4L3Byb1ZvZjlFbEJFT0xoM1lxOEp1NzZ2c2RPYVN5T1E9PS0tT2RXVERKcmJuMHF0c0tscWk2T3NYdz09--408ad73ed3fad33d852cd4df2b3b496959030be9; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

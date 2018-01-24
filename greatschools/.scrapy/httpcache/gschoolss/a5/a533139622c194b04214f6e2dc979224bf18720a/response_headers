@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 416cb63f-19b5-48c1-999b-aed64e238733
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdunsmuir%2Fdunsmuir-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UG9COEg5d2VxbUlmWjJSRElWWlZ2c09zN0FveHV4OWY4NnBMUnN0YVVJbHJITEpnZms0dXhvbDBtS0lOd3Q5b0FCUW02aGIvYlYwakJrbVo3VEZ0Q2J3Y1dzQmwyNHdRTzd5S2pML1RSWWJIb2hGMVhBS1lTV1NJR3Brdmk4ZWwvWnh0d1JPU250ZEV4YWsvTmMvQWQyV0YvQldSVEQ5RzZQV2pXSHlDNW5MejZJLzcrTkNqbDFFUmdiK2lxdkZyVEd3WTBvdmNCa3FQcmF4dFhxa0NLYXBuRi9qME9ibk5kWjNWbjZTOS9QcWp0cndhMjU3T3Y1RExGY0Z3RXdvKy0tNmQ0WlpndjRSM2R1WUZIbXZjS1BhQT09--558ff4e7fda58aed74f867e8da09d5f7e2738d1a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

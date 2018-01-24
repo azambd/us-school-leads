@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f8467c71-963b-4e29-9c76-a2532aa403dd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanger%2Fsanger-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U2pDL0tKZUQ1SGxQRUp3RGpxamRXSU02bHZBeUJrMDl0Ny9mZ3JUSC9JaE0yaU9iRGF6RE9BWU1wNVloeXQ5blYyamtWa1NLNEhxRTU0aXNuR0Z4QXhWUm04dGlQNXMvRXFKcElYV1BOSWJ4RW40NnhoMjgxV1VERTFBbmJUMlY3MjlSQ014bGpmM09IZ1dBL3BOK2hOWmtwK2c3ZEZndFpGRWEvbStQVXpabGExN3pqRXZDVUlDUGVQcWxNZGdJMFF0WkttWG04cHlFUmpZQjBlOUVHcEwyRzY5a2ZseDM4Yjh1UUtqS3d6Q0FDSzZuYmZlc2RKWjNKd21IeWlacC0td0d2UDFTTW4xV2VlT3IydjhYQUhTQT09--c9e05aa6b87b6292b4700d726e09a57c77cd173d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

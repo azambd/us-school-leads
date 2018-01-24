@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3770b933-be18-4c02-8b56-c52d91929922
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhawthorne%2Fhawthorne; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SEQ2d1FnYW05UElvV2x0VWVVTE1DT0FjcERTbkhQZjNoYjFxMFZnMmtXejN2bUhUVFhZUzVWejRYNzl4aWVkNGxyTGtxYm5jbjVXbzR0bCtQRTlrYmdpcDlxcjNubFI5QUFxY3hQcXJ4b2JMNXVQLzFkU3dkc2NxM2pwc21MODF1elJhYkY1Q1dKVVcrdHZKS2RQdVo0K2pUWHZ1VmhYRTg1OFlJL0J2cGo5ZGs3VlF2NmMyWUFKWGFvZFZ0RVpPTXlHaTBNN3V6R210dzl4NytCbTlwOVZKRzQza0JXbUVRdEh4a3FyVnlpcEN2WDZPS2tHYlZYcGsrUnN6bzZ1Nm16NDBudW4vRzZIT0tVbGNoc1l0MHc9PS0tWU5WY3BVRGhNK0U1WkYrNGwxWng3QT09--bda1bd99fb52ec49a8375014e4881533f3484c5c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

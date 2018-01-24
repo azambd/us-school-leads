@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b06d0ca5-1a5d-46f8-a839-aa714792f375
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpaicines%2Fwillow-grove-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UDBXTGc3bG5NMHA1aHhDWUhPS1BrcXpPbUtKbzZwUTQ0UmF1bGJYMTltd2Z6YTJMcDYzazQ1dzZERFUrRWhucTJwMnZLM3l3YzVxc2pXVHdmMmhKdDh2eWRyRGRhb0FzRklsZy91TkxadmlPV0ZwZ3lHdWJ0MTErbzhkL05KdTRYSnJmUXFadUlpOTlwVTQ2V1lZZDVrc0F1UXJsbkZpdHFNVXhVOVZIMy9QR2JhTFRPUzBqeklwV0ZDSko5U3FTVHdLbFo4Z3ZUVEtxTmFMeXdjRFRRQXplb2hJcFlLUHhoOHZLQjloSUtVdllmUmhpZVV3YXFLckVKSExlZE0vay0tYjJRKzl5MjN6bkNrTnQyUERLSzJtQT09--4feee0df35cb240d412fbd10cdd87ebd247e3ca8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

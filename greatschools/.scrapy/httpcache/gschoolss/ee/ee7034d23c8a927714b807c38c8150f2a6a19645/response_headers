@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 1323ac71-a8bc-4ed8-b07f-1f1453ecd32f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnorwalk%2Fnorwalk_la-mirada-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MnRZMVpQUGNnYTczVEV4KzZ3ak93MjFXNDhXeEExcWVsSG9XeE5ONSsvTlY2TGhBaFdqS1pYNFFGcVJnTStjUWtpbGlXd1lQcVpwT3VRaG44VllteVo1cGc2ZW5JRnZLSENra25qd1FsekpmcVVPZlErUElHSHJ5QUVob3l3bkR6SlhrMERrWFVnRjBkWG9ZbHk4OGlZUXZ2RldnRFB4VUVSZDhBZUtaNTJpN1pERTdKZnk3WWNTV084aHlrMDZTQjhtaC8vN21aL3E1bUtjblRYOEhqSkxoNzJubjRsNllWYVROM3EzdmpLclIwemR4dEZoQjdqNGRnK0Zqc1dMWS0tSDVxZk9KWnpCejV5NmZ5eWhPSXJhdz09--d6de0c14441e690a2751839e8b0f6b695fa6a5a5; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

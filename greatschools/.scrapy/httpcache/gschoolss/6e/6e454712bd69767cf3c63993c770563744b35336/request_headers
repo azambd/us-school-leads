@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A31630%2C%22state%22%3A%22CA%22%7D; _gsweb_session=aGxFeGM0ZDVZdFB2QUdaY2lteDVlNzhjaGNlNFNnMU5kVy9uUjNuZUVRRWpGM3V6UThDRWwzWE5IODBTVDlETE4yOXFUZHJ5aElpdW5TRUpUS3JCT1QxMmU2N0RLMDZBV3BUMUZBTjNrUXVWRldTOVZ6RzBKQ1F4b0hZRVloS3NwYmVWei84WmUwK1Z1UDJ1dXllbHdQTzE5SzhhbUk2NGNYeVgxd1YrUTgydWVmbXdSTnlBeVBpMnVaVzFNZ0ZsaVM0UFpDZXh4NHhBVzJINXFXUU50bTBCL2hiU0paWHFtRXRaMEdCVVYrK0RwOGMxQ1FCaU5oWHJKMDRCU0s4RjgzSE1XNzlMS2N0WndRQVRtcWFPSzF2dG9GNStmL1RZUE5udUpFMTY4L3hWZlNRMXhtYlpHVExxTjg0M3k0ak83OTB6eW9yY3haWVFqdGVzZ0RDYldUVXkrcVBqUzNWWllscWxRMFFFNFdpNnUzRE5XQmhjc21qTFNnMDZZc2VBTkc0b2doNEhiY2VUdTFlME51d1NGQT09LS14TkszTENDNkYzNGcwbVh1WFZtOFpnPT0%3D--cebeca8fc1d987de7463a03c28cfbbb7e4527e80; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/31708-The-Little-Tree-Preschool/

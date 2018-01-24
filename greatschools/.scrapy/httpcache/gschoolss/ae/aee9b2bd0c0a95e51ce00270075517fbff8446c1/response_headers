@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c501f55f-5b92-4e68-9e4c-1aa075e6b949
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Floyalton%2Fsierra_plumas-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=czRpY0ZsZFA2Mk9wWWNuL1RRZGY3R1I2NjhBRUsvUGJUQTVCNFYyQVlxb1BTME1KRTFvckxRUHdUREFkSklMSGtlNFkyRkJuQ3pzTktSd2paTkZOWGphMXVISUgxOHMwUTMvWnVHZ3lYUWdZYjcxRk9OcGxPcTNkZXJ5SG5yOEdOcjRScENCZzlXUFJqVUVOUTNrcy95YVJ1b0FoNVkvWDVCbVhONlVHWEtvTmFJM01DRDRGNWIyUEJxeGdtWkxQaE1GSjdrR3pYZ2Q1RStRTU4rQmw5RVBPS0JpbkdSZ2M1dmFBTmUwajczV2xJSWdOT0xURTdTcDFqUVZvZlZoNC0tYW5zYkZXUC91SEpId1dBMzVjVWxDQT09--49e1b1c877c16a752516951cf7bfaec359897eaf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

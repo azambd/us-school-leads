@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 278888ca-bb3c-425c-a69d-479f9b448db5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Frincon-valley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RWtrM2l0MFBGL0V3ZVEzMm1tMktYek8xS3Q1bTNsUE94V2x2Nm5MYnRTaGgwSGFYKy9tNkZ6YUZhanZUc01KZFpOL3I1TEFKTytqS3VONXB2TS96ZWlBWlcrVmpCTHRyU2ZCc2hFMkhSSGNDUnkyTHNNb3pZV1dWR3ZicWE0L0pYbkZwaVZWMU5mMndmT1RSTU81dGZYbW5GOFNvMjdUbEswSW5zT3YwT2xPT3FiTCtpcnVUelBLakR2cmpmZ1JOK1V1aUtySUEvcGZGRzVZZjZqekZvdG1ONEFLT2VaSkIvWjJYTEE3YnFRelMxNmh2Z29rbzF1RDRidGpOdVFnWmJ0WDVQY3JlWDIvelNBMGlQSW9Tc1E9PS0tTDhWZFVkeTAzQmhzRUk2OVhxNllEdz09--e49164c557f9ac54492330aef8344edcffc24245; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

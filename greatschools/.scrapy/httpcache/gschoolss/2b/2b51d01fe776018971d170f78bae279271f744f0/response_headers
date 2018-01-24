@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8a704639-05ab-426e-add0-1c3e905720e0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fclovis%2Fclovis-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=LzQ3UDJpWFFtclFZT3JGV3JsdkJTaW1HdnVCQmd5TG1ydWtGNmgzUDNDUjFNN1NYUDVibzVzZDBGQmg4NzgwUUl1TnpLbkF1c1BPVGk5WkhZZGVrSWpKbXZua2VrclNUcUdVcHhWWnNCWkFaQnlYTUZOQllsRk5HQXpSUGRpRHVPTmZOd0lJYzduYWFyL3dpNmdZa1RWSHRZcUN1UTNzMTNqZWpSVWxWekRkcHRneWZ2TnhFSGI0bGtnUU5tdk9YazU1WFFucURNNWd0ZVNtKzNSNzZqcUpnTHVQRGRyVlMyeFlVTWZrTm9tRFVWRy9DV0FTT20wZFlJbm1jeFh1US0tVktVQjh3QllGM2RQUGphRW1QSTF5Zz09--941c8a4e84c8556355f94f3a5edc2834357e89ab; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ce711e6d-9aef-47a1-8802-9da46c2cb638
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-barbara%2Fmontecito-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NURjRTRBT0Z2YzgzbGtxUk10aGpwcEY2ZUFOaHZwVXNFVEk3MDVkVjVTVmVKYmw0aDFyQmVTckhTZkM2QWxoWHYrVndvMGlOdEc2TDcwNUZYbkRnRWs4cURndTltaUpKeENzR3FqYzZBckNPeVNVVjQydktFc1MxL0R4WnJ6dUw5RXZmeEJSbVQxTVljRFNTbGU0empNdURXSUJJQmRYTldWMXNwZE9FTzNldWJsVGZoc1hJclg1VUlaQm85cEVLSFNhNlJuK2VWUXlTY0RLMy95SjJCZ3c5RDlVd0JxM3pHN1dSSWpFeHVqa29mRjhBK2l6VFBsdWJBNjJJSGJtVEdFMlFKTHhiWGFMdlpOYUlwclBXaEE9PS0tWU1aNWdKbTlWN0xxemZpSXVaTUpkUT09--95542348d46edd8d2ca7115b0006d9bba185392f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

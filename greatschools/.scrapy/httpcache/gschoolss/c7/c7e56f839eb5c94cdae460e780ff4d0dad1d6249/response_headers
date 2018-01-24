@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 24219cda-567e-49a5-b0e0-ae4f17f81993
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Fluther-burbank; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bnBQcFNFWXVOd1hPU3JXcFN2WjdwK0ZMZzlqZmZxTU5aNDR6WTBNQWw3dkxOamlrZWUzR3BVNTZhN21iVFFTZzRtNk9QM29PY09sQzJYa2pGQWhKWDJLa0YzWWZwaXkzYWVNSDVsOEJPMDJrNjFGcHQxcDZMU3gxSERhcnlGcVp5U2cwak5LWVVDTmtRMUpyWjRBU0VYWFVPdnFOU2FPZE56OXBnMmpnNmVLdkpMVTVZaUlOdHl2TWNsQXhDb0lsbVFhMjM1cDlwRUI2Uzd3WFFscm5XQVZPb0dCUVpEZmR5QWcxSnJpb1hHNUYvYncrYUlOOXRMQjdsalBTU045Vi0tS0pnaVozMkxvb3psUFpXY0NuMFdlQT09--01eea1c79604da386ed4ca8de0f48d158901004c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

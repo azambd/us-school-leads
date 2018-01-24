@@ -1,0 +1,19 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src *; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' platform.linkedin.com spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com slideshare.www.linkedin.com; object-src static.licdn.com www.youtube.com; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'; connect-src * lnkd-communities: voyager:; report-uri https://www.linkedin.com/lite/contentsecurity?f=l
+Content-Encoding: gzip
+Set-Cookie: bcookie="v=2&98c3aaf3-cf52-42b5-8032-dc4e5ff45ae2"; domain=.linkedin.com; Path=/; Expires=Fri, 24-Jan-2020 01:39:02 GMT
+Set-Cookie: bscookie="v=1&20180123140130214245b9-1d8f-4767-814b-91ae1c841f0cAQFq9W5WJdUuWACMl5fDD5fi6ou_wb0N"; domain=.www.linkedin.com; Path=/; Secure; Expires=Fri, 24-Jan-2020 01:39:02 GMT; HttpOnly
+Date: Tue, 23 Jan 2018 14:01:30 GMT
+Expires: Tue, 30 Jan 2018 14:01:30 GMT
+X-Li-Pop: prod-esg3
+X-Li-Uuid: /q9FpD91DBVAz41mVisAAA==
+Server: nginx
+X-Li-Fabric: prod-ltx1
+Strict-Transport-Security: max-age=2592000
+Cache-Control: max-age=604800
+Cache-Control: private
+Last-Modified: Mon, 13 Nov 2017 20:15:05 GMT
+X-Frame-Options: sameorigin
+X-Li-Proto: http/1.1
+Content-Type: text/plain

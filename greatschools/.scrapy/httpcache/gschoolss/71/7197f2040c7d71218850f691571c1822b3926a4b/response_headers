@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3237d693-e2aa-4356-bae7-033ff882ec90
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwheatland%2Fwheatland-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R0piQUttM2p4eEJDdldxeVd0bXlvUll2WWd3azVNd2hBM0hNdk1iMjdXVnJBZFZoQlpDWlo3WTUvZVBNWmNZVnZiMUMybWx2Zm1RWUZSNWIyaDJJWnlQdnUwVUNtYWlqMzhlSWFkRTl1aEVabXlteEFHSXFuOUlRMG1YRjgrb3FQbm5KNEZVWEpSeGZKQ1A5SXdvTEVDSTdLVUcrRkI5Z2dnNjFLUUJQYTFKemV6SWhkN3QxRlZlWVRNUFpaV3dzYXYyd09SWVIvN1RJYlVUNGNBNjJlT2R4Vi9jR0Z6OTVkUkFmNWxCMlBDUmxHQnplSW1GV0U2M001VVpsUEMwTnJOajZxeVlGQ1pVclY1RlFVOFExY1E9PS0tbHlmZHBRQlJxVFdOc0YyOVczdElWZz09--12fa3b53153a4ef22b36735c4a46b0a336d18716; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

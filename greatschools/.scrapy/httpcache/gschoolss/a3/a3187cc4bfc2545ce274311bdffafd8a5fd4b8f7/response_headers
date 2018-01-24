@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 047f1270-813e-485e-b424-ad0db6490fa2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fspringville%2Fspringville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c2ZjV3B5WDZKMmc0bXNXNlg3L1NQV2crNjQ3dm84WlZmZGcybnFjZjA3Y0U4NjJlamRwcml0ZFJuUE5Cc3pBcDJ4eXZMR2IwVEVUbFcvVTZaeHFqdjQyV2hvQ2JadHBEUWtwaWl1UVoxRXVTRTNxbFhwSVl4dE11RWpIZ2pxcVIwejE3YW42TmVLeDJxSjR3YW9QaHBxZ0dnQ2xaWEJlYW0wbStiWkJwS3JPTnd4NWZkY3RkNjdJT0tvTUhEQkVCdUJpT1l6U3B6dVJFeTZaQlFPMklHWmRpcVBtNlZDaEovMnoxaEtnUU5CS1RiQ2FFOW9uMzQ3cU0vNUhUTXRBM2wwUUFjZjY2cE5IUEF4NlIrdXBzVGc9PS0tTytYbU41aGJTNkwyV2N5SFVBNHQ2UT09--e0d8b3fbcd07c2e81821682a8aac8335de9a922b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

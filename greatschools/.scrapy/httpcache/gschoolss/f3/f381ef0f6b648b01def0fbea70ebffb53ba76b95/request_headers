@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A10375%2C%22state%22%3A%22CA%22%7D; _gsweb_session=cnZ3d3RzNUNyZDZiN25yK0tFZmRsWndLNTdBcHpweVRwT1lQYVU1b3JmLytBSyt5cWZ6b1JZblEzTjc5aGc0QVErM3JJRkxpaDdnQ2xUMkRaeVdBZVN2UjM0Q3Z6T0MwT2NiSW85cXc5Y3lMdkhucDI0VXZqZkF3QU5vNG9jaTFyaVMxYS9VQ0hzdC95VGNFMmRaaFh3d2g2TEN0SnJ0bHJNemVDcWo0UlVXSUZqdlZJbVpXRDZ4TGpSUkxPMXZPaWFlampkMFozN3JYa21jSG9hVmgyMWxxdVdoR1ZRTzVpeEZidVlFTXlmSjBSTWZIU1MzOG5HQW1DbmIyQitKeHBkb0h4Wlp3Um0rQ0hmcERhY3Z4eTlBSGpKK3hBNE14WGpEUUthMkJ4d1RWQnJGM2JkT3MzaUJKb3hxRnFzL0E5SmxYYTQ2VFMrM1RIY1JXZXVvbXozY2Noc3FjWGVBQ0FKQnNuRE1oaEV1VEdiOEM3UG9vSzhmYy9qRzZKZFN6T1BlYURKa2dNRk41Qnc3bjFhZFlHZz09LS1OTHVyYU15bnkvQzJVeDNtSDYzRlN3PT0%3D--68ff5dc33aa1d92231686a3fbad6fd299e1da601; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/10375-St.-Augustine-Academy/

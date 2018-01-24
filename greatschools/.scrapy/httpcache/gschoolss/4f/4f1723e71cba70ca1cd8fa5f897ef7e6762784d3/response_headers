@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e6e9c212-53c1-4683-a2c9-f8ad7de587a0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-rafael%2Fsan-rafael-city-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dGJMTmtJd3hDV1JRTTcxNHVRUnVGTkhrRm80MVFKZ1hwVlA4WEczVlFqcFJhRmRBeHFxVVhxTTRaUXBNQkl5VklEbHJmdkxuT1lEVHc5clV4RDllVGJxTHpydkU1Y3R4M0Y2dHVUdnFuajZ0SDg5VENrbnM4UWRnV3E1YUJqOWtHaXVKZlQ5MWtsMEZVTTVZcGMyQTlhMTRSeEVIODRCb0ovY1FjY2UzeFhJdDhJZjVUd3hadENtamNZQUxWS2VwT1VOSGgxdzkwaXpYWWJHczZxK3I4MUJGTnA3UmJhWEVEZGxnOXorOFFOeld0ZjBjY3Z0NlVPOVBGUXVvS1VxWjZ1UGh3eFRMcUhxckljb3ltVUIxbHc9PS0tK0txZWNKZkRzaUxoa2xVTVRKb3NTdz09--e1758f974c2ad6e4f0d65f645538eea4ab875524; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

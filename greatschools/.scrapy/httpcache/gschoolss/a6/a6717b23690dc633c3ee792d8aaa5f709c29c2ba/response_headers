@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c0c88caa-1245-4b51-aed1-80c048ddbb52
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpine-grove%2Fcea-amador-county-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UGpVSkVvUDNnN1NrVEh0WVp0WlFlVlVpak5FK0FqNEJKdnV3Qm85cG00MU1xMFlOV2srYzA4TTd2aERyUlJNNExVM0FIejE3TldsRFh5Ym5SajdGa1Z4bmdTNTBaUmdDcHdRZzBnay94b3h2dUFQYjZLTlU5Tkk2Mk5laDdSSXZQdmQvb3NEcnhid3gwMG9GY00xT0NrQWlVYzRWbmxVTVk2ZmMxU0ZWaUhiQUlSZlFHNHp4Rzd5Y0pIVWxVYVlXNW5aUUV6R3plUE84Y2wwZCtLMy9UUE5NT2poaXptZUJFWEwvUUluQ3lrSXZnS2VTcWt5VlNDdDEwUTNmKzlpenVLdkRGYnNxY043TFBZdnhQNzlNTWc9PS0tY1AxZEUydTVRaEliaFlFY3FhQkZMdz09--1a03b940381e53ea5cbf27f5ffc5140f74e04be7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

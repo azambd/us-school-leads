@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 351dadd4-74c0-40da-9da6-451441ecea8e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fking-city%2Fking-city-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QzJpTWtCQVdCZHQ5MERSSWVjT1M3bUNjWHcwQUNnaS9oWElVZUQ3T3VOUlBraUR2VGdSdnpnaGpBdlZvMUg0UDNjWnpqVmdBRWtnbmFrZnFZYkJ4TTdNREsyNkJLblB2U1VyMEM5Mzk3RUN2YnZqSk1RRk4ya21oYWRDbkZHMFpyc05vTVYxOXJKVW85S1gvNjl6NFNFeGFIVDFjaWREOFBkVWFpc2Y0clAwNGlQckpsR2IzRURRZ2VQTzNSY0NsTDZqdE9wZDUrY2EwSjJxWkdBSXlSQ0pjNzBqc0ZiZ0lsWjlVTzMzSUZHa1p6U3ZqeUZGRUdJa2hzMDgza3ZUVFV1d04vS3IvTDhwaWlCQ28yMFdJTFE9PS0tbERDcHJFWUFiaURBS3NjUnpUeXY0UT09--01265b690c07255742931319b390818cedad12be; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

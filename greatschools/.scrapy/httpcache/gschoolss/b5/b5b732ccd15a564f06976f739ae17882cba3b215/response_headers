@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 23a58401-3d54-408e-9ffb-a4154d6e67ac
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgorman%2Fgorman-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VGYxb3Q4WWIyT0dvNkwrYysrVjNFbTNKVXhiYWpNMVRCTTlpdFFoTUlLamtnaFZSY1VCLy9XYkd6cnpoTFdwaHJ2S2h6SEMvbWVSWFVSc3ZyTzNXaG55ZTU0RHhLT0dheUI5SHY5dnlKdFIwWnRtZ09nUEhkWHpPbzhBVnJidXVVMHJhemlsZ0dGbXM3OHR6K2hGNEtHWE56ek1PaC9DMEZtSnEvLzRKamRWOUlFS2hmdGRNdW5mMmlUK1dtZ2hsTlB6SHYxMjlSa2UzVURtaGVMckN5MldXTjFZYW5kNVBBSW43c2lYeEFJaXd6NG1wOEtjRmJYR24xaHFHY29jVy0tYTZOL0poTS9vK1ZXZEgvUG16bmZiQT09--8eb46020d0fcd48b2794abff598eb5e2998d5b42; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

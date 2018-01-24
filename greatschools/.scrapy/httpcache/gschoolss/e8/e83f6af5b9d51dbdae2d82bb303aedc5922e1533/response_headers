@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d4f4e395-5915-4107-87e7-256ac42188db
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchico%2Fchico-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bXU4emluZ3JrMTlaQnlPVXdNVGZoNWJjQzVFbW5OL3hicGErbWp1RVFQaWVBTXR0QjFtNXorKzZ5Qnp3OFNsZUwzVzhNdlBlRXU0SUdlcW1NNi9QNHNtVVlvVFhIYk1Fd2ZmbGFYUThtOTV2Q0NvNll4aHc0SVo4Y2J2aWJKQmVVdzlaUGhQTGpNN0Q2STcrSWhXcW9IWUtlUTdqV3JtcXNjSEoxQWRJN2tjR0Q5c2JENHpoZHR1dnFESzFuU3hBOVpobnFyV3ptTWdaSVRRR0ZCUUtUUGhSZXlSRnRseS9xNENXZnBON2NHTzd6VmJ5VXk3dGdHN3RJdy9EZWxQVC0tWElrSG1taTZUNFNJcmpZd0t5d0svQT09--6d3c264475599ba7d9eaccbffabc9688ed439e85; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

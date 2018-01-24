@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: _gsweb_session=eHpsY0lTanF6ZFoydG9jZzB2T3A3VW1iSXorTDFFTU9Ud2FacGtZbWk2cTY2UE9LcGRpWWxoMDVTUUowUTFlTVNXV0VrNXlnSUNjYUp3R2lVVkVkK2hwRnVxVGphckhPWEdya0h6Kzk2QVRtVTNrRFMrcGx0aEpTUEJEMmpRbFJsL3RWdkF6ZnVPbStmYXVVMkpVb2tlT1BrWkZEWk9ZL1BxbnN5VVMzNnYwTDJjMjVlNmh0TnVEMGZ0b3FvKzZlWkQrTldLdm15d0Q0TjNPN0w3aEthbTRjaitvMnQ1MDluZTk5OTFQQysvangrM2NXSzNFbEovVlh3T0hTdk9nMExjdmVNcVhVYjdTKzlvV1IvQ21NRE9yc0VPa0RYcnczbTkzN29STk43QnlDZ1h4NEYrQzE1WUlDQVh2Yjl5QS9zY2Z1enBzWTZIbWRiaU0rK21aTkRpcy9US016Z0J6NTRuNXYzSTVILzNabllyS0UyNVVWRzVvYlcwQjJvSDE4NWhRakVIYU5HTmhWK25VTEFVU3Z4QT09LS15bytweFJGWENBa29obkxKVjN0OTR3PT0%3D--77570dac477fbaeb6187cf520a49c9a3bdae4f3b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhite-water; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/schools/

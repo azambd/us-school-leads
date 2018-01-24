@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7738%2C%22state%22%3A%22CA%22%7D; _gsweb_session=RzZCN3UvUnpkRTFZb3ZJZkladHdZQnNGRFd1TlkzYmFVbXQvQURDR3FGM2JwZHJVcGJ4TStLREdRTHFDeEV1bVpTQ1FmVmRlOTczRDkrMzNZUlNVQlZaL3VtZS9EUktCeCtDT3grRkU4OG1FK2VvK2RiUzdhZk4rU1ZIVkp1cThidjljTUllenY1K09YUy9ZaWU3SFVobHU1ZXRMTEV4ekx4dGpPeUVuOW10SkdCSk5MUjhXeDhiQ01GWjJlRnRZZExxT0Y5OEYwN2pvYzU2TzhFWkpWZz09LS1MazNzaGJoUnFUOFp5R1pIWHZxa3FnPT0%3D--3e8aa67533014f8131a06b8b5b64239133b40dc3; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7738-De-Anza-Academy-Of-Technology-And-The-Arts/

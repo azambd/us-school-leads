@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A25040%2C%22state%22%3A%22CA%22%7D; _gsweb_session=aVFYVVpBdDFxaTV2SlRlcmIzdUdHQ0lVcUZqVU9JcUJhMXNkd1J0Y1BSNzhiaE1Bc2FDWmlrRkR2b2JuZUNtSW04TTJLYW1uWFM0eExzTG5UanhqK21yTkVhSTVXdlVVVWtnOVhHTzM1YXpUZ0hsM2c0cHlrb2IwTlNxMmNmdExrNzVOdWhNUVNSbW9uamlHSWxBN00xdjF4eVoxUkZpUzdxNk02bXNjWGozRVdyTFpvOUFGVHdxcWdQNk1vVnF4ckRxQWJ5QktKYXRjZmZxSkErN2VrdGN1T1Ywaktxb3JvWlhKbnhIRDNXNjRzZHhESGZKT3hUYnYxUGZiQkY4UllaL3JoZjhCa1ZvV0hCaVpFSmJWRUhnaXRpMmVOdWRVeUltcS9zNVozYWpyM1lGR3lWYm93ZnJPTlNxUDRob0NSWXhqN25vbFRkeVZxbUpPYVRUSDFCN3ZtN3RyaFpVOEtTeVYxQmw0Tm5iN0RrejVZbkdHQWtPOFZLZ0JGWW5Sc1BYQm05aUo0OGYxaFh0ZHU1a0JVUT09LS1lNWFPRlFTM2o0MzI0TTdKUWxsRnR3PT0%3D--fd1ce025e0d128ec8509251a3a0d8e457a8e1d62; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcommerce; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/schools/cities/California/CA/

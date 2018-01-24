@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 587b909d-4480-48bc-aa87-e891f7f1ded1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Ffresno-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ckFGUFlVTlF2ZzVsakcrSnpqWjI5N0E3NFlhNHlEV3ptRWp1aFhZdm95Ri9CVWZmOWFMQ2d2c0oxMU5aWUFFcDhVdEJndHpnaDI0U0R4V2pYN0RzQ3ROcnN1a0RjdzNvY0V0aDEreEFoVitTZHhZeENhcGFNRlZFWXArTVJaWTQwVGkyOVBIRDB3dkNHZVoxWHE3elhOTzBwdjJEZmxUMy8rcUJPR0ZGUktTdDhWck0yOHJ6VFh1ejNrcHkreUxMM3RVK2VhZlUzTEdkUno5elk5cWFOYXZmZmthSlQ5OHZpQ0JRbDJWaUhaeWhtN2phRlZOcjFYSzBndVBzcXFaNy0tdmZ2MjFqOGp1Z2dJNC9uTTVaWjJQQT09--7f88f7115d19a90a371f5c800774581cb7f5bc20; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

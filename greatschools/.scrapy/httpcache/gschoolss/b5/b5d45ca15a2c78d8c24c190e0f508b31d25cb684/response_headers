@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fef180e2-61c3-40eb-bc47-42c2da909066
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwaterford%2Froberts-ferry-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NGJ1S0VMQUh4cllZL2hCRTY2ZDE0ODljUHNGdWNIZzZlbVU5NHdhcVdjUDFFa1JBcGlzT3dJL1JZTFFvZDl0Rkg2cFZFTUJOL1BqYVAxMFk1bTZubWV5Z3pjMVhWN3QyVGtjNHMxZGRsSVRDMlhxMkpJQzZqVFRMS1g1NmoyaGxKUlppZk5BWlhvS05yS3E2MFFUdEgwYzhrZUhMMVQxcjJWOEVzUUowOXd1T1Y3ZCtkV2I2b3k5WHFySTdhdWQzOVdPeUZTNGwwL0k5emx1VDdzL1FPZjZ5L2wxNjFEaHBHbk9KWnU5Nzg2bk15dTc1Sm5kakMrUnU1M09sOFIySWg5ODhQVDVtVXFGdktNa08xSTloYWc9PS0tNGx6eE1aRzFDZzFkLzNiZm5uc3QwQT09--4810b29997a5c8d906952842635ef481bd85e69b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

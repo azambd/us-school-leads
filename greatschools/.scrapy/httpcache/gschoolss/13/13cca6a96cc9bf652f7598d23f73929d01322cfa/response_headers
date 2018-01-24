@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 96d720cc-4c44-4440-803d-cdc0d5a7aef8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=San+Francisco; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-francisco%2Fsan-francisco-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Rm01bHpTazhxZGV2SDh4N29SNDRZd1dOczA4TWRad1BxV24rMXQ4T3VtZ3N6eG9KcFBtT0VwanpnQ1hTVW1RcHJENEJPRTdtY05VWjFCTHF0VDFTM0JXdFdlRzhyNVRqYW5NSFpyZzIrdzhnV1NsQXB5bUZKTUlwS0pwelNWWTlNcTZMbWc4MVVIaFVNeFVvNnNjbWVsRVNGRVJIanRkRk5hWThWTHRiM0FnS2x6VG14MXNWM1g5UXlXc2hqTkNZN0UvRzFDcUZoSEFtZU9xR1puZ2NuUzNYT01MU2czWnRjNXVoUXlFWDlPS2J4UzRXY1ZTcnFLL1hBNTZhQk8yMkdYWjdOdUNwRDF2MjgxRVF0Yk1hWlE9PS0tQzljYTdSelMxV1QyWG9tMmlmZ01qQT09--5e33a9f02629ec9b6f0b0e3cb38ee216cab329bc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

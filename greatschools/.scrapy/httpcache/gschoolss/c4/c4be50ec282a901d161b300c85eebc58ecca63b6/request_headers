@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=elN6WWY0ejVWZ0Q2OExuZzFVUFAyNkgyNGI0U2xwWlpiamRXcktEcVM0ejhGQ2x5SjJBNUVzKzNQdnAzS0dSM3pWenNRaFNJUDIwc0cxVGh1NWUwTDlQNVJLNnVYQ2dJRlJpaW1JS2NHWldUUEtTOGZ1UnFmS3ZENVZWaGZGZFUxd0VMNjc2bnlrTDVhNVA3YU1oVXNweUNvMHBOYkpKWDhBUjJJQ3FncnNBbElQZy9yc3g2NnptUko4dnY5d3M1NmpxcHdOTGxqUm42ZER0V0FiZ0tnSXBtSlBvUDFKdzZvNVoyMzU2YURseldJWjRNWk05WlJvekloYWQyOUdQTnJIYnV1YXJiT3BIVzlMb3hGRi9yNXc9PS0taHp5V2U5L0RjMlFOcmZDZlJ3V01QUT09--43f73a35c6dc50b5f327c32d8bd8c0537b89495d; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvacaville%2Fvacaville-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

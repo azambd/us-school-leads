@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e6568636-bd54-4850-900f-2d324e6f9cd8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhoopa%2Fklamath_trinity-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WHI1VGkvU2JtT0V5REVYeFphL2hMT01nQkZUcU5Od09TbjhvNU1XS0VrMXlWU3FPYWppK1ZDRHVGNUF5U01zK2tFSVN0a056NlBwRG9VVWczc2laOWt5L0hUM29sVUVwRXVmUG5qSkc0L2xoQjdscWR1VkxRbmhHdHJSRThneDdLZTVhT2h1MWNSZDdkWXFZeTJJak5wblQ3QnhiUU8raVFCN2dRd1VrOERDalltZUxvMk56ZjR0UWpzd3E4dXpaMzlsa2F0SGxPbUZWVDBSQ09FTFVMQUxxVXZGRE9SOVdrc3dhZzFYTE9mVytNVmlvYnppN2I0cllBeXFzS1BIaS0tejBGYzVVK1Y2ajZSY2lUMFc3OHhsQT09--02d4c3073e41f0c2ab6f13d6bd29a94be41cd2c5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

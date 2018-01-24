@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: df462309-ed0f-4700-9c9c-b58842534a1f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpasadena%2Fpasadena-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WlZYajZpeDJFUlpMZUJIamdvY0pzWnpDU3JhN2lzWGlVM1lKNjNHcVVvZUJPaHJTR0RoWWE5bkhiWlhEWHBxYVdacy95cnpPTTF0MlBOTDEyNzdrSGhRblh5b2Jyd0FhUzBZSHQ3c29GUldFa1NJaURjZ0M3dU9La2kvZnc4czkxVnJCLy9PV3NLTUNMUysyRyt5KytOc2tvRDg1MVVsQ3hqS1kyVkx4akpSejdiUHlRT044ZkxmMXY2Yml3RythczNzRnduWWdkcFc2S0tXUFZqeW9yZUdOTDlqRlA5RWJROGQrT2RCZzJhM1grOHdwekdnTUdtT3d1T2JySlRnYy0tU0UrZmFTYnJTSUk0S0ZKNEozY3ZTQT09--91ab228a49264e74ee031ce9851e7fe953b60561; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

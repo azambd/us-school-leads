@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=cVZ5Ry8xMHJLSUc2U09hTUdIc0cvNGQvRkZLNUhpQ2UvN3JKbWxONmQ1UWJiMysybmdhUUZGZHJLYUp2NzUwQ2N5bUtteXE0M0dJMnl4M0VuNXJtQUtuU2dvTW9KbEY4SnVPL0E4Z1VHWU9GaDdISW1zRHNLeVo5dm81MnBnekIrb2tOQVNjdUxhUW95VjdhM0N0OHlFNmQ4RmRkT0FiSTZjNXFQYTZ4Skl5NUlWRDVQd3hsTzdYSTQxaE1ibktrMlFiWDlTdFBlOWxxbHh0ZE1UaDdtVGRoSkFmKzNJcXdtbGduWGFsTGVLQnhJWllzUkgrSThnbXJGdU0vZXA3Qy0tQ3pZbE1UN0Nwa21URHJndzZyRjBrZz09--c9e158f5fe4737f3b6ee0ed5ed0b7bba2a22005a; gs_aid=1261b826-bc13-453b-bf76-766fa13cc61b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fatwater%2Fatwater-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

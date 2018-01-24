@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0304e0a1-f922-4dcf-b22b-fd33e20ff529
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwinterhaven%2Fsan-pasqual-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RHR1QWlqMEp1L0o1b2JzVnJVQzhxT0swdnJ0S3dqeTBOcWRBNmJRNTJWZjdPQWIrUWJ6bWdHNHg4L096TTVQcDVXcU9DVXZjYzN5THJ3dXF6ZUt0TG5HOGV5WXJsSGMvNlJJZzZSaDAxd3VyYXc4clpZYXZtNG0yd0czVDlqUFVERGhaZ2Y5Tm5CeU9LSngra09YVk9odTErazM1NC9OaE9EcWRJMWlqM0NUS3dzQS9mUlNlYXpUUHhIUUhNT0t2U0JVaHkzQndXeFY3Ymp2VHVjUHV5U3lYaHF4M1NhYzBPRVNrVG1rc1VRd25HQW5iY3FaN2ltNGhlVXhycXMrNGc4S2tIc3NiYzBRZExHK3JmZ2poY0E9PS0tMHlUNUtYdG9aNlp4elhGaEwvUWp6Zz09--cb8ea068fdababb439e1b2737ae9cdf91046a956; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 88ca4b28-003a-4ada-b524-33ed505ecb9f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmt.-shasta%2Fsiskiyou-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T1RXaEU4VFRtRyt2eUVuTHJzNjM1T2hxeHgwUVNBdHpZN24xdTkwVVg3NG9TRDNpWFpBbi9MT0lhbHQ3TlFhOGsrTHFtcWxNMWRqWnhZV2J1QWM0NjBlY0VaMWQ2OVEwVlJPYlNWOXdOckt1NDhWSS9nMTZqWStlWkYvenhucFpFTEJDazE4NlpZMVI3V1pQNmNrcVN1bkhHeWQ1Q1VlckNTNmc2VlJnbWoxMUtiVEh4SkVZTUJwV2lKT3p0ekdhYTkrdm5zNE1FeGZNamVCMkd5clR2Y0NRNjUxdEVhcFJHNE5EQTVYZTNaOXQ0dGlqY2l4YThRZHJHemVkaVlpM0JFZno5SWhSdkQ4OEZIQ3Y2cXpBc3c9PS0tRkRkeitGSkZTMlhmb0tNd04vOXZ2Zz09--918d243c8f615bf2f4a1f89d73eac54c5bbbfd65; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0e9757ef-410a-40a7-a913-0efa4ff917f0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forick%2Forick-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MFZkUUlxQ2E3ZUk2S2FYYVM4cFZnWXJqbVJIeTIvWGRGanZ2N01tb0tjdm4yb0N2cS9iM0RRdFI2Ym5CamRUaEpTaW40N2dVL2RZUXdBazZQQVFkd2JYRmJ1UGFzSlgwMmVwc2FHM1QvVnhHMXArR0FLWmROc1NtT2FGRUMzVE5mQW51RlZueU0vZ1N3U0pLZld5L1hHWm1oUzZiMEhRdHJaRHR0bUZ2ZldsVm04Zzk5RjQyZS91U1VtVGgwZGg2SUYzdUN5Nkxzb1JwQ2lVU0g3YjBWTlRzaW14S3RaQ0tsdWxmMFlPS0xWWStVU0FZUjVRazdFc0x6dVRYUEFGcy0tMDZ6TGtoQ1Rpb2JuTDI2bTRwWEhtQT09--887df2cc1745400376e11b58872db54d2087fc89; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0751824d-5805-4f5a-8a22-b520774ae567
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacerville%2Fcentral-sierra-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QVRGWktZdExWNkZCMnFUZ1N6MWh3YzIwQnNoRjVTVlJUMkp0eGhsZ015RU9oVzRtK3JDait0alNHVVVJQzJZdXpFWEpWYUtCektlNytXODAzKzdNMExIN0NmV2VqZVFYY0JMVXhsUmdRWFdyRlRIY2c5a1VnekZWMm5HbzdLSHBFZHJGb2Z2MjBzdHBtZkthdkdadlJnMXh0eU5WZVljZVFXV09OU0pNeVUvMnNja1pIWjAyVllHQ003UlhETFBRcnJRWmxKa2RyQnpCdkplVmR1VEtuQU5DQUg4SC91NjhwQzRod2V0V2lZTjVpUGlVVmhLRWIxYWYrRzNnWUFDa0IrSS9NVDExL0U1ZEhBRVZseHo0amc9PS0tbmUzWGxxME94NTA1cWpwVDN6dnlQQT09--d1e5a5cfed6daa536f76843ee02d2411c3a710c0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

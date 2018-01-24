@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 7f3dce8f-32da-45f2-9a8f-82dd6a09b727
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=6f5579c4-ac66-4618-bfa6-31feda60843d; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-juan-bautista%2Faromas-san-juan-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Ukl6dGJkK0t2VG82VWJqN3gzUEE2cjZoMi8yNy9sWHVzT0k3RzNXZks5aUxLMXlteVZMVWcxQW5ZUkhsc1NvcWFSVHpvLzdJYitSazFSVE9EYzM5MGMzSHBiS201NER2NU15UDdrSHRncVJXOVMvQjRraDJNMEFaNEdWL3FQMGhRWkVZblV4alZUTnRLSkwwMGlOU29kbkM5Rml6dnhlWjAxVzh6VjArM3p6NTFvOGlHeDhOeDdvWE1nemwrL1k4RHZaZDd1Ym5jZEhRQ1ZtbXpkQVlpSFhCdWpuMktveDkxVk5MMlpmZE9QZkpZakZXNHowblkzcndvYlFiZGl4UytBQksxbXZ1QWVRc3czR3dkak96V1E9PS0tRFNqNmJqb1ZjL3lYL0Zma3R1OGROZz09--b318c87e013435fc19ba06e1c597d34b4b201e1e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

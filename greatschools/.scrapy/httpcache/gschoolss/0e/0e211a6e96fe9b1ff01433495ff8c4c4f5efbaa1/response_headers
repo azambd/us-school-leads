@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2cc7a8dd-fd76-471e-9b27-8849a1ef6fba
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falta-loma%2Falta-loma-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cTBuSmRRQXNOc0Y1UzdNd2VUQjF2SDhscDlaM2dMZmNJTThEWkQ0VElqT0tRelNtRzdYUDBwRWNCQWpST0poTWtmNHFqbzJxdFNqV0dOSFNHM0xHemNsSEVYRkhTVGk3U3FNSTNIZ1FwcUVqWHU5TExuTE1pVFZLMGNIMnZFdllZLzZWbGFnMEgxa080NlRmVVNyVTArTEZaUllTSjVObElLQjJRVTRwQXJLaUcxTmY1Mm5nYlhyTFV0SWFGaFVhNkFCZFkxKzFhMlA5S2pZVFNaSXNnK0ZhMHFucDdzcS9rTUdnK1pUQlM5Z1ZCOURpb3JEZ3RRWjExTmEzRS8yNHhBRERjc0JOanlGbGxQV2JHTmxvVVE9PS0takhIWmdEZkJObVo0UXdVamUrZm5EZz09--8e0912ad274c2cbba3d4e1cc2dab136d5c0c5a92; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

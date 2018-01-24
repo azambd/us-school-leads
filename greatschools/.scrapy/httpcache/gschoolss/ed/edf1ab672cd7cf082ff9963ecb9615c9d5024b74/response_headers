@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dcbe9df8-6202-42f1-93d7-4d7b409afc24
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsoquel%2Fmountain-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ejBLMDFnc0JrRGZtVVdQMHJCMVZybUh0dlVYMVdOWHlSTnpxWlord0FHQUx1YnR4aUdXY0JGSUxSYVE1SzdXTkxTc2F3YkhtYTBBeFlSbTM1Zjk0cTNyWmhodGhyT0YzWmF6Sk0wM3h0TzdRK2c2Y0JKRkZycFo4SFpwendwVGNiQklpbVQzOVI5N05TbE5memtwQzhZL3NIMjVaM3Z1NEdKaWVBd1VUMTdpNGk1YXVodlRScXE0ZnNYMTJvU0JlSWVMV08yejZMaTVzaUdtelNiZDkwaFNWa3lsd2JqZ0hETHU5dzhESldoOGczalQ3MVRxZ0hERUlCOFFtcHlvay0taGY5Qm9VQzBQV0YxR3hsMEZQZzJLQT09--b5ada70d81d4c7111e1ba9e7898b04f1e075e0ef; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

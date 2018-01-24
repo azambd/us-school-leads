@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e8c2e035-797d-4097-8efd-5ac270ad7252
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvacaville%2Fvacaville-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=elN6WWY0ejVWZ0Q2OExuZzFVUFAyNkgyNGI0U2xwWlpiamRXcktEcVM0ejhGQ2x5SjJBNUVzKzNQdnAzS0dSM3pWenNRaFNJUDIwc0cxVGh1NWUwTDlQNVJLNnVYQ2dJRlJpaW1JS2NHWldUUEtTOGZ1UnFmS3ZENVZWaGZGZFUxd0VMNjc2bnlrTDVhNVA3YU1oVXNweUNvMHBOYkpKWDhBUjJJQ3FncnNBbElQZy9yc3g2NnptUko4dnY5d3M1NmpxcHdOTGxqUm42ZER0V0FiZ0tnSXBtSlBvUDFKdzZvNVoyMzU2YURseldJWjRNWk05WlJvekloYWQyOUdQTnJIYnV1YXJiT3BIVzlMb3hGRi9yNXc9PS0taHp5V2U5L0RjMlFOcmZDZlJ3V01QUT09--43f73a35c6dc50b5f327c32d8bd8c0537b89495d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

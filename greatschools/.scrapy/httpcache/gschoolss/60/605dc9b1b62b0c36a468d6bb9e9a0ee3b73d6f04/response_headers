@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 57370bcf-fac6-4302-b9fc-a474ad1a5f7f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvictorville%2Fvictor-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SCtFa3VTZ2FPZUo2RUpkbjZldTFmb29Pek5SMllNSXlHTVg2K2VYM0xiRGt1WlZ0S2VGTSs2WG5IajVmZHpCS0R5azFxcTJsRlhPUTI3NUtaSmxINUh5RUE5REVDam5DT3M3L3J6WUZxVDdwN0xkZENrT2Zhay9tVHMvZUEwWHo0bDZxZG8xa1lodkhmejZQckZNWk5JR0M2dEFjY2VnOWcwd3VQek9lSmFJVmVUbGJMUjJXK2ExZEJXTGNXSUpOVU9PZ3BlaWZUQkVNdEtiMlpxd0FJSXBLV1FDTXBVLzRCMEZ5bUh6VHJENzlwUmpNcTE2enZZcllPQUhRVjRnNTV5ckwyVlpyZlBNK1A3RnRIR3dmS3c9PS0tVkJoa0lMZGFvaTMxdEhxcHRyTWJrZz09--7a7256b2ee72de03044f5a760ed805849dc22f8d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

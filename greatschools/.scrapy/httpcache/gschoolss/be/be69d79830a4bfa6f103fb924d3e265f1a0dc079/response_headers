@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: eac77074-3433-4fd6-9082-dcb719760e90
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpoint-arena%2Fpoint-arena-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Wm5ac1VvUnNGa1g4ZHQ5UmU0Y3gvY0tlS1Q0NURpblhPTVNqY09sTXJRYmg3TXlYdnMwTXRMc294NXRwVWVsTEJFSmhGVDZLNVBIcGdmQU9rNjEzWmVERW5WaTFwb3N1RnoyditPMjJQTlRsL1JGa2VqQnBOK3NuWmZUUUhVSnBVUG5wZXNxK0VtUENyVHIycHFIbWd3SFo4eHJwY1Ayb1JRVDZaWktiMXlSR3BEM2d5aXVZbXA0Wnd5MGthTzQ2aDJRZ3ZwdkdLYm1jcGJjc3JEb1N4MWZTR2VqK1pGYTVjRmNsaUlZYzdWa0FLR0lqRUNvQkxuZ2hDK0RwSlJKbStlMjRaTmZ5VS9yTy9QMHRqV25YOFE9PS0tOFlxYTd6czNWUWxJOHJTdVl6d2tDZz09--3c88d3a993042cf669ea16d168205e96965616f7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

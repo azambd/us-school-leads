@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9a21d895-57e5-4fa9-b7cb-ea4123c2a4f6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredwood-city%2Fsbe-_-everest-public-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ekNodjNJY1ZWSENMeXVqUEE5eGxvSnJtR3g2MWNOMXMvYTIxUjl4VGgyemVUWU8wS0VBRVJweGJIWEhIdHhkR1Y2YS8rRzRwRDhxYzJPY2h3QjNpVndwYTlPSlJlTGtDT1FlazByMks4R0wrUFVmYjVCRzhCV016Qkp6YU1VN2U4b0UveFB3Nm1BbkRnZWM3Y08xWFlVVmFLb1V1akFRTVhVZTk2d3BhbktXZ2U3KzFOdVBrRDVQRHNMVWpHdlVXK0lmUllvS3VSUjVobDlhZW9RKzlHZG1vaWlDQjFqUk1ybmpmenMzZFRaMkx4SnZ3Z2pTdjJRd3U5RFBXMjAzcWx3Z3QyRDZTbGJWb0g4TXR0QXAwTHc9PS0tY0FQNXA4WFhESFA3bjZ1MzluVUE0QT09--8d09af7dbd142da5f395e0df72f89b382aaa2f6c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

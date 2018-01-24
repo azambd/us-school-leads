@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b8f0c29a-c001-4411-b3ff-a71b682dbd90
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foceanside%2Foceanside-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bTFQNnhJbWtUM09DcmZXbTNFUUROS0RvV3NzY3lQVlNuWnhZRTR2UUZQVGhiU0RVZmxuOXA3NEF0V1prcWNacnJFT0IwQkV6RVlBbEordEVSTnhJN2JIeFBCN0wxcUtLa1J6Z3hJVlR2RXRZUzhsM2VnSit5dkVqVGozbkd3WFBvZ0pVaW1sWjBXUUN6aWgzWFRSckJwNTFtdHpkYmdJK1loYW5UVURpMlhZc1ZQaTV2a1hiNVZ1Rm4xYlRkelNJZDNqa2luRUJ6TTVuNExLOG5GaXdQUnRVMnNvT2UrL3VwRVBEaGNjdmxIQktyb3B5U3A5djJQalJtUWRhWm50Vk15UVhVSTdqblZIR2JEMmgrZUx2Smc9PS0tQ2RldUtJSWJOQXFNOGlRdTlGSEhoQT09--ef6fe829a76cad3c28f8efe0ab8758c5fde8e9b8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

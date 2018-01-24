@@ -1,0 +1,16 @@
+Status: 302 Found
+X-Request-Id: b980fb5b-0feb-4312-bd32-552598aa7d4e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dVRiQ2Q5bDdEN292bTg4SHJDUFJKVVZQRHdZRFliRDdkcWlob3UzYlRLTmx0SDhEZmhMY0V0RUNzZ0hObFBSL1FJVW1jSmZpTzkrR1JwOWZMT1g3MEFzY1JFR0VldHlPSUt4Qk9BaUhJanoydVE5OHdqOEIybW5DeVdqQks3dVJBUWpwVUxDMGtmYmZxN255TUNoSU12cytBcXhna3hPSXJ6bVBIMExQRDZZd01kR2NSa2dQZ29UUWUvUGUyQTJINE5WS1pQMXVVY2FGYjBTZ2V2c09KdXdqY3FuSHVxVnRENE5TVnNVV2cvYnRFNDRsMjJrdy9YS0tqOURiaFdaK2dqTmpHNS9UeXVyWHdLMGYxTUZhNXkzUWFwbjRjRDhrVTVDSHJBNHRsUmMvckx6N1YxUGQxbDdBM2NJRG1iSWNvdzhUSzdUa1B5TTJNSWZYcmVmMFNHUFRIVE8yRm4rbmZ0RUl1TjBJZ0xNPS0tSDFmUE1Ea3M4d1hWZWZORCtRQXBhUT09--d3d979128a62c482f6978a2fef46a7b44228b3bf; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 14:00:25 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/gsr/login/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 14:00:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

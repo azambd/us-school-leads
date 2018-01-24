@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e3ae5099-4863-473b-9dff-5932ea26643a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredding%2Fcolumbia-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NHZnUjlGR0FTT3REa0x6S2hEbk83UzZpYTdlTTd1TjM2d2ZZR1B2RkVJN2pOOTRDYjJtS240TUdSVjd0akZOVnZKRGxpbjFSU2p5UjlMeCsxWUhzSjBNRVk0alhKbk5hczBPNkcvMnc1dWZGbWVwVGtnc1BOd2piVnY0UmxQOXkrUTZqaEovWWRQRk1pRzBlY0FuK3pwbTV5b2pxWmRWdUZscEdxN24zWERwWEg2T1dPQXptZVF0WGxhUXM4NDl3Znc3QVFkWkVkbGNDcmUzTldVTXJiTTJnTnVmVng4bHcwVnR1eGtUdGtSRjBOZ2ZyOEZnQnB1MnB3YkZDS01uWS0tOTllbXBZYXdQdGVBa0kyUW1xY1FCdz09--aa18cccb1cee8cff04897f129ea61a824f114d26; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

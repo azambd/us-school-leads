@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=akl2QTh6NTRCWXgwb2Z0TGQwcGFMTVMzM0xHc1dlK3pVUExXbjR4UHFnMlJtZmc5d0ZWMkFSZzB3dGpCcEZMTHRzUVpNRWg1SXV3cTA1Q0pPYW9LcGU4cXB2dy9XcTVCNGN0cmhZVXFIdmNFRk1TcXQ3YlF2bklLUnlOR3NmWUh6dW5FRU9CMDZ3ZEpoZEtUa3NrSFBrdFB3TjhkVkFhcmtYK2JGclRZNW4zSWw4aGhNcXJmdjczbE5MN0JKLzQzdDdMMjA0Tmp0WXNIZkRBdWZiaExKZUoybEswNXRuUVdnT0lvTTFzaHJOdkp1Y1VFUGlmK0JzQUc4SVBqOWxrU3BQWDgva0xlY1dqaU5OV1JFV3JwSUE9PS0tcVB3OTIzdEc2VkZSNno2L2c4UmRxUT09--b2c162d9d266abaebac7869691cfb05c84544f2f; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwaterford%2Fwaterford-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

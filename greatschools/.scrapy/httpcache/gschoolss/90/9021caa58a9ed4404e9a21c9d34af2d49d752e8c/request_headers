@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=U1VRRVA4UHBocHZqUkNvcEh4NllEbnR6MGdITlVpc1FFNFp6VFhxMTJqcm91TGhoZnNHZnZuTjBqam9SdlBTQjVudnRaR3lJZk9kY1hXTENqZHJISnV4a0RYandNRHA1aTFVK0JBTTh3ampkazVvVUlyamFncFh6aU52L0tPQkJpZDh3NzZyQjZqZEFFZUZkVzE1V2svM2J3bDJCOFhNSjl4SW5JS29Id0JlVSs0RVk4eVdHYUIrUCtoa1B6R1kzTVQ1Nk5KMndKN21hc3J6cFNkSHduelhjWUM2dmg4UWRyd1M2YnFMaUVYYVZsY2Z4OWtHMVBuZTVPaGxvNnY5VS0tMjQyTUxhSHBpTGQvOWt6bWRwdUxhZz09--47cfeb829bfb74da56ad6e8b0bbc4a6a3233948d; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftrinidad%2Ftrinidad-union-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

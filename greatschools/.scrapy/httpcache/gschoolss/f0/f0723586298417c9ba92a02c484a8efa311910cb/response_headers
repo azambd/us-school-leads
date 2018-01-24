@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b4fe002a-45ec-43fc-8c81-f6b7c7b9d8c0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Felk-grove%2Felk-grove-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NkhHRUNjamlMSk0xUEFXSEpFR0JLeStHc1F1dFJPeHRFKzNidGU2TnhCR28zeXRyTGxZOUtmb2VId1VCbXBGc2lrbUUrVHE1c25QbzQ4R2pJNnN5VFZ4YmwrcElZcEVCaHRGZzNodWtLeE5pcXY5VEdsNklMUjRRMGRtcEV1d3o5YnU0Nmt5cXhyV1JZajI0RWVac1NxbFc1QmcrWFFrRklzdE9pRUMzdXJBb3RLTzVQUU5tUEVBOUhpZjlpTWtobnd3N0taODRWeS9xVS9SOG9qYkN6Q1h6NWkzaEJpZXNRVFJVaFBrR3JnMDdJV2tKWWh0MVZVY1JQelUyZXZqT2YrV012YXpoVkFsWGNXT3JiQVRPOVE9PS0tbDlqajd3aVRSMUtzaVU1MjZKcG1rdz09--41fe2b8446fc3bb698c157e748b3621cb68ced63; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

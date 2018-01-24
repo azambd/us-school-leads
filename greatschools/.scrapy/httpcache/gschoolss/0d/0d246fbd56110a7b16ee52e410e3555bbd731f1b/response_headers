@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 5d9b0892-cb17-4e78-8c47-81d18733065e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fsanta-rosa-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZEJPRGNNQ1UwS093d3ZzQ0pPT1ZSMnBhU1NzUnBYZXBzK2VvdHFxTERHMzY0QWM3MFZ5WXpUVWh1UFFWWHFKVUlvY2tKL0JKWjNmNUJsOFgwUGdybUQ0b21FeFp0a0JJVUpXTmVmbzMzMVpUdlByakRHMFp1TDRMKytZM28xMzVhcUZkM0dVZ2RSQkFnSityRnlZSDdESG9GYm92R2xpMnNLV2JSQWVYQ0tESGZtZmt2TDdYaS9LcW1nRWlybkh0dTBZY2hBZG1vY1NBTDJMdlQ0YkxTQThJOFI0S1EvVy9obUhoa0NSRVpmUFp4NzNmYUpXWTkweThjT2RMWmRHU2YvQzBiM09mQklPbzZQWGZTd3RFaXc9PS0tNzMyY3V3N2s1aUorQWR2VU5KQjV3QT09--0e303df6ac8adfea3fb8878428221f796286040f; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

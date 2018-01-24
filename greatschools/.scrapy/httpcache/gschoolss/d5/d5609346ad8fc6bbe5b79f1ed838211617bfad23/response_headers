@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: b3e757b4-837f-4bf2-aeac-4aa95bd1f459
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyosemite; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RjhGTDZ6M0tlMlRWcFVmNzVSRFc3SnJ4Z1JWNi9xT0VGN3NQRzZBRE8vT0xLanNLbVF2RGJkeUV4dm9PcDU4WTFLZ0lKZkRtNkZ1TGF2T3RPd2dLS3JCV3ZQTTJrYlN3c29MMDZIQlp1Qm1Sc1BsYlNOSFJ4cnppN0l3RE5aTmk5cXZyZjVKNk50U2Vqb0c4NTFNc0dFU01FSDEvSTRzVGRtTm5na3V1ZjZKQStNVTFlT3cvWCtsNHhHTHhNRWtORlhnQUFkRGxzenlYZE1Rc01tNDllbzlYdEd6THZIU0sxNVNBQjBnbmRXTWp5L2JDVDJSMWtoN1pBU3VIV21BQlBpUGRSYVBUY2ZJcXhVdVkvYkNoVXp4M20vamZpZllWM010OWh0b2VueXFESUZYZ2tIa3QzamZRckUzTGFKOXRJR29QbGhrZlZoUmNIU1NHS3hHOFNvRWhxWWVVb2xDb25aYkZaODVyTW1CeFJBR2tWekVzd0Nham1ieTBGQXpuTlNGd1hBaTBZNURXeWhZaXQ5QlROUT09LS03ZTBWQVN3L25uU00vM0NmQjVMck9BPT0%3D--5deebd815c684f26c0da0e1328b69d6f6058fde7; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3aee2ed6-401e-4af0-91f7-2ddc765073fc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftupman%2Felk-hills-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TmlTbXVvQXdLbFF0NWpwdjJRMDVRYVlxZmxmRkcrTlk5WkpvYnpGODdIK2xYcitoZHkzSEFIMW1sYm8vTUJ3ejEvRE5paFE4V2tKVkUraTBHM2syM2pDSFdLejBkSzN1NEVicmlDdjVMRWcvQ29qYmpYQXRta1pVUVBEcXNOOThUcmh0ejNienliSXV2Y0NJd20vZlpMTUV4UXNYNWZPTGhQQjB1TTBiMzYweFIxVW9XaTdIVjJNWk9idk1PMlVsWGw0ZG5wbExQeHhOYzJZRmdvOCtzRGdFWWJJMlNOUkltelY3WHdlRnZqNzBDUG9zMlo3ZXY4Z2ppSUdyNXo2aC0tNTlyMCtTVk9XbitGSnFWOU41RjBnUT09--241d43a784dc5489bee96d13f9f01c3127ab36c7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

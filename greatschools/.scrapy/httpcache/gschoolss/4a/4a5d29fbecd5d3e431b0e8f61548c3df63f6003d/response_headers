@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 141c5bbf-7147-4eaa-99e7-e61687caae54
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flake-isabella%2Fkernville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R3dNRjNINWtwbFExWVd5dDBJMjRUakUzL1hwVi9tbDI3UlEyUnBobi9Gb3VIRVBmTnI3TUl3ODY0Ly9PbzdhUkE0SnhKc3o0NjRTNWlBeDN2N2t3QVA4dnp2cVg1UnZNL3duZHUrWlZsRDhLMzRNU0xSVkRkbExpaWhSMWJOU05HK0NLdW1abUMwZGJqa3hLL3hmWERrd1BiKzVPVVd2N1VHVHNNVm1hbG8rZmVDbVVQWFN0MHNPWFhML3pSMjg2Z1dtK1daaC9MWDA4OE1XV0I3ZGVIQ0xSWUJ5Sm1sME9yQlY0bDA4OUw1cDRGMnBPc2tGVmNRK0xPNUJBeWFrTW5BeFlLQnBIblRaSDJrSXlnVVErSXc9PS0tMncxaE04aUZRMlErNnlwUG1XWGJKUT09--874a75e8956669d3ef987d11bd35df26bbed0210; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

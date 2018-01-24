@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 646e5118-cbb4-420a-9876-ac9bf0af57c5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flemoore%2Flemoore-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M3hvaS9JTmROZzZYeEF3eUNEUjMwMVRMVW8ycjZHUnM5L2J0Vkl1K0FzYnQ2ZVB4emJsc0hKbE9KTWtMeHJiTVJhWG5ROW96MmxYMXUzK0QwL2JrUnJsR1hCdW51cjZWNGxzQWVNMEhCMGF3Qmk2ZG9qWVFWQ0drSzNoQU4ydjBPUnMvU1h3UXFBSzVtVGQwQWprNStjUlA1Z1g0ZzU2amxMVUpRU3pTRVIwUndma0haUzEwcTB0eElTMmtHdjJIZE14VlhOWE1sc0VhVllxdE84NSt5MDhPTWlacUYrcnN2c0YrdUVDNVhiOXkxd1JtYllubjlQK2h1TUQxMXRmSi0tVTkweG5TOEpvZENpNU9vMTUyMU8xUT09--823f26347c1f544df899edffc7fec6342ecd799c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

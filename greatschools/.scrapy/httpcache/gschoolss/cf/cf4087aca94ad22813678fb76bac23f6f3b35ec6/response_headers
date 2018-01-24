@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7edba760-14ea-4be7-8b76-a1bc26c5dffd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhealdsburg%2Fhealdsburg-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M3I3Q0VzQ2oveUJTc0NWanRndHMrR0pvMHp4dDl2UnFHY1F0UTBiWEJHQVhtbkM4c2ZMVDhwam94Q1Vpc01lNjY3bzA3RXR2aHdjNlR5SjNISGlvQzgwdkZrblRNemRZU0p1dnN3Uk9nckQ5ZGxmNjZnUlBoVmw2azVmV3NtRmV2a2VpYTFyd3BzLzJzVlNOZ0VjZS81L1EvMlIvTzFQTldXckxPZlViQmRKZk8vRmFBZ1VkUm1rWmZRRUNaS0ZFVTNvTDhTSHhrbFZtV1BEK2ZENWFZMTBELzViWmxTOVUzMVdTaW83THF1ajhEYlNSUExBT2xyVUdaL2c3ZVRoWDBKMnBuOGIxVyt6a3kxTWVMOXNPTmc9PS0tV0NrZ0JUZHVEMzFHWng4UjV2d0xmdz09--e6349a52b3815d0c1fa94574227ed3c685765f28; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

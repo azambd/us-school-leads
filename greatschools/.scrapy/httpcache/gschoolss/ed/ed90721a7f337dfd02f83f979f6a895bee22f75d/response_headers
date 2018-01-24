@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a0423913-afff-4ee4-be91-5385383f342f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmerced%2Fmcswain-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eEo5aWRTcEVnVFNuQThBMm5LL0Ivd0h4TysrRmpoV3lwVGlzVFZrUGNLTG9ObzNYNkVBNFRpUnNPT0FNdGdTR3JmeDB2Qms4MkR1WDJ4djNFTHRROUxpSUp1ejNRcTc5OWVzdEZoc3JybGlWLzlvK2FBa3g2ekhLR0hrRnl3SzFxdkV4NWJCbXdWMkRoOFVGL05yV3ljUXhVaEZzRGZQV0Z4a0dwbmZLanFKS042TjNHb0lNM0FFTmw2OHVkVUk4Y2NRNWtwMi9RTDM4ZlRJRG1EODBuSVJoZDA2MUVtanl6UWpJRzRGcFE4RFRVWnFSbkhQejQvM0NkeFZNaytMZi0tbm1hc2kyVTkzSmVGb2hmZEVycndPQT09--5e313fa2af573503612e2a7eabe55b7ca6fdcc64; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

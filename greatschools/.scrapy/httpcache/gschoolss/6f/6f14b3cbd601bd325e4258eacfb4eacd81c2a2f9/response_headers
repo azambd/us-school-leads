@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5f64a25a-0faa-4266-8871-7acf3eef2b30
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsusanville%2Fjohnstonville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NGwvWEw5eFhTaDlnWGc0OGdXa1FoNDZGT0dic2J2Mktha3RYY1ZhTk45Y2VzZEtEbDQ2Q3pxQk1QYncrOEdtRUVTOHl1NVVYeWZ2WGN2TnJHb0NIRkY2MUtJTDgzeHV5cTJxR2gzb2YyNTB1NlRzcDNOYTFoTGI2aytTRE9UclFsTnlmdUx2aExxSkI5ZHZlMDlPWkkxR1c3Mk9DYTdCaXRWY1oreDZaZmY4QVRIeVBkbWJDSnhYZC80QXorMVFNSit0eUQ0VXhYQXhzeVRtbTd2eGhoMGhYeW5uNERxL2R5SWtZcHJtRmNUcmx6VHJnazJNQUxqSmtyOFdPVXYwTWNVNldDMXFnVTRGd1M2RDRmam5abnc9PS0tcFZKM0t1V2RhYjhYd0F2YjNMQk1ndz09--7d160217882654e2f97d3cddfd1761c1658b5b61; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

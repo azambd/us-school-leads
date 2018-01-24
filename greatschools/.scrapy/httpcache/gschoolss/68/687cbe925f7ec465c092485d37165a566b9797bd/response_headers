@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d193ef6d-dd12-4399-96cd-4d041d4d1bd6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdos-palos%2Fdos-palos-oro-loma-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U2VIa2RTeEtESVBxTzlaSVpNN24zYmlIRkZENGJ5emFnZG0way8zOXFYUHNVVlNpdnA4OERXbE9KOWp1dDZxZk5CRkVkNmk1aVZ2aGtVYXlFeWhTc3l2SjM3bEtDZDdqM2I5d1ZWMDlJUlRZNCtqam93a1dsdGw3ek5adjJNNERxV21KZXFBYXpvY1IzRnNSZ3hIcnZrWVZhZGp5a0YrdUVEajBPTTJrN0wvaU1yZks2OU5qTkFZVzVwMHVRVXBqUmdhNmJMRW9SYzduRDV4Z2FqT3ZFL1BJUURTYTBIVUlscjNuclJYZlkrS21aaHZOd3JUcTF4VzRqWmM5cENXSUN1MXY4OFlUYUpzSGV4bWdJM2ZYWlE9PS0tbGdzbVU3S3p6YVQrbUdiWFVJRmpwdz09--1287be9e4cd105306f7b3ca433037551b82711eb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

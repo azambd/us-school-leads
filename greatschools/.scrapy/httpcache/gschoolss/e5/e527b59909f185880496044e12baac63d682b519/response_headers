@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c433b7c9-563f-43e4-8e88-41480bd714e8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmammoth-lakes%2Fmammoth-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a1dlRVFkRW1SWCswU1VSZlhENWEwTFJtcVNPa2JISXdrV3FoMkdMc1JuZnRUd1dCWlFxTzlNcWhUODc5dFdDUmlYZnBJNWJyd3VNSWgxb3lTc3lvNjE0Q3FFVXJEbkNrZGNOR1FHQkRBczNWZkdlcDhxU3lVZTZpOFFGSjNtVHYvTFpnVk96cTd5TDMyQjRuQ0NWb3NwS2xrUnkxWDVCa2Q4ZHc2amxzWTNrUlhnY1FMNldMTXB2ODBtaUxJbDVYMmE0Q0JFaTNseTR3VlVKT2NGdFlHeStpTGRDOHZHRkFOcDdFcE01a1dQQ2JSWU9SZU9waklublNDS2xKQTcyVE9OSDRKUXliYkJBbm02YzJaVU5JUXc9PS0tc1MxUTZEU2djUGJoa29ZRDRQK0NTUT09--6267895ff2ba69d884535470a287e81e8661bdec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

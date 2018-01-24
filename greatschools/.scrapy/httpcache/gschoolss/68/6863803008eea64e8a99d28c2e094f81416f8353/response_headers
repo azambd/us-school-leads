@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e7e62eaf-d989-49fc-ac08-ccec58e27674
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fgreenfield-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SFovU2NoMENoanA3UXBkRVY5N2ZTU1lHK1Q2azJiSktrbnJXaU1ZUWRmQWNSV3UwR3A1NncyWmNlWmVoR0haZkV1R3NYbko0ZmYyNjFoamRWb3cyRE9ZZVo4ZUZQZzA3cnVCVHQwTis3VGRDVVBlQ0Z4OXRVMmc0QUtab1gxYnliMDY2Y1FtNU4ydTRQcW5zL3JBYTduTTk2dnJXN0VyYU9hVkdNdndBWXNSMnZPK3NmYTJKL3NMaDBibHNKUGtIdWVRZ25SL2hIQm5mak8rYm5yejJLcGR5ZFVXWmM1TUo0aFQxZ3d4RzYxTTY3azlqZGNDbytTUDArbUIwTUQySEgxRmF1UlJUekdzOVNVa1lLSkhuUlE9PS0tR2VmS3R6WW5TRHoyVFlkQ2dqcXJjUT09--c31c69ec47e17eaef4223712b99f998a5c6c78cf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

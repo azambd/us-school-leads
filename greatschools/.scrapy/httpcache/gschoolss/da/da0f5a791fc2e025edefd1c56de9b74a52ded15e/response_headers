@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a92b2e1e-d25f-4b87-89ec-ae351a7c86a3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-miguel%2Fpleasant-valley-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RnRNb0Zta0NBTFJzTDJXWWJmWFQ2eE5RRTJ2Y1pzdE1ZVUo5MlJPczRHZmNqZjRIRVJoWU1pNGtzWHVEdXQydjVmTVEyOXFjYmViOEFWRUViY0FwKzZ5NnlLcmd3bUpQUnFmN054VXR6UWR6LzN5RXdPc3RvT2hpZGJKejIwYisweGhONllneGFjYTJIbXJ6M3NZcThzTEJCSkpXamZUQXI1L21vaHE1R3VmeWt0K3B6N2hPWXpMWW1tZ2FPN2lWclgyTjVmaHE1ZXhJNXYrMVlPR2Jka0lOa0ViVGRIT3ljMENUSWFBOHdJN2E5NDFNMVIvbW1PQWgrQVJKb1RGZFVIZEdyS3pyWG51SUt4a2t2Nit4a3c9PS0tQk9kTnNGYkM3dGZLbVp6emxJU1lyUT09--bc180f34d77af29392c6cf3d3d64b9c42af32292; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

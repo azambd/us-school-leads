@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1f71866a-b2d9-4605-b51c-9aa8ee33bd77
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fridgecrest%2Fsierra-sands-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MW1EY1g0ejFtWlpZV1kxbGpJQkRaZXhmZDdEeDRoTjB4ajZ5SFJnK1FpZTNQRzRmbnI2ZTF2eUFZdzZBaVg0dU1LSDFrYmF0SXAzZ28ranQ4Rll0dURJSFZrZENyZ1VSTEp4WDdJbmVBNy9GdWFSVXQ3L3dkWDdFczQ3T1pmRURibExScEQzNmlNSzBEZmUzSFpjUWZLcVBQejJkc0VGUUM5ZVRvemxXenNKWDNhNXVZZ3NzaWVNVVB1a3pUMWpuY0R2NGtlMG9TVWpJdmpuMS9STDVpcjBodk9LZWp3Um95UDk0cUg5OVA3bG9uV0c2Q1lBMVpQRzNQaWRpcG9oMmhqRU81eHVySzFIaFF0SER6SFZJL2c9PS0tWXBOT1ZCNExMaWpJaFRlaGZOUk1lZz09--2bd3a87943c7ff5e292372edca3a58bd65e83903; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

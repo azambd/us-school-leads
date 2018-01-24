@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ebc4fe5f-f943-4c31-a79b-3c99b4830324
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmiranda%2Fsouthern-humboldt-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WENmd1VMNklyM1VVUkZDU0ZsZ1kybGwxNS9LdFhUcmdZcm93eFdTMUl0MDAxZUl2NHZUWFJiVDZVU2hJeHpDVTl4SkRYcmZLUmk0cHI4UXJKV2F6UWg4cU1odmMzRHJqSm94WVZQK2pmd2x1THFVcGtrbWZnUlhCMksydzZpcUk3cTJSWnpPcWpRdHVEWHpxTnFIRTlwbGZrWE8waksrSS8wa3Yyd2FORUVvbnNjRTRiVjFqdGJYdUhLVjJ4WjBpUGorZmhMb080YkRSQjRVTmNhNkN4bEdjcjhJMnFXVklESjhZSE9TQzd5SHB0YXRHdy9HZzRMU1ZGSTM1MUhuSC0tQ3pJUDVLajFRU29sd3FYSXUvbCtDdz09--eba2f3e1cb6056b90313b178d859f1e878dd0549; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

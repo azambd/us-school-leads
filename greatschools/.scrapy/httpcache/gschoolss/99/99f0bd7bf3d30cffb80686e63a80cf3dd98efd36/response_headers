@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d291d75e-e929-4065-8e74-30502032d163
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fescondido%2Fescondido-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UWYrcGVUalM5RUJBZ0RXM0J0VUlJVkRMVDVFMk1MRHc2VytOQmhlN3hVdktMamQ0SFZpUStyeE9JL253T1I0YVBrbldxT0c5bldES2FZdVhpWVNrMlBJNlkvOXlHNUNzV1phSkhFZCtCa3VwRmF2WWdiMktQb0ZwdHNzMnhkcVhmdWwya0NGdnJ0Rm1rNEs3WURwRzBCeGRRc3NUWkcwUzZtUDJ2TEtRbGlYaU00ZGhPdGt5ZFcraExIYkRMNldkdmtxVElRN3JvREk2MzhwbTVFem9UbHJjdDVaM3AyOTU0ZjRmQzRCRkh1dG44dE10OTgvc2lkczk2dW1GajV4QW1wbytGdWIrZkNoSnlyd2VtVVdqb1E9PS0tb2RkY2pkRmJzdkZLektlL2NzRmNCUT09--d7902a3578a1873775e2a6a6b72895ae76bbfb9e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: a63c6c53-fd83-414b-82cd-2eadee490f5b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=Oakland; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foakland%2Fsbc-_-aspire-public-schools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aE5yRVozS0lTbitIVW13VlQ3QURmRW1RSm1ZdVhuYkkrSXkwbEsreUtUT3lRRVp0cldQRDYwS0RoMzZRejFra1V6ZW9yaUgvM1F2V3JmcWRRZTlsMTBOYnFZMkcyaU5jTnMvZkJCS2VIM2JEaGhPNUp1cUlaZlVUV1ZNcGFxSnJhOEthUmUxZVY4YWlvZnFqd2FTUno2SzRxNTBOa3Q1b2pBbXhXb29ETjg4RG41dzc3clBaYnJudlovUGRNRzBoc3J1TmlQQjhoa0pXVTBIYVk2N0g1OEdhQWM4b2FEWjFkZjlYaTBESjJjbG5Yck5LM1NaT1IvZDE3ZDVSbThXOS0tVEovajIwRlY5UWJxamJaZ0Jja3NBQT09--100b832874e1b6abe5d7bf5f29b5a0c808425a27; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

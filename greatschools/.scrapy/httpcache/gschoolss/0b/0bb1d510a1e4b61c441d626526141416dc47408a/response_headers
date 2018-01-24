@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 60d4687a-d7ef-412c-a7cb-4a3871eeb949
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-barbara%2Fsanta-barbara-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WUZjR2xRUDlhdXdZZmtXZ0ZCd0Jhamx2S1dsMVAzT2FjNXNyUlVRd08yekRsb3E4NHE1d3JxcWpxY0c3WmVHanUxVEN2MUE3eitUdUNGOTdFKzVvSVVTYUk5VVZhMlAxMktaVWF5bGFvVUdqL3ROeTZGQXlRWExwOWVlR041dVVDWkFNcHZOMENtbTBmWGk5RGtpbFloZnZ6UGZGYm5aeGVpTXhnd0RlZ1MrODQ0aEtNcUxKOThJenhldUVzd0pmTWN4YlJFVnQrNW1HREpld3lnSGpUb0oxdmpsNnRJdlJkMzYvREYveWo0S2ZmK0lDcVBnamRhTUJVMVlvVlZoUFhKMVJqZXNpT3JIaC9sM0VSSVAwb0E9PS0tQmRscVpianJYSWtpb2YyNE93NkpTQT09--101bbb4fcd9fc4fea4b6d054ea9f301897546c0f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

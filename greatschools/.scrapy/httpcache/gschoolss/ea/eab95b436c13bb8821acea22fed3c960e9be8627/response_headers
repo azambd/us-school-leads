@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 94418695-c0c8-4ba5-8257-dac9bdcda6f3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsebastopol%2Fwest-sonoma-county-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M0lKRi9mR2V4RnV4RUdXYWIrU0tCZUFlaFh1elE2Wm0zMXU5dmY3amxSejNMaXlVQ2gvWll2MzVpSUZBYVVNMS9xN29sZVdrSW9Wek9aRE1HY1B5VFhYRkI1NnFDdjcvdDlaeStFc3RPajdGeFNWQ1gwdEFVWGFXM082dXVtcUNaLzFrRHNQcmNhenpQaWE2a29lTWZkeHltZnVqa2ptT3FXandVQXpoMGQrODdoZnFGakJsaFV3bTVwZzlDRkcyUjlsSDUrV2pBNUVGZm14UFhWdy8rK0RWeEs1cW5ZWGhNcUJDV1k2a0o2R1hvOGRZbXI4S25yTHNHSXZmM3J6aHc1aTVpSUpMWDFGMTVQdVdpQW53T2c9PS0tWTV0QUVjWVBzRXV1S0UvZlJNaUw3QT09--8c986f2b807277a0ac72e497fe1cbc732f605c21; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5a0bb0ea-3062-4fd7-b13d-5ca9e8f0dd81
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fplacerville%2Fel-dorado-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MnpxUzM5SU5zQllnLzhUTXBTTHluK0NZU1k3bTNNR2pSMHNsRHM5ZjUweE44QWU2SFM0TE9EeDZhdWdBR3NXbmE0bk11UE5scklva3Y3ejdkMnhFMDVnUER4U0R5eFNWVVFVRkhsMGJsSjZweUU3VDdyNHpNTmxSdE40R29VQ0xQVkcrSnVLcWFpZ05lUmtzUGRUTXhyZHA2YWZqbEtOQ1dXK2JZTFlUR0FJclVTSW5pMlZrVENySGdsRlZiVkFWQldWUHU1VTQzT3V0SEpXUWFCMUNXUDQzd2xmeUVoMEkzWWN6NXBLcHVEL2FyZmFYMmk3a0d2bWprSDF1NDFkazIrVDBERXkvTEh4T3JkNmN4OVM2RHc9PS0tM3NSN0FSOGpXc0FVU21MNTR2K0RMdz09--ce3f8fe3d08087f82d88099838678e6f6db12455; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

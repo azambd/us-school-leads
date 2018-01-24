@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7c570294-fa64-45a5-88bd-859b7a71554c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmoorpark%2Fmoorpark-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aHpiTG5oYlVFeS82NXp5ZTJEaWVIS0NXdkw0L29RdzRSWGZGblJDVFN4bUsvM2hBVm5Sb1hYRVRCSHR2ZWdmRkxRR3pXTTJlOG1zQ05sSHJ0Wjh2Q1huRVg2MFJ6WitHT0NRdmdCR1FwenRJNHZjV0FSSDlCT0xVSmI5LzlUTjgxeUFMUUhKNGJJaGdCTmxQbmJzR2hON1p2VFdMWFZrb0RIUWcrTGVtNXRCUkg2aTVhTEhwcVB1NkV5RDJtYzh2dFRmM09hOXBoem9ybVphMU9OajJyVGNpN2tpYURzRHlmRWRGTk1vRUJ0MUlBWVRYdk5zZ0RLSzU2NDZnei9yRi0tOWh5UHJleVRVSmVwN3d0WFh0cERmUT09--6377f4522588ee7a98fd4402360870df438942de; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

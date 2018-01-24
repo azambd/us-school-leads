@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 44da1c43-f88a-4e04-a69d-1494f7768495
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fburney%2Ffall-river-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SVVhK3o5NndDMXRmOUtORHJNQXRWV1RXL21aRGlVRzVoYStpaDJCeTdLL2lBY3hndjFJU2l6QmZHN1lJTWN6WVZ3YjhlallKQ1ZQcDdwaDBsSGs1R2g0SVJzZEJFVDFkSVV2ZHp3a3Rub2s0U1lTb2xXQ3pvaGM0MzNuK0FOMGVOT1dyM2IvMFllODR6eHZxcGJmMVFBc1U3Tk1tV1FadVpEdHdFeHZvS2IrQkdSYldNNUthQ2hXMVU4VlhsaDdIR2l1RlR6NndUNU5qNmpJZXVsa2E0OXB1VFN1L2s2Z3A2VjZrYmE3ckI3d200WWJwcjJRSFRuQ3Q1NitXMW5DUC0tbkVob3ZwTzBNakpvZE1mazc0VG5CUT09--ba52d6636815ce21f0fcd77e7cf963d32bc5cba1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

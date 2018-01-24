@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1eb6e662-5014-4c7b-bf07-71cb683e0538
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhuntington-beach%2Fhuntington-beach-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bFdsTTBMcHZwYW81VEo0cks5QUFqbnFmcVc3OFRRa21reEkrYXJrd2FKOWJNODlha29Tck9BLzY1RGp1SUp0anM3WUVlSENyWnBzVVRWdUJSNnJHRzlmNHFkdXhBeWtRalp2akdpNE9JVXRrcWlNcklaSlRCRHFhVVNyNTRtS1dGc2Y0bUUrNzVPTkxiTW40N3lGTFpaQ3QyVGs5RHFYNmIvbmNwWEZidDJNRTgvemN6ZitRTXMxWW83REFiVEVseGNMOWo1UU56dy91ZG9ZbXdFSHpySWZlTWpDOStITHNVSjRORXNBbVQzSy95Si90R1JrbkpnT2hhbnMzMWwrRmV2TzhHWmlJVVhVREdJRHdKYzdkQUE9PS0tMU56SWFnOHgrem1jZGJtY3RvTmtRQT09--d29875b7dc4e64f9aaaa653ebc8a382f1f017c94; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

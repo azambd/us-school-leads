@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A23467%2C%22state%22%3A%22CA%22%7D; _gsweb_session=aGJYSnhTSjB5NVp4UVZsczJYcEJVc2Z1amRyeFlpaGpTRWdiTk8zTlhCcUJwT3d4dE04TXRoVmhDQkU4Q3lJZ0tiR3U0K0lRd0JLS083UHUrd1VpdTRwSkFLUEtsZmRENGJ5dUkxTUd3bnZRc1pzNzNwanVwS2RuUmg4azhlOHl3Yjk5UDZrS3VaSFJlN2NNM0d3NEN1TnNlYVFMRVFsWTFaVkY4MXFWNmxrQkpHTCthWUtDbWJwUlRwQ3dnYkFJWVA4SjN0Uk1Uc1R5SlZDc05GeVBLYnV6Uk5lcTZwTFVwNzVYeDBFNGFzZ25xTDhqTWVKNHpFSTVmTEhqRXNJMHNOLzlvQnhZbDRXK0VPZ21GMWEwLytFaTRKUm1FWjJYVnpPV2VyOEN1QmlncHlzamVxaUtQWUFyTjEvWEVMUENydk5SSHlrUDJPSTc0eVZxYU8vcysvTmVMamthS01FWXp1NFgvWFV5amx6Ull4QWlSZVZhRUtQeFpnS2t2bHN0bldWcUo0VnVjdU5YOXphS0lHS3Zzdz09LS1PMFZLSXp4dmtsZ25XN2NIb25MQ1R3PT0%3D--aeab80b010e334cddf12f36c1165c6c2fe57f9ea; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/23470-Bible-Fellowship-Pre-School/

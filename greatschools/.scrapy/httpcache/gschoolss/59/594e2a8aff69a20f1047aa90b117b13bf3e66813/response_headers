@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1b81e33c-51a4-4554-8272-8e1d80bc4a4b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Friverdale%2Fburrel-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bHloeXU3WWo2ZEV0TjFaZGVRT0xleGR3N0ozNGdYK25pRG5ZYVdvaitVNkNWbkpQN2lSSHBvVnZSdVJPUFVhazkzbFJaV3pTamFKcmJtdzF0TlBkSkR1b0lPWVhRWWRxcTF1RnIwVEQyRHVqcDF4em9tSUQ0OVMzN20wZm4xNFJIWmJYTUhUaWZMR1FXenRLNGdzU1QyNUk3UTB1a3J4OVRRbXJzRExFZUpjMWRPaFM3N0NxK3dTNVlxek41eGd4aEgySjgySDRteS9CUTZBSUpDamZ4OHkwM0E1bUZXUGl0SFovT0ZJLzh6VmFjSEppcnlqZkFIb29NdGNJK1Z5dXZOeGdqcFdCSzdpZTRUbkxQUWxZdWc9PS0tVWJ1ais4ZWlFSUNsNXZjNEFDa2Rodz09--b5a2f700e925b05443d3fe37a4e7eb4689dbc400; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

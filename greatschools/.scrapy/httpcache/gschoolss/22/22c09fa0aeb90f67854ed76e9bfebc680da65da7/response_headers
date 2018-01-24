@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 25f286f9-a624-41e9-a8e0-da5856f4d599
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcity-of-industry%2Fhacienda-la-puente-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NytGdUVjMS9GTWgxbUh1M1Qza1ROc3R6cFdYUVFIQS9ESzcyVktHaTR6MWNNc2ZTRlhoME11dnF6Mk1xelJGazBHZmNER3V1SU5oVTJiZkJLVDRUSmFFTFBJaG43TENXM1F4SWFlZkJXVTFidFUvMzVIQ0t4WkZ2WXhBbmZVUHVXNlVaMWhYcGFja1NOZDl1VW52ZExHYnkxRDdJZnNDaWhha25veG14STJ3eExlVUJteGpIOEszblBwd2dNd1lwOTJNNFJSYnl6Q2ErdktNNzBwR3pYWUlXZkhUcG1zV2ljZEZFYTY0bkw4dG9pWUUrenZNZmtNaGVzNTRXT0k5RXBQeW5WbGNZZjREak5rMXljMW9vSnc9PS0tYlFWelJVd3g0NmpRQnBHOHl1N1dnUT09--f29c73312dabc7574b31be22f8531e4a4f9ff423; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

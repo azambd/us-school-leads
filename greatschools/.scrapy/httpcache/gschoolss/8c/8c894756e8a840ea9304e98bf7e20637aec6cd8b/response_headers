@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3eb01ff9-0840-48f7-9f6f-20ad04337a96
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fauburn%2Fplacer-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d3VieW1CTGFwejYvekxIclFrbDQ4b3d6NGlHaFhlWURRTFRmb2V0RmRPWFJVb0dLOXluOTEreHE1ckZVblpxZ0VtUXZsMnkrZHRSa2NDRHpzbHd5Y3dubC9hYnBtSWFIcGhDeVpSRnRwQ09EK0dQay9aOFFGT21EcnpxamFhS2ZrMC9IMCsrWGRSNGJQRjU2ZklOb1F4ak45RWRnQ1h5eXJzVnEvdGJpY09xRjVlY0tGa2ZIODFRT3UyN3BDaGhaRkRWOXU3NEF2cHVXaVVBVDR5OXFYeXAveVlhSjIycVZXbDNWaTd1KzlCT253MHg4QjNTcU1SL0cvaUE3TVF2TC0tWHpoUXlZbkxTYjhDNWRWOWtyeFRxdz09--54ba115f60787aa7ecf38de7923c29f6ede79107; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:04 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

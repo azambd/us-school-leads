@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fb539037-90e3-463d-9087-62defd028a95
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Fwhittier-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NDZ3czBoMll6TFREV280OGkzcXU1WGhTcjExRkVCL2JUVlZ5VVVJVERSOHE2VTJrU0t6eERCSklPTmxVN1NZckRncTI3WjZJL0FQWG1FQUFkNXFxUUtUZWV4T1BPL1FuNDJSeitrZ0diMFNtNHQ1aHFoVEJHUEd3TDNRNmdkZTV1Mm5udlVaZkx0RkJ6MFNKd0owWEVxbGI3dkpkR2gxNUJUaS9PUUJjVmpsZllCamJrbVlUektUUEF0NXV1dUdlcFpxTE4wd2hkM1BlQUpjVXJvSE9oem5qYU1CQUdLZFo2Zk12Q2lualJYSm4ybk9nTldvWDA2V0hnRTBDKzFWRi0tK05VcU1yVHJtTjV3NkdjUklWUU1Idz09--b73533b2074ddb2f4f41f82fadb73d297844326a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

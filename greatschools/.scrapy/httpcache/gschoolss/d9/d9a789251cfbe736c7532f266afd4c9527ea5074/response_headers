@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5da56c24-f0d3-4283-82fd-f84ff62db1ef
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fstockton%2Fsan-joaquin-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SXBTa1crNmd2V0RabCt4NGJMZU5sY0tGbVJGQk8yc0xCZGFQSWhJWlU3Q0s3Qmd4OXVwNGhIRTVidm04ai85cE12alVWeXk1SEtUYW1ObW84VFFqYzB0bE1yUVdLRHAyVy9UQmpEYUphdDYrd1NKU0VTNHdMakdTaW1lTFZBTno1RGV2akVDTHRLU3hRNVhNUjIrQ2h2NHlMeGhBWktIWER5V0ZWSnhqTkcrNnVGT3lneFl5cVNkNEVoWjl0Vzd0T0tIc3dIMEh6TG1yWkJsRytGR2NZd0U3MlZXWHNLK284VGxZbGs4eUNsOVBMWHpXQ1lXUysvTEozM1RUZFFVTi0tZG5wQTIyb21aeVlLdiszMzFuT2trUT09--8beaf443ef7bd17cd5790555b791109701181582; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

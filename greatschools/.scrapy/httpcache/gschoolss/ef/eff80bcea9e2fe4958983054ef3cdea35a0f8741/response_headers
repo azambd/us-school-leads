@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 55a2277f-3574-4abb-a327-2a11c25fa35c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Fsundale-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Tk5pTFNJTjlNZGpBa09ZUXZUcWgxemovTERSZVMvdEFZci95b2dsK25RUlFkbWszQWtIa0lBNjlkbkNhWngvNkpPeVM5NnVhY3dkdWkxZmU0eEliY3VoaU1mZ2JscVJEcWxkUUNyQllVTjF0dHF4dTdhOXhEM09zRFhGc3hOZE1EbnFFbjJENlk0ZXNzZ2d1dSt1L3oxbkVtSFpjZDhUMlp6T1FQTkVqSDVaYmsrWXpyU1FzWnhEVlV3a20wd0lSVnFRYm1hakx3V2hSd2k1MmNhVm5zYUZrZ0tDdzBqSHVYZTl5UVNENlBtc2U2eUF6K05CeWhuYnFYRTRpUlFtUy0tUUw4UlYzMmNWTk8rUUFBamNrdE8zZz09--4fe25f807a547438f85fdf0f434f59a6cdd0dee2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e3ba802e-5fa2-4d6c-a693-9b0e27234345
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Ftwo-rock-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TlN2eDltaGoxUGFpdE5GTi94blVZdDFJVkdDMWRPbWYvZVlSNFdMYXdBY0dTU2w3ZkQ0SmRsSklZVjNBQTdydXpvbkFMcW1pcVZOU3NaSjJJdnBscEpIMm1FRE16ek4yNk9BYTNUQzVGY0xINS81OWtwY0RuUHB5Q1JybHJvaTZiTWMyakc4YTVoU1hFZTd3U3J4Rm83YlNHckEwazgycHQ4eE1FR2tOTWh1dFlPWWxwbVJYVFdOSVl0aGxqT3JhcDdGaUJYWmVrZDZOY3ZiTURGUEZWM3FCNmFIVnZMTi9aL2gyMXVSdk8yME56MkQ1Z3FzaFE4S1dLUUFZOGN1VS0tenYwMWtVSDhwM2tuRnFoTlJ4Y1Zrdz09--107d4420c2729aadc3c3ced29787e00cc6cbb03e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A25040%2C%22state%22%3A%22CA%22%7D; _gsweb_session=cDRMQUpPTURmbldyNitseUYyb0VsOFo0K0dmRVpRZkxwWFBJVmdwelQ2OW55Y2V1aEFsYWdJRXY1L1BTK3FOVTNPVm8xZzhVSnhQZGhEcklKWDVPQnYwQndNQ0dlellReHlsQTJFTytYbVJNc2NlWDFxZVNDNmVDblZSSFFNV0dDdUpmajRaWlZjdkJua2UrZ2RwNEtMNnA2RUVHcW82WmkwMzJORjBXODdTcUhDMjVYSkk5WWVVRUUrelBTelU0RUFBNW1lTyt4R21aYUNCem1UOWlyK09PbUZoQ2FlN2VzUnhDS0ROMlpvZkZwbWszTEtZbW9SSnhCV3dERUg4cmxwckJlcTByaERUZHNwZXZ0NTRaMzA4VjRKc3l1M2lkK2tBYzBPaXlZYmNTc3QrcmE5aW5qR2s2bElyclN4Q3hHWGZpeTRLaHFjeTFDb2tlWmJXZGZNU1QyTUNNQ1l1VzlXMHVPeFYvNFliMERzcGlEazVPalg0R0tTSWxQaWlPWGQ1SDlsL0lzSjA4SmpZVWRSYmFMQT09LS1vL3o2VE93RVlTZWFOdnVONUdPemxnPT0%3D--461159eafb43a2e61df88952e00ec97f42a94191; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontara; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/schools/cities/California/CA/

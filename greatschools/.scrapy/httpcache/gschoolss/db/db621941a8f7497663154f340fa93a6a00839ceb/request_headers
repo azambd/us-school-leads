@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7740%2C%22state%22%3A%22CA%22%7D; _gsweb_session=ZUZISFZiM0d6UlpyVXhBeUhOSUY0enp1a1hRdjZtWk1YZkE5c1JQYTBYMmJJKzdZVEwrOTlpNGRrTE9JSGFMSldnT3cyVGN1djBzTkdFZWF4VGwwcEZxSkpSQnp2OXA3WWZQbVZpd1g5QXpOdlZ6N08ySmo2Njd0R1dMRks3ajl0ejZBS3VJV1VxZmZyWWRqSUVSanBVQUNpQ2dFQllGMzQ2Y0xSV2tBam0xQnNxZXpzRk9OMDY0Ykt6M2RSOFJPcTh1TFRqT1FBWEVZVGJQMHNKYnUwY3Y5L0l4Y005TVdoRXNlcUlMVWZUVEdFdFhVZTNJcEF6TUc5aHFDWk9sOW5wL0Rhbmp3Mk1vaFlkMXBTbGp1ZzFWSXpKS2g4dEo5Yk03U0JKZ3A0bXRwdmoydUlXa3FqM1kwd3ArRXpWZ01CSEtTUFMvRTJ0L1UzUGhDeU1PZHdkdVIzcW1IcEhPMktTT3FUeHpZeGJJdUpyMUI5MTB0SWhyRHhySTBXQUNYQXVNWmdvdTNON1d4VUhWQmpRN0RuZz09LS0vR0R0RTg2RVcyWmhtWDJsbGdyYzBBPT0%3D--c55c7a38739c92c13d1c93dfae4ad2843b7c83ef; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7740-E.-P.-Foster-Elementary-School/

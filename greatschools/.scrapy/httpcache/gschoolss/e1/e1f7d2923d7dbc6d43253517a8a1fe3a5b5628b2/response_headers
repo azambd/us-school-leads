@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e4f820f0-8c04-4657-8bcc-7f80df3fd646
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwinchester; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M0szTnRXRzJYdGNiN2dJK2t4bldKWThFZGxVQ1h5UC81QndtRFc4WnRBSXpYSGhvR05VZDBCR3djY3JlTW5pOUtXOWhvcTcvOW9IQXpFcWpSQTJ5VzNRY0V4NWROK21GdWVuaFgzVVpTenZqWkdNMkltRWJpOW1OYllOVzAvNjFBR2FKbS94WTUwMXJqYmNVQ1luRDQydXEvMnI2ek5aeEFnWk1razRrVUpLdkRkSWNhM2dqd3J4aVIyVkVnYmUvMnorSmh0ejFXUloyR1Z6ckFCUStxU3BIYWtlWThSYUJ4ME1Oak1kck5yajQxM0lRc2RLU1BOQ0xjZkNSS01BVDFCSXFVdWpJbUlOMDUyWW50V2xZdlRFN3hUSUJqcWRFNEtJMG5VMW5mbFZBc1JGQ3hpTk5LTnY2NzBpTEhFR05hclU3UDYvMmhvSkMwcndIdFhibzdFWkRmR1hONGxzdjN1TGptK2R6cHRlMzJGa2hIT1ZrQVJiV3Fta1RDSFQrQmEvOWNjN04yams5ZEQvUktZNW5pdz09LS1kd3JjNEZNS1ovTXUvNFlkY2ZJWFVBPT0%3D--f0ac2e88ea9d6bb97b7b8f7c1d169a404854c60d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

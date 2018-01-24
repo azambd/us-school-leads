@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6f44a4d7-d329-4319-829d-3b2e5ac0ab8c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmerced%2Fmerced-city-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=M1F2LzJ0Ujk4c0IzVWpXM1ZML3h4ZkpZWURmWU50ZW9LNGp0S2xnWVhmL1JEbEFDeFNRTXhESFZzeFNKMlQzeCtoenUzTDNjbjY0K2lmZDBSS0VXWVBKanlsTTh0SjRuNS94MlB2anU1S05mTzhpOTM4NS9uNzJzdnJhU0J6dDFIRVU5NE55KzJZck12ME5qbFZzT3JxOVFSREwyWGt4L2dBTnROMGlOOEt6N0MwUnJFQ2tRUFJUSzV5M200RVd1Vko3Y05Ramo4Zk5HUGFiNU5XdUZEWmUvbzFPanRaeFBmVGFRdURvMzU2bXZYcS9DUHNMTFZIODd6Vk1QaWQ4Ry0tSzdJQy9DTmQ2a2M3VkFkWmNGOGV3UT09--ea8e2582ad3139fa28d80371b290b37a4c930a7c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

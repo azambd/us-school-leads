@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f031a15a-b083-4b8b-b136-23509081271f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-barbara%2Fsanta-barbara-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V2Ntc21Sc0dkd05ldldZZzBLTjF6WW9TdXdWVTdwdnpScE1mUnRxNldZRlJFOXhqbFo5TUJtR09aOE9ST2UweXIzVS9VZENCOXNLTmNIc0k5ZFVHZWZFY0l2dnV6NFFyK2xpaThzS0VOV3FXdWZoL042R0JYbHVNbmwrWkRjdkFLcXhmMkZrK05hK0Z1YkR2UnJONUZVZStMeGtLbWU3STZpSDRMYVhmYkxHT2VHUHFIZk9VaEc1cEVuaW91T3JIS3h5VGRwQUpNbGpCUmVvRmc4NXhMWUNBN2wzd29LdkNXSnBDWWllY3h0WTNIMlJBN0RuY01PejRBSG8yVU4rTGRuK01lQThiSVZhZXpidnd1VVFJYnc9PS0tNC9CRUdXTmdTUEJRSU1wSkhJL3ZFQT09--a520d4b3d39adc9004a23777f36ceee279fbe852; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

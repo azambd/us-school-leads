@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f253b740-c707-428e-8a50-d9d9e896857e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsomes-bar%2Fjunction-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SUVsRlpOdFk2aUxZZHUrNVExQlBMWENmV05kWlh5L3NkR0hxNDJucXkyRHBpdk9BT042MUFWYXNDaDFSdHhJN2V2eDY5cDFyeTJUR3Z0Zm01WlpyUVVoNHArK05scWN2aXhBYUZHbWh3c3pWWTJwSFI1YXhsY3dWQ3plR3lNcTMva2ZhMWdVWmQ1NERXL1dRMWhIN2tXNGZ6bXhzMnZXNmFETUN0Q0tWeHI5UWwxaVpUWXhEY1crU1BlWlNlY2VoMHRwdmQrZGhkWHVUaWF0dVBXWm9nNXVWOHVEdUZpZ2U2S090aGxCZXBvejNHMGZ6NnlnWEo0Q0xWLzU5dWhCWHQxVUxnempXMzZNU3lOYXovYjhZWEE9PS0taWtoc3c0L3lFM0RlelpLTUt3MkxQZz09--8965afe48b1a75669b64b83e5483845f621406a4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

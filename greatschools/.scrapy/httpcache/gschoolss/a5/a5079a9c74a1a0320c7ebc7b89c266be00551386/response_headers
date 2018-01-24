@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3a5239d4-bc8b-47d9-8174-4da459a0f75e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchowchilla%2Falview_dairyland-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZXJXbTJEU3VwWlZVMnh3Z1ZTSjA1VjNPZUxyKzFkb1ByOEE0R2ZDLzVKNjFsemdMNDFpZVVxQytYSmZDWm1Pa2EydWJ2aUROK1h2c2pDZDkyQm9kZ1BtWlV5VFJ4aDVEU2NQZ0ZHOU54Q3pIUzBxY2JLMzc1WDNzZUJMdkNBTG1pL0txU2FJWmJCSkRmSWVaZ1Z5bDYyWTRpdmQzNEpYY0h5MmE4T2RhK3d1alF4NFQ2Y3ovQnlYaDB4U3RFZ2d6ZmU5S3lwT2drOFZzYzFtWjNuS1N3Z2dWbEtxRUJ2ZVVwRG0vaWNUSXpNSEtPcndsNXk3TzREWUVoRmw1blEwL3poMnJJRG1vaDZaV09ZTzJCVElYcVE9PS0tRGJqYU9Zd3VOYWpqbitYWnF4c25IZz09--38781293e0d676955e484bd4714eddf753cd024f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

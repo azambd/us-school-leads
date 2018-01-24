@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c09c6c8d-4974-4849-8b63-810204a5ac2d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhilmar%2Fhilmar-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NkFNbnlyUWZXaUJGQ2RzUUNSYUxWZ21hcjFmNUd4dS9ac28xODVjVUVBMXJCV2l6ZVZNWnduZEo2L2wzdUYxaEg5Q1IzS3BsaDJKSmNaakJRc1lHYUFyZUN2ZTBGM05HaHY2ajlSNHNobHBhUXI2b2pqVllyb05YaEM3ZjdMcTNIbzh4VktqREFTUEdrSTVreG9DREhVWUdoNEFia1poMFpjSHdHZm1nN003TncrSm55QU8ySmZUZU1pdXdZbkIrTGVYN1hId3ZtRWprSWRNeFE3M0djUDQyUVlqWnpWQ1pPeVZEalJyeVA0NmE1M1ozWXQwVE1wQ3h1aVdBUFFSZy0tZ0h3WVJSS3NpUEFnUWRTcWsrWk5EQT09--abe5362f9ac3e673272f1c5339b92bec5868f73b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

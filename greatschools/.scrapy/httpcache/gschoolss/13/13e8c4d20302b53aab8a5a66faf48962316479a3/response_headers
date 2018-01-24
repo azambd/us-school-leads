@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: b740a374-7704-4f43-b6d9-b8d35d74478e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=bcd55220-b512-4acf-bd7f-95eb987ddb22; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farcata%2Farcata-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TW9iSkRyL2N4eVFsWEoyUEI2N2Vqa3FhVUlzZDBVQjBlOS9vN0tIZ0RrUGVIbjdFUVptU0I0QktXVDhBMHBkYlBlN2dkN1B6NE9nUFVQRzQzTzFoeEU0QW95Q2dFZ2ZKVVE0VFVRYUlRaUtPRmlhL0E2WjBPYkU2ZCs3R3d6cGhVdmR4Vyt0OHl5UHVjc2gzNnprU3dtVEJTVjJDMUhBbFA3RGdpRGFwSmE2clFBaDNReTBFTGtvQkphSzBmaTRzbDFBNkViM0hKMjQwbDZSS25lR0VPL1JqZG9HaWtqMzJoUXhYRmkxOUdQeitDcUI5NzAydHdHVGpRZ0pYOTRHUC0tSmJaT3IyQU5SUDRsTUJ6SGdhVVVhUT09--d702a484d01b51d7f77ca2f94bebd4e1fbbf4e8e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

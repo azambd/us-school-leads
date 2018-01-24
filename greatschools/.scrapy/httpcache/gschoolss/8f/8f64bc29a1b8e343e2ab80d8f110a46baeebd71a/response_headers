@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a4287773-84c8-4ac7-9cff-1e4166e0e0f3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsoulsbyville%2Fsoulsbyville-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dVlEWE9yL3JxSERnLzVFdDRyeDhqbW5lRnFXcVVXb2hXcGlmanVGenpBcE9BNEptSGhoQWxJRG0wWkFUaWZZSEU4SlVYcWFIcnI4RjVRZU9WYVVPY29BN3poNUdBTCtJd1ErdmlibDVneWhMSmdERE1HcC9INEo0Y0g3SFpqVlhXZklMYiswT3dZYjJDeUNtVHNTaXU5a0k3RUdFTnptOUZFTnFPVmlIcjlRbmI1MmVOc0Q5czkzTWducGVSa1RyZ2ROL0o1aEVZS2kweDR3RmRSamdXWG5BQVY0YXB1bklPcXRxSlYra0Q4YlkwYzIrSGFOLzZjZWJRRDYwN3pQUFduOXJrZVNVSXp2dzJ3eFZ2QXZwR1E9PS0tWE0xeUovTlpNMDNIaWtOR1JkSWdMZz09--712577765205e918b4110ab4f863990dff11d978; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

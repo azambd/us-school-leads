@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 22fb14ca-bb37-4840-9fc8-dc883c36da14
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-gatos%2Flos-gatos_saratoga-joint-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d0VVMFgzd1NGcDMySFcvTXR0YW9qZ1JxajkyaTl2N2s0MEg0UGMza1F1b1dVd1dLTWJ1VFVqUW4vdmh3VTM0eExOa1JEanJESUZ0dGdOVlVXNEE4d3FiZ0FiWEgzNXI2ZGNTbGJvclRiUnh1Z1VGQ25OVE9RM2g1MW5vWGZ3RkRFbTJneHV3QkpWOTJRUE9jbWZuTG5GR3dHSEwwTXZsSlhrbVNXeElBaks4NjgwYkFSVXJMaS9aWGt0eTNOTHFpSElzZDZBampqdDZHOUpJSVpDcmdaOGh6cFRhVmhVY0VLUDBaa2Q0dGNGc0w0Zk83ZldHTTdqcW82NTl3MWxEMk1Pb21yR09zUkdPSHh4ckFTcExlVVE9PS0tRXF3dWJpdTJIWHdVY0FqZGdEMGNGQT09--5d58b4f6c461f438faf0332b703ae2b1663bd526; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

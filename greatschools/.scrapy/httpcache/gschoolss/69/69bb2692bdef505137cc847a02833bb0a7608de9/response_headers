@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3889a5b8-b55c-4953-8d3b-b0ff172e2950
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffallbrook%2Ffallbrook-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZEs1QWpGbFFzYVN0NDdlZ2Z5WllHeGdXaEFqVEwrZVIzN0lZTFAxclB0WkxzV1NCSEo4c0xXWmwwWGpwZ29VY1piNVYremVFV2F5djRVNHh3aU9BR2tZZHZjZGQ0WmJFTHBic0hHSlBkY2sxb3ZSdksrWTYyOUVUOW5FV2J1NmUwakxza2ZMS3kyaWpuMjY5MDRjOEdmd0JSdFZObW1sQXB4UE9jK2FBNUF2WTZqYzdkVDBCRjQxRDRPcjBveFo4MnFBM21HWWpnVFVlcCtqdHZwZUo3STdOMHZ5cG5NLzArdG1SVE5VNUpCS0JYNGRmZURJYzhWTmwwV0hjRnJybThvVFdNUzVSZDR5eU1QT3o4QTlsRmc9PS0ta1RPcWFxNXRFMFdXdm9ISXN6MlFDZz09--43631f4dcedc6bd9571a9f58615cd7e66eeb4b34; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

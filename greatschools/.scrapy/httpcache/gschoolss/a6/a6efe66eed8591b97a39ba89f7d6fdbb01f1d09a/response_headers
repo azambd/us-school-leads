@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 61524a89-c671-4633-9a8c-2db117c28c87
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fstockton%2Flincoln-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RWttNUhpVE9uMWtMWjNzYlNNT1YwUTVEbmxaNGNFUUJkT05TQWJEdmxFT1FFZHhmWnhjN3Bpcng5WnA5VEtBUHNUYUZRK2habE91akl4aGpYS0I4TjUvMHFTSmE0M1IxU1FRMnI0UDhHa1N5R0pwVWhOL2hhYUMwNWY1V2t2bGVmeXlSSUltV21TMzA5WHJoZVdKWVoxNjBBNjNwRVhHbm5rbjZpWjQwSUFXaHNIaUMzV2FxWlRxQjQ4b3FOOXg0UUpGeFhndjlmQ2liSGpPdmtBODg2ZVUzTE9KTzRacVZ2TWtRQTRJb0xTSlYvZ2Vnc2piNENlWkVIODBYbFlEWi0tRTVXZEVLUU16VVpXVTBWWEZlZzJOUT09--cd6042f47a5d0d6d55eb72edef07e0707b0cad1f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

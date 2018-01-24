@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 53529ec5-7be0-41f5-b946-4b75e7a85b53
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmarkleeville%2Falpine-county-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cWlNT0RMLzUzemhXNTAzbHVsUytiNjNXK3VqNkFZVjB0dW45NlBnRjh2YzJOM1pka1pjWUhqT0tWSFN3a0hQVjNrTHlPOW9pZDNVM1JXZXNpekpESzg1eWwxRU5tOU9Oc3VGSWZPa1NkYXo2c1Nkd3BuN3BnSWZDRWpKK3AyeEM4Q09RZ1c3KzdDakFYSEhqbkdwSlBMOVR6MHNESElxQm5CVS9XeVVJcGFzRTA2bkQxbG54L0VFVWlXVGc3emJuSURaYnpUdkUybVc0ZkQvaHVRV0pITCtYd2MyT1FINm5MT3A5NDdRZExFeU02Z295cEZocGc0dFpTZ1VJUFJCRWZIVWNDRmNBMVRjQTNKOU5zeEFjQnc9PS0tL2FFcEpZSFQ0VTlzYWZKd1FrY0VxZz09--ae51b7d157bc8b1e420a5495ac5c1b7bc34bb842; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

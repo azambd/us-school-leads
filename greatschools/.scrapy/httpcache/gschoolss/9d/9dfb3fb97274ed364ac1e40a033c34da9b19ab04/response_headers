@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e0f1cab0-b64d-42c5-80b6-baab51d7e018
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falpine%2Falpine-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S25xVkxPZGUraklFd2k4SFcrd3phSlBKVHJOdk9sNzVmU0gyaTZrL2pWc2tzNWQvb3UwVmEveGp0NjJhbHF4WS9kL1YzTXhtMUJJMFM5N3NYb3lkOHRLWXAvQ3pFdDk5V0NWVURwM1dxQkh1dUJ1blBkaDVvY1JZeERnM3VFb0IvbkU4NmRESVJGMDY2WEMrRTZnRnlEVnRhNmtFZ0NpZ3ZUNHRoY2xSaVE1aGN2SVh5Y3BWblQ4a0V5YW8wRWVkV2dXMmdJRTNhWnFHRi92c2VHSll0SzJYSTI5dVZLS05ZV1dPckJrVjB5a0loMENjTlpXWEdncVUzb3VTK0lONS0tdThwUXA5d2NpSDI1ejFjd2RDWWdXZz09--afbaaf28f07d0852fea22ccf0e9a5cb2a6334674; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

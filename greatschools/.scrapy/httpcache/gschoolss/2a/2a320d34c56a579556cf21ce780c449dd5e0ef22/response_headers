@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: affd92d9-791d-40fa-9c7a-20513926ced2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-rafael%2Fmarin-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aCtNRTdyNlBuTW1rOEpMQUx1MnNyZ2gycW1TVWpwSW5QRkFEN3k1SnhMQWROWTVCUmw0ZWFVVjJ0TmFCUVdaVjQzRkJKWWRlODdyN0tzMzlTRzdGTGJnN3Fkb3BZV011anR3UERNYlVsQnFQZzVmKzI5RVdpbjAzNEN5R0FmQnNta3lNOVdaaGdmZkl3akxUZWRPMFlCSmJBSU9pZE5ZRHdEMFpsdmI1bFNqb09JRFRNQ0tKUDdvK1ZkR2Nzb3FWS29VV0VMUGg3TGFJWmp2T2xKd2pqb1Z0Ly9XU2gxeUk0ZEhCcjZZUGRYYXQxL1BmcC9DVHltZWNEQmtnWDJ2VUVqRGtIMmQvUk1MR2NWM0VvY1Fia3c9PS0tM1JLQ2xHdEhmT2hQYkNuOTBvbXl4UT09--344c0209d565b7ce7b1538c0c38860fe9c0c560b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

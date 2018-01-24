@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ca0ea32c-2e5a-462a-b9e6-c25dc4242fc5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcorning%2Fcorning-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cmJPWG0xdzJsSERtRUdTWlBvS2FqRnZ5cjZBNjhuRXNqOU54NUZweWRxWmhLcjBaajN4QmJzYzZGbkhTRHhYUGh4by9kaGpiZFZFQ3lFRkVIMFBmK1JNZExLUFhGT3ZpNy9LS1BNWlZibFg4MmZGOWpzcG94T0RvYmZ2YWNTaHpYTTlFRlBQN25GQXkyZ0hlaEJzdU9zZnpFMlZEck1JTXBVRVhSdS95ZHNkWDNZdFV0VUpCZlZoZEMydnZ3MlkrTGIyYS9SeTJZQVF0eVFvNFNScGttRHRlSXNLNkhpTHM0d09ESnhObXF0YWM4OGltd1pHSTBWOHZULzFqOVovbC0taE1JSW92dDRIMm91U2g5WkVBQ1Y5dz09--42847c03f839e6436f31aa8e03c2d6a8e3350082; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

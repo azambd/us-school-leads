@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 81adedbe-3c9e-48d5-9522-d1b60ebc07ba
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fantioch%2Fantioch-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VExmNHp5SStkUmxNU3Zyc0R0SFFMcE5KWHh1MTYzY0JabWhyei9iZm5aeGNFbXVWdHp1KzczeHJ0SG5IOGFJeTYxaHI3dko2dVh3VFNGNlZYVFBINUF0QzkybStTV0RLbElZWW1acjNHTEJtWE5VYjhyVkRuZHpkRm9WQ1RMalEwd20yOGVUUitCODVLdms1c3lCMUtDYnBoMmF3aHRlUG4xUlpEd2tycEhhN1hObTdFT1JuZDU0Kzd6SEZscjIzdlU5ZFhJTTBZaDNXTGJxaGpEeGl6TjlES0xKZFBSZHRDSzRqTWF1QUVPWGtLcEtLTUNPQWEzZ1NmSnduYU9xaS0tRU1wZ1p4QlVIUzhCV3dmTjFQcTBOUT09--146081d017f455e47664a9c344199a25235e5a7a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

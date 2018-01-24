@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 56fb6b5a-f7c5-467c-8799-5807db03b4fd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvisalia%2Foutside-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZDg2UFpmZUt3Z1h6bEZGS2pCQWxEc2EzQkN1L1E5M09pMFh5NnE3TXAwNEl2RjN5Z3RUSnNka2pzVy83RWYzRm5OWEh3L0RLalo1SzdyWTZsRC83MkVUaDlNQUlLaWtLNkFDc0NKTXl4MXBuZEhQb0RQMGpzRkkwTVloMGdZY3RWZUprUjBVZ3c4UklJblFDY3pUVW5HRUZqbkFCbWQ5aEhmeGpLQUdDOWpLRG1Ib2RiR1E1VnVZaUpkOXZDUGgrRWtjZDZWaWRZdUtzNXhyUkxqRXlrOUNJY2N5WWRiTitWVFZhY3BLNWk0aDhiWWFEWDhtVms0c1AxblQ4V0RRSi0tTU0rR1M2TGh5SWlTbElycVFvYUI0Zz09--0cb2714380974adfdaba8820e4e2ce4650bee55e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c2e5d750-3a63-459e-9c46-1179c804fccf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsacramento%2Frobla-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UWJGN1hISnZ5b2d1bjBpSHFCVWZJTGxodjNGOWR5czBkRXNFWGQrcE9YSUh4b3R4YXh5WlVGdkxvYWF1KzcwaGgrdjloblUwdG1DekdGcjM4WXhiSmhGd0xpQTYyR3lVNXdoTG5HWjhhcStSWHc1NnVCdFI4MmVQSUllZ2VERGd1a0l5clNUbzRDcTkxZ3g4MEhTTytmczBNN000bUpTb2NrZ2s0bVF0OVRrengzUGtpQytwZ3ZZTzFhOU11VUovQnRzUFVNMDNpcTdxYlhBWFg4SUlpbjhjZHl6eTZmaExGcjRGWDJCaHgxMmRTaFhpVlAxWngxM2JlWDZ1dmlzUjFnSjJtWEZKWk1KSklaNjZ0dnFFQnc9PS0tOUtQbzh4RklXV3dPYktDNVVlVjVVQT09--1ddb62a15bb40e665a10eb4ef765852b6666d053; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

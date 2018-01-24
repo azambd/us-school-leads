@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 182f74a9-f291-42b7-adad-0cba2fe97219
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feureka%2Feureka-city-schools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UnNlRG9XNC9GK04zcC9tbzM1U01WbGhWa2c4Rk5aUkR1cm9jVDQ0RGtJQUlibnc3d3dZYit2NExLR1BGNlo5NnhxNnhWQ0FZbFQ2K2Z5eFREeG53SWpJejJ0dFFETk5oMGNobE5TU2NVc1ViamUxU1RtRm9oc2VhdWdFOFFMT3F5OTc0TmhIWmIrOUxLOWV6M25LQ3JCMGpIcVlBcWZ3c1pHM1NYekU5M3dUTk1pUHlIMjM1ZVc4V2ZPM1Ryd25Wd1YyeS90MFkwc3VoSHZyRHR4cGFYSTlMenpnanVLNmZjZnBsaU9ZS1dYQkZYT0VNbkRPUVZYck1LVTBWODhrTi0teXZ3cUoxbTg3bVdzeVFhUDMxNnZ2QT09--a52f767aa67e21f9fcbd7bfb219429114dd619ac; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

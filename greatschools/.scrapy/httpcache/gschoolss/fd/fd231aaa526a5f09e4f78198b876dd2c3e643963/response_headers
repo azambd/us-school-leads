@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5ba98db9-81d2-4296-9395-feb8ee59a1fd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foro-grande%2Foro-grande-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cms5NEV2ZEFDOEdMNVlZdlAySVh0SnFzK3N5a1loSDVDUFJSSHU3TkpydWI4TjRzMXJyeTlCY0ZxQ1AwczYxRkd2NXdIVWM5NHVTK1JDQ2ltRmVkS1VCZVFLdHZlRmFJcnJTb1pGQU1JRmRVaWpBZ1N5a2lyMGs5SFpBT2tvRTVvTnQvTzJRTzEzN3lRcWNCRnZuS0tDRGpYTEdHNlU2UFlDb1ZYeEV0NTNzWEtaNkk2SU9nSHRmU1E0REpORWFSQUR0c0l0Sjl6aTZLTDVEZFk2elhTMXg0bVJhMnQwUTJOaFE5SDB4QWFHcjd6ZTBSTVE4ZSt6VVdROVpUWkdTVnlHeDZhUGhoKzNLcEFmVjFzWUViNXc9PS0taUdCQlNXTisya1VMQ1RObGdGN3Z0Zz09--bd5f28f4db0dfd67714affeebafe53bdf421f5d8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

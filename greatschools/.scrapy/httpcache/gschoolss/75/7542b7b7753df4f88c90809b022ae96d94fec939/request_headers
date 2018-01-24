@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A31630%2C%22state%22%3A%22CA%22%7D; _gsweb_session=M2F0MGFoWjBUWHI1ZzVNZjlNKytFdXduWC9zelo4cWZtbWc0V2RWZUJoMTZnemlrbExJZHlKTnpoNTJoRmZIR3AraDFtY1hNbVB4N2k4V0M2QUVOTEhHUFJjbVhuMXZqaEtYT3dWWUVBVlMwMkFIVHFTeWdlSFlDMzAzUGJGL01Nc3QzTjlXYUpNRXFVcDNTNVlzZFNnSEV5WDFxSUp1dTZDVXJnQVR0NkxNZnJGSjdybTJYaTFFbGcrZEIrUVViTFE4SXcxQXhpTTRKV2N3NmVBNFgvMno5TXZzZmI3c1p4dkpXUHltRVlmUWNUbDZOeDAwdFZUTUx3Rm9jeHo2UmRZOENaUGtaVHVTam1JRFIxUWdyOGwvZnBzOVIyRkJ5QzZWOUdxVmUxdWVQVHEvZFNtckxOZzl1ZnRmY05IKzJDTGtSd0oxYlY2VmgvaU5lZ2pia0JZRmpyV0owSmF6UFo0a2xyY3J4NjRWTEhJWXEva0VLTzVBMGwxRWYybVJtYkJiUldaLzFSMG05bS8vNG4xRjZDZz09LS1GQWl1Y3VpQkdtTXpjVjNwb3ZFUTZBPT0%3D--efd6e0cc99eeae7eba5a874548202da4512c0436; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/30315-Gan-Camarillo-Pre-School/

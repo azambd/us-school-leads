@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a2586a09-8db8-4dec-9a9a-c5f9d5506a47
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-carlos%2Fsan-carlos-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WGFINTY3eE5pdnQrWWQyUWFnK2VxOVpSMUxmbWg1MUFORHBEMjJnempOeVRTSEdBQkNTbXIyWlI0NHNpUlF0MmFTUk53TndZb2xYeGpyb1hRa3ptNitHTTdHT2FnTEJLNEJmVTlIRFloQmUza1UwRHd3OVVidm13cElIRkdJNUZhN01zd0Ftdk1pTWc1aXFud3JnSHkwbllWallIZngyQlpEWEhmcGtQa3VIZVpyenhQTEZGeHM1U1V6d1ErMjF3dXlOZ2oxbHFLem1DTjRnSXBTcWtKTE0wOWJvMUNpTmYvWm5uTWtoRmdKR0trd25LNmdvaXV2MWF3bitpeXg3Qzl1cGhTdDFoSldoVDRGeFJlRzN6cFE9PS0tbDlOZno5VUJuOUMxejhzZVZpT0REUT09--7aa8089bcd7cf3fac9b148b198b9b45131f29b87; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

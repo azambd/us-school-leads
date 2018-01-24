@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d5d629f8-97fb-48f8-9d1b-5fa7fa21fd72
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Flowell-joint; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SUM4TjZaMDJXWkVrUHFkNFFjTWlKR0xlSlVacHMvaUNORXJXaThsOS9YOThUZ3BhNVI5WHA2UlVuQ0dRWUovd29tcnFObHQxbm9xWi8weG5hR3RUNXJRVzdLTGJwVHJ3eDNhY05hTjJ2a2p6Rm5TeTVVSHJoOGJyYlJBazRLb0ZtNGs0MTd1cGMzUXRlbjlnbFdISDRCQWxmYk9vYU5ubm11WkttM0t3YjBZT2RPMnRhRlczdG5Tb3dkcmtOR3hQZHFxTm1LQk8yNGRtZmhST3c0cUZjODBBTUplTTBESDV1TGJ0NXJXc1M0emhxRjhoOTNpTGIrcmRIczF4NlhDSC0tbzBJZnJiZlNPdEd1RFFLbmx2VjNoUT09--9203877b4989e82b44124109d0c56b759ad84bf8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,9 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Expires: Tue, 23 Jan 2018 14:01:30 GMT
+Server: GSE
+Cache-Control: private, max-age=0
+Date: Tue, 23 Jan 2018 14:01:30 GMT
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Content-Type: text/plain

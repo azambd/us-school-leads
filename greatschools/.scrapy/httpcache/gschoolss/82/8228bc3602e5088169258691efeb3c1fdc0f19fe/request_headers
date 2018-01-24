@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A25040%2C%22state%22%3A%22CA%22%7D; _gsweb_session=TjFYNTNCOEZ2cFAraWZaNHppNXBwQm5qU3hSalFEbnZrUGZORGFRYWR5WTdaS0hDRW4zVGIyQWQ0S3hRd0UyNVdVT2txeDlMVk9rYjJ3bzgyOGVMZkI2VWdmVkl3b25YZkRCcHkySG51emZmQmJ1eGxjODVoY3ROYWJqZ2xpY3JYNDQ0VDQ0eFZMeVVvSm9QSWtaSU5EOWhacXc1dW9rTUdVRDVXQ3NCWHVvVzg0cTN4aHhtblVqQytMZUQrY0hhRGJwdzBTSzdOdjU3dlQxT2YzMTJoUFUxN2RrcWp5QzhIS3hqSkFtNkdCUjB6SDdVMkpSSGtYd1VCaWpVNFI4bitmdUlabnVjVG5FYkh0eVNKaU9ReEE9PS0tWGRpSWlrK3pwUFU5OHNrQzlqeUZ5UT09--0ab9ad401f2fbbfea9320ef9a74fc76c85d634ce; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcamarillo%2Fventura-county-office-of-education%2Fschools%3FgradeLevels%3Dm; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/schools/cities/California/CA/

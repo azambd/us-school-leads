@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2e40e421-af15-40cc-9615-140e3dc10a9e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbig-bear-lake%2Fbear-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WjFGSHdUSlArdEFkTHZUQWV6TnJ4MEpSZ2x1cm9BWCtCMDZmN0FMaEJlTEIxMXM1THVkUEdUTjdxZDBseDNRbWtLeVVrN3owQUtCRUpzQlBZRDN3WlIrcG5VR1V4YnFmeStjUWxmc2pHWDVhcXgyMlpzbjlZNW9RVmNGNVJZK0FsRCszNk14WjJxQW83djhHb1ZZTGV2cEJrclVycEx6YUpIRGs2NE1pbWYydm5UUG5QQ0RVeEdFdFdpTXBmcTVkN01YbnhZcEh1MDc5SzlrZmpadVRjNGVLWFBadW5sdG9ka1VXTVlneWpkZlkxYmVmajlXQTBRdWhrUnlIOEJoYzdlOVFmL0lSL0hkVWdZSXVEemNZb1E9PS0tR3kwNWdiditDQzQ4WWxyTUU4bHhHUT09--9c2053aa52f42448946353ac30da253f08c8453c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

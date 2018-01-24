@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 8af99ecc-4683-485d-9cbd-d043344d238b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flockwood%2Fsan-antonio-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WURYMVpvRmNsMU1WMlFyeml1ZytnRVZ6R040cE5jQncvcWhLSFBrSU15R3FOZEo2K01NN2g2VmsyQjR2MWhwNHZGZTBueHZBTXJLZk45ZEMzaFZWd05vYlo4dW5ENU5PajUwUmxLcjdGaytzYnF2MFFzUjJiTkI4bkIyR1hvb0h5Z28xYktwSkJnV2NpM2w2Z21XRlUvekNTRDNCZzV3M05kTUI4R2RzaXVTUDZ3TmNjRW1USU1JUTBwamdjREVNVVJzbU1BUEFKN20vaXgwTXVzODVOUlhyWXRMWlNCRHRlTEhGekhlak1kN2YxTWJvYzQ2VHBZY0tTZVI4dzNqNi0tSXkxVndMSVBvbG55dTJCenhYSEE5dz09--8af81922dae1de3d398974a45384e313a4f5e67e; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

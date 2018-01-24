@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 93cb8b0d-8bc6-40ba-82b6-89b17208861d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftwain-harte%2Ftwain-harte_long-barn-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a0tmbjQ4dy9hMi9lMnNMd2NESzd3MjY2U1l1OVJRRXVBczMvUzdITUpaVlhnUG9WTWpjRXhQSUJ3WXFCQ0gyNk5HT29CeGMzNElQZGRHMm1PSWRyZi9leGtzbkYxVHRRVlhsLy9oVXZ6WUt1YmdzR1dlM2lyYlpaU2dveVZWTm5QQU5aQ0Q5QnpUZ05qZlFLdFBhaXM2K0pOQnl1WHYyVUpkb25OaDREWWx4dGNYL29CdXBreldMaDdqSkNZcFdYa20zRmdacU83OWwwRlJrK1FiMURVT1gwRityZWVVM1FadzBzcFJHV3BKNC9weWRLSmV3WmZBek1oZzN4QVNzMzd2dWdJMjV1L1VvY1hmTzdHbHpLVEE9PS0tRHFrd21rSHk0ekIweFFlcThUaTNaUT09--8bd4371904649443e6416b5227efde30f394529e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

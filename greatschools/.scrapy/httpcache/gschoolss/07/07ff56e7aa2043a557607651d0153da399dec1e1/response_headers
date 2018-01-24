@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 368bec07-2177-4c65-a226-d0ad2b94c4ea
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Friverside%2Friverside-county-office-of-education-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=LzFscHV4dUJUUTFNVWVGUWpkZTk2QldjV25tT1FtblNvRVBUTkZVVC9VVmdWaFlNV292NE5UMitSYVZKRklVcWQ3Sm4yV012TVl1S0VnUExUUytZTjNtS2NmVWFQM2gxeWJyTHJESGxwTGYrbkhvcUM2VXcybWpvN2xlRXhmS3B0NFNpVS8rYzhReVZ5MHp0WmQxWUdjZklESTVpSVBUcE1OaThsY3dpZklwRGsrZFZORzZZNVlmbGZHc1NEVzQvOTRaYzVLVUh3SDUzQUtIMnBpR0VVZjhIVWFTTWZUcjllSERKd3E4L0VRdS9rV2U4SE9nSTdib0J6a05pQ0dodnJLL1BubXpMQ3lGQUk2ckViQWd6UUE9PS0tOEVyaTA1RWh6K2lDemhWTU1MQmFxQT09--2bcf41f942db1d58d8d2911a1cd736aa700b09fe; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

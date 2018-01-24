@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 279c29ac-5293-4c19-9c93-48b13ea6d7a7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Feast-whittier-city-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K0FvcHJ6UHpxWjBWc2Z1ZjRsSkJRZ1dUQ2kzTTNMUXAydHhseG9UV2lXSlVUR29TbVdhSmJOZC9yWDUzSDQrMUlnWUk5SXFoMXg2UVNhUGJhYWhkRURRK2hxNTd4RExsTGlrRFBiczI4UmdTemNvamFCcUNwaEM1Sjl6RUpHMnhzd2VxK1Y2b0haVUY4aDB6bG4rMmY3ZGtPSFVJVkxuUFJqd1hLb1lyM3dQcjJGVWhoN2ZWclJKSE1ndXRkSHJnbFVIcytUR1oxaXUxZ2g2bCtyV2dacXVxb3hjM081MTYwVTNGNitRbUpuU2VCdUk4Y3lSWDRiQytvTkpiMmdVQS0tejVyQjBNc0ZzeDNYYmV4bHBnN2pEUT09--9207431e8aa8af7a7b5ada4ef7b291ebf014fae5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

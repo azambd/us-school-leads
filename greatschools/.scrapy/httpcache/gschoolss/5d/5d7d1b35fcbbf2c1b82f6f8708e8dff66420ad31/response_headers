@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 59af3b80-ea0b-44c2-8557-973a76df6e46
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foak-park%2Foak-park-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N1c0VVFHZFY5Wm5rZlNhZzZGVk41enByV2h1TS8xTUtLY3IzVm5Kd01wL1F0MGEvOGhybXpsZ2JYQjRBOUJpbTFJcmUxL0tzdSt6ZEl4SzhCWlE2UkJtWHJJSllhcURDcFBpMW1RSE5zazNZbGRWTGRzeGozUUFUZDhSK1lsNW5KcXgyeFJ2alRrLytQM3VMalNrVk9YbFJ2UW5ZeSs5cFFIcG5SQ1p1Y3J3eU9EV2NUY25Fa3JqeXhVdUJaSXpCQ2Z3ZDAzVHpadmxPNG1SMjRJTlJkcS9NcHo4YXZFemNkMzR0R0ljZlhRNkxJc2JZTWpLYmhRRlEwVXNubUdNaC0tQkF3ZUVlK0NTTVl4WVpXZTJKMXYvUT09--c2c675f4d03ef3cbc97f20b5914cb32fa30a96d5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

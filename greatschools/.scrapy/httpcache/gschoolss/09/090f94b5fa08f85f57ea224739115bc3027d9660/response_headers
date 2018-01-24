@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c4206a70-1472-4db8-9b60-7fe478b61ee5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnapa%2Fnapa-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UHdUZTZPOTZDRW52aElxUytPVk1vMXhLUkN4ZkhYTDFlanRsMFY0Slc0dnZiTkVMZlhjMS84Y2RCSGhaSzBiTzArNCsvQlF1U0ladU54NDcvUTlJQ0xzVzE1aEIvVWJQMDJia0pEamF3aDNxVndLKzdVTUJLL3pkdGlWajdzYzNSL1d4QnlFTzhTaVlBbnJhOHI3dWNFSFB0WVk4MlVQenpDbUNzandQa3BCU1ZVWUxsbkJIbkE4ZkE4bWdIR3kyTEJjUS9yZCs4aGR0MmRYS0d1MFNZa0FlS2hsZ3VoN0RNdTV6emFIRE8zTGcwNEthZlY3cVFEOUhUMUNCS09BNS0tU3ZGNkdDaWxnd01Qa3ZhSDROOUpyZz09--539b6564b62136eb63e0bf0d7e0e849d5aa6c85d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

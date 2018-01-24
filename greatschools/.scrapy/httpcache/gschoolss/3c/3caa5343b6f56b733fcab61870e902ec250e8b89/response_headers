@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fc286d34-6502-442a-a8cb-5843a98b3c59
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fedgewood%2Fbutteville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YVExNW8rNU9NSTV5YjNQT1I3aktFd29DK1E0THNLcENNUjZFQ0luNkFJNWVxREoyOTdOc0ZiNXFhOFcxUmxFZGhZaDNiK24rR0N4SjVOaks1TnlvQzFjOVdZSVNhOTJkMXNuVzlRV0cvS0xMbkxKbUdGYmFQMTZuR1ZBbnUzc3kzRlJuUXhjRVp5a1RIc1J1dkI5d0hkYkZncFdTdi9vZXZzc1E4a1VJYmRIZ0xYQ0JnR2tvUURiK01IMmtCOFpuVnRvUWxzT3BpOUdIUFFBczJCR1hkQ0xFV1Rvb1gwcm0ra1RZd3lZTDdkbnU0NTRFRjIvbE1xRnFYMlBPcjFjRi0tMFFDek1HakpVSG9yTGpvQzh3akdHZz09--fca662e8ef01d8505e11576687adb08a8a768469; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

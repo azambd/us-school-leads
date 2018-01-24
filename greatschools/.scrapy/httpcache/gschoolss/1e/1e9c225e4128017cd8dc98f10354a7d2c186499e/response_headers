@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d20d1bd8-3c07-46dc-b3ca-82c0584c5d90
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwoodlake%2Fwoodlake-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eEtaTHE0N3Y4YmRacFc4NzVmdmhHQzZwOTB2eisxbUUwOHhHY0pQVU9WYit4c1gzc3dTeVhpUUJMTUpVVXRpK1NkcDdVQlNITjRCQkZOL3o5Z0dnSEx0dVFnRVVNeDRwVVZySklaSWVhczB6Q0hmZHpHTlQxekozWUh2ZWdiNTI5VElGSWtxM3VlNU81NHNBeEt1cGt6UVV6RzhSbDA4K2V4aHVOU21KUWVOdE1FQnNEcmdkTE1nMzV3Ty9SemtteWNBc3pHYi9YVzZ3dnFZcU0rMjVabzMxczZvdzZlWHlaczliTTZteWcyS2dVcjhWSHNiN3N1QWxPWDBCZlpqdy0td2RTZUhPWE9FeTdHUzVtMmhBalVsdz09--2d3754f506a4c7b6ddd2d22c2995560eb233ee17; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

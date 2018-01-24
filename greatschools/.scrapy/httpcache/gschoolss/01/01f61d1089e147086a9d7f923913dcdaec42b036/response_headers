@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f6e9c69c-2d48-4323-aebf-4932672c931f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmiddletown%2Fmiddletown-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MzJGM0dHc2I5UUpwSkYwbEs2SENoRGx5aGtMcmVTZlJiK2FOekc5OEVkZnRqb2xhMWVCWXhXZVpuY0JiUmZ6YkpQeEh6LzRyelRHM3lHazdVenhrbS9VRGowNkhXQzBKdXpMbzVxSjNuWUVhK1hRTmkwRmJ2WnBzcUU0bVhvVU9MbFRuL1phSUFPaCtuT0hyNjRzSkQ1UmtTV3VQQXM0TkcyYzgrMC9TQ3ZwZ3VLN3NPRmd3bEJLNC9VTVJrcGRiakY4OHZMTzc0aXFEWldYa1A2YmVnSTJFa0dseGRQaVAreDRLVXd1YjNMQ3lDcWZZNXJaUlFGaDRYTGovcllTOEVsMFNGNzZreHQyR05XQmg2MVlOL0E9PS0tZ3lyVUJ1ZWMvbWRPSThRN09ZTVdNdz09--71ea15916c2610f7549dce7f7aa4d1cd1a16b181; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

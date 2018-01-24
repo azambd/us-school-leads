@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 03f9609c-1927-47bf-ac49-7da060014a91
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhollister%2Fcienega-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cXVLOStjWEZ3VW1PWGc0VHNTYnQ2NDlVTFNFZ21SK0JyUWkvVFZGbVcxUklBR1ZJWWNGRDZmRmcxaW5SQ1Y3Yll2dkVNY1RQa254aElVWER3WUJGZXd4VUhEVlltQ2hDcDB3aUI4dzBERVlmanU5bWUxa2tXTHUrU0NOcXl1c0E3N2FOUWNJOVVhNFZoYTVQRWhFcGpPeUQ5Q0RxYVlGTVB5SkVtZ1VjK3dxdzQvMFV6ZGVoTFptRDFjMzhuMTdyTHkrdHNmZmVXMzIvQWI1M1FHcWppUnFGU0pSQkpLdnBFSU85NzM0K29NK2t0OWRZY2xoU2xrdmVrWHpuZStEVlZ3M29xdTZPYThpNWowQXdpTE52Vmc9PS0tb3BHa0xLbmo3SGhNOEY5d2wvWmVXQT09--fd757308b449a15f79a4dc3e38f624d5d607ddbf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

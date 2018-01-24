@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2c0c521c-0de5-4470-a725-813402eac356
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhughson%2Fhughson-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SU9uQmFSNGgvUEI1dmJBWjlmNG5PYURLWjZnYjZzc3hsSXZsQ0lRRUwwMkJlZ1RkajZ4RmR2UzVMRTZPM3ZPc1AzSUZmRWN2ZGIyTURBWUZSRTEzLzFBZEc0MEwxM1VEYlJlVm9qTWt4bmRucHAxVXNqTFVYYkJ2YVRmbWxqMmxoQUV2cFd4aFdLaXB2d3pteGVHb0tBNGIwZE9FYXpRRDRTRUs3K3JhU25laGJ1a0ZLV3gzU1o3ZkhUSytvQkpkR0hkc01ydHhla3lha0tZTUtER0VhekdjMEltN1piajlvZEQyOENkeTFxd2w3R28yVnZ1d2lyR3FHTEdrTHBMay0tM1M5WlNLN1M5Unk3dXBXMktSQ3p5Zz09--6296a72b28c7d0ca31687219036765b64ed52bfb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

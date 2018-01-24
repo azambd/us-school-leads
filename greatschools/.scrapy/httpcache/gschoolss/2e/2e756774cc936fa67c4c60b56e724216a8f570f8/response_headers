@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 274ab037-33a3-4dce-8337-71cb30d1a473
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-alamitos%2Flos-alamitos-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UzFpaVlDRm5MWGFtSm9LVDNORVJBN2tjK3RMUWZVb1A1dnltekdFYkhmV1JtSnBEbjQ0VVlya05XYzRSOHd2Z1FOcHNqUmI2M21SWnlmekJnWDZOVzh6aWJwQUtST0hHaEl6ck4zRnIzMjFzQ3ZQdGRtRnJzaVFBQUFaSFEraFAydFFZVWF4bEFrNnE5c29JZFYvcDlxQ0c3eEJpcnRjUjA2aXlmYTRuR0dCbXRBVU90dnZkaDBLQnpST3FuOUErMTBqWWdlQk5QcjI0eVU3SlprRkVLQUJuN1hEbE5GVWpBUUhwbURXcGd6eUxydlUyMHdCd01uMlNTMUZWM1BMdnVjTDQ2RkwxMk9Gc00rMkdrZjNxSmc9PS0tVHBaUm1IT0Q4UTBCdDdRN3dQNXQ4dz09--abfa4a3e5d21e3279a4e04577197da44f1fb42a6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

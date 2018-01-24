@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bac5c28f-b934-4c27-b19a-0ad9c51f0d4e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbeaumont%2Fbeaumont-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SjU5UThUdmJ0SXEzTFhUeXhQTlIzOE02a0lZZHVZSHlmZmxXQjRSWE5tM05lSXp0VGYxSzJpNndLN1A3OHYyM1BINkJUWGlqWkI3ZTZzbHo3N3IyMVR1MFhmYmJlclRCWm15MXA0L01MeWVvSEplTUp2ZEZRYm1qUzVkKzVvYmd2RmJucEFidUp6dnI0WHhpTDU4ZHNZZm14cTFjU2JUOEtmM0huSGJ6UkQrOCs1cWFiQTA5ZXRINmtLQXNkTEVtMDZCcHkwbmMzbkpWY1lhaThYVG42b2ZJbjBBSXV5bm5WN014MDR3ZGgyb2F2eGJqS2dpUkExZnhXL1ErUWdidS0tTkp0Ump0alhpZkE2a2dCaGNvTS9KQT09--6c096cb3a5a115485728a8b77fdaf7c0c622db7e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

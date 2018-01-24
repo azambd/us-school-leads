@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6eda721e-d274-4a44-a434-7d5ae8f16d1f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Fmonterey-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=LzNLd3dlZVNKM3hCRkkrOVFGbDFzSHl1QVBpWHNaUmtoZlRINGxwcmFKT2EyTlhENnpSaVBRM0VQcExTajE3Zm4ydWtGZitlLyt5VEdJZmNTdGxNOHhNNDBlckV6L1Vvc1Y0YzlMTnQ1emIwOTdKbW53RjFTNFdWc1c3dWZNSU1lWEtlaWsrSlVrVFBnSzhTS1c0dk82UnRtWlNSbkhoL0VlTzg4M3N6Z2hMK2w5N1B5aFI4bG94d1drUmZwTGhzNmpveGVtRVZhTTVKRWNSZG9tbkNaSWdCTDFkTU9vOHFaY0VIVVV1Sm8xT0xlbU83SGlkQVJrd2JicExVWGxFQi0tcW85TFp1U0MwSTR3aU4yaXM4OHJYUT09--acfcb85698e0f203c01ce6608b25389ef0527ba3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

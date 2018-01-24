@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 76b34c5a-b43a-4018-9fac-5bc2bd834b35
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsausalito%2Fsausalito-marin-city-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bjRpeUhDRHIyWFRxdC84dHFGVE5rTkEyV085clpDbHhaSDNvR2dJVzZzSGVBWkl6Uk1rYkorK1VrNlJkY0dOb0k0SndHZm9MQ2pWNnlWb2FDUkhXMlF1ZmlOV1hSVld0bjR1VTRDcjNENWlGNWRualRid2t5clFSZmZjbHJ4YTMyc29JdzB6TVk5Q2IxSlF2SWFlbkIzaU5jall5a2pjTUEvcEordlltNXV4RTZYcHpuVnlvdThVNkZ1T2R5ZVhUYXJjSWwzRjJiRXptajVvMDluaEFYQWh4ckNFYTA2OW5yaGlMcWNvaWhid241eTdTcktIVHBBNnEvdTZ0WFlFQWZKZTNlUHU3TGVLTTFkdnNsS0RBOWc9PS0tQ1VBSzM1c3pGeTRpOFpvU1ZSU0IxZz09--7fb8acce1d40467ce04aff3d434027597571653c; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

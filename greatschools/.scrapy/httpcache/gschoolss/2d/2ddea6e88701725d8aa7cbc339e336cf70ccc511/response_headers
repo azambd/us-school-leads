@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e8655364-2cd7-48b1-9fa9-8644f247aa11
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdoyle%2Fsbe-_-long-valley-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WVZ2MHM1Vmd1VTBJNi93ZjJaNzFqUnRnSGVBM1hwaStCTkdKUlRMa1g3MHpSL3FvN0UzYW9YZmVBMW45VGN4MEpMZkk0R1hidmw3c1ljR1c0OS9GZlFJZ3BrQzVKamVnNldHK2ZOeVkyemcraDJJVnllVTBTTlFHOVFwRTI3MTJjald1UlhObU5BWWNZTkk4S0hmQkl5T1Q2QlV5bHhIckpJcW1WS0IzdEhtbjhBamsvYVA3Y2QrQ0pKN1ZBMlVydDFXSzRGQ3RXME9pMjdBbVJaL291UnRlR2ppVk5qczFqVHhTZGFuaTcwWThhWWtmemhSVTQzaDUwL3IzV2JLSS0tLzNSL0xzWHhESlk3OGJFYS9tRU5ldz09--bff5f2d569f87cb56836e76b0e36f5e8bbe69fda; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

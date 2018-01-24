@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cf3071b4-9a35-4e17-9ab9-8e279a45dc48
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmt.-baldy%2Fmt.-baldy-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a0x4cEZ6QUVTUmdsYWRnNjVxWEttQ0dEZ2MzbnZLZ01DbytnenNIMkM0UDdaVFFMVG1hN3BZeWV6cmhMM29kb0RLeEhmWnRPRWUyY2NkMUJHa1MvZGt5YngwdGd2WEMxWGNvWEt1Y24wdkkrYjhua3lOTzVNVWU4YUxNTGErZzlpUFlpR2N4RFA0VmdvdmJMZU95RlVoc29tcmkzVElQNFkxdTMzbXZSUFBKanJTVTRHWDFJMEtwbzdVeU9WUmdXZW40WTliYkk5bHVuSVZGN1hDVmJOMVdFK053eVR0OUpHMkZUMi9WdHQrdkFGQjd6SG5hTUZtY1JPOWhXZ0dseE05VkQ2SE5RRFpFeEM1Y1lpNXdlZEE9PS0tMzlwY1NFOGdFNnhyelNudXk2c2lqdz09--52336b987ab74c6212315f6948da3a88d721ef14; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

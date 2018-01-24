@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e54b2983-4f79-4d4d-ab01-b580a21c10bf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhanford%2Fkings-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R21tMFg1Q2YwWjkxOEcwd1lGVDRLK1ppcUp3RzJPSWV0ZUE1NmljUkVBeUd6eHZ0WDFCU1MyenJwZWJTcVJhc2F0SWtvQnNQcWFvQUIzOStPOE5iNlg0Q1orY3hZa0loWXNKTzhTUldaNFZGTUhWTmpiRzBWbjQzSm15OW0vTGE1cjdrR2NVY2tBUisxV2V6aG5Od1J6TDlZTFJIZFlHVHlISVJKZ2NXMnFXSm0yTFB4RWRqM0lKTG9MTmtTSU1oQzNmMjM4RTNEZ1A2RUNNWm5UK2x2YVQ5eWpHZWxhS2RVaWQydHNKS09WcndDVlphSnBKLytuV2dJK04yeFN1OC0tTmJxeENHT3phT2Z6RGJKZHhlSk9kZz09--64ccf232166d6436efcf199a7534284167536ac6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

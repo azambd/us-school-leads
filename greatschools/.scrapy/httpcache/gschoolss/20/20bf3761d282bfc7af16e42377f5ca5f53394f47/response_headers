@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 52f3d993-0e95-4617-8100-c5a9a8479407
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fanaheim%2Fmagnolia-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RlpPNjdxM1JjV2RsNUt1NWRmR2d2YWRlL3AxWjkyMjRvVEx6YlNGNU5WVktUbXFlUGV3dUFydjU2VkxrNmlPcjA5MlpyTXNFVTZBNWZUYTY4dncvb0NPQlNGQjNHd0tqeFJuNW5lZWlia0RJOVYxVXhrU1h1azgya2FkM2FLTUpGZVl0dGFMMXRFWU02VXlpSlhBZjh4L3hVYkUxbFQvYTZyM0R0bmFFejlQdCtpVWdEKy9vQ3NLOVUrUUU3TWhjclBTM2RFVHNJZGdZZEhySUR3RzlIVEtjNVhjZW9hbDRzMEZEMHhnc3FFRFN5dlRpWERCUFN3YWQ0SFMwZlFHTy0tT1llc0M5Y0c0M0ZHRnVsdnZienlZQT09--45e46c13490abd7d0f57fe02ad0bc6be5f08115f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

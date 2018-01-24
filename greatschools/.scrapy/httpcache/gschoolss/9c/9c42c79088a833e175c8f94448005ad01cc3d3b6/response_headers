@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d012452b-65c3-4724-85b2-f8f68c16e182
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fseeley%2Fseeley-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WStiRzRRQnBIZGVlVWVWNnpueTVoNHZHSHZzdjVIeWltcnhiTnZWTXFmWEZBaW9uS3M3YUs4UlZtQytMMDBQMGhrTEQ2cUdCNkdvREtRbTdmZzJUWGtpcTVhQzU4QnNxUzF1MlBLcWtvZWtlZllRamZWalNjdGM2YURCc3IyNXFjM09sajhXeEhXcHBHcEZLWWIvQ2dqd2lnQ0FZNjRWc1FQbFFKQlJJWG9nRStNVnpmbnFEdzBicnZ1V0poSDEzT1NhSEkvZ21Ec21OaWowZ2I5SGc4TXdIdklSVFdKek1PTUFsREtsV0JwQlFEbjZqVmVydTlEV09nV0UvdjdSNS0tUGx5UlFnb3M2SW9GNjcwdElaakRrUT09--94439081a7d0e0898f98c54e67092522289c1ce0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

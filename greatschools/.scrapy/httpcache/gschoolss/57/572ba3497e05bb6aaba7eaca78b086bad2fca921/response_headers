@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 79c79c4c-596e-43ae-910d-87fd0b2dc816
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsouth-lake-tahoe%2Flake-tahoe-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QWgxZ0JFMm9KRUw1THh6UkVDOUY2WTRJNFhlMDk5MFdUamJ5UC9tZU5ndjF6OTZIRFZOcHEwRVJUbUhOLy90M3p3TzBySjZ4cmN2MVFsNVpaV2F5K0huMTVTbk54RDBoRmoyTEJBbVJEQnFlemhOYkkxenBxSEl1WmZmcStMVWNTY1dXVStPd0FxNFdMalY2YS8wR2w4d0owQ1BJcktYeFl1bEsvWWZVamVHUk5rV285d1NpNWs1bkVIeVNVc2N0R05DYURqTzJRMXdFdEhGb3k4YkFLK084aUkxeVYwdTdsYURKOXhEMGNTZ0dKK2N0N0VGVkJ5TTV6dlo1Q21GSGcrSkJjTlpWU2VQak9mYjd5c2gxUkE9PS0tRXpUa2hsVmFRMnAreHB4ZHR5OVF4QT09--35b8cad01562634577fc5a4dc55584345678c5ea; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

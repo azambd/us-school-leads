@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 57057c8c-132d-4a59-951a-f29c16cf956c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftracy%2Fbanta-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aFJsOFlWaklPOGcxcVVzeWwrK2xicEl6R0h2VkhrWHZQSnFkOGo5empHdEtheHB4eTI5Mjd4UnRpaldsczFxc1pXRTZNSFVoSzhYZTcxOFd2NnRIbkZid1FFTEwvczJZTDJucDJkLzFUWUd2aXY3d0R6VWVSNkxQTzIxZzgwSCt6SnEzNW95VDg4QXFVS1BlLzRnVk4reDQ2Vkl5R3I5bkM2SjVOU0dFT1VZcXJCVGtNZzRDRWxuUHQrUVY0VjNZajBjbTJISHdIdWJLNWg1amJWcXd1M3BKeUJtWjlicU1GOE8xTzkyNmd1UkhQK2RMV2hvS3BhNFZoWDI1MjJYTi0tQ092Qy9VREhMQjFWMHpRbk9PRWhZQT09--6b82864acabec272c82bac2f66f19888e1f6c744; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

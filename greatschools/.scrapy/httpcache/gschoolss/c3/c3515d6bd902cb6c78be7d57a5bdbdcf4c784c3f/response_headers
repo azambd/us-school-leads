@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d21f9750-93d5-432f-a01b-af6c1a3a3d09
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fanaheim%2Fanaheim-city; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cDFTcVlId2RCTDFIZmZpODdpN3IwQng5bExadlJGUjRJTFhMNFVVQ0loaThHOXpSeWc4TktZdFFVNDhGS2xJYmNPRjkxOHByY05ya3daT3pIei91ZmJ2VHMzY3VBRTlxTTh0SHQ4RnhxQzR1MUUvU3BHS2xNN0tUcW1WS2VxTXRvSDljU3Jwc1h2L3dNSCtEMDRtZWVTd0REYW9rcndKT0I3STAzTGRHcWNQS1ZHVFVGMXd6NklFT1N6TU8rNFVob2tyUmQ5aGI4blJpdHlYKzhkeE03YU5XRWpsVjBDRUtOOUVxaXVkdGQ0TWU0b0lqbGJmb3NvNzVlaTJkVkh3Si0tVDZ1VmgrNURwL3d5L28zUko2OFVGdz09--c11c74ae8f6579d589f1f368238bf0917e680ad6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

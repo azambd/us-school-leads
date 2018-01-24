@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 82d535c3-e529-4c61-b4ee-1d8b7e240835
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foxnard%2Foxnard-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cEtJV0RLbHBZWnBycXY0WGVQbjJRRUJob0dJem0rNGs5cXdzalpaVkdtRHh3SGI1Z3BpM2xySTFFZHBGWWVXNkxwOFp5ODNjK2FZM21rTmNIc1Z1L3dQYmJGem05WnhFUFB6enVtUTA1M1NGd3pQZEtWOUNoT2JjdVRCdGVrMVViR0JYdEY3akFBa04vczN2N01LQSs1QWNmcWNZV3NhVXFxQU9nYU16M2E1Qjhpd0V5c0NiaThES2Evd2t3Sk8zTkp6T3FRU0RvSzBVNUFsdzkreSs3SS9KaDZ6eUdlY29lSlJqWGdHdWhmUlVaMEtzM1R2cHpIQ2VKSUxCbWQvWi0tREYwMGhTdVpUaFR2M2Rqd1k1YkdDQT09--5d88feb2b6a5d9feae7991d7012f0f27bf079a83; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

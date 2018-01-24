@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7a8a73b6-dc11-4d19-80ef-63052632943f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmodesto%2Fshiloh-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OWVoVC94ZllDOUZxU2hDWnZpeVNPOC9ERStyd252ckY2YXNuZklaZmFtcVIvdCsrekZHUUgxZDcrSlhCc0hUVXRHcnpSY2l2MEZvMWxXditkREhiNHFvdEd1UlQ4SklmZDVlMEIrWGRVS1VEa0k2QmxuT0JWakgyZDJobVg1enhDQ3E3N1RrUThzQ3luNzZzV2pST0YxYUlzSDlZYmRsTWVqR1MyTGhySHd5bGttdjVwOXc3dllycEtvdGZITnluQ3ZBeklOSEhvNTVuM1ZqcjdrU0RKZXRjRHFSTUxMOVBYOGtjUmNEVGFYVXFBaEVnMURKZGN0Unc4TlBvZXNEWC0tenZsUW41d25JM3lwa1BJS1ZhYVpudz09--2e6b896b94b910e4d5a2412c234edf6d4bd03bf7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

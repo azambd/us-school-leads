@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1ca47c64-e518-48bd-8523-34b773bb5a19
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fforestville%2Fforestville-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=elNuMGJuUi8yUzhwWXF3NDV2OUt3d01FL3dXN0xWcFpqeWR2UFB0UzBtbXhQWWtabHBoTXhFK0JNanEwa3cwUlphUG1iTFMzZWRIclgzRmRtQW91Q3JvZldMa0t6SzVib0cwOUlTOU9YMlBUQ1BONTV3Rnl3SDZCbHpPSFNaVTVyTk1WQjZOMU1JUzMzTFpMLzFOUkpCWTdhZFFtTFJzYTByUndMeE1XcjFRZ3ZBaW5GeHBpa2F3UkRzKzFEQlpkdjFxNnhMSmFqUVJ2TnErcTFVSWNsenN6a3dTS1dsUDZUYmhxREhtL2RuaDd5WTJxd1BOVmx3NG1uQks0V20wUTRnTll3dVBzYWNaT0h6MG5ndFNxcVE9PS0tTldZamM4Y05LdjhFNnRsaUF4N202Zz09--52699a1a1ec05f69f7b853a5726b864c7f5363e5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

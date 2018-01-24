@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=SWhxUzJPQ0ladEZWbU4zbFZtamRTTE9rOW5NSm5YSGVRcGc1Ti80RHpVUUVCbGZ1aVpVTXk4U0RaYlhRSTN3VTQ4WWhoNE0zMm9HWWtESmUrek41MUlDTXRSL0phQzJtU1pZMEdqUCtUalRpTUlJTXEySnRKWjl6bmp1SmFTMUpBc3dCMVlqOThudCtkbFY5TGp6SmV5K1ozVDY2dHZwZGZFZE5HY0hOb3RZbWV2dVU1aER6UWpTYnFNL05xQVpGcVVYUGVGS3R0c0JjQzQyTWpwVE5lMTY4ZUdWWWdKVmF3eXFDd1d1ZUo0UDluVk1oNklSN2pMc0licUU0OS9ybS0tMHBWT0FDNjVLa3doK3J6SzBFQWx6QT09--7718bd95a8b58d618f571afb99f768d6842543e5; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwillits%2Fwillits-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

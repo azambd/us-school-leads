@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7faa26a4-59f1-4eb6-ae36-c4434279d173
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Fpalo-verde-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=a01yZ0JpMkFKR2RwVmpOOFNpbEVlS0NkNGVxLzhjTklKWFhpZVRtczRQMFRDbUd5dk03Y25ZeU5mT2pqYzliUUNZMFhiUXBqb3ZEQ0xRMXkrVzBLaUpidW5IY0pzNmVJT0F1aU16OXJEVm5lTmVpd1MzT2NpS3N0RWl6WGtpMERHaW1ENjBDVEYyenlWZDdSVXE2bWxOWDJhSk9PSUh3cmZiR1JnMkl4amt2Tzh3UXRLZWl6Sk5JaGI4aXl5YnJ6bmpwT0src1o5MEdhNE9rbXdNQ0NyNFVHZG5YT0FYMFViYUhxM2FXYnhMRWtJenNGWkQvUGFTT1c0VFByL0pZRC0ta2FaYVpVV3JFaUdDVDdTTXBSRnpydz09--e4d2e34d463744abdb56c65495ee7180d36d5e95; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 13ea1fd4-1ff4-44ee-8a73-854f5a9d46b2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fanaheim%2Fanaheim-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y2lWOUh6WGVJcnhDU3pnNkRLRjF3Ync4VnZqS3ZBcDNUanlEY2N4ZXM0S09QMUczcURCRzBaWUo5SDNHL1FGZkFZTnErWHFwKy9YcWYzMlJXNmo0ODlxTWJTWm9KVnBvNlUwTlRKQzNUb09LTGkwZXJURmp4N1JpV0V6OUQzSWtMTXpwSFVtVVdTMjNBa21XaEtseVZwak1OVjJOZW9uNnN3Q0FlT25Tc3loWUdIRXQwNExreGFGQnhMRVRYTW9rRTBGTnlVSkNWdjdUSUNUSjVBVGtaTzRBMTVlTGU5Smw2VHdrc3hMLytKcS81OFFCYnJndnhLQ0d6a05tb3hGUS0tZ1BneGhhcVhBbWNkWFlWZ1ovam0zZz09--bdd0b40f5177a9ede0f3eccc2fd327411a05145a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 45e24c24-d5c7-4409-b40b-bcf9904262fd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpalo-cedro%2Fjunction-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S3drYmwzZ09WMXNmb0Q2ME9ISmw5OVBxeFB1ZkpyRFpQRFBmRHRpM2s5TEdEZWw0MzJqT3BFaEkwVVNYR1RYN296enA2dFZVdm43b0FmQ1N1UHNheEJEWVo1UzJoVzVUZnBEWlF1V3c0REd1TnJnZGFyaXVLNWZCNDdiMDJ2KzE2NnExeHl2TWhCVERBbU13UDdaNTdNZklhRVpKODVsLzZVU3lsd1lrNjJnc29vT0tRSm1ESVduVFVpc3dyZTgxS2VMOC9FYVc1QTRmMDJUOFNRTHZGbHBrMXdKb1YzYStuSWtrNWkvN2MrWWVscmx1dWVSc3FJZFpFVS9NQklSeGsrWHRzc1RxNFY4cmptZTN0OXIrQUE9PS0tQytGWVlSQmNHTUFWbXdHRUhDZkVzdz09--608b2d1209d42f40d3a76e3cd1ae279b670654eb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

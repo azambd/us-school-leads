@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9fc7bc4c-255f-4fdf-a1a9-b9aa8660d8cf
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffullerton%2Ffullerton-joint-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YW5jTXc5M0dsZHRBVXM4b0FUR1hMeHlDdFc4b2VvVjAzQnFIa3VsRkRndGc5Y3d0UUcrZWk5bGsxbW1DRnA5WVFVbi9GaHdYQmo0YmY4LzhqbjllK0hJbkMxOVJpWFJlenN1aFJIVmw3UlhZZWN4WTVIcjB4VThOWU1tcldvNzFRZzFGWERnUWRRSHR4dEFvcWI5ZE51WVZFc2drN3B2bEtVbEpZY0lCaXJ1cGQ0clNZM29IOUk1WUF0TkM1ckpKUVZ3UG16OEN1K1NYQ2Zqb2FmRTdaSldLc29nY0V0UnRyOHk0cXZWZHcrWjZhKy9Pa0EvK2JtRTdUWGgvNk4wbEVSazJIb052T2trK1ZML21FcFA1NXc9PS0tWVhkeXM0dVBKa0g1eGRTZGQwblZqZz09--ce2e89bc448cadc19fc97ad73d0e08081a1385cc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

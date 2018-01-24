@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 5df43dd7-fe0d-41ea-b216-8f7074b7f836
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=1261b826-bc13-453b-bf76-766fa13cc61b; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fatwater%2Fatwater-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cVZ5Ry8xMHJLSUc2U09hTUdIc0cvNGQvRkZLNUhpQ2UvN3JKbWxONmQ1UWJiMysybmdhUUZGZHJLYUp2NzUwQ2N5bUtteXE0M0dJMnl4M0VuNXJtQUtuU2dvTW9KbEY4SnVPL0E4Z1VHWU9GaDdISW1zRHNLeVo5dm81MnBnekIrb2tOQVNjdUxhUW95VjdhM0N0OHlFNmQ4RmRkT0FiSTZjNXFQYTZ4Skl5NUlWRDVQd3hsTzdYSTQxaE1ibktrMlFiWDlTdFBlOWxxbHh0ZE1UaDdtVGRoSkFmKzNJcXdtbGduWGFsTGVLQnhJWllzUkgrSThnbXJGdU0vZXA3Qy0tQ3pZbE1UN0Nwa21URHJndzZyRjBrZz09--c9e158f5fe4737f3b6ee0ed5ed0b7bba2a22005a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

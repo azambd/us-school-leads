@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=Y2ZkRUE3YUFGRUE4bU5vU2tLUXc3SDhJbldtaVFWc3Z1ZmNVS3h6L1l5T2JCaFBUc1FVc1J3NmdTeTMrVnErT1pFZjJ0NVhIUEdnTzBYK3lnQUhsWDg4UlM5TVhaOGV3TkorcGhwNTVmMUVBaXJxTkNWZ2ZZMGlGejV1OU5aVnpYVXMzZzRkM1BSNjFLNXpNRG9lbkJVRzlJZ3RaNTVGSUpBdXI1VmYzMVlYaWdQTnpPQkVOdmRmU0F6dUxlZHBDMFpndGJ6YUM4QkF4S2k4RHpmK2lKZzdWajUybjJRWGNpbXZNcGpvR2Q1S3pqNWVjMCs5SDh1Tk1DYnZaY3hsazVNZ1pFOTArdnRmQ3U3UHB5U2lnOXc9PS0tSUdWQUEwUytxbHFqSnBpSloyWTNJUT09--521d21f8a604a0bb4798b8212c97396cccc38869; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fstandard-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

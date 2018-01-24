@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A18265%2C%22state%22%3A%22CA%22%7D; _gsweb_session=dGVXT3lRZ0cweTZRRC82ajNiSndCSDFiZEFkekd5QlNDMklGUjZscG9BU3JwOTdIL0o2TWxuK2lpOUFaWEF6b2dFYllRQVIwaUVKdVlNNGY5c1pwU2d0WHM5OElSTzg3RC9tMjBoaDJhck5wV1ZsazBwQUxndWpNZGlWQXpKVERYVWtFRCszaFQxR1pUbEtBaERQVk9DUFNLSlExclBmNUFMOWJHT2JnNWlWbUtja29hb3ZyaExJOHlpTFhIQXg3bnZOeWVZc29qdHBNSXhNRDAyQyt6VlQyWjlQY0xTUzdOVVI2S3IyUDFFVUVZMTF1WXZzbkJtV3dDL0pRUTRLdlRMTUJDVDkwMXJKa2hZL3RDZWhvS3FQb2czVXA1ZEpRVnZiWmZnNWZ2YW9rYzlscFl0eWo0Z2hHUEZvOFRIcnZZZVdJSStGOUk5cVJKc2pEOUF6U0JiQzFSUytCNFQrS2VxQjhrNTVGaTJXT1o2WGRLY280UmdjYWNCSFJqbE9HUEdaNHVvdFdEekNMSVN3ajVuUW9zQT09LS1XMTdaQzNqZzRSZi9ySTd4V055MVFBPT0%3D--35b9bf109cc2c3b93f1e270401150517389af0a3; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/18266-St-Columbas-Cdc/

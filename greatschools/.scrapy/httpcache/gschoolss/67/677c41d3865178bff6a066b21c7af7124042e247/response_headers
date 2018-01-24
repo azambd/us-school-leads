@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8c41b18a-12db-4cf8-bf74-1269872bf127
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyuba-city%2Fyuba-city-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cmZ4MnZQdnA4VDg3SFB3b3RBV090RGEySVhwNTJCQlFMdnducWJTRGtCTk0vMzVMRnVHWk1ZUFFXcENnSlVpR1ZNS3BXK1AxYTlIVEQwYnFlQmMrZ2MwUGRWRXNtSnVzbjJlTDcvU0l5cGlYTkhHS3BzcHdQRTlOWnRwaGpKckxSM2hFTGgwU0pwOVl6anhPQ3JwNE5VYmZrWVRKVGZ2YmxvelVHVzVBUlRzcDFBOXNVcXE0dTJsLytycjhIWHhjTEc3U3FDVHZLRnJEMFZteDB5SGIwZnluUHU0eEszZFllY2k5bVhFUVBvOS9VcTdEMUdEMDJsdkt4alVlb0h4bWtKZVV4L2xFL21UQkdrSU9RYU0vUmc9PS0tQnAyWk9yUVprL1dhRzM0QmhDK09HUT09--8063b29f60ff8b45c0e93f14b5b097fa09047eb3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

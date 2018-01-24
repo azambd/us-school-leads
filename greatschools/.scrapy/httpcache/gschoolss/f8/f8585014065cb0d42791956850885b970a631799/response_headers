@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4eea4c48-94ce-49e4-9d41-2a23ce3735cd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftulare%2Ftulare-city-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V2ZjbkJ3UkpGNGtXQkdmdnlacnFRcktzcCtWK1ZPL0VUVVNCK2tYZzJMYmRROWN3UFpRczd1N0NzcllUZzl5SitBc0dSZC91RGxCcDJXdEFVcXh4QnV2ZTViTkE0bGJXeVFndjV1Z0tXWGNmS2p1ZTlxVFdlWHVPaW5xQzROT1I1WnRXaFZFdTV3bzlFSHFUcTRZMVFvcmgvSy9VQWptQ1JvbG1tWTFmRFdvQVZtcUZldExld2RLRytwa253SG1sL0w5TXBWSzNYZW9VREVOdWYxbXI2VlJpZWFsNjh5OU0xeDJyYlN2WWNjVnZDVmRzVHdnV2tHOC9PZHhvaW8wVy0tK29ML0NBaUJoTm8wci9qZ1JTSnRVQT09--0e75b842c7ab83f46fa45be419348b53444aafa2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

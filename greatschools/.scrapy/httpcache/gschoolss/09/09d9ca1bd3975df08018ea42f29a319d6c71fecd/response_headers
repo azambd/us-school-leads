@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7974043d-53ef-43dc-b6e1-1872ce331d0c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonora%2Ftuolumne-county-superintendent-of-schools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SGZUeVZvSXZKQjdWc0M3MzhKejRNVWExQ1dqblNxbVpTdlc5b2IxcUtqSHdVK3Zka1c5RkVkcFpyNWhBcVdiMFJaMzFNeXRqR3VFZlRZOUk5K3Z6c0t0b0s5TmM3VERMbzRESnJMbjh4a1VQUUt0cCsxSHhPS2ZsbForUGV0Ri9RTkFPdFRCbjJGRnNrdk5xTFVJdkxnRDh4TUJsODErb0c1MXpQbjdsanpab05RL05EWW5GL2ZxeElhSG9CdWxYY2ZWeStYZVVXczhMcUNSeE53WlFlOXc3UnJqS251THhoUTQyZndDQlFJQ2p3VTJPY011cEIxTy85WUxuRkUweS0tRFh4a0RHN1gvbUdNaVdDUXczbEFZZz09--82080c318f5a60b12143c0c59f6977565242563c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9e890995-1501-43ea-a0a2-78ac496d0009
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftaft%2Ftaft-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N2Q5bEtZRDZVTlNvM3laWm1pZFBXYURCcUprc1hYeTNJQW42blN1L0dNVzYzY2tNTkdZOUNhSUo0aVBCb20zOFp0cmMrRkNaQUI3SWw5eDc3L3VwRVJCRWZkbWVFSU5xUWlIa2p4eU9nMHdOR2dPd3g5eDRmUC8wUEpwTjdDeU55TnQ5MWhmdVp0bnRMM2QvSko2OENpRTBSN3pTanVUOVB1ZUlmaG1oL1ZEaXlremNBcWhkQitOLzZtdUhJeEc4UzlzTXN0UlFwN3dZQU5WTVoyejhldkt4ZnhweVg2K3N2RVpQbzVodXYrd3lnQS9xcnl1aDNEM0VUQVd6Z1hwLy0tQmpUeXdMbFdsMGtuSlhWUDdOQzljZz09--0c4d614060074f37e321f9b933fa08307b812e7c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

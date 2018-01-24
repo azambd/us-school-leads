@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: aa701da6-e49b-40a9-9a69-da6d5dad1e9d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fmassachusetts%2Fandover%2Fgreater-lawrence-regional-vocational-technical-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R016UERudktibnk1TGorZTM1NEpJV0dUNFFpKzVLV0xBYjV2d04yZC9qRmRhRWFUT3FreUVGb1lZa2pYcEs5NVAwYlR6eWlhdXNBYWFZU2xza3hrdDhvRi9SdFloelZNNjczSGxMdWhDUUJUUTJSTmU0cTU5VHpoeWdpZ0tuZy85UHowdHBkS093OHFNUDJBc2x6eWZjd2x1R3hySW1RTkVMM1F2L2N2c0FBbWo1eGlranRxemZLZkJsMUJ5bTdpUXJEbnJqdXd3aHBNWXJ6V1ZsQ0xyT2d5OWMwcTZwd3BwS21LUzF4UitJdlgzS3BWZldsYkdtZ3p6THdaUTZaczhkR1ZBS0VFV25HWkVjTmpCR2VRSjJ5SnZGVFNGUWs0T1NTbU0rNjdRak9vWDFRNHlJd1pDemF1TEYxVW5xZStFQlpkRVQ4RGFZek90bjdPYVhVeVVscnhFS2hrVzVGa0tTN3F6T1htaG9zeHlhVjVFOW13ZkJNMFVnaHc0WTQxVStyVWhqWmxEZmdCeG1hSWxSZ1FZdz09LS1aWUh4WGtlZXhGbGdEZDhMeGs4bEt3PT0%3D--06e3e9430740528acd07247f1510f5377dad867a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

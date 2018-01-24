@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7733%2C%22state%22%3A%22CA%22%7D; _gsweb_session=T3JjV2p0Y3NIVkNtRytKOVRMMUV3U2ZpTThLN2d3ZklheGtTYkdod2VhMGRNTHdGNE9qbGRiRnFoYTBuTkdpbFN3MVhTUDFKNHFhb1VHS1ZmUDRZaFYyUFF4MTRzenpEQ3RCTFcwQ1hLd0l0QURZbnYxM3l4dzdZVFlDNmhNZWpmd2JKU1cvcm5JdUFPVEJ3T0huVWlJN1UwSlU0WHM1VFZlQzlibXFnaVFmZTVDUWp3blJsTUZKeVBMeHFKZVJmeE9CZnpsbzQvbEw0cVZOdnZBRHlqZmIvLzZrTWRlbEl6UW0wSjNCSHV5QjkrbVpiMkE2YTFWQTVQYkwxcnJ6c29zc20zL1RlQVkyWGllZEdzWEU1bm1kc0FnYThxRk9ZVi9FMmlYWlRhVnl5ZEQrWmNPSzIwaWtteWRRdnc2UjZkR0ZnR2hXZTdEdXVKS3h1T3FwTllDWHFVU3FQdHRUbjNHbGErNnA3eG1IZG9ManJya3JPU0R2N2pQNENEZndOelFIN3ZQK0hhdDAzNWhHaUZaSnVGQT09LS1aNUVzUDR1UEVnWWVpam14Qld1V1hBPT0%3D--8be46367087eee185436d4f7be06296b9afb972e; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7733-Anacapa-Middle-School/

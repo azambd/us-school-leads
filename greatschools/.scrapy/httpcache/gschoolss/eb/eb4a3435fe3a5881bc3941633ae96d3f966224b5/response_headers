@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4ab52d53-38b8-4334-bb68-6eeca1da2efd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjunction-city%2Fjunction-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RU84dUVRN2ZGVlVsL3g1b2ZUQzJFWHd1VXJCUkk0K2syM3g4cEZ3M0JnMFFoVndQTjluMEFEaVBrTXhrTDFQQWdJSi9VTFJVNmZuUzVxVjRVYlNxTmgxSGZxSXlmdHlQcGFBMjI4aFdUdFpyMVhJSWx3T2xrVlZVOHV2Snk3YU8vdklTN05iakdheFpubWJLWXJFM2hoWDlLUUpFMGtkS2M0T0Z5eEdOb01yam1ucDkxTXF6NUQ2YW43SEFuSVR3aEdyZVRJWWp5Mnd5aFpDU2dCZkwzcGJ1bFBiYnpjYmhkTGk5VFZMdWpmUWNtRGJ5Q2NRdHFRd0RBb3BzL0dkS1puV0MyT0cycUZva2FsSU1ncUM4cVE9PS0tV2xic0JkVTN4SFNkaDFpZmx0WFRtdz09--f1fbae026aa109ea910fd927c47187cdda2e6d0c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

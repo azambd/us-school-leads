@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 49319658-dd66-44be-b6c4-ec881699bf9b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-maria%2Fsanta-maria_bonita; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MjkvZU5OQVY5OVdQSTdRektKTHFTZk81a3hkbmFBVDZLK0hiYlhNUTk1VXFyR0lkNzNtZXhPeW1oNmZ5a0w0alVVSlhGVHN0czFBMllNbXFVNGs2bzRhaDloYjNyODc3bTRoQjRFWFJFdDFwUFVtWXBSVGkwTmo5cCt0SWpBWExiN2VZZDlxc2xyT1IyWE92ZnFaSmNRaW9mZ3FvSEkrd0IwZHlnQ0VxVTlaNmNSamxyVjM1Q0JHK3ZMRXBWeGQyRXpXVlhMeHUrRzAxQTE3NEROTWM1TkphbkVWSHIxYTdiOE56dnU3Q0NFMlorazJOV2RWK3ZrNUIyTXUrMzB5R3NuNlZFQWJRWTFOWEloazdWNVZlM2c9PS0tU0hoTkxKcHI5bjM2Q2N1czdROWE1Zz09--12b12920f5610cf79af9ecf253cfee2ecd81158b; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 36738112-6cc9-4012-aa35-98be89a6419f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwinters%2Fwinters-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z0NCcUtZWWRzNVNkVEdTejd5RjkrK3llYWdseFN1VzdncFdCWU9hWVVId3YzRHN6d1h2Nkwxd0hlc1ZBcnhreUVmV1ZhOHcxMXBnbS94VFRTTHZ6T0wrd2ZyUXZpOW1ORHVWcmEzSHVVNGhHRENxTmhidGhtR1A0ZjBxMS9TM1Vsd2FjVnpQcEN6dFhLOUJhZk9PbEFqL2FjME1NTnkrL2VZTFk3NjU2MHFIQnZDVmFTSTNqOFZsTGdsWUFsVGJvSkJ1YUNYdGFSSytxaG80U0tnUkVSdkQ5aVl0OTl6U0krYTF4RkJDdmp1Y2tCYlBaYWVjUlpTZitjcDVVb3UwSy0tL2RVMWZzeVVzbkNISGJXNldKWmRPQT09--e91c8561d30ba27ce927841fb0189d21b76e86a1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=MHYxUWdra2ozTDF3QXZZYnpoYmRIenVsUkYyekFEbGxscGpIS3JmMWNWTWFQQ1N2TndqRGdjcE1iYi8xWU1HTTFEbEYxQml0alBZTzRUeUxIUFU0SzZqbVE5aDZuZ2lVc29TZE5FWFN0NEFjRmprOVZpekVCSENvOHRZSmJ6ZEU3WEVEUjZqSitzK0ZjRlpJVFBHQmVvbVpUNmtvb3lsMjNjSkl5eHdxNW5RY0x1anFXd0prdjV5cEVyNEdHaEh4ck9Eamk1OGRoZE1ackl2MXpwcVdhUTRzM1RCdUM1c0FLM3lONnNhckpyT1NlT3JjMm1neC80YktZek9VdXhtenQ2SFJmRzI5eVVXbW1yVTNXV1JEOWc9PS0tV0oxYVlIaDcrc2RPREplOUZyZTNqUT09--37bd69f17289734cc3189ce585be8f677d9b5685; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrass-valley%2Funion-hill-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

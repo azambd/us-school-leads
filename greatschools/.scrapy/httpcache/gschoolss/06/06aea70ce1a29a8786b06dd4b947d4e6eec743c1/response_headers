@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ce671746-8593-46fc-97a9-812b3a5cbc1a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Fsanta-rita-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MkZFWDk3czFFbFhPaXpXMHhDNzlUclllSlRpb211L1lMVjZjeVNsOGQvQUsrcytDdzA1Sk9OYUZmeU9jbWNtdE11M3hVc0swQWl3L1NKWDBGK1ZXNFNsSVBpNHk2MXVnNmtzbnhpUlFodlNyZ1ZaR2c1WEljZDlwbFRxdCsxNnRxZnRXTmxUeEp3OHZ5Z3pnNVNNdWJUa1I4bFc3blN0Q1p5L1ZvSGdLalJIanNCRFJmMmxVLzNoNy9zLzJCQjdqVFpKcTdPSFZTTUFWSVVXbU4yYnhDYUhzRCtKTlFWS0pmVmpPRENzaTZSUEJvaER6eDAyTlNlK2pKSHBFc2FiWi0tU0dEMVhZR1lUekZBakQ3R0JZQVppQT09--f6825eb471ddd05ccb3f8d9b2f1e144a2729968f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

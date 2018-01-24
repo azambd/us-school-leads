@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A20831%2C%22state%22%3A%22CA%22%7D; _gsweb_session=OGhDZHdPeE1SNjFBMWdINytiWGVqRVhhRGtPT1h5MjVGQUZWaEtaeFJKOXVOMGxVUDZrZTd2bStwV29Oem0yR0FNbTFpN2k1Z2VVeGxyY1YrY09CZXFYd3BTN1dFdXEwNi95Q0JGa0FHcVpidmt1TnJZcGFieXVJeGJZZE5lVXpRbnRtL3l0L1pkVGpYK21zdk1iQzhTbjBxNlZ4Z3dRZ29pWDg1Y29pNEhYUnpxaWFnZkZJWnFoOFNoVUlSNFFEODR0SUtQN25Sb09NakNHQSs3NXJ1WUxXZnFVUmRxalh6dmFnUjJYY0lXSW93SVJkRXJwcjhSeDdYRVNOY3dveDQwaUNOV1l3WnJIc0NDTDBBaFFESGd6dFZEK1ZTakd0a3JibVNDNHF4dXZyZHBVVDFpaDZ6cmVpbEF4OHlQeUhXblc3dk9XVVpXelJIeDRxU1JpdEdNKzFGZ2thQWJBeWVJRDd1SkZJWGozNXVXdWZjZjc5NGFxakRKNUd3K1JUaGVQS0RiQUFNNWEyS0VTTlZMWHpTdz09LS1KY05pYjNiSk80RVNPT3BFVDFKSEtBPT0%3D--28c9c9c2990f60e4f9465f517b8b50496e249acb; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-point; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/oak-view/24511-St.-Gabriel-Academy/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 756d0cea-ccab-4bcf-801d-69cfadeeffa0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fleggett%2Fleggett-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WU5IdjJoZHhUZXg0THAvaGk2RnJBam9mZFVWaFpETlpMZHlPYTRIZnU3aGFnZXRqL1pXbjFjZjYzcUtnazlTYTRka21FTVRYZjl0V2haUXBWQW9oYXFPSzRmVXNiS2xpSUYxY2c4QVRpcEorZ0duWjgrbXI0ZEgyTXVZVStZZDc2bVNVaWs1Y3l4SXFURzlaUHB4L1RHQk5uRFM1M1ptbnN6ZFdBcjBtamloRFMwTEFyREw5UXRIVjNiNFMzNFpKZFRiNHNub1lyTTlrdVMrN09LM0lhQXpJaFJNT29iSFFoR3JFZW1LdnFLeDJTM2JOTWJTNnZvWEtWZktkZUVILy0tYjQza3VCZm9zMG5LNDQzYmVYNSsrZz09--c7b8254462df88386ebaa645c20e52f15b33fa19; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

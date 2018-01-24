@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 4b743441-c837-4685-9c7e-3b13a89058f8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=9660c7bf-f75f-45e4-9b8a-ddc80c65b87f; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farmona%2Farmona-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y0xzQk9pbkZuTWJpazZUNkw2RS9RQzNKdUhrcVluK1RkTXlseFJmaUVsZUFqbEY2T3NoN0NzYVdoOUp6OGlTcmVTTmt1L1l1REZKOTR0bUxoTEk4UUFzQW9QdkprMFY1Qko0d0ZSdjN5c2VyOE4wYytXbU9LUVhxbzJxNEUvRVhIcGpXMmtVSHI0M2R4RDdvRTVGZDU4Umc2U0ZqTnZtbG16Qk9XZzRHelFHM3NOeVV1dmpGa2lMblRLVTA2SGpjYWpmekNoQUtnU0MyMndzQW9WSjRBbFFPNDVSS2RLVXd4cU90dTZoaE1pVGhQTHVWUlh3aGdRQnVrRmwvVDQ1aC0tK2NEaGZPWWFEb1A1Zll6VFQvVXFTQT09--8e91b65f689d6ef2764b29a3809c576afa37e3a8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

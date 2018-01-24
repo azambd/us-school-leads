@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d1055d8b-0bb6-4a82-8272-5f0027c77993
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flincoln%2Fwestern-placer-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OFhHU2ZtVnlGSG56VmdDZ21SeEt5dlZVTWVwbVQ3dzRIOXVIYXNsRjFidjN0M2JmRUxGVUxHOHpkZFRpQkowWDREcGFaVjIwaEdaNWxpVGtCSFhGWGt3VHM4WlR5RHpXS2xaL2JQaFBPYVp5VEE0cnlUQytXYVNrNXhWbWQ3M1hra1cxYmg2K1g0Y0VOWXArOHRMRThFc3I1SGRLYU9UVm1VbDFJcEhBVzVZZzFnbkhCQWduTWphdmxLWFIxNFUwc1lHa2ZmcFMxZm8wVFJWVzZDZlhLOVpKU0ZEcFprYUVvNlBleGsvNklGZUJRYVlKVkxSaWkvM1ltWWZDU20vVC0tR2xTMEhPVzZVRWsvbWFqTGF5bVZRZz09--c8a6d641a25f18b70962ae6230a016efe6ec04f8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

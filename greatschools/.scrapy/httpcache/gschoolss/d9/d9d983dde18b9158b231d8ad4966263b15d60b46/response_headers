@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 12700d93-e611-441a-9e13-496c93d41128
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsoledad%2Fmission-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dksrUHBWUlZtTlVhWHFielhiTlR1WGtROEhKeTVmRXNUc1Fvb1F5ZEdpMjdiajJBTW9wRXdYdlBYcXU0Y1lqTzAwelA5cEplV2RST1FMT2srWEhRS1hVOHhOVWlaMFBTZU5ldlNWa0R6SEgvZkx3UTFTM2pPR3dLcG5KZWNzcFFHdmpzNTFmMnhTL2ZSdkthSGw0b1pjanBzUHIwdVN1d0FLUGIvODVFb21SOUpWWWR3cS9ESW56d1hPdHZJRkNuSmFJV2lDM1pJVDdSbDNyK2c3L203TlJhMmZwdVNvUzJiOE9oZnA5aytlUEhpTjJjRWpkTHJVM0lYRjRhOEhvVy0tK3VnN0l0Ykpva2tzN1VOQ0VMYlhSUT09--352ed1a6fe7d4f76fc628f5f940da1a0a244df55; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:15 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

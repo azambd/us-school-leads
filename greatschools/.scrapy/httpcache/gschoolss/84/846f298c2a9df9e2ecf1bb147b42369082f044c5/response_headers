@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6f653f58-5d7d-4dfb-827e-7b7145f6bcc8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fchualar%2Fchualar-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UUFQckpDdjV4UldUUitCTHFhUThOb2tmbE9VdFBPOEJ2b2ZId0dGMmF1MkszZkFHZEdGYzJXS1NlNXdna0FmY0NxbVdnUVl2UDI3YUdJQTJSc3RhMVRUakxJYjhaYi82VzhQcXhsR1V3T1BycGJHMzFJTkF3RDNYT0dNMjlDWGdmcHVmTTBLM1JOZW5mVVp0WlFhbnY5N3RhSVNLdnU5ZkpBWU5rd0g3MXVRamVNZE1RKzNGY0NrWEIxcVBkb0kvV1N4OEttQkY3Q1VmWmxhUnJ1Z3FGY2tXVS9WTHNRaldqZitnVmgyS2xncUVxRDh0bGFLd1RqaHd6eVlQVXZYaS0tRmZxSlkrN1lBdWtnalp5a0hHZzJQQT09--84b3e7ae0ccf3c24c710d99810e3cf18a9532253; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

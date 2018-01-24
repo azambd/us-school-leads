@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 13888080-c3b8-4a75-9a69-d521229398c2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foccidental%2Fharmony-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UXdreGJuZjMxVXNBR0h3WWdmdzcySTRibUp4YnNzRzhxY2ZENW9FWDBETU11YStoak9XVHRQWTAzWENoVE1GdXUvaXVYb2hxcGhNOXI0UndRZlEyQkRYajAza2pXQUg0akRoRlhXUUVFVThqWVpOSmFlZC9ZS21IV3RpQjJrcTRHQlYvT0kxNmY1cGRXamtuZnlIdjBzajdWeUZ6dG80TVpzb2xWYnVycnhuaFNPTTliQjlWZERtVURmYkNERVdHa2lSNWxieU5tT29oa1J3RENUaUJON0ZTMnVwbHJXVTBJQlJoRlFBSmViV0NjTzh2UE8wNzkxaW4xazk2V0xRTmJlWkM4bXdKbTE0THBQWkF5UHN3YVE9PS0tbEJGeUE1VE9sb2FSakNJQjRvR0R1UT09--288ebc7300d7cab3124375830a9017f2f5f47806; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5e42a2f5-32dd-4dc7-900c-8567b741636c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fimperial%2Fimperial-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=YTlpUDhlQmlOWE1yeDZPK2RVdE1EMEovUzBrZXNrZHppb2FrV21iNEtydCsrRFdrM1o1WmNpUTN0aTBBWS9HOWxKUjJ5d01ZYW5hQnd4MEFwL1IyOEpjWi9vd0xWVGhZcGh1WmlVMXJidjBWczdmSG54cS9CT0I0N3pEU3UyeVBrWUhBVC8yRWgwZko2d3VnUm16Z0xTdkNyYSt2R2R1R09nN3F3TlNwUTRDRHJ1TnVzRHZXZ2pYUUtJVjNRaE5RaDVydzZzUGNxNjJNVGYxS2NhY0c4V2I2U0p0TkpHY0NTMEE4M081c2VKeitjN3JIN0F4aDBjR2QwdGJoNlNDQS0tZFd3dStCWi95bDQ2RUpURzdKWkcwZz09--483b8bd594adcfd0e9aa6b6b31b2c59ac43fa846; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

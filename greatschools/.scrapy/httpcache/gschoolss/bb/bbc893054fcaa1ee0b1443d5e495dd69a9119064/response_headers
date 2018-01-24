@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: c3b6d957-d534-4a40-93f8-3cc477e07584
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-lucas; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TTZrT3JmaVQrVWlOKzJuUGxZN2hwWmppUGVLVG9EdmNBMHgwTFQyNjlaanpZbDFKVDhnbjFCcUR3VVRhZzd2eExEMnFpbzhYMmxiOVJFY1M5ditaaDR0U0lzc1hwTnhmQlBiaC92Vm8vMkg1MXhjYTVNUjgzTnFWUTgzRFd6K0RneThHNEFVQkFsOVU5TENKWFN6bERPVGVyM0E2Y3VCSlJUNmR4MWxVK2FodWd2dW5QbFUyWEkzV1hFK0Z5TU9FYkxrRFp3dmdMcFlWdGZ3enpBcllub1M4MGNKTlFKUGNLK2t3NTBxQklzUkFTaUNaWFZYVGdnMDgreXhmRnVBQVhEOTN6TXdKTGF2Z21UMmdNditGaEdUYStweG51OFYxM0c1WlRPRVp5S1R5MTRqUEFncTk0T2dZKzNqcllnVjd2R3NjVXVDenVzRy9JbTBzQ3VFOE5WNFh5Y3QwQm9XRkd5eXNnNFJGR2RCbTFJMHFWYVFKUlExZzcycjV0bDlPU1dBckpuTkV1V2w5aG1XOEN5SG1SUT09LS1IWEV0N1gvbDBNckIxaUsxRWw3Mzh3PT0%3D--52c7f2f0b5ccb69c829235a04107ec9b4c84bfbc; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

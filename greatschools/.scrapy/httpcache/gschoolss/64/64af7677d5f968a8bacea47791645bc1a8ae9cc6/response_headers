@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 16128cc9-6325-4e8d-aceb-673eafbc86b7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsouth-el-monte%2Fvalle-lindo-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z0ViQk5taW9RKzZ4dnNJMENUZmNGUnIxNWlpZWtYb3VmQ1FZZE9lL05vM1phQlpnNE9scXRBcUpOMk1CU01kdmtSRFBWM283Mk50TUFQZ1pxeFkrQk4vUEk5WHhtSnJOVjdWYzI0MWxYTHRzYzNMeWpGTTFrV3dFU3h4Si94aEN3bzBBcy9GTGprYmZSRTJSa0xzaUtURFVYUFpLcEd1TXhpUEpJeG50cFYrR2RJWE8zZFJPTjVpWEZrbm80eFJ2OUIyZ000N2lZYWVuS0l5YTFoa29EVFJwYWRHY1BKdE5vc05YR1pmWVoxWkdiRllWNkF4Nm1raHZJUDZqbkkzNnJuZWdaY0lWYTVvMXUvRGVyYXRPRmc9PS0tMkh4TmVJYVM4OGxQTnhpUTdNa3Q3QT09--dfd232f95c461bc5e5a42f786298c48229199cbf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

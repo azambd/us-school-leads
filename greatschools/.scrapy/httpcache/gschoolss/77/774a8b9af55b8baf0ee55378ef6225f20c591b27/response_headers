@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 92c04a71-df32-40f3-994f-493af60bd94b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhickman%2Fhickman-community-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RmJHMGJXT2lZVW1BaXNULy9KVWdUS0xGNlBZMXFzMHhXTFkzTGRHNmJuRHRKb0VSSE81cXNDcEVUUFFNd3RFRjM4d3I3NW01b3hBaEpjR0E2d253aUhFd2hRWENMNzZMaWJIdlZqQ3VuemVjUVdDakhSTWNiV3hwd0ZWdjlwb0lhVGM5aExvVUYyZGZxZEk4UHZWR2w3TStiQzZTc1g3NkNvd3ByQk82ZG1qNFh2K1BxOXB1bTVtRjFoUXovSU9TQWt3UjBGZGk2ZklYaTdUS3VaS2Jad25uQUF4Zm5uUk82T1Nxa1hRTm85WGZHNXZmVU5hV0FGSWlwdWZNUzJxNy0tUzNGRld2aFVmb1Y1S3loNXhQVjBUQT09--3f820d2ba3dcded0784f47747327c3542c2ac26f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

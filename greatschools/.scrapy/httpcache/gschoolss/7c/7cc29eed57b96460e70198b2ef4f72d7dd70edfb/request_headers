@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=cS80emM5YTZLb1NrV0t0eWJyY1gvL2E1Y3RxTXpQdCtIVE9GVzY5TUIzdTVkU2pPR3o4WEhYaXNQbGJ4QW1qNDRDMkU5bjB4cFNYdW1vTlFRNnlhcm8wbkJEQjhnN0JzQlBSc3lubFNUb2NqckpFTnZnK0g5clN0SDN4Z1BCZTk3WElOcTBiYkFZSXVNS0NDSEhjSzV2RTdBRXhKeDZEeC9GaE8rdjgyejlvVUljQTRRMjE4dENnTjlCYlJDNFl6YXFQRnVaelg0YXVOVUxkakhZL0x6QzkvWVZrVEFVMnMrbDdKenlIL21OczJmUVFPWlRkS3Yxb3M3Yk9TSG1aZ2lsb1FobFpJYUEyODc3bDl0U2d1R2c9PS0td3o1SDJySTBSNzNvUE01aG9YS0J3dz09--b9ab08bcd1470a67e597b99b1a8e0d857d0a9947; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredwood-city%2Fsequoia-union-high-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

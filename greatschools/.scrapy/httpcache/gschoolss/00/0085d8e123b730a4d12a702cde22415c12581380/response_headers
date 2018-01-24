@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 387000e5-7f56-4ddc-8983-bbd8683e67de
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frosamond%2Fsouthern-kern-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZVNKYTl0M0x4V1FrRm44N0NrZlhUaGxZL1h2c1lrcjdFT3BTeUg0ZDJiMDdBVUFneUZoQlYrdFlpMTRneUtXYVNZQmxRSHdSOWY3cGkwNSsybmp5dHN0QXp6Mk02bnRZYklEZHpETWJmZjQwdTNKQm9ScTBqVjIrakRGNXpJMUx0c1F2VUNGaHRFc1lXOHJiTEE4TGl2NG5zRnQ4NEZRb3haRlVDK1lEd0pKRktwVENsZGhxQ1p1ZFBGTjlNNjhDaFVrQnJiK3JDU3JiUGY3aVJCT3pnTmhYc1N4aVJDSUJtTTg2ZENuKzRkQ1lENlpLbXNVUTdnL2twL1I4WWl2eC0tSTBTODVBTXBxeGtHUVcvbU5URk1CQT09--2e9359dd946d4941e2d29097f8d99331f8cf6886; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

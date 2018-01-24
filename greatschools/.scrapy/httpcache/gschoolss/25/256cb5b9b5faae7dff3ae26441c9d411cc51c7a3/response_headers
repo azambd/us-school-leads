@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 00427c9a-7f28-4d11-a003-45aecc40436b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftorrance%2Fsouthern-california-roc; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TGFmMFN2ZUlRYzkvSWRnVnJyYzVJd3g4QlRPQlc1Z0l3KzY0TVQ5bFBFSXg0RWR0UGJTL0N6Z1FVRjFEdmZLUnhkSmxLY3RlcnVUYnVUSEl3SzVtU0RrbzM1OSswT2w4UFZyOUpuTVJheDV4bG9NS1hCVlZTamV1a3RpbldLZnI5UnQrL2RwS3dKNklLNndGVUtWTFJxOTJiRkhLbGUvakxmclBBZDllY21MSU43QXZadVpwakVGMzRFSzk3UWJib0JvdVYzdVVQcVpITE5JdHc0VGh2ZURqdGZIUDJUZitGalI4eFZ2TFdhV3BRNk5ibHJ0czczT0lFYVBqd2dvZS0ta3V6dmhaN3hSM0xKRGV6RlM3T0xtUT09--4ff53df29b03e9ef682bfd7e55abda6ad8bf2439; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

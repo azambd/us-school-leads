@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4e39dd33-f050-4d64-9a90-aade9646cbb3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvalley-center%2Fvalley-center_pauma-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MXhnVWlEVHN0dzAyVXdaZ1JlQ3UzR2xvdXk5SlRDb0U5TWVrZkZOUWJWOXBFQjV2UHU2ZTdvNE1yUDhpZThxbjA3TWVjSXRycmJrTjlCdkp3aXhpYkZvZ0gyTUpnRS9hTld3cS8wekk3YkhDaDFaWUxJaXEzbS9EMzdubVJVWm1jbDRMQXpxUXdodHFRVnVwUzdIay85KzdIblk1ZEt4aGZhMVR2UUFCWkx1end5a0lBQVJvcWljL3JVQ0w1a2M1NnJCSFB6MDVsNXNMeGlZdm44aXVlb2lzdEJWRHdBTldGa0lTbnJjMk5KazV1OWZEdmFqVHBVdjc5QXBXb2lYZHNQYUJDZ2tlN3ZzWXRxa2l6NDdKNEE9PS0tL3ltUDN5VGllenpaNkQrUHEwSUFMZz09--ef9db87123a0b27d27073004f06c06c7f3eca132; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2971e742-59b0-428e-b578-20bdaac23546
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmadera%2Fmadera-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TlRKNlFWZmkrdlU4bDFBa3JQQ3l6WjlhbjBWV3JSNVJTUncxS29kd0lTcVBxTEZ4bnpYc1JqZjJ0bEtlRTV5L1orZGRCK0t5SW9vQ3BOV0dhUDZYd2hZdEdweEN3V1F6WDN0ZTZDanFPMUhLaHRwWXlQN25pSnAzTkJUdXA5R0RLdDc3aXppcnZmQXhxQzdsNThnY0RlbHpzSEdBSHZwMlAzc2NZR2kraEtJZGVwYXFCSjhNTnkvM1FOVXpHNi96Mk9qby9EU0NhODZxL0ZDWU5wR21HOGFFVDlXWmNiTU9nL0xVZ2tzeHlOSTFYMW11YktHRXZ4UVB3Z0dUM2d6aC0tRlRPNjJENU5aK25qdmdMUTlUVVk4Zz09--2c079ac7319b1e5098693c48cb5e98534c99b03f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:21 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

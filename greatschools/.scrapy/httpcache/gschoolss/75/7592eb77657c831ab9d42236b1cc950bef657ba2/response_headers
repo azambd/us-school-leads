@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: b2339039-1a56-4b3f-98f2-a5957cc6560a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbishop%2Fround-valley-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K0dBU3dndVhESTVpUTNwU3ljenhsZ1lTQUx4bUl1YlV4VTNieGFla2FXMzB0cVBQK1dhL2cxZUx2UFd3NDYrOXRTMWJ4eFRFOERFVDN6c3d4b0tZblgyWXZCMzlpc25qNnFIdmdESnpBOVdoQXp4SUxxOGZYdldHQk5jYkFCL0VCcEwyMFRvaW5wOXBGc2IzN2hLVnFGZ1NndU93Mm1XWkRzc0RTSlhIMlZjanNkTDArdU41NEhESXJldXY2V1lMb2JJMVdoNThsRDVvSWlQMW5tWFNTSVA0eE1JYW11L3k5SmUrN3BLU2N2UGJVRjRVcnY3aHhZdHNFZENndDhPUi0tVlNRbFJmb3ZzdzIrSTVoTXYwUklHZz09--7c4d3f67c0b101f97fcd5874bb2b839581e0114e; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

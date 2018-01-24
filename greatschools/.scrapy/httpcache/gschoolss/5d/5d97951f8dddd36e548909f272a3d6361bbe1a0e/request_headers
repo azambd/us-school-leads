@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A27599%2C%22state%22%3A%22CA%22%7D; _gsweb_session=TllWMVZZakJDQUlJSytFMjBRdHlCRU1BNEpoL2c5V1NDNW9wcEovUjZWa3RWZ3UrcU5nb2loSjFSLzlFZ2UrUXF5ZXpvdW9ST2dpeTNPc0xYQmV1K1lKT0NObTRGSTBoVFgvQTJVUjEyQWtESkl6SlVBUTJZWWZhWGJ4elhSR3g4bkZvYVZuaUU3cGZ4QXFJWkhicjFwSzByWVZxQ0cyS3lTKzlpMGFXRlpPZWxVSVpzN2NNeDJoTThNWDBpYnBhQWordjk4THpnZFRaVytUa1RYeW9qdkp5RTBkZzczbDVPcWEyYmdyWXpYSEZzeUU1ZzQzZk8wWnNMelptNWh2Y2FYQzJaM01DK3NxblJJSzhxTjByVTB5Q1NtU1JTdGpxSmZGaGtVM3lJMWtER29wdERkYUxLVEdOUEVjWjFYdWpGMEFnTG5ZNGdsR0RoWnZIb3Y5WUdCa09GdTVVUnoyM1p0Ri9TdXJaNHoydmg3ZVY0N2k4WGh5VTJCMWJLTGNGa2w0TDg5YVVvd0l2aWllbzMyQS9oQT09LS03cjBDc2dYazAxaFpLWFMwTGFvK2dnPT0%3D--c813ab826224551a821441437ca3039c9d8a88cd; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7755-Sheridan-Way-Elementary-School/

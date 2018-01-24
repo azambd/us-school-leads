@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A8591%2C%22state%22%3A%22CA%22%7D; _gsweb_session=YXc0ZmpscDVXbmdEY0VCd2lJNUNpRW82eVdwcERJRmlBY1JDRTlCa2tMb01yeVRtd3RqZmRHdDZodEtrWXNISnpqRmVSTExjb0Mvd2Vkb0l3YmdDeWVHZHBhcnI2dE5Jb1VJbFR2cjFpTnlJWk8xRTlDbTBsME5yRlZaejVmSjcrdHZpcHRuOFRnbGtHV0VQNkMzV0Z4bVZTWTVWZGRaWGtoRWc5NkI0K0JjTktDY1IvTGYrRytTRXdWc0lRMmVFRW9SaHdlMHg4Q2sxU0doOXQwTW9HcUR6a3YrQmdydUlRSkM2dmJkRmtDaWVRTFpwbTk3bXBnYUxiSzhKQXpSMCtlcmFvMlQvdmVka0N0bjBRVjVydlVtWWc4NTdzSndCSDhDN0JRSG5NNndQMnpDcXdVb0RCdGFOUVJlV1ZFaytiZ2JFTVE2NVJjb2NwdlhEbXYzek44a0t6bkVSZ09BOXdRSFRJc3ZQWUtFPS0tMGJBQ2FOU0g5MlhKS3JNeUZIWElDQT09--cdc661572817d78c8bd1062b6798f33181884761; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilmington; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/california/port-hueneme/8591-Hueneme-Christian-School/

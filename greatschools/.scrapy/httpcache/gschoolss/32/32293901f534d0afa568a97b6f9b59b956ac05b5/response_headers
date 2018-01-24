@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 510f13ae-6373-4d97-8dfd-860141063a29
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbridgeville%2Fsouthern-trinity-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QkthSmsyYmV2aWdQMXpQem5hNkZiSjVaQWlxK2daQkQyU0hndVUwNWVBVzBVMmhHQVZRUFpYVTJ5QmlzUzVlZ3VCQnRTYWxDa1ZRV0RsZXk0cHhvMVFzQngwcGtHMlVkY0pHcjVOVlVEV2ZIM1VEeGxWYk84bEhZSzVKUkhoR3ZHckp6d3h0NzdNd3hLZkduWFYyano1aEpHUW5jeE8wTk5tUnZuSWhWb2hBcC8wbVVBdU1MRGNITnZkMyt6ZVJUVnh4eHFnYmRkRTNXSmdEV0tPejJLUTdaREI4blhnVzVnUnY4QU5sVzBIbmpBWVovbDRnZmVjb2o4WnhMQkhwdi85TlVPMTQ3OERGKy9QUk9vNnpzREE9PS0tOFQ4N0VGU3JmNW5iT1dleE5qVHR6Zz09--b8e7264ab75cf5cb79fe04143e5286d7bf2b632d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

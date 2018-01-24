@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: be78c2ea-2d5f-4281-b676-5194dfefb106
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fkingsburg%2Fclay-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TjMyZi83eHpROXRGZGdzdVpCbTJVSFBMUnpmdlZxRjg3ZDREbXM4U0ZheVRqbXV6MTJ6dlN0YWpuRUxWOCthY3BWekJsN1dCNEQrRjU0YldkbVg5RnA5TlVkRVdwcmRCa2dOTkZISmVhcTh6Yk5KS0hXVjF6L0dZN0pVYVVnMm5EbTNLcnNneDNhSmF4SHc1TVpISkpjbEdGR3NzVU84cmRtemRERHBxdC9LYjMrUGZFU09qU2tQazNaRXVHOFZia28ycFczMFZIdWVPaGt6RklJZzNWcmtYRkRseGxTa014MUZNY1FKSHZrbjZoWWxBV0hPM0JweHlnRjRjRitKblE2L1FWVklETThBSG5OOGdqbGlQTEE9PS0tMk5LU3FScEExbjZ2MGVOVUY4NWZVQT09--e7d93a3756a73c47d504a3279b1f7079533aab50; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

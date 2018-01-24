@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 002ff649-095b-4d16-b1d2-a20498af7d46
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwaterford%2Fwaterford-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=akl2QTh6NTRCWXgwb2Z0TGQwcGFMTVMzM0xHc1dlK3pVUExXbjR4UHFnMlJtZmc5d0ZWMkFSZzB3dGpCcEZMTHRzUVpNRWg1SXV3cTA1Q0pPYW9LcGU4cXB2dy9XcTVCNGN0cmhZVXFIdmNFRk1TcXQ3YlF2bklLUnlOR3NmWUh6dW5FRU9CMDZ3ZEpoZEtUa3NrSFBrdFB3TjhkVkFhcmtYK2JGclRZNW4zSWw4aGhNcXJmdjczbE5MN0JKLzQzdDdMMjA0Tmp0WXNIZkRBdWZiaExKZUoybEswNXRuUVdnT0lvTTFzaHJOdkp1Y1VFUGlmK0JzQUc4SVBqOWxrU3BQWDgva0xlY1dqaU5OV1JFV3JwSUE9PS0tcVB3OTIzdEc2VkZSNno2L2c4UmRxUT09--b2c162d9d266abaebac7869691cfb05c84544f2f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 68171941-5b27-43f3-8e69-5643eb24c6e2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmerced%2Fmerced-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TmZiN0Q5S0pZUFVFeTV5RytuYVhITHNQNmlIZHdIWWFYMFl4ZjhFNm9pTkVjbHBMclZzZUp5QTJ4T0x2YWJpT0ZWdFdRN1AreG44aDhSbWRLam9yb21FcklEdEs1YldHdHNwbmpJZ0dESlJ2SlcraHhmb1owMEFCSUZ0M25vY0J4R1NhNlBRWFlicDRlK1k1NmR6ZHZEZXltamtNaVhHc1hyMEppYmdDR1ZHWnFYaUNCTkRDZHBYUCtrdmtGY3V3eEVJakc0cWF2Q2EyeWV6WUlRcnR0NXRFS3QzWm1ad1lPeUFrc1BRMTV1dGFTV0I3ZytzS3R2b1lGdHB1OGNNSy0teXBMQzlRVUhsbVpqWFloNUFKTkRodz09--3f342e6a6821c711374caf6787aac0f2dc2f059a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

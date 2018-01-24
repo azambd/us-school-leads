@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7737%2C%22state%22%3A%22CA%22%7D; _gsweb_session=MitzZUpRU1VLWU5xUmpqVWJ2OU5ZbnNod0ZZYVNoa0szbS8wQlBNTnFSWUV6dXVNZDdhdHI0MjBRTk5MMXZHM3p0THM5T0JrSUtGdVZXaXJPekE2b1l4aWxJOXlmUjRWMWRpeGtKZHdpWnVoUDNNaWdTaGVqV2NkOXQ1dFhkTTA3V1RzMDY4NEFxSFBpcDJlVUNQUmVvK3ZSZzFaMm16enFuTVRXRFh3aHg2RTVqRzBTb1g4UE9Jd0d3N2RCWWRYYUg1SEozWVFQMXFMUENyT05rY1JoOWxNMERnZjVMRzNSRTFnSE1MUVp2dUl2K2ludFhSb3N0ekJXWGowK2NSQStJcGlIbjdKbTllY0pMejVLeXliK1E9PS0tcXNpTkxLTDUvTlJHT1NUYk9pT0F3UT09--bb8c77a021e575df45a543180451a2a72118b2dc; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7737-Cabrillo-Middle-School/

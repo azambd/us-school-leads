@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d3db0c1b-b695-4f6f-a558-1613cb51be31
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmcfarland%2Fmcfarland-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aHVyTklaTjNRNGRSSkFDcDF0WHJyeUFUemdLK0ZtdmFhOUpHOWx4MGNZcUlZa3hBWi9DdWVQdGhuM1h5cVZmWnRzeHZyRERRa2hUTFlTZDVjZUp0SWNiTjlLSHhtRXgvYlc5M1NmUzVlVDlacTk1djcvL3pobnVpZVVvalFSVHVNcTlnbGZNSlB3SVFUbWowWHVvbTIvNHVLZ2RRTTNycVJyRk1XdEhYZEtCTWE1dkRuRmpZazBsQnVZV1ZydnB6bVk2Qkl2UFRtZzhkMDNWSXVhczY3QWpwdy9PQlRRWUlkbUwza1g4NzVPRllEb2lPRlBYQUdhVzIwSVNYVEk5S3d3cDFMeUdmV3BuTzU3eUJpRXRZUnc9PS0tK2NPTWpLMlF6ejk1SVlLY3I5RFROZz09--8b677aa3095cfaff7bc5592cd422e956a283d9bd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

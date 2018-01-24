@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fd0116bf-3268-48c6-b113-670e5d9a70be
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fflournoy%2Fflournoy-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NTgyZk5mekZiZjM2UTVWRlZyVm55NTdmMGZySnI0ckJmQW50RmhWbStJRDkyam13cW9OelNYWTF3NmI5K1hBdDZRaThJZFB3dEJLdUtuMG0wTWJManNsRjlrdjVUamc3bE8xbjRkZXNyWDZGbVdmRzA2NlFvcERaU3ZscmlEUmZYdjd2VnczeWlnTVlrODhpU2tFd1UvTDZEaWxYUStLOUJPVTU3UDF5NXdyaFpTd3lqTURRck5lNi96WXhGWm80QUxOWE52UG1heVkrYXhYa2RFMXYwbFFWWjFFekQzYlp0R3g5WVdsb3hTK2tyM2ZXK1NLcW1jUlRXNUVnTUtpOS0tZVhEN0Q1SEF3Tm1EUzBHQlc2czQ1UT09--84800948802f425169bb5ed75fbb7c3673ef8809; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

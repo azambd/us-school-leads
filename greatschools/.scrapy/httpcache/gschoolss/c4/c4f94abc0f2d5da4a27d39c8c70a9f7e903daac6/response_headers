@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: aefbb234-9538-49f2-9ae6-d928d28215be
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foroville%2Fbutte-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dFBjR3IrdWNKRlFURHh0Q0J6eXcyenhQTy93dFhJZ3dEZ0IrWkxSL1poVC9KMVRGM0JSQ0o4YkJFY2VmMTljVi83NVFxTVFTR2NHU1RxNUNkZXphZHFiYmk4d2h1NERaTFh0NUpLeGw3SlcydnQxYUwxaCtKd1dUQ3pZQ1h0NU1MUWkxUmxieWFBZ05oYytWaG1lM0YyZ3lzZEIyTEVuQzJnZ1ZVN1pHUlVYRTVXMml5dnN6bjlKOS92UG1BVFVrZzNRbnEzREtoSjZTNzh6Q1VmMWdiSmEwRlc5NGc2Wkl4YkpYNk9FYVJ6MXRBb01zbWRKYUVyNDFzZGJjVTJUNi0tTDdVb1NhSjRKQldjQ01Kc0loVFJoZz09--15adee0582d12bd612eb432ef588b1918b72ab2a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

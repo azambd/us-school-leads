@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a8b18d26-3193-4c54-9521-edf5d1ca72eb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-bernardino%2Fsan-bernardino-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cXE1MkxHMlRXMlljeTI4YkNYaG03ZllSeHJXcXQyK0dYMm1RZW1HdFc3OFFRT2NWS2IxamZtWFdhTldLVVQwY05qZ0VCOTFKNHVrdFlORFNHZ3NQbWNmSlUyV1NwZVdSSUJZYUhzYnljVFlVdG04U1BOWWd1d2IxWXl2cTdkanI4VVJ5dGNsdmhMMWhMTFlhNVRxNSszdXNyQlJFNzdXQ1lNaG9vRkErYUpCN1h6SUE5MVNIM2NtZzQ3UWdrbEc5TW5KMDVnZDZoSW0rNnAvMWNidHNtdUxPWWU4R2ZUNWhYa2lZK1Nna2xjSVhNdEMvUy9CaUhzMExzVXlPOG9CYU5Na29mY2VNUkd2bWtHT3dYTVJ5ZVE9PS0tRzR2NGIwQ1QxWHdZWUlSekZRbm54dz09--5a590513e9e4871e6908fdd21b71ecec8fb6457d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:58 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

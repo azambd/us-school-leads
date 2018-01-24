@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d0da2379-ce69-4d47-a354-8e936e580133
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feast-nicolaus%2Fmarcum_illinois-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NnJQRERJcmlDWTdnNzZSUlQwNU13Rng0c3RGN3Budmp4allFUHdBTGQrTWtVYkF3OTlldDJPb2lkWDNRUkdtWmFNU1RvK0hqOG9JWHlYaHlhb1FTd2JVOTFUOW9nVDR3cVNHdkxHdlVjZnZ4cDJFSVRqYUF1MStZeEFTWDRjUlVYUzJueS9CaEFFRDQ0UjRkZE5pb09sT1I5alpLQ0QwSkRvQkNMMnhUTzVEaDdEbndCR2xTTlV0SWJBRVp5Ly9TUENJakZWeGk2QlBia2RPRWpwUnlvelZUTnVNNTRyMXpCUzZFOTBkUTh2TVU4QzBPWUtlb04ya0tIbUZ5ei9USTZwb1YxNnFNcnF4VWFVNzhPUGR6MWc9PS0tTGFuSDVuS1JsVENPaThLbW8zc25Ldz09--1aa79a2a0b4d72aac590dee4624202118cbf07ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

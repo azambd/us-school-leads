@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: dd7bec6e-2fdf-4a2e-824b-994ead4bc071
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fborrego-springs%2Fborrego-springs-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N3ROZmZLTHh1dHFrbk0xR1FpRllDTlNCeHlmWTk5ZldTbE1NRXVLbm9yZlRVdHJ3SU9XSjhuWllrT0QxVGtCUkhnTHVsbHZZZy9ycnUwOVNyR1BJaUdoVGY1eW9jc25KcGxxUUJoNVFjT01haFc5Um05TS9FaDJqUUJDV3lLaVRERXhpYXVlaXhZb1RKTlgwOXhCUU5NUFpUVjAwWGYrTFN4UCtaM0dmV1YzdFFVTlhMbk1tZ29CcFhxN2pBWThQMElEd0p3SDVZTURkRDRoK0k2OUE2SUc4RHBCOUZOcGsrWkRmQ0ljNTQ0TndTZ1ZSbTIvL2xUVERXOW9JNitWWEhLVGM3cjBTRTFNWmd0b040YnJhcXc9PS0tc25LakdTS0FTUXhZQWI4M0lBVlg0dz09--77ef1c186b20db90bf837d5315daefe7a7e7354d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

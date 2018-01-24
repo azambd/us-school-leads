@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ca754b57-eb87-4142-8001-02c7ec7068a8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fthermal%2Fcoachella-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UjVCWW9XcXRBV1lMQWpvc1RzSFo0N2prcUg2dWlTUjZieFRtUjFLRlIzOG1zOWgzMWVIMEZ4eFNnblpXcElES2xJalR5bTFWSHBvNERqckEwaldCQkJpbXRITFBCTXlTclNpYWFIU3pCZFJQVU9peXEvdFR0a01NK1FSVmh6QzUvMWtzSHNHcjhvNFlGeTdsUTY5NXR4ZzVFVlpDc1JJR2E1SnIwdWYySjBiaUw0VVFKT0g5MjQ3cTlKak5yZjlpMi9SMTJUYmY0Skh1YUpLN3hReE8rT2VIOEdFVldDQTZjZThoT3ptbDMyb3d4Ny8rR3VZcDFkbkpOWVhHcUtYcy0tVGtXVkNsNkRlSGE2WndhbzV3bjNrdz09--b006749add451cca56dd506b496839470bd83ba8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

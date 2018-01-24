@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 95e22396-2d82-4520-9aef-804530d04b89
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fangels-camp%2Fcalaveras-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VzVkQU1JOFVHUnpzenVBTHR0blpXbGRSVU9JWkxJd09pMXlqeTV3RnVyMFBBQ3JnVVEvR1k4Y045akhybDYrbTdtcnhFOUExVVI4TVQ4VGNQc2JGcUpOVHczVEhiTW1uSFhwdkphZGVNODRHa2xWVDFqeWxIZ0hSdXFrd3E5SFQyVGJZOXFaSHlNU09SS21HT0J3N1hNK0dHSnNUSUtPQlhjbE5Oa0h1RXRKOG9ZYUIyeDdjOHpoQ0RrTk9xbmxFYTA2UnorckhFYSt3NEJDb2tJWEY4M016L2tYZDVHOEVoRmRyYklldDJmNWNKODNUYTAzb1BieUVyQXFGakhwVTZCK2ZzQis3ZE80bUdIbG96cUdNQVE9PS0tOWMrMFhmc2trYWdzWnE5cE9Xd21xQT09--99ead5e655a8e0ed60dbc51c027b903f2e325475; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

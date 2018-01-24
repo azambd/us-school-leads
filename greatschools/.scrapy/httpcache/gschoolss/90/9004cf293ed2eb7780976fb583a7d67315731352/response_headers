@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c3a9f3c4-e7bf-4d05-8885-f2e3756daa52
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Facampo%2Foak-view-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SkVYcW1ka3VhM2w5Ujc4YkhnWVc3UVRZOUE0S1NZMG9HZk1sRDYvTmZsaVJxeEZKYkdNa2VrUTBBVFc2Nk10K0N5UXhWNndWTFdsMWptOUpGdDFhVDMzUXhsNjFycVg0WUNLTFdsdkRmZmdJcjRqck9NOHYwWjhLMmVRMEM3RUk0R3BMck9kRis3STVuVmlvc3d3RjVVWElmQ1RtNDU4VTRpSnptSm1MUzM1bG96SHJiZlRBdnREQ1puZUgvdC9wVEFidC9Wc0ZtRDBoZlAxSXN5K2pxcXkrNittRC9seFJlQUpNQ2ltcUtGOXlpUnJrY0FJR2FmenlFMXBkNUZJUi0tWTVPUys2R1JlZkxRUzJDN0laMTRmUT09--86847cdfe1f782e86fef6b8a114bb6157eb4db19; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

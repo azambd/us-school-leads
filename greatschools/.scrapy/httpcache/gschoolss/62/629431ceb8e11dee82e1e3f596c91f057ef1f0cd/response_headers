@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 041e5e46-e340-42a8-b7d4-bdb5b800ca9a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhittier%2Ftri_cities-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SzFuNnFEZDRLdGJzUmxzRzJwUVNOWi91b3pNSlMwM2g1dzBEdlZ1TWFTS3JZVjVGcE9rQlhZcVpURjArQzc0WFFhNlVvT3k1SE9zZjdYdHkxUjJsb3MyZVU4djZ3R1FCVjJ0ZzJJVUFQd0x4cWw0ZGlGMC9UQnIxUkJ6SFlSVXNCRzJqRm1YODNsRVN3V3VYb0t0V1ZnZnVLWUllY2V1eXk0VCs0OGpyeWZLdXRUVlpkWVFmVy9Ra3dteGF0eXB2V1kzNzg2VDZudXVIMkNzWmh3bFhNaUIrL0lBWDNzVFlUUUJ5RWc3WnZHZFpWVmIyVUdYT01Ya0lSVlBnSlNKcy0tdWNLSW95eFc2L1lDYzh1ZHJjVVB3UT09--d41b9d5494565b56185c7b64378c3957ef1f0ecd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

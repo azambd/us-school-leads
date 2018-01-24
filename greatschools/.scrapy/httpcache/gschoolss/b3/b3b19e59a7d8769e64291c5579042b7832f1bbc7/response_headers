@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d8ad26cc-7733-4c49-a182-e412719f6b5d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Funion-city%2Fnew-haven-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Rm1VYndoUENLc3hWSDlFdktUVFJKakh4V1k1eEdxdG1wbzJrMTE0YlpKSDZJNnVUNWlQaEF0eXJ3YlVQMnJ5dWk5eTNKdUE0ck5GZnA2Ym53WUdNdjBPdEVzbjFOZ29yVE5Zb3QzWkttMStpQWpSekJxYmM0S0pBR2lyd2krWVRvUGVhS2VJSU01Qzl2Q2hXK3N5WmNYeFNRbklUYzJwb0grekxDaVovV1FLamU0WVh3SWh0bzYyNHJlZ3gwL1FheS91ZmFZRXhBUDZPYnQ0WVErbi9nR0s0R0RMdldmck9hVnpoQytDSGZZL2MvTEJzSGlLWXJnSU5xUVBoZy9RcHIxWExVNzA4djRBbTdPSVB4aU82ZFE9PS0tV3JrRzkyWGVJemJ1UWZwd2tuazFxdz09--fa9fd995e5fed1516668e44492ed37a206d0c5d7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

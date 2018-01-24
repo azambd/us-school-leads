@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: a49259c4-5477-4d9c-807e-e5acc4d46a3e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshoshone%2Fdeath-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MlhmTTc1aUVWUktPeHdqTU1yVFRkWVVYakJrMjkyZ05FRk43cW9mQ2EwSU5SM014UVY2dHh0VENtSUdPMGlyOXkzcEZTVFZ5VWFHdlRyQUxGc1hXa3A0L2tmK3A4Vk9vTlB6bi9wVHR4aWExNGg3Zm5DMHEzVVRyMlA1a0xRQStGWTVrRHFzcXg3UnZvZjRCc0JQNXRBNERSYncxZTEyWVM1UTVFVzZwMlFQWlUwUytQTFhHeVhYS2RsUXZSVitHeHR0ZXJKUmJEcXhzZ0MxSS9sVUcxWTNHb3lJMUE1UXpZaGdlUFpSaE1Nek1YaGx5VlI1RlJDSFBaRGhsSzlZWi0tMGFrQUZvS3J2N1JKVkIrbUhHejJOdz09--9702d25b353473583a2608bbdfe373e47ff3f682; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

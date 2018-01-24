@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: fc0d7f26-9b33-4ad9-9de6-274b2b42e1d0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnewark%2Fnewark-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZnVkUjJhMjA4ZWl6WHRXVmdKQlVOSkZxUk9HamYrNkk2Y0ZXR0Vnd1RQRDFwWU9ROVl1YmtuYUNXQjN3a3BUeGVnOFhCMDRSMnVqNmlsSC83aHVwZFdNVUl2c0FWYVNOM3hGNERobDNINzhYbU5JREFldzgyN1JFTDJpQkFCOVNOMWVBWjNtMkZHSVYzczNGM01pNHBOdXp2UzRlbFpCeE9Pblo0WUlqcHFzcm0rN2pJMFhXc1QzZjg0a1p2RFd3bHF6WHlhQkR0cEZlNkx1VENGUkFSK252RlpRcnBZTCtCZUtjVGFRdG9nUXdPY0krSmRYZFpDWXpzdHRiZmNQei0tbU9Ta2x0U3hVUlEzMDJ5THNHaXFuQT09--1964d25a832954b10ebc7ed55abd23bc3d224917; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

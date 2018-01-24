@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 86647541-451b-4530-bc0f-320ec20ed665
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fperris%2Fperris-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SWMyS0FNcG1WdTQydVdZN3UwMkZ4NWM2VlViUHpRR2JzV2xOc2RqZ3FnSXc5Wi9CNjgwWmFtb05zeXNTdExEeTBNbllyK3FHcjJLVFhuSzErQnRqemp3V0RBUFllM29BU3ZUaks1YUZQZTZwSGdYMDVzWStDckVsR0QzckpIcEJ0YU1aNUoya2FzdXJpL3hLYVphVHhlVGlGMkpkT3o4OFZ3WXpGS0luT1VWRklhL2RrU0NRZ1Z6Mmd2ck9DYm9vN1ZRZFVXUlBpZ3B2a0JYUjhmamRsSjFlUUVpSVFUdmhJWlVrK05hYThhNkJwTDZKWStycXJHcUc5K093Y3FQRi0tMkk2VWFHUzUvajV4MEZKWUhWSmQvZz09--267b08c5759c0584a55cca23af61c1c30819ae8d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 9a03eba9-e44a-4fb8-907d-b2dfbeb5f711
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhollister%2Fnorth-county-joint-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OWlCNmRmRHR6QlNmZnhxYTZXenRscUg3M0l1ZkdaaHlRSGFzSThSWG1GVGV0amZhQ0FyaFh5TVZQaUp5bitObWFyNFJ6T004d1B6WmN3cjEzT1ZBWjZGc0ZCVG5OdU1sRFEwZUh4Nmd5dHN6N3ZFU2FxbXY1Y0VOVWVQc3RobjN1UUo5a2J0RTVWRGZJSFZ6OGlQbE1vVWpmdzFpNmhEb3Bma2hLM1lobGdvNm43a0lJUTZQdzgveVdiVXBaUDFHUkZjQmFrM1hra29RbnBobFMvaW9KbzllVnFOcU41OFFjdHVZa2YxSHJzbGVZK1ZmbXlpdnBGS2ZrcmVWVUl0RDFKZ0tQUDdwdXlXVmpZYXYxeS9jdFE9PS0tOVRpeHA2bEVjS0RKdGlnZE0xYitWZz09--24263f3156ae6f7b123cc73faaba49336d672638; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

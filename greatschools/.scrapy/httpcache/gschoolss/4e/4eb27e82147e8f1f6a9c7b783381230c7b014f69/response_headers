@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 45ae8bb1-9b57-47d8-8790-0a70fa23afbd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwilliams%2Fwilliams-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dndlQmxCY1hEUi96c2Mra3djTEJGQ0duQzh5cmNORzhLdm9qdzNWV0VzVTc5Z1U2dHNBelZTNHB6TXc0VjVIdnc4VXFlMXlEWjlIWFIxMmtYTUMrakpOSjd1NUgvanZQakJtRkJpdWV3OThuSnZuM0hoNXBBZi9vSk9pOXVjVmluVnZpZ0Zod1lRKzFSWmgyelRPMEVuOTZ1dUxBK28xZlFpQTY3VE1QSFh6eDR0M0pzQXJlcmFzN244ZmQ0bEFhdDRVU3BtRDRuOUh0THN2MkFkUVlMbUI4NzRiZmlabEJSSFk1OFdtS3JYcHBudlprdlNqSFdFRFMyT3Y0UUVyYS0tVDZrdjA1SmZTZmFzbkc5REc1WDBjUT09--c8d5bf6a6f7b63620620fd1077a097f8bca4e8ce; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

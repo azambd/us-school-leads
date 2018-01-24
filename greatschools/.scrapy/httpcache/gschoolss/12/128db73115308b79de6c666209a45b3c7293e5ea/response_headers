@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 15339200-5d03-44eb-9f86-c0ffabe21ca9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fbeardsley-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VVovanZMVTd5b0F5VDF6Z2ZwMDZ6Z1ZqWDh1NXMrYkF3Nk1rTm01VFo2c3crRm5wWklabFhIclNpU3FKVU9iQkp3TnhUSFc0TElTQUg0VlcycXhLTzlVR0NKWFozYkNyb09UQXpvUW4zcEZGcFNuQklOQ2NSRk1KZDAvUVI2TndPaUwyclU4MU1ySWlKMWNYcDhkbWx3MXNibHFpZFpPTWtsU2xaOW5zTks0OXRCMi8xQzRYMlNhVEZXb3BMTk5tU2pSTm1BTEdNa1RxaWtYb2YzZjhQcGtYK254QVdmN3AxallCOUtrUTVLVkNUa3RHd1dJQjdTOEg4Ung3aFdMUXNjMG5wU0ZkTHkrNi9UNE94NmZzQ3c9PS0tb21aNjZaRVo5dnJKWlBRRVUvSWpBQT09--a51a6031383407b3d23c7452567da431152dd36c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

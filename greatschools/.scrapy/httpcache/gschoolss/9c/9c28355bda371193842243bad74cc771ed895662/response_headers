@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 579f223a-7be9-4ef4-a3fb-3a2fc8051f1d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fred-bluff%2Ftehama-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NWhhMXdjZy8rNFZRbFBmSHRzaXltc2xMK3lOLzdPUmxaNEJqUkMwQWc3MVc5Q1NUVWdyVlBmcHd2ZG9EOVc2TjRMVitBYnFHK0RUSDJtN3VTZ01GVWhTZ0Jvd1ZkYnEybitRU21GMUFBT0JVaXhUQURoTDVLOFV5czlFdU9GUWd5M21mYnRwU2c2eDhUUmNISlRraHROUFFKdm5yeEJ2bVRSSGVMOFc5QWE1a1pXZjdPRDB6Y0RwY2lGajBOL1BtZXNCK1lYeFRMSCtmZUpCVzBLT2hua2JZS1Zrd0dEOFlVL3RSbHFKeHA0b0l2aUJHeVJxVklPb213Q0pFOXhmUkYzbGVOZExNcjJBYmFVWHh4V0xpSUE9PS0tZDRjMU4vdDF6TndoZWNWZWdlRU5Cdz09--f4f3e96ba62769a96921cc7d970450493bc49603; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

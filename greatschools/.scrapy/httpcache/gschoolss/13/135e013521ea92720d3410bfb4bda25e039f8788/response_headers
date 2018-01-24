@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: daff995c-a661-4ac8-a493-a34a3bf2e1ea
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdaly-city%2Fbayshore-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N3dMQW5aY1ZjcnFyTEYzeGZFcitTM2RJNFhlZTVZbEk4OHJpUVNlUDdsekRLeHpiU2JaUjZiSnB2Lyt6WFFwcXZJc0EyMzM0UGUvdW9sQWtSUERDWklUd2tJd1ZPak80MzExYU1CNlYyZm1PWVJoNVZEZmphWjBxT3lRbVM0bG5pa2kwT0pLcTdFS1FHbVdmUDMwZkxrUHlIbzBZTk5GejNZTllEa0pWeXp1MTdoRU52MFc4OVBnOXFrdURoRHFlWE9TQ0lOMURjNkNpQ1Z6YWpIdUQ0cEVaZnNZa3BDN041NmJSUXdNank1NDRybVhJZ053WjhiWXVkSkQ3SmRqaXFsSHNkMFFsTjcxb2VpZUZrWmFnMVE9PS0tL1Y3SnlkY2djb2U5MmxjeTFuOFBHQT09--612c1ba03a9898d2e1008234f10796837ca68245; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

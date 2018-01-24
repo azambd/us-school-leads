@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c195e7c3-c0ee-430e-8873-e9c52137dce3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fla-habra%2Fla-habra-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=c0lHeHdhbXUvN3NzbGhHdFpFdktkWjN2blAwNlVDYTZRQmx2QXAyZDYvdXJsVkhvdjVjMU9hclQxalgzZFBvcExteGRBekVMbFFtc0xpL2hGQ1ZFTjNtdjl1LzlWUnNPMW1SQ21sRnZhRURGSnlXOG1LM3h4NE5pUXNIZXFMRzd0cUFMZ2xpcUhWV04wc1lWMW9ObUpwbU03a0pjOURmY1BJeVk2UXBWcHVUMmlQRnhFMkRsbkw2ZFBpamhjalJWTWloSHBLdkpsUFlPeWgyREUyVUhrV3k0cEMzUlNMeXdXdjlSSFlTTkJtWmdTc3NGb3BzbzVhVklQZ2o5Mm1hby0tZ05DV1gzdklpNVdSc2FjYWhPald3Zz09--ea6fb96e004b145fd9d1aa734e49116a9651c113; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

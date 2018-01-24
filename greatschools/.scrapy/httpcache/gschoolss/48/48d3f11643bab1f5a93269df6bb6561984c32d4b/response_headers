@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8729c77e-20e3-48fb-9173-f7ac6a0e7cd9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgarden-grove%2Fgarden-grove-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N0RQTnRnd2FUOUhWdWg0cHBpczhWUEgrRDN1TDR0UGpPWVlJWkdvRUtzM3JDcG51TG82UmRFdXRpVXhkUG9wK3pYNmg0dTlxYkhlRlIrWk56Z0FiTktjeWc3SHJZZlk3UVVTR2wvMTAwaGlWTUVLZzE0MkJjRXFlV3ZGa0IyMjNOaVFQSDVvZ2hWS1g4LzJSUnE5VHZNOXgyNFdvdlQ5dzJnRHlSa2tqV3RCZktudjUvLytQUmVGalFIcWJtemgwb0UvK3hBdHltMmZZK0RtZzd4QUVkZ2lha2RrblVjYlFjRXJwdGdsSWZ3ZzR5Q0lkMFF3cjdxTm4ycWlaNXBKTTd3c3VyaUcxUFNPQ25xSGdzUzdROXc9PS0tWFBINEVVZElZU0NlRmp3UXFoTHBUQT09--3709d314c266cf076907a11615322d88e97ef55f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

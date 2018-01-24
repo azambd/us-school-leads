@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d5316806-d7bc-4d4e-a33b-c9660afd3215
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhamilton-city%2Fhamilton-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=K1pvVjY1YVVhRWt4bElGZ2lpWEJoSFBJNHBiUE9nM1N3OE1MUUFRR2tlRWRqVWFjQVZTSExSdndaOSttd1UyQVU5RXk4SW5tVmI2a1ZrYzFsZnpWWEQ0OXhTV1NvQUJMZFlqOEtsemxxWGlob3FaYUZPSUlZZUNhT1BlSnNWNjFaenRQMjFuOTd3eTZvc1VaZGo1VUFhQVNVWSs4RjBES2RXVUtvZ2M1Ry9QQTI1NEtmckZyaG5QYm5vMFJKSVZFUnpMQzJ2YzBzR0Jic1R0UEtZUGZEaEE1YnNuRTB1R1RObk5DTE5xOWpYQVFOd2U4QzlUc2hNZXdhYVZVaWhxWmJMcXd5ZlpzWWxWWlJ3R0Z2bFduOVE9PS0tclk3c21iT1lyZE5zVEZka3V3VmthQT09--10453f83f9e5e7693149ed021e2f0bcdec1ea8dd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

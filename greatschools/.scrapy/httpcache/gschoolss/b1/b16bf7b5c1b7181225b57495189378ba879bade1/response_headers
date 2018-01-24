@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4a498f75-27ac-4803-95cb-3267eb7620a3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-jose%2Funion-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bUFYUEVHWFp4b3JmWENOOFVNN2tXeTMvb29wSHZFR0g5aFExbjlLYU9WQ1NnVW5wUVp3M2dhZUJaeU1JYUk1TTh2cmQ5ZzlzVFY1aDZGZTVERUkwMENJakNsTDdIdlZwc0t1TVdsa0RHdGM5R2NTSkpPclJ6MmN1dUI5Nk1rUTJlcEJyK2l2N3JrY1lINlB6RUNWeHoyM05MTkkrU0FEN3lSdVhWMGdrc0lvdVJobjB2STR1eGwydDNmWWNHNlFZL1czT01RR2J2Z0RVMjNuQ09OMGQ1a0s3NHBlaENKeGVIK25VVjlGemtxemFIczFLVC9DakEwN1pjMmdsMUM4Ky0tbmtIT3Q2NXNTelJoZTZ4NmVMOFZ3QT09--a42ad250229362266a1bff4629a889aa4db6d6d2; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

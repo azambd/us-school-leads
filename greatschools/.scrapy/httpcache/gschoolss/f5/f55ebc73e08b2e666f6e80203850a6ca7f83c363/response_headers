@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 4055d28f-4570-4353-aa48-0e3843ac84e6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Fsalinas-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aStITW9YWlFHZDBta2NtZkdBTXBxZEtpL3hHclVQN2FaMjljRlE5aWE3a1Zyd2NDRzZmWDFLM2I3bUc4WUJlSUZ4UEdPWEMvbVZCK1MwSCt0KzIzZ0pWM2ZDUkNhWDF2Yi93VTEzSWxQdndhYm54a0dmZGg2bHM2RUFuVDFRWTB4bXhGb0NBeXF5TllLekkrZFBLY2xBeCtydEdOalpiWFBVYmdweXNWVDR6bGM0SlBRSHZkTXNxTGwrektmTGswa1BkRDZUTlFUeWxUL21USDV4aFF5YkNFMi9NM3BQTk5xUk9TOHlMdW9hcFFvK3A4c1pqTUJkbUNnM0lXN2FCdC0tV0Nva0QwWEJER0hsYWFnMU94cVJvZz09--efd117fa82db9d0f64c5b2521d82d95eb2cc75bb; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

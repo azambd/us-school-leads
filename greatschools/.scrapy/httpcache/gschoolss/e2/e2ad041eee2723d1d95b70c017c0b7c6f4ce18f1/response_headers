@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8bd3f79e-9bd4-443b-b1de-7b2b32ffd6ca
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Forinda%2Forinda-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=amRwZWh2bjZpMXlRd2ppVEp5TjFFNldVZGlyQjBZTDIvdDRIbHYrdkt4K2xNT2QvS1V2aVhxc3B2amJYdTRmVmtQUFcvZnhOdGdUeGNrSzZicGFKRlByZ21CVDIweGtJZ0FhZHh2WkdsZk8zand0UVRpcVFFYVJuWkR0aXBiNVB4RTRpSGRSS04ycW9jd0tzVXBGMkdaNGRYTjAvUE1qRThEN1NpeVFJTVprdGd1T3Z1aERiTURIVnZ0bllIMyt0K3Y4aDcrbjdSeTZFR2Vka2UzRmVJdDN1cWJZYnpiU01zTEZiNzlNNXhLbVdTYWJ2VGY5bTU1TTFwbGV2dGRlTy0tMXp0eTY1TVdqQUZWcUh1bEZUYnZDUT09--e0115d42fd590394bfa5074fbaa3e4878bb182f3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

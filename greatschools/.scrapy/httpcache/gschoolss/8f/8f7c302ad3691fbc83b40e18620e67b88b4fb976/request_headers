@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=bHUvLy9pVWUwTHJ6SllSOG5OTTlHT0hRTnRxckk5eHVsa1BxN2o5cXI1TUV1V3d6dk5yM1lKSWNkZ3RxTzNsbHZmZFNoVFFnVmUwZldOOGtmdEpLdHNqd3RVUGt5Z3hwRUhuTFYxVWovR0ppaURTcmp2Nm1SWW0xQ0R2U2tySEZJazNsc2dCRFVvS0dXVVNPaFpHN3BHTmtVc21mQXR5NHhBSS9tbnlFanlkUVRTajBBSEJTa0Jad3lta3NNc2cxcnBVS2l4bVFld216cHE0dk9OOGZOdW8rd1BtOHBBZjdEUjhZWjdHREEySjFZR2RZbHlNS2tnKzhnYXp0ZkJscGRHRktSc3ZGMGJlTVlNVDA3d2RxSlE9PS0tQWs4Y05kNWUrOStkdTJrTE1GUTh3UT09--9b2cba026ab069b5fe7925d4a49371b1c47b96f4; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fupper-lake%2Fupper-lake-union-high
+Referer: https://www.greatschools.org/schools/districts/California/CA/

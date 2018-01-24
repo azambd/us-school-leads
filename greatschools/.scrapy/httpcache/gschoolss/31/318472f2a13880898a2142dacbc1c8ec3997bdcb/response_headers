@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 41036383-b73e-453e-a01b-6a8e0d0b7321
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fceres%2Fceres-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SWpNc1NZcWMveE5lY294NS9RaFRXc1lsMmM5dlFQYVh1UEdRdml0SUgxNk1JelRZTWlibzl0ZGlyR2I1azdSNEh4U3VNS0ZYME9nWm44ekVKVlRFaldNcXF6SmwyeEJZZi9PbGRyNDNkWlBOZnAwYzBJajFGdE5PZWxJN1FoSTVmY0hpdVhqWUJGeTg0bDl6d3RhQ1VGTmRiY1k0YmVGZjFRSUlaQzV6ZC9nY0IwbVJLa005U3hSR0Zoa3ZveWV2djdTWXZvRm5IRDJsUTMxRHc0MXFJVkR5a1AwMkxFUXNLckNnY29TdGVwYWl1RFFUY0t0NXB6QUJEOG0vOU0yVS0tMXNQY0hra0FTTTlncWI0VGlvcHJLUT09--d0d7d57f2c0ea3a94a0a2fd812f1f49341ffe65c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

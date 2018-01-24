@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d4e26d13-f4bf-43a1-9d8c-9d21e8352bfd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftruckee%2Ftahoe_truckee-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TVFqTHFuSHZsZXRzTTZrcHJSVldiUGFYckNBTmtsOWdQYTgxMnNpcXpxSVBxWjVITFV1ZzVwRVdjTTVUblQ2TmFCWXpQeSs3enNVdWJEZFhPbDBtWGhKVm1ObWg4Wm9rQWY4Nm9hVGlTaTFST0wrbWxHNzhiV1NvZWozeWhCMWkvOWhjU3VHNVpIQVFrSlpMZW1XRlRkQ3BuSGoydExjSnNtZlFwV3ptckthR3lMU281QlhrU0NOR1Zvd1k3cUJoejI1K3FFby9STWhESXUvYzZYOWdPRHc4RDdCSExvN0Rnb21GcnowZHhBbzUva0dOVlg0OEtUdzJHeXgxVEdZMC0tRmd5eklGZ2pvdVZIUkxha0tCT0FaQT09--b238db0bee4b3c1bd923cb5c91ffaeba713371fa; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

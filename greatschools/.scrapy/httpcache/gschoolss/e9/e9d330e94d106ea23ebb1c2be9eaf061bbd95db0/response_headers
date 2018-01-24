@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 91930de9-8cce-4f56-9099-d3cfa20b7575
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-rosa%2Fsonoma-county-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ekhkbGVkWkVZUGt2TW9zRnByK1RnRGg4OEJWR1FEdWR6VHQyUSt5YnkzSVMyeHlvbGFXMVE4b2dUY3psekVqRDltRFZqejl3UzY3SUYxYnd0OGk3U1ZmZzQ2dHpNbTlYODJuMmdoWTNjM013NXJmd0tLU3lTV0ZOd3E2YVNGUXBySmp0dnJYb2R3VkRFT3Q5cURCWWV4OHl4RWtUNGgyTnczcnBQZlVZK2taWUlvOUN6ZUdLSSt4dXhVZXQ3WHdFNERTUFVSM21sTXNsZSswenIwZ0hxZlBKRjhRN21YVnNkaERuTFV4Q0J1anJBaFo1K0hmeFV6UzdXN1FGTlBhdU45dkxzVWdFYSt5VWVBTGZHTG1qZHc9PS0takd0a3NJTmtjZ3V1NkgzVHZhVzRnUT09--a54d7dd082873142e165e9bd0206b530984db1fc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

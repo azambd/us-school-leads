@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 46dbe06a-fe7d-4d05-9f7d-fde18af66a14
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrass-valley%2Fclear-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N01BdnRaUlB4ZUdBY0c1L2hieldwZTl4c29zR3VWajBuSEdCendmNmVFZGxuVVQwNDI5QW9iZWFMWHZyNHdWMXNYQ25qTDFNYVN1Wk9wazA1R2UxVHRhYTNleHBZOUhKV040SHFlSkRoTThGT3N4TXZHWGplTkZweE1ONkIxNTM4dHY4UDRJTDdrUHU3cWpiY29ZSXR1NWlUVERFRlhxN1VJSWI3TVQwMG9wY3ZVZVZyYjNoTW5ZV3cwdEh1Z0RtYmlLVjFYWmVvVTBWNDFRTE81WXRYaWpicVAxcWFsYWVzcCtZck9VVnRFekJIMnZxNVphT1kvS0JtdHJQMXI3aWdDNVFvRVpEbGVWcXVsL082VHZ0Nmc9PS0tbmd2a0J4VW1RWUNSQUVsWW5KOGdvZz09--f9ce099ac448ff3f45f5700dd45b7275bb1b5f2d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

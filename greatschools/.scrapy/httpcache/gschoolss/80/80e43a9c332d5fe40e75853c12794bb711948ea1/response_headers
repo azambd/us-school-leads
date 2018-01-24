@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 29a5472d-ce0c-4c52-b47f-3b76f61f83bd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwillows%2Fglenn-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RTMzdzU2V3RBbmpwbXUrbEs0b1lNamErdlJqVHEwZ2EyTEZkVHpHUzZBaUM5ZzQreWFMdG5lUnUxaHlSSUgxZUdkSUVMYzhITktwVm9xeFYydEdNc3pmaXgzeWxra3VYV0xVZ25INUJSenJaUVl5ak90b3YrbmVRMGhOYUxlVE5pbW1TME84cW5kd2VNcFdEcWxDZ2hjb0xSRmFvNHl0UGRGWTUrTzl4QnQ3b1R1Sk0ydEtWNStMSHI2UU51VG5JeFpkM3NVK2M4N0w5NHlMT1hiTmR3dFMwMGNPbXJxWEdsclVNNGF2bDJ2TjJETlhHY1Vwb3lEM1RvdXc0WTdpbS0tcnpYcW5qcG1GVERVNEUrUGhOSjluZz09--b571db824de61fc3b76315fe8b2a7349038cde8f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,13 @@
+Status: 200 OK
+X-Request-Id: f9400989-4f9b-4813-abf4-b4c413bc2fe8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fcliffside-park%2Fcliffside-park-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V0dwdzJkNkN0SDlPaUFtS1RJc242VG9yL1BKSUVPNE1UaWJtNFNDSjRHZDE2bmJDcnVxUUVmVGlNbkMxeW5TYjhwZU51SEJVcm85VXE3QmZVVFV0TXQxRUxvOU9WUVFhWHJNVWxGUmhYUjI2THFoS0ExTmdBc0VzQzJDR1dZZStTVjZ5TUZrV3lCOHgzKzJPYjVNSG1tL1lBWUJlZ2RpMHFTSmxxS1A3ZUdJU2hjemFCTExZdzBoRVZPV09sVjNIWlZyODU3OFpNQXVVN3Z5M1pGZFROR1haQklEbUo0cXJDL0h2em83eFhoNmttcmhlUFV5ZkdtbzAvUWRTTmhUMW4rUmhEdnRjUHJtREthRnJqSHJmZGZwVzdvUXlQSks3eHpPWWJuK2xsM1p2TzJnc1FXVi9uKy9ESlJYekZPNkFhd29aWHRiU2x2Tnp6V3lGektORW1ySmxwbk16QkVpdzYraTNNYUxTNTkrQWtaZElaK3laUmdMZFhibHBvQ2VVVUkrMFgrSXYrVXc0MnAzUFhIVzJNNWJ4WVVvTGJnMGVVb015RWlGb0s5WT0tLTJtNHJjMmlyY3BWR29SYXBHeTJQM2c9PQ%3D%3D--b59a84a2d03e1d57abe3c4ae71dca0caed333b59; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

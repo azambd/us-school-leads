@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 07f3c5e2-b306-4cc9-a732-07a556bc736f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Fporterville-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WVVOVWdZeG9IZkFhUGhqUC9wS3FEcnl3bkJjb0Z3bWJKbzhqcnd3cFYycTZhclFXaVpBZXFtdytqSGI1NmZMcDkrRW9jczhKa0lnbm5HSWVjK3hob2E3bVprTWI4L09KUkF6QlY3SzNLMkRENWNjdkQrZFdGZVp6bkxTazhySlVxVTRSUkZ5aFZsNDVXSk1oMDBJeFljOHUrbHVmMzU3Q0lEMlhVQk4zNVFMamJUcm1Qbk02YVF0Z0dkQ0I3RjhYb0hOVVlRMkM3VmxMTWZ2ZHNEUXBGeUxQT0RCREdmYnM2eU91M3lUTzUvSlQvYXRuRE5lVTRaMGRQekEya2hQWXJJR1p4YWdNcFdjUHdWSFJ2Sk5YeEE9PS0tTk91NEdMSkhSL0tVSWF1ZHdVL0RDUT09--6f8678c7498ef03d8536bfd46294bc70a03e42ef; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

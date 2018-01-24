@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0be32eee-1304-49bb-94c4-45702dad1951
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhuntington-beach%2Focean-view; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cjBSeE5hK2JpMktEUDFQa1JPWWExY05QODQ4cWVQcVBCTVBnd2pZSktXbTZaNE1NRFRRMXRFV0N0ZWpKRnBvbTFoS3J3dW9SeW16SGR1Y0YzbmdabllWVzQ0Qlh0WCs4SDl3VFN6UkJkUGZobzVuRnlBWmZkUmhwOVI0ZkNBc3ZwM1luN0JkUXlRa2tLVDRrbGprWFhrY2N0OFE2MC9MUEhlQ2RtNGhubnlBSWN4bzVEbm9rd0tJSit1ZDhKUk9VRTZicjZCbFNsTHIzeVF4TDdoblRjQm5uN3puWlpqVHc0T1VCNjJWcnQ4SmE3TW1iR2R3QnZkVnRQcGFkT0FSS2JyTzhRMnNSSk5LVXBJMmJqWE9NZ1E9PS0tSmliSmhKZUU4RVBia2hvYnRTTERHUT09--78f8f29947d3f28fcf6929107250b7c98ed6c420; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: f006059e-a344-496d-91f3-0038a5f29da0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=Oakland; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foakland%2Foakland-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QXBrS0o1eWRxY0RXeXBzSHg3dkpVYXZiRjcvemhuK2JkcUpKeStnOTY0S3V6T253NzZxcFpwTEltQ2hPbXFFUE1mZ05yUitrckluUXVBNG5NYi9NTVlhWHlhbHUwcDRKeTVPaFZXUCtZSjl0ZWQ0bVJOVy9wTmIySFlSUnV2QkVoelJ2SjZMTWM1bjM5MEpWSkpDVlE1TVhjRkRzQ2JXUE94bitEalVxbXlyYjZ0OGpPVUVZNjFyNG1TbTc2aVZwVS9KYjBjYVh3NXlaSnFsZFRNMmUwUVhucWZ0dWxsVXJzNjFiYWpsTzRpaVpvckpPaHdXUFJJbUtBbndIK3FVTC0tQ0FDTHhWQmFPMi8yRVJqQzN3Mkxvdz09--479e813a1e364780feced2c04a4c05095ce50428; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

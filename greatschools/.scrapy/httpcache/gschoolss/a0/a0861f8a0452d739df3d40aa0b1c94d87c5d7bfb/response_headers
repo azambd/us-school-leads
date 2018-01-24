@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cfe6d6d5-7bc7-41f4-ae89-ebe126c1df39
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhuntington-beach%2Fhuntington-beach-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VjdPWDQzZU1sWUVFZTZkOFIxbkwvRUhYb05yejdPaWN0cGN5cGE4TTdGbjU0WmY2TEZ5L2RCMlpnRHRlSmpwdUhDN2VKbUFhTjNRanIrV0VDdGRmbnR5b0dOTVdwRXBpaUU5dnRaT0U4Kys5VDNubndwRy9FQlBEdGx3RzByWHJLTHE2MDRhNnBJMFdTL2d4QXVUUm5JMEZjdWJZV1VCRkRoUWhyek9PakU4Q2ZtL0J0TndtZ1BBU3lHU1JpS3pZaWJrUjhEa205M3hVN3ZWTU92K2RtRDNWeUJKVFIzSjkxVkhsWjdNU054NjNHNS9wSGgxWW9lTFhMWGVtVndSd2xhNHRPVmswRlVpaTRKTmVaWDQxZXc9PS0tRHlUUmJ1TTk3Q2k4SWJwcDN6OUcyQT09--adbd39d0f9dc0b35fbd44e899275e4b259f1848c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

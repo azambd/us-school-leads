@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c8e88fe4-565e-47a2-a248-c685f59c1c61
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmcclellan-park%2Ftwin-rivers-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SEhNN3J4VHJvWVJMSjU5Q3Q2ZE4wWDhRTjhtYWRHUHJYbHgzeU1NNUQvdHFaclVnNXpVWGRSRUhHTTU5SXdXWHIycXBhQXk4dnp1Rjd6bzdmb1hQQU5PbUN6Y2NXdlh3OVJxNXVBbXY3Z3F2VnBlbmg1alhZb0RTMUhzaU5uRVdyeVFBTzF0ZnBrRFYxVVRzSWlpaDZQL1lmQXFGNzE5anArOWkyNC96ZVlubTZ6UForSVBWMkx1akZTVkZoMzlXSTNpRXpCem1JQ0w1VXdEVVh5bkRsK1pBVkdZMG1TeDIxZGVvb2JKMUVaZTE1ajJTSitubC8zdGIzc3ZWY0UrVjUzSkFOdzkzb2FoZzd0MnBxVVdWTFE9PS0tajdmQXFOelpsWDdQWVVXRDNTL1h0dz09--be46bca96672e75a3edf01b7b1207a8dc996f51d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 66e6b96d-7c18-4464-9bf8-fb427794d239
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpine-valley%2Fmountain-empire-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V1BaOG9OdGEwYm52UUVtTFlpajF3SHhkS0lVNE5YdDZKcS9FZzgwK2FaS2N5cTlWcEQ0QkMzUHB0b01XcVd2STBIeVpFTkkvaG0zV1ozZFpLdXBCMGVmQkxOZm5tV0lVSFhSUGFscW9BSVVTa2psSGxGdU5UbnlHOEhXdCtwN1pDOE81RXJOa0VpUm9TSXFiR0l5MGxCOGI3dkt0TGtJSSsrSjlXK0cxcjN2ZG92Yks1RnhnYWZNeGRqMHRvNGNMYWNiaUcyVkRLSUlYbzArbkJxaXkvT25OUE9sWkE2d0lhNTZqNDc4ZWR6emdlcWt6eThTNnVLWVdaTXVJdmlSZXdsNXF4ZUxMK3VhWktjZzkyYWpVTGc9PS0tVnN6Z2hJUmhrQ1hlVzVDY2FtbkIvZz09--29e396e4c46ffcc75d33d9e87ea74bc3510f21b6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

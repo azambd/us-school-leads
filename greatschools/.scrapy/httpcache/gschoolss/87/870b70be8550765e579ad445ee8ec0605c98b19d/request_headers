@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A8620%2C%22state%22%3A%22NJ%22%7D; _gsweb_session=dXFoYW93VWNzRGUwcVV3dHc5NG5aZmNDY25mODJMakJaWjJoMllSbkd4M25CTDV2UzAvUlVIM2FxU05lU1VWM0VBVVVjbXlrYktXMmorbEdSNG9IaVZmeFZXUUROZzJzdkhBMmwzOGc5NEpLcm5xTlhiMER1RFZkdnp3Qkt4TlFJOTBWY1hNQ0lHSmptVUJINHg4VmIxd1M1TGN4OGFCK1pBY1BvV2FDMFJnM2pLVjFnUnM3V05rZUdWY1p2TkV1M1lVUmxVQUlIamlpV3M5VXd5OENnWnFzU1hnOXFiUVRhb0ZNOVZHcDFiOTJpREk3aisrSDJEdVFXbWtCM3BFRFNSU2UzK2hJZWhsTG04TnpJQVA0ejgyOXJveHdMK0NHU2tsRHBCQlFKVWUwN3NVTmxFSk5PV0lZQWQwazZ1NFovckZyZGFGSDdOL2JIYVdyZGlWY3lVNE42WE8weXowUUxVK2I5NU1mU0dBWVNJSE83UlZBbGxGNG1ZM0lCMGpPM2tESEt4ZmdoSWl1YUJ3Umlqb1FWZz09LS1abURsZlI5NHhkNUtOSlJjZXpCSkZnPT0%3D--129b776a7160fb5fb9e6137ae7c0f2415c63e18b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fhaworth%2Fschools; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/new-jersey/tenafly/1938-Tenafly-High-School/

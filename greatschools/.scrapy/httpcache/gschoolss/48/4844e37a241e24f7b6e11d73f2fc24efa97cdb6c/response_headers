@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: d725d829-fc9a-4579-bf76-ceb59806bf46
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyountville; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RXpRWCtsdElaS3ZwSDE2NDRENWxzWERMb2NGakl3UGplUmRQNVBOUVBpTjVzdzZ5YVdaa2JkV0NrRFlHdWswZjJneXVMc1NMY0dCYk1QZk41TVFBSDR5b2phdFM1UkxhYlRyZUMxa2hvSjZmdUtxb242UmVzb25mSWFwVmoxZ1dMV05UQlZWZTBpMHVMQmJYenRhd1JVMEt4WGpBVlF0cm1tcjU1bGQzcFNRYVZFWWphWmlHcEl3QVREVzlRMjQ1TVYvdkV4aGZVOWU5bTBSWjhrL3N5SnUrTmNjUGEvb1c5WGVicTA1T3hyeE5VUnZvRjVPMHFnblV0STBUbHUzN0ZkVldISVZCeEVILzBWZW9wVFFJRmlpd1NaU21SZWVDRHJ2SzJjeUJJSjBmeS9EZUZxdStVTU92RGNUeFhtc283alNKTTJBTzFydkFZNDlUellQZlppZ0FzQ2thUVdlQ1Q0T2Z4MU9Dak9VOENsWHE1S3FkQkVVM3g5Zi9TS1RVRitGeGpPdnhTODYxZkJ6QWpJU2RoZz09LS1Nc01IRWw2bVVFbVR0M1cwWDhlM09RPT0%3D--c1b7b3fe7aaa786d6b3ad27b774b2367fc65fea4; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 94e1c2af-5518-48b4-9344-5430ed42d7c6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fross%2Fross-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=S055M0dBR0hXR1Y0UnhZU2lUekxsTlFYZ3oyNEVMTGdNUWk3dzY0NEUrNHpoV0FGbVdSRkc4M2l4MlJCV0pSK1lKWlpIb0xhM2VWK3lIeFNKdjZMT014SENBaUtNd2xmckxDeUEyWjdTT2RLWmx5UEhhS0dqdEhDWGdxQ0w3K1R1VEtYN1FQOGpIV3BNQUhMTjZibTMrU2F2QWpxcTZBZDZvaW1IMlRkME5SM3lySnZVeDU0NEVoNzlQdElNZlhob2JvQ2RmR2VDV1ZNMk9MZit2Vmx5bmtWaXhZRjBRTkF3WnlhTjZKZDFSRnJ5TTdwbGhmUzJhUGxRK2xwa3hQNS0tdW1EQitOTWdISDkzTllqc25rc2hDdz09--491fd25f49c978a7ef1a5bf95737fc0e784af610; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

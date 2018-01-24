@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=dDR5QW1lT2hJdkpNRnJYNWNFMVZxSnZJNVRaTjU2MnNyenpVYktpemJ2WDZJelFwV1dqejlwc3dHRFg0RjRhK3Y4T1pnUFFZVE1NdFhwMUlUNDVsSHpuR3ZnYTZwNUwzeE1hOXk1T0xRcjhKdWxZS3p6UzlSZHJwNllhYlR5aWZSRXhYQ2lWMktkS3R0TFBtcEZWR2xJSzdXYzQ4d2dVZnB0bVV0Vnhrck1jRVRiaXpCaVUzV0dLcGxmWlVpTW1qQmFRVFZKaGJyRk16VVhpb3dZRVBsbHkwb3AxV0Q3MWNzdE5wK09QM1VkdTJIc1VORlhIZEl4UU5pT1Q4dUg5Ly0tSm9VanhrWXE3eDhhdnRwUkI0Q2U2Zz09--03b4d08cc8bef9e1cf842dc3d364613009eb748c; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwhitmore%2Fwhitmore-union-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

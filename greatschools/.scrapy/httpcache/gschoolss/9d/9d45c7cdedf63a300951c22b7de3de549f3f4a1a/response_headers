@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5052bfd5-ed36-4547-b2cf-c1a8c94c41d3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fquartz-hill%2Fwestside-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TzF5LzA4eWo2eUQwL0l5QnhqV0ZTYU5tWTgzbkI2L2hWVE1xa211Nlo2TXppRS84UlJldkdzSVBhbkJZbkU4UUtxbFpib1lScnIyS0JoSjBaZHdZcXcrc1VmbnQvTTFRQ2JCd3BqdnF2Uy8vNEV0eGdtYWMwSzh3YjdrYi9DSndscnY3NXNVdzh6MlBEeXBIR2E4V3ZxTVkvaDhDWVd0aXBJYWxhS3l5SExPMXFOU1pJaFgyZEljREtYclZDMWR1MXR4UU1seHI0c1pVSHRqRVhocXdVdTZ0S3Q5T1hhd0VTbUY5ZWdKOUNLQ0FWTDFNNnVGRzFMbXBDeHZGMjRFTFFHazZXUm9wNzNVdGlKdFdmTEtSb1E9PS0tSGZJK012eGl6NURVRlpGN3R4My9tdz09--aba5562a65b8b4b9a78d42e3db6c3d3c8d4824a5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

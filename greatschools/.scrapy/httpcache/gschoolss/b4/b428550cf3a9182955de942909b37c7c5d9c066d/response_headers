@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 9c7ff913-e2c1-4262-a806-9d4633e22b01
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frowland-heights%2Frowland-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z05IRjdwT29ad0QrTmUzS2JDYTFBVXAzOHFnS2tYSEZLSkhOWUdQUXVIRVEyRlJOZUVtMzhDK3hJRW1VOVFIRFFjZUQ5K2NEOExVSXZtNDY0MHRBdWhRV2dnbGZVTkNvd2hLZitYWW04dnBMeXFPTElERnN4emZnWkp0L1piUStMVXkzYnJjakRkSkFzNmU4TUpKcE16MkM1UjlkUGtzN2h4cG53WjRmd2ZCL0hhOHhPSmVabUsyc0lnaWlEbTBVTkVHbXhzRVZSOFB2ZHlGMStlREJPb1NmeEVoelBVNlRtc3BSZmk5T2Y1aVU2b2I2T3FXaEFHcW1uYll1T1EvNDdYL0VHTWxPS1ZOOUM2K2tZWEwyOGc9PS0tdUxrTUtPSHo5dVUvY0FPaEsyOTJCZz09--98ffed458508d3917b5f81f439aacdd62f5608dc; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

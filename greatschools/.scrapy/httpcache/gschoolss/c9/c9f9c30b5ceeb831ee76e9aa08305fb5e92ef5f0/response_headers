@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 59d50d98-c933-4d50-9bae-5bef470df348
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fencinitas%2Fsan-dieguito-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dGMrZXFwZWVOY1A5dy9NemxLSTBzenJqcWNGRXZCcFptUm1ZZjVxWjJDeUJTK0pjQVRyNG9YVlNMbktLWHZUMisrMlBYQVV3V1hxd1VYcXJRWlcwL25xdXV5TWpGcmpPaFcyY0lNS3htTFNLYzNCTWg3cHhqUlVQVHVIenc4OU56UG1ISXQ4eXZKc0xlY1UrSFliaFBiQVZYbnhXeXQ0L2Y1NXNnRWRsNXdvTjZCT0NWYlA1bGZKMTBTUUpjRDdMRm1tZll2Q3Y3L2xwak8xTXo1bjRFQXZKRkJiYXUxR0pCUDJDTy9aWThySEFsVzY4RS9BZW92NzAyT1dqRElBRmVRMWhWMndiOHIyV3lsZ3RMaTFyMnc9PS0tTElwSzdNU3dNSUcwbVhNRlhxRWUrZz09--d6bb1139dbfc6709b4578de9342e2598d9bde1df; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:57 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

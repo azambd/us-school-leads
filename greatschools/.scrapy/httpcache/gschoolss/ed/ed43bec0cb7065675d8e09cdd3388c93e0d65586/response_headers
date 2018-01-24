@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 3895984d-646e-402e-b850-c043685c4bf5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnewman%2Fnewman_crows-landing-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=REo2enZmZUYwMjIxcWpwVXlxcW83UDU1WlFxbWhhNTJ2UURSYmgwcXA5UHVlZE5IcHlKU3JKRzlXSlMvaFVwRXZUK2FFdlpuSWhQb3VXOXFXdXU0MHdaY0RqbVlUSU5KdUJ4dExyNG1aUGhNMUh3R1VtNnZSbzVlV0ZIYk9oSG10N0NqRTJGZmZBMlRic0llSE1XSytNckg3dGZuVG9vQisyTVR6Q1A2OElnMGx5VGtyUXlsbkxCWTU5WlJYT05tOExhdHhmUlFoZk51Kzd0cFlra1FVOWI4ekw4MTVVcXRTQTUzZm5Ia2VEZW9NZnVzZFhEai9SZ0x2N2wrMUltcS0tREdPaHBrYXQxQmRxRGFOZStWQkNuQT09--39e4d475ab5a22889b593c9b93db2c7c1910c1f3; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

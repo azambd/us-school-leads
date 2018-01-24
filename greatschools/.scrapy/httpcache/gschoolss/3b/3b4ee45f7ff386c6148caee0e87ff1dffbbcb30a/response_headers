@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0acebd68-0e25-4fd5-8f44-96dd9af14165
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fducor%2Fducor-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aW1XbnJjdGtJMytBdzdqelJSOWlVRzFWZnE2dThsN2RXdStCRVRIZStRZ3MwMkhkRGM1QmYzdHRwK3FFSUxZMXkwd282TytudVZ0TlFXOUN4bzVSZnlwNm5rZFRkV20wRFlYLzczak5SaUtVWXdnRTRSbmdkQlRxaE85ZnZ6b3BZOGRRakdqV2tMVEdJbDRWQ2ZlWmFGdkhDcit3VDF2UmVHd2xTWjNjK1lHSVRmTG1ZV09kL3V6UlJQRWgycTVlZ013WEw1dDVGOEVKck1FaTJlNG1TOC9ZY1JsYWdMQ21BbnFjTEtFSWNTYlJ2bDZMOWhjN01wSm1SdkxNWWUyYS0tUytHMUNld2VSeXVhR3ZmTG05ZFVLZz09--700d0e418da0cc40471ef601c06e3245b8d01f0a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

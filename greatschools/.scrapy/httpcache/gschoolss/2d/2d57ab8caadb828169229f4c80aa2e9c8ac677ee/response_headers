@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2834ad7b-592a-4b1b-8ad5-fada7fdd45e7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgaviota%2Fvista-del-mar-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=KzJ6WGlwV2poZm1obVQzakR5OGNQM1NmZklnV0dzcGQvaHlGR3prV3dhbDMvZ3lIMjFhS2xhSXZSOWFicThzL3doc1dHMzlDMGRlRFFGK29qYmJ1VEVjT21Jd2dsSk1GR2lSQzB0elpnaG5BWE9aTzMycVVvYjd3bDgwNk5lamVVOVFqUFRtNzhPVStIVUxLRE5jNXVLQUdwTTh0bkhTZE9BZlNXamVFUy9zcUZ1ZDIzMG9sNmluUmtZUEZib0dlMnlIemw0Ry93NjMwRXdpQnZPNG1zSWtmVnc0Q1Y1NjJITW11N20yV0VlUjJSeSs0a1ZFYWErZzZWamVseHlGNy0tRnFSRVJyYVJGV3ZKTmZLaFVqR3Rwdz09--f12b41e3469c3f1913f73b5182f999ba456aba4d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

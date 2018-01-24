@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 7d5a8101-4556-4b6d-8cb2-6afb5bf5e728
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdenair%2Fdenair-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=enBQeU4zYXYxa1BNcnFRcTNaZlNSSmEwVTF4YVNYaG42L0Z0TmUweStKbFg1UFZ1ZmJmMG9yaXN1ZHZKeGxEZEJ2cjJOZ05EVVZsTkF6NVhxZ3VFRlZFNHF0MExhdldCbWdTRWJiWFVWODVLVnd0UVdkd3BDR2wrSFk3bzdUTUE2bXl5NktBdVJrWkRFUThHUkVtckltV290WTFjWGhsSkJjZHcvUVpETys1S2FtRC9Rak5vZ2cwTFVpZ0pkWmQyK3cyQjZXQ2diMDVLYVQ2KzZMU2dPYk5uNG5aUWloZkpnQ3NlcmsyRDU3djdWN1FMUml6TnJHRkRyM3hJZHU0Vi0tMnhNUFpNUnNIbk5KRWV5LytJYVV3QT09--e0e9d6bb38d4dd7f7c97450635f12cd0114803d8; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 828dbc78-5265-48f3-a9fa-2d57d3110a5e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Froseville%2Fdry-creek-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=U0prMHVrbGlPZ3NTNWNWZjFnVnhOaEY2WVk4NEpkMHBTOHdYK1Z0SFE3VlNIUkU2VUJpMURLZE5LRnEzVmM2U0RBMjJ2c3R5UmRmRmFxaEZTRUk3UnVyM3UzajF6U24yb0xleGhuSHNvNHZqSkxvb1RudjNxejN5SzEwU3pxZ0x6enNrNENXY0xlbEFBRXZDZnVhM2xXUVMxY0hIVGYvMi9BR0dMeHpXdXh6dkxyWnBFTzFhL2pvbklUNkZwUW5TRWdQeTZPa3c3cnpSVDNKUU5kOTYzbHAzNmVTMDNvVDFIQmJYd3BGSHlXL3NaRDlucXI5QWludDlibEFTYVNmUU1NVnFkQVY3V3ZnTHN0QmYzSzY3c3c9PS0tZ1dLZ1BYV0dPYStBQUZ4Q0w4MDRHdz09--5c775e012326f10f9debf17cbaf4c36bfde61e10; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

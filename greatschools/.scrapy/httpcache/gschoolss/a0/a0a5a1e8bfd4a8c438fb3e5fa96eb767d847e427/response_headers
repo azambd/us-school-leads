@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 93603891-5700-4dcd-befd-4657eb978ee0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fknights-ferry%2Fknights-ferry-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WEphM0I3aXpUdUdEWVVpM0ZiRGo0dDcxMWJSNE1ySVdGYUtGaXNNRUsrbGJwUjhXdXRSL1R2MFdtcUNZQXcxVVFreWcwVUM5MW81c0hybnUxbm5lcldJcnl5Q2IwSFJFdFFVeTRCK3A5MkN1UTV0eVhvM0F4cmkvVHNjTU85R0l1b2FXT1lsRWd6VDJTN28wcmxYcm10SytGRytVR2I3ckNYUDMwanVHRmtyMktSVkllcWhZT3ErTXpMei9heXo0TitxOUZHTEZKN2NzNzNla3UzNFRTTStFbm9VdGdHdTFiT3NCdTNVZUN4Z2hTM2RWTGs5UUtKR0RYMERXdVlqVDRLVVNsM0FKVnR2ajNac0hNWkI3S3c9PS0tSG13dWc3QTJXeld1UDFJUGVMTDVPUT09--9b630cc5503621bdc32af59510281d84e1564394; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

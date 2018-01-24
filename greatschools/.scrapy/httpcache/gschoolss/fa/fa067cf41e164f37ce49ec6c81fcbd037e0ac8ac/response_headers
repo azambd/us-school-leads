@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1d699d61-65d2-4293-800b-e66349313e3c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmonrovia%2Fmonrovia-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QVRCcFg5WnFXZDZuMGFFWjhmdk5yZG92R3VkVnNiMjRkZWk4M1Q0cXBOby9lbHBKdVJpUktwM3Q3VEZyOHF1RWZsNFovcmtkc2RyOThOdVlLdTFFL3FpbS96aGVGa0RLanh4NlptWEtoYjNGbnpnTi9ac2VoemYrZVNaVjJBQmU3Wk04MlZzUmY3VU1RSmVnMmtKRUw0Uk0rTmZKZ2VuckRraWtGWmtFZnRuQ01wbFJNZjNPTlViSlRkZVgzRGxLOUdkTy9SUzMxRnRBaHVBdE5QVG9GNUVkNktRbERmUkFCTHcrTzZDY3JZaVpNekYwQ2hXMm9TWmpkQlJZY1dxTS0tcFo3QTUwRnp3Ny85R3BUdzhoUndrQT09--f3080acf108e764eac2c16d5a60878341f99a773; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

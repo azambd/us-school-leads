@@ -1,0 +1,12 @@
+Status: 200 OK
+X-Request-Id: ed94c333-4b08-4027-8d1b-e6f6038a9143
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: public, max-age=84171
+Date: Tue, 23 Jan 2018 13:42:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

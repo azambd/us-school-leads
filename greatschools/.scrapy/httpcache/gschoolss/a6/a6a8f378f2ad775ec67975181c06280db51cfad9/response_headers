@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9e7593c2-2128-4e6c-9d68-937990385957
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpomona%2Fpomona-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N3lZNTF4d0RKN055dlpON01oM0gvR2x0QVcvTHhUVjdiZUU0dTFXRnF3NUdURnBaVE9ZN2c3UjFhbDBwdXFJVkMrbTFvTzlLOFZqUnhNZGRZaE0veFZYNGR3Tm5URW41WFBaZFhKaDBMd3RHeTgvZmgrNk5EMWYwa2J3ZVRUYlhEUUh5dy9RZ2Z3ZzRPU1JpQzcwWGdlRFBaa1JVd2x5cXNxZFc5a1hiazk1M2J1bUM1VlhBMmdtdCt5Zks2dHpoazhLSkp5L2Q3NHVTRE9nRVRUa3BJR3pGSHk1VDZOc0g1NTB0ZUFrUjcvMjVvc29oN0QrRGdkbkVMMHlxSHVSMC0tSUNWOXVtZFhmVkRDK2JYNHBTK0c5Zz09--d9e00de6efec6e7f0fd30d649bc201f9ab95adcd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

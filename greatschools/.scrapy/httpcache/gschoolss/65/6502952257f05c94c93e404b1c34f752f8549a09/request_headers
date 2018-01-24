@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=bzFCV3dkUWVrVWN2VmxsSTJMcWFTZGs5ZG9aYmZsYXZLeGRJMFdZcFordG9pSUtQSUI1WlFJQ0dqTTdqbU54bUZJVWdpajBnaHVMZzJMbFl5ZEF0TVZMN0JIMHI1RGVzTWthM2M1V2lURnAvYU52eU9FdTZsc1UvSjlYQ0lpbGJBSTNIN0xkUGgwdTZISG91b1UrYUJZVlppQVBXVXhHc3JBK2lKWDV3OU1XNXVkZzNEN2RiNFhpSXBrc1lhbjNzY1I1VTZsajdFbDBvVVJtcXQyd1NwUDRJSUpGT0M0cWd3U0FQSGRXclRteElsYWRqOCtnL3Z5MElEeE1GemRMOS0tWkh5bTUybkhKZFhDdllJSHJZRVZjUT09--27712072e9c610b35ee37e1a788f93b1b56556c4; gs_aid=0ef2ed5c-3217-41e6-9a2f-235bd8d519b3; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fauburn%2Fauburn-union-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

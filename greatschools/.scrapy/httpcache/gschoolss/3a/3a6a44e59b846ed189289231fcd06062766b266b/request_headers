@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=SEhNN3J4VHJvWVJMSjU5Q3Q2ZE4wWDhRTjhtYWRHUHJYbHgzeU1NNUQvdHFaclVnNXpVWGRSRUhHTTU5SXdXWHIycXBhQXk4dnp1Rjd6bzdmb1hQQU5PbUN6Y2NXdlh3OVJxNXVBbXY3Z3F2VnBlbmg1alhZb0RTMUhzaU5uRVdyeVFBTzF0ZnBrRFYxVVRzSWlpaDZQL1lmQXFGNzE5anArOWkyNC96ZVlubTZ6UForSVBWMkx1akZTVkZoMzlXSTNpRXpCem1JQ0w1VXdEVVh5bkRsK1pBVkdZMG1TeDIxZGVvb2JKMUVaZTE1ajJTSitubC8zdGIzc3ZWY0UrVjUzSkFOdzkzb2FoZzd0MnBxVVdWTFE9PS0tajdmQXFOelpsWDdQWVVXRDNTL1h0dz09--be46bca96672e75a3edf01b7b1207a8dc996f51d; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmcclellan-park%2Ftwin-rivers-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

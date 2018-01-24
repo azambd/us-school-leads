@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A29581%2C%22state%22%3A%22CA%22%7D; _gsweb_session=Y3VUOHJCZXdVQSs2cko5TjcyYy9XL3JmWEkxUitVb2NCYnJoMUs3ZGNEUEtUR2dOejJSYkdEYUFpZXhRaElWVldUTzNWWUhldkh0TFVZeVphNXNNSTRyUHJLOHZaL0NmYS9SVFp0cmN1Sy9RVVFaek9mM3QvYmxZRkRwMTZ4VS9vek5UNUYwelEyQTdrZkJnR1FkR0ozYzNqdnlnVmFHREpLMXdmekgyajlUTHdYa0p2ZG15ZlFyOGhOM1Q4RzhFaStwa2YyMEcyTWhzOFFzWkZZQzZHNnIyRUtKU3JMSWdMcUdJM2pOVDdST2RWRHR0SUdBTzNkLzI2ZWFzWHZzRjYyZmY3M1RaTUxBTEdRYThBd21Xanpkb3p3VzRndkFobHFOc1RxdWNOcUZtZ0toOGl3WlB0U1BUbGFZZDlmaW1mZEtpakR5K0s2c1hHdDcrT1RJbEhzQnM0bmRnN2U1NnVZQTRUNmJsVmc0PS0tWE5rcCtJQ1gxSGl2aVB5UlBiWDY5QT09--b84d15baff6f7d107896be708263bad67c0c59ff; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/29581-Weiss-Head-Start/

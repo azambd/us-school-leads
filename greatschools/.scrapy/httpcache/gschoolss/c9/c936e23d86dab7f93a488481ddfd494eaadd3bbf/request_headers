@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7757%2C%22state%22%3A%22CA%22%7D; _gsweb_session=RmhYRkNVUForTjkyT0w2bXVXM04vNFFCdEVxTndqWno1Q0x0c1U2K0phVWhORFA1TTRHS0x0eUIvQmo2MEZqN3B6dXNETS9wVDcrY3NiVmxma0xlenp4NFdyUEJYNDY3WEt3VUtoTnFWejF3Tll5REloRUU4ZEg5d3lHWVJaTlJRc3FjaGJFdjd2cUhPbmdKRWxZREU1dXhrdzZERXFDTUFIK01XbHJPTWtBOER2Ni9vVDFoSmtidHRDanVUSWR4cFV0b0dnS1E0NHY4eHZ3SzhEWlpZZEI4YXFuMmV5Z3dCc1hCZVpERVR4MkxBdVg3WnJNeDFPTVViUitDN1dSUWZVWHc0VEFEYXJGbnN4RFlUNTdJa0ZCa0NXMWhDT2lhb215MytrYU4zUGwrMXhhOURTK2dMRGhBR3RpZHFyUmp0MkNUbUhTc1lnZFR3MkljandYY0xBQm1CeXlWNzg1S1NBRFZpSjBUU0RkdTJ0NWU2TVR1eFdKNnhCSjZWeUFXbDJmNSs2TmEwQ0g0MkFjRGtEL3YvUT09LS1sSVJHN01xUDlYUXFNUCtRRjlpbklBPT0%3D--b4d998e7094788fc7dd0367b7d10a7937dd1f112; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/8010-Holy-Cross-School-At-San-Buenaventura-Mission/

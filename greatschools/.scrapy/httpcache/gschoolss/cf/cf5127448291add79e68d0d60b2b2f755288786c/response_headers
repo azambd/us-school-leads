@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ad2c625f-231b-4607-9267-a88500579f0b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flakeside%2Flakeside-union-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZlgyVmxTQjdiU0RiN1ZkQ3U2N1RDMHordDJFQ1NrVTJyT2RsdDF6dXVIZG12S1BzWi9KUzNwOWU3aTA2bVZCN3NCNGhHVktMdWE5RkV1dktxY0VTdlUvQW9aNUNLTmRxbmFmMjBMcHEwUm9oSW4yZDRBNks5K09LZjhxbHZlUnBkVk5IWEplVDIyNU9pTEtnN2g4UTdMNENFZ0xVaVY1RFR3WnlqQWExVjF2ZGpTUjlWczc1a0hwL08yU3hoUktXenZVM1RvNWIxSWFSdkZHRFc3ZStmSEh5YXJoNFA0T2hheHd0Tzk3R3ppbHEwL1FNeUNoRFNLL2Flc3RPUk9KYi0tRVVFOEU4akZONEFMKy93ZHhJc0tqZz09--7ef26df814ec1ec2ae2cdffe662810a518a32241; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

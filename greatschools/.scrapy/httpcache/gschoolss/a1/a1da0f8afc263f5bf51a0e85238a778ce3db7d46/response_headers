@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6b2ed58e-a098-4888-ac20-fcf0fb4fa3b5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-clarita%2Fwilliam-s.-hart-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=d29QRTMrNkdubmI3cXM5c3U4QnE5OVlmVGxrN0EwaDJ4blB0RWtvTDBhellXaUUvK3BRNk4zMm5SbXJiV0dkWGFxNUtlZWtwVVI2TUMrcDNHTk5ZZ3pZV3c5WUVGWGNHSmxlWU14ZXdBSzdGZmdSNEhXdUFaTU1UWDk0cGt3T2NNaUNyaFZxY1lTWXBhbmVnUGszZkpzZFJrUTJSaUZWdjcwTytTOXdPb0RmQlVDY0M2bERmS25DWUNEMUxWWGtpbVNLODl2YWxmYlJ0ZmcwclBaU3dya2pYeUNkdmpGaUsxWGkzT0YrTks2NWVyREt2aktveThtRzBXUVFlSWFGZW1FelVwd3ZRSUJsSVk1NndCb3dmZHc9PS0tMUVJOGdIRVEyUlRBeHBqazJ5eFFjQT09--1411f90412d2218c0cc85505ae09a36b8e990595; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

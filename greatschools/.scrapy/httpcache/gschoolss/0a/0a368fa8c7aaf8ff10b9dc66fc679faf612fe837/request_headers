@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Referer: https://www.greatschools.org/gk/articles/learning-disabilities-in-children/
+Cookie: _gsweb_session=Z1FycHBTQXhSMHphZTMzaHpwd3RMdjkxQUxNV2xFL0owUks5dE5ScE5oR1l6blIyWlY3ekFTS1VQYmhYVTdLclQ2OW5rTTdwOWg5c01aWUlBaDhMY3EySjlqZld4aW9MWDg3Qllnb09MeXg2Q1VRU0Z6bjNlazVlOEJwRkIvTUtPclExdmN3bThzWkdyWDkyS1ZtZGdWRlJuMmRvYUVrdmhDU09iNXNnVmh4aE1QZWFjazJXdEVhczU0Q2RpK0JIRmU3VTFQd2h5UVZNUG5jU01Ya1RoZnRrQmhreWVhOWQwOGNKMFQydmg4OGhlSTkxRjNPVXRLeU05VlZpRUhHc0Nab1JnYlZzcnErby9LTjBBUEIwVzVuZkNoTlFTY3Bvdkc2NmNsamtjRFpLdnRvVUlHZ1FUWDlaQXpDRTBoREZYQkdzdElTRmJMRzBHZ2phdjMxRThiK2FZTzFvS2RaQkx4SC9TdG8wL2tjN1hDMmdzZ2U3SE5tWkhib1dLdk1yRXNSeWU4YzNBRVRUTG51NEZtbVlZZz09LS03Ylh1RW9taFV5STVpMkxQeVgxZGp3PT0%3D--985b2c4f20a92fedf24e06a5580616d65c48599a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee%2Fschools%3Fst%3Dprivate; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D

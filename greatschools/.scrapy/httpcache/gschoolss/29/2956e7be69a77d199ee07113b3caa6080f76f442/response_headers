@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e3a9f1b1-29e0-4232-b098-73c5e10d9196
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fknightsen%2Fknightsen-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R2hRMXM3TDBUYTBQUURrNHVmZlA5cG5YY3ZWOUN3TlJzNEVjaVM3Q3dZanEzTDRkR1NPeEZITDNQL0hiYUp1MGN4anlLNFJGZk1JK2N5SHFtbVR5MWwwSFNzR1pnSlZValFoUGZiU1V4dHlSRkRFZzV5bjRjbGZ4dUgyTGhlaTNkTjlSczhzWnAzMmdxeXl2OU1WejdBZWwrRkJ0Zm51OXlLQkt6VUVwb29CV1NtaDR4ZXZuRGV6ZktyYURkSG5rempNRzZ5UXhwK1VYMlpwTythZjdSZTZ5UjNQd094RnpySkZiT0labmtqd2h2MW5XVWlVMWJ6dTZ5UDBZMnpaSkNMUWZ1ZDVGdUMvV2F1SGJtSDlmRWc9PS0tbEw2Vzh4clRCRGNqcm1kc0VlOEJRQT09--43b40e17a8ef0ba5126d3ca75b5235b89648e48a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

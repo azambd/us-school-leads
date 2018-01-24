@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0ed96b70-b138-4e2a-a227-fc3fdb53c521
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffoster-city%2Fsan-mateo_foster-city; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L0RBajNidnFrSmJTNHBPNVh1bGl2d2thQUNjbHRTLzFOTmxMQjEvR2FtcFlRaDZ1NDRrWHdaVVJWWEkwYXRReFUya0ZGWjI4MGNRWHY4TVJNOVl5TW9XSVcvMzlLY3BEeFBZRHBIL09nRnNKMTlFbUVudExzUjNvd2VCNmZEeHRYNytzS0RXM1B0bXhVcGJseFNKSU00VmZ0eUlPcVBaZEZrWG0xdlFRcGNZL2FKWldoMWhsRHdxK3ZZeVdDWi96NWVLWEgvMVF2N3VjQ1JNU1M5SFVMeXhPVTJuRk5WQkZRR096aVd3K1U0bVpUakNDV2tkZjVUMDVOVmJGWWhQM0JrbGl5TXRTZVZxbUNJc21IYzBjNVE9PS0tNzlCMmdFV0xGVEpELzJkcXd6NVBvZz09--1eb4a60b6c21fc941a33f384608b0278e977130b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=TW9iSkRyL2N4eVFsWEoyUEI2N2Vqa3FhVUlzZDBVQjBlOS9vN0tIZ0RrUGVIbjdFUVptU0I0QktXVDhBMHBkYlBlN2dkN1B6NE9nUFVQRzQzTzFoeEU0QW95Q2dFZ2ZKVVE0VFVRYUlRaUtPRmlhL0E2WjBPYkU2ZCs3R3d6cGhVdmR4Vyt0OHl5UHVjc2gzNnprU3dtVEJTVjJDMUhBbFA3RGdpRGFwSmE2clFBaDNReTBFTGtvQkphSzBmaTRzbDFBNkViM0hKMjQwbDZSS25lR0VPL1JqZG9HaWtqMzJoUXhYRmkxOUdQeitDcUI5NzAydHdHVGpRZ0pYOTRHUC0tSmJaT3IyQU5SUDRsTUJ6SGdhVVVhUT09--d702a484d01b51d7f77ca2f94bebd4e1fbbf4e8e; gs_aid=bcd55220-b512-4acf-bd7f-95eb987ddb22; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farcata%2Farcata-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

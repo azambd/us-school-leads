@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6be7be92-6c31-436f-896f-29e01324a4c8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnew-cuyama%2Fsbe-_-olive-grove-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OWpTL1dJZkt6L2hrV28veHArMjdQdDl6M0orUlhXVy8veGc5UWtmcTBRanFBYXpLd2pXS3RNUldBZGFhMy9GVHh2Y1A0RkFCVjFBbUFxRThHV3pDRUdMUkVVeEJIWDAyWVIvUUtuWXJaeU11TS8vZ2Ntd2Y3MEptL3pHeEJlbjhIZzNKR0w5YlJEZ2E4dTlrcGY0eE1zMG9qWHV5ZEtIRWVOQlZOUHQwZ0IxZkNGam1maXR0cWVua3QvVmFkdTRDc2MyeG9FR0UrVitFTHNTMG50MmZSUWprUnpsS2plUjUvSTh4NGJkN0kweWRXU1J4dXZQR0YwUjdXekZ0UWVDYktHQUpmWURHWWVXR2hsdXFlT3JQb3c9PS0tRk1uUU1YYUtHdWpJYnJKaE1RTWFGQT09--997d3dc3884ca1d122cae62ea9fe4ac23f7dae45; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:52 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

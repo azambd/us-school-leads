@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c351b369-efb8-47bc-bd51-2bc59a827531
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-centro%2Fmeadows-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OWdZWjJ5ZDVJelljakR4elFXUWZ0ZGE2eDdmNVhPLzBKLzVHVDBCbE1pbzhoQnZWWVZQMlVpaU94UFVBTk5TZTV0Q0gycURqb3I0c0dyZjQwbFIvdkM4a3dFbnpsZGU0bFNYT29MVnVxY0VKeForMU12cXIvTHo3Qkp6Ylh1T2FKZC8wYmFUOVZURjk0amFUYnpIcnY2eDU5bU1XcEd4dnpyTzBDR1RJZmZjamRaOXFGTy9hT1NWMWlyZ2N4OURpZGNtcGdTcnM2MGdqVGtqaEFDMmd5YzA1cUNvSDFFN0hDaHFBTVNQYjN4Q2U4WmIyNFh2NCt2RTVNYnhrZmNPL0s2cG8xWEJTd2FwYTNEOEU1NjQzb3c9PS0tS3hUemFvbDZndnppdDBhUjNMaGxPQT09--9b5ee529db48e8fd70ed6f7dff04b5cb8c15f7c8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

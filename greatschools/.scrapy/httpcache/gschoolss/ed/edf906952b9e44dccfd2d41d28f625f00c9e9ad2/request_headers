@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A25040%2C%22state%22%3A%22CA%22%7D; _gsweb_session=ejVBWi9wMGkyemlOZmwzbVNhNndqSk1MSExnb1RuTENoNmJ5c09ScXpDQ0hhaU1JTWpGNVRLNUdyYVVDdWZLcmFYbFhDK2owWkg3ekwrSldqYnYva091ZkpWaWxUem9ucXBOZzJxMENVSVJVanVLZGxTL2xLczd6Z2RIWFQ1c08xZ0RUQXNXMlZhUEN5NHRJVVF2UkQrZFN4Zkp3MzdFaHFyUkRTcVpxVFkrcElIcTB3cDJFUXpyRnlTYTFrdmhzbGdJNlNwKytJMjFTR0NjTll1S2pEaG1vRk5iRFZyeVg2MEg4K0x2eTlzcGd3QklUOWNvMUFRZGZ2SmszVm1ndXl4aEJEZzFCVHoyTk9ycGk4VXIzNUpzS0xwZHdaZ0hTTGJQWUpVaC82MnpKcXY1VUxqY2Z2QW9pUzNJT01PMDlsdW9mNi9ZVDRDVjhFd2lSOWlYbXd5c0dQcVQvcFhKa21tMEFRclcvZ0s1V3RiUHN3QkkzYnRVamxtMlNVTmlucDRZL1hiQTY4cDlLNG9TQkpySTZkQT09LS0yeXlqczh4WHRxWjVSNTFWMDQvcEJRPT0%3D--5cead2aecf27fce41a8559f4d7ac94dcc5603221; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcoleville; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/gk/book-lists/6th-grade-books-made-into-movies/

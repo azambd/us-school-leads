@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A16793%2C%22state%22%3A%22CA%22%7D; _gsweb_session=a3dTYjhqWThpUjR1RGxMN2hXVWhiVmtyb2p3Ui9LNVZMRlQ2MmF0ZGZYYjRsaytsN05lSkVDV3pCMzRjWVhyT1lhMXBEWXFma0laamRlVTAvSW1PTjZGNDEwTm55NVFmYUdkL3huODdVVy9ROTV3aFB1Y0NhUlY0WFdSd3MvSXBGNnU2QkRnR2dpY3NDN3phMGhHaWVqa3dXak1rYXhOMG9qUVdLSDZIN0l4eG5Fc05FRGtFYi9ta0IzYzRoYTNNcjBOZDM5R1RQUi9uV2NqaTcyT0tpWmF1ellpRlY2MEFpL3M1Ni8zQTZGR2lNSTZzQXlQNnYrZHNKMS9jWjRIalBXczhVKzRacU1lY1Rva3ZRdjVhYUhwV2xaRGNkL1IzamVkOUhGQ21ZdEJzWEM1NTlzdjcrZ0JaL0V5K0p5MmRETnFrdFNtY1BYa0x5Y3k2ZTVmWlhGRzVTbys2M2VuWis4QVg0UllyZUExU1NVMXZIQXUwb1JYc0lrYnAxUm1ZLy9BbGhCRDUzUHY1OTZEOW9BREdDZz09LS1JYWwrR2ppTTUrZjdZS1JSc3ZlQUJRPT0%3D--1dbf2b0df7795becfa30aa9547e2153c59505211; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/16812-Solimar-Academy/

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f28e5c96-4222-44f3-bd5f-ae264601faf4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbella-vista%2Fbella-vista-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bnZBZ0QvWFYyb0c3WnB5YUU4am9TOENxN2dZM0gvUGE4cUlxNmlvZzk3cXVEYkNvQm0zTVRSdzBGYmhsYnJwdEF1QUIxeTJkdjlpMEFpZ2xaUElKcms0R1g2dDFNTDVjcUdkOWduN3EvSlJRTUY3N3pQVUlWSVM5VDE2aGczTzhlelJ3ekRGODZ0Ry9XYU5xY3I1UC8yanZYVWk1ZFI0ZHN2QXl4VXoxNWNRc1dKZEJXUkhGUmpkMk9XdDE3VFpLR3BsUlJOS0lQZWtJOXlDY2RlOExxSzBnUkEydDlFRk9tcnNUQUpwa2hYUk5Kc1BUdlhWKzQ1ZDdMVVlaazVxUlFyaXRVS3dNdTBSdUp1Vk04c0VSbUE9PS0tY1czeHVJaHg2V21OVWVZTkNobXBOdz09--06d8906da7aa043b0c9989b3f9f5f89284bbe544; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

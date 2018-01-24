@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 007efb9e-036b-4f0f-b298-7d1bd108cb62
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fel-dorado-hills%2Fbuckeye-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VlNJZmhjejQycHcrTEo3RXk4d0pMekJ3WUZ4WjlyL29BazVzKzM1MnBZYkxkNituZi9yMWo0RW5TVCs2UWdNUTgyMEZvRlZPenpGK1hUckViNWZiQkNYK29zOFNtOWx5UUI2N1R5UVh1QlJFbWJ2bGJScnpQKzA4eTdpSDlINlVKSVBrT25VOFJ4Y0VBRnhRUkVtSlBOWm1DUkRWMVBwSGdzSmU0MDhXUjB0TnZrOStGeGhNcnFMUkVvWmdDVk5CKzlTdlZoWGt3ZjdyWCtxajZ2WFlKeVVHTHd6SHV0YUFjc0JaSGZ3TC94UFRkV2NRV1dWeDFmM3R0QllYVTdQSXV1V1IyVzhxTU00THdkNmFlK0l0Nmc9PS0tYVVvNWRybEU4WDE2YWs5bk5kOTIzQT09--0e06345a008d7943d7cf556b76355239206fbd57; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

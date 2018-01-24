@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: b48d1e2c-6f1e-4028-a6dd-109d4f377133
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foak-view%2Fschools; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=WlpFQU1Tc3hRQmFacE9ja2gzUm5GSElJY2lINDBwRmdwMWlyOGhCT0VpRk9YOHNwc0sraDN4YnE2dG1ZOVZ6WlhPRk9ScGxCQ0o1c09pNjcxL3htMnFleG44QmVnTzFldmdYaURHeEo0WWF0TG1lamdsQlBhUEoyRllnMEJkZGtxOXVSSzR0Mzh1OVpCRmp4MkRZbEZvMCt6cWFzNjRtc0pZZkpBS0xFSTVLbzB5aitzSkVmeDNyaDlURzE1bGQ0SWpYMldVZHI3ZDNOMUdPQWZHc0xoSk5WUmROcFlISlBXK1FwaHFNajM2c2ZsNmhTeC9nVi80VDQ1WkpTSFZZM25OWWRLVmFjQzVLNDlxM0RJY091a296cVNURGllU1kvdm9HWncrbUV0aUxnMVgwazlIMy93U3pBQ1JBZkpNNHBUSzJKN08vK1J3QVJIS0IvUUM4cHZQNU4yM2NTWkFuVGxFbWRBQjI1anAwalJ3T3FWTVVOQmNWUFpWc2habnhkMjJsaE1uaUFuZDhvdHFMR0hQaEtGdz09LS04cEJVckI4NnRzUUZsMUdVUE9TamJRPT0%3D--70373387f612b896baa4019fab0bc1e3e29b57e9; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

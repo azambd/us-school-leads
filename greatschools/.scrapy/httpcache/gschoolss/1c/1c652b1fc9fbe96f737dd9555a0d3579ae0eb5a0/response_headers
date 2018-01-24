@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 609677e9-1e08-41c6-90a0-1c486cd5df27
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffresno%2Ffresno-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TG9NZFZ2NWFBWXlWNVQ4Q1VEZ3Q3T2dSRGZRV0FRaFVFOWE1RTJYaTMybXBiTUZZbWd4M0Q5VVUwUEdUOEthMjJpWTBPMFN4TkZpTlFzeUJhQzQydUxiUUZEbi9MekFqWVh0QUkyVmROZm5jQ00wQlhybU56ekZ0UzZGSkJ0UUdQQ1grQ0Z3YzcxTERFVnBEbWp4WCt2MExoMERSRCtnNDIvMWEzTUtQNXhLL2c0OTVaZWFMU1FZSWljeHBuUnVVM0NyeVBnYVg5ZVRYS3ZvT2hhWGl3bGJrSXdwRGZ4cHg5WE0xR1ZqaUF0bzRldk1VbEdhZ2M3Q04wcmFFb2dxVS0tUEZVY1ZnZ05nNjJ5UHdST0c1QzBWdz09--4731b4a6d64149d39c03f764db4357caf9ff56ec; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:36 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

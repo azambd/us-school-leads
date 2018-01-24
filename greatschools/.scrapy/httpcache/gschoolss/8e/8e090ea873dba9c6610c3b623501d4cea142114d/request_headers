@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Referer: https://blog.greatschools.org/2012/11/08/proof-of-impact/
+Cookie: _gsweb_session=SGdENTkxNHJ1cVBDRElwMjFibjQvaldMVFJOa0dkWWw4ZXVvbmU4T09qNzlJdVE0V1N3UGhNOGFVd0hXQ0kxaVBvRUZhSlNPRmxnSGJZdndNdC9xWWtWdHRDaWkzY2VZUm41bTNNRHFrdjZUd2FySTV4cElWeXVjZFAvVVY1K2ZyQWMxV0tvUWd3Ukl3SUhjMFZEcVArWnFpS0o0amlIdFZVeVI1elk2R1lBVUd6QW8zSU5mK0tkK1lKWHF4eDNXWW9CUjE1aWxHZkxJSXV4UHpCQm0yUDJ5bXhER01aRlJ0TGRvSTRDRGwrTWtESjQwSDQ1ZThmQjdJT0h6UzdEMkZCaVZFSEhWTHJudHFjZGFQMVZ1UlVtZWxzSFBSQVJmMTNDaTV0aTdkL0orV1dMeFVWVHl5YXlGcHh1QUtYcTgyYVZjVjZLaFBVaHYxQkJYWS9FMCt2YmhoSTVnQkNubi95MFQ5SGpsc1IrSy9QU0RDMFZocXhMamZLaEJBU29wVXdaemhONkJURnJ5VTE5RVFzbDJDQT09LS0rSHlyTFZMVXBEMktJSVdmL0x0TFZBPT0%3D--f8fb5da919ccba6649c091274a3c7bdbef95470a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fwisconsin%2Fmilwaukee; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D

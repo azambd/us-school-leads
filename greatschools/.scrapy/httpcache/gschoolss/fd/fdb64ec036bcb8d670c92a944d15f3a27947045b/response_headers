@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 2f20b151-38e3-4351-a8fd-33be35c43244
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdesert-center%2Fdesert-center-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cVVLdUxha0lOTCtKS25MY0JFTWNFMmhwREF4b1ltcTd3eFBOZkhkdnBTZlZqRzNZanB6bVhtRCtpMnhTRmxCc01Cdmlxc0pzaUNHY29aQmFtbkZzcjBGS09sblRzeWwyVWpNcWVweTVtTFlBR2dINitkMG5XNWlaaDlVVzE3bFZ3ZVdpd3BNOFVMSTcwaEx6b0EzUk5QaTZnTnJJNHlvSnp3WE1sYzR0TXRhaEdwUWk5MXRuZHJiYkRBQXl6QndUSEpjeXlkbEx0T05UTWNnS2lRRXFXTHpFTVpBb3hIRitSMGsxSXdTR0lTNGw5V3p3VVhDL0ROSU9rWXp0NW5hNmlmZWt0WGlqUmZlT1lBaUN5ZlBJSUE9PS0tTU1zcU9UWTBhcmEwU0pnY1lCKzUyUT09--b9d1654a47b368bd5ab7cdf1cc0ebce2d2282f72; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

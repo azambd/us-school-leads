@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ff743337-252c-4ab1-a4a8-365d35b3d325
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcorning%2Frichfield-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UmVaSDhtd2FLWGtYUjRMSmNsYmE0WHpiMDlLaEpKR2k5a0xzUHlhVitlbjduL0FXQ0xheDB6QjQ0a1hiZDNhYjdkODdUK29KeVdPNkhkWkpCVEdoZnVzaVowdGJCeXVsbUJrWDIxdW5DbVMyS3lqSmVTUWZ6Tzh3UDJqUmRmZGdCUHNGb1ZDeE56cGFIUXNEUFdjV0oxVElQejBmdkpQM1V1MzBGNWlnVVljcng0OVhuQWlpanlKMU5NZFAyM2Evc1lrZDdBOURrcWg3b0xqQis0TTJYQkp1bHZwRzJkckROSVJsSlR5MnBPeVNsYzN2K0dUVnpZYzUyaEErdFNWMC0tYUtiNXVrZjIvK0dhQ2ZPM00rY2Y1QT09--6f743e100c4eaa1849423c5db05537ec99d4bbe3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

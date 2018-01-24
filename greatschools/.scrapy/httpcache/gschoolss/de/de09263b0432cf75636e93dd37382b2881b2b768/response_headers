@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b012db1e-995f-4684-851d-7da101388569
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvalencia%2Fcastaic-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=KzFQc09BSlNzK0gxd2VaSEg4SmM5RTFrZk1ReVVaTmZEbkVYMzMvWFlZS3dzVjNSMXFKUDRFSy8rUmZyWmxuRjZxN25DNThLMjQySkx6T0VDUUZMWTdnWDk3UTZFckk3bnJxZDJCdjBxcnlvbFlBbHR0Vm1PSFMvSzEyYUd1M0tzL2VMN0xJU2lnd1BoMkU5aTVIMEVNa3JYZXRCeXorV1BZbWdEWW1lQ2ZvSGJzN3lJSmhKL2xweTQ4Yk9iUkhtQ3dDZmtWU1NndkkzbjR4RzRtK0J5WnZJSGgvN3JiWWpNSlJkSWZKcjVEOEo3M1NnZGYrQlBJaDBDalRDdklKMy0tQjliK3BjaTQvYjNIR1AxRmFXNldWdz09--2f95f8029b22deaba21675ede8cc35b8e3b74ecf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

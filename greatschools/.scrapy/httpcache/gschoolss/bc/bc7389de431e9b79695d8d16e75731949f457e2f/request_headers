@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A11899%2C%22state%22%3A%22CA%22%7D; _gsweb_session=WjIrMGVucUtKNGo0WHlHbU9KNGlndXRFQTVRd1cxZ3pQWmhrV1k4aVk5UWdyR1pxaEszN0RiVVVZNGFLTWRibCt1TnBiRHBZUTRWUGtGQnRQYVNZeUUxWEd3aXo4c05CUkF4amN1SytESVFiTkNiWVdXZ3g4azR3UFRFajZVcjkxSXBsNE4xcHkwVFFTdm5PVEw5OXBxN0VQUVhpeEpQSzJJZWpEU0pSbTZEOGVidmtGSndqaHV4WTJ1clc3Yko1M0xmMnBLSS9FMkVJN1dPbTd6R3pidz09LS1mR1p1cHN5MTBoTm9kSVVHYnNKYzNBPT0%3D--2e16ff60f2b0c4919822511d42ffd0123cb67efc; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/10376-Ventura-County-Christian-School/

@@ -1,0 +1,17 @@
+Status: 302 Found
+X-Request-Id: 44de6430-886d-4a74-bdcc-ebb89a4160d3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhanford%2Fpioneer-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MWdWRXY4c0xnd2tQR21LdmFJcWpOcTlZRDFRRDdTbnI5WHh1aGhsM3RLbGdRUThzdWFZYktDelJPK3ZyZm5UNCtDUVpmUWZIYjVVNmNVdnVSZWRmZ0R5SDE3dmZRS3BTMHZFSG8xOTdoYU9HZ3Q5SzJHL3Y5MmNFK2V4NmI1Yy9hR25Ob1poZmNXbm5tMVdoWGQxRFdiRHRqYThCOFNCeTJNamNBUnhOMmZ0bFVjS3lNV2FMVFNiNnNsSytLalVqQ2pYdjczRkZaUXR5OG9vZlFVMU5vaEg2a3ZIbkhlZVRNUFB6cXFxa2pDeTRXc3FQa0hJRHBud2NrSWVVZFhQWC0tUkZkS1VYWHZqL1dCaUxHR1k5UlVNdz09--989d02572bc1ecaa5a07a48699412a74fe83ead8; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 13:43:05 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/california/berry-creek/pioneer-union-elementary/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

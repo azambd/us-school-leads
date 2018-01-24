@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=aFdITE4zOEFXd0wxWW01QmlyYkxGaXFnMzRXWFNwY1FiYTdIaDlNL0Zjam9EUEF1Wk12UUd2TG5nNmVHcVc0N1FhYmE5WVQrTnpGNmxabWFQT0daNGRsbjV4UVFJS1ZQTExpRmFURHdwK1hYeUFQMGFTU0lPRXVVbURNUmNyWUdnVzFQdGN6R1E5aFNBMGhIamJiSnhOVWQ4RnF5TDdaQVpNZGpHbVlSZmdnNDdaU1NjUU1Fc0lJVFJSSlZRbFFuZkZvS3hCUVo1cWw2MmFFV0c4QlpOMHpnckl6Zm1vKzY2K1Q5RzF2ZDh2TFhVOEVmRVMwcDJtaENZV3J1amxRVC0tc1VtWVM2U3JRdEQ5SWF4TEs5U1R1dz09--cc7795a2ceba15d9f6180b3b8fce4bafc0a34f3e; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fturlock%2Fturlock-unified
+Referer: https://www.greatschools.org/schools/districts/California/CA/

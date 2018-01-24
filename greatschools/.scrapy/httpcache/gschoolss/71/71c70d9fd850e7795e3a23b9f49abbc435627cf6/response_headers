@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 54dfb452-7f81-46ae-bec8-7a2d412e3f63
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fetiwanda%2Fetiwanda-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TWtFU1g2Y3UzemxydU5XdFdjVDRiUktUN29wQTVaZG8yMXpKZWcwOEQ2a1phUW1tNCtrbUFSZWRiTUY1dS90NjRCSnE2aVl3c2FHSFNPZDFEeVpVcW1OUUlkaC9CUTE5c0g1djdNOHNVYWczeFEzZldXaDVMaTdYVkE1dGYwbTNUWlRIVEJJUnBLNWxkTWtFYnZGU2ZGK2dkSlNsNUNyaXFKQzdKeGZmY1daOSs2cFhrall5Z2ZKckl5NitCQVdiZEEwOWo2TmJqb3pHV2xaYVhORUY1TWtnWXh1dm5USzJEYytMdHl4T0VpYWVDZmxpYXk5aFZZcUo0UGNiVnNjOS0taUlUVmtidm1mTzVuTUpjZ3Y2VHNRUT09--64945dace29adaed2657b2f7a2f29a7a33ab2076; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

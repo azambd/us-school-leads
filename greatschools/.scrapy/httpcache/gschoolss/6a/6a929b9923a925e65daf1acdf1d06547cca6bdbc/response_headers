@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 781b8fb8-4292-4539-97d8-2d058d2a1b18
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrenada%2Fgrenada-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bjVLZkVvMUpDandTR0prTG9jbHBOS2NrNUM3Z0dyVm92b0ducWNuTjBWdEJsWmxyTU55b1JFc201T0thYlp3bFk5UURITVpkS0t2OThveEM2YkRXZVZQL0dHSzdVUnd6TXc4UmFNVkxqVGxBSFlvbFZqeDNIdUxkT1pWQVVCRDVnODA5eHNra2dkL05icndDSHJza1VsdDFWS2taTUdiVDd3UnpIRDl1c2tBK0NiZGZFOENDb3ovSzhRTUFpTXNWcGdJQUZUVXgxYUFKeW9ORjV6WlA0SkYybUpCS2dKRGlydmR2SjFzdDFaRksweVEyMkFETTNodnVXbkxaK21ybS0td3picFZCbUN4Z1NlWURMY0ltZW5CZz09--ada7d8e959db33344259dfdb9b22f36626ac90bc; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:34 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 904ca403-aff0-4377-b04c-2371a670ae16
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcoffee-creek%2Fcoffee-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SEpvRjV5TjZmcnV6VVlWbXVuR2hURWxUNkxIa25sR3RHeVduRThkUjFaeFlpdDRaRE9UVUlubnlBQlFXLzNLSHBLOHdhTG9QNElkbXVpUGw3eXRnTUFRK3J6WGFuMU96SnlpeE4vc3QwN1pvS0thd0E3YldkMEhncjlnWDRSbHhGK3I1dlV6RHZHbWswSjM0ZlIxZ0lSZ0ZpQUlEYk14RWdGV2xVRnhKem9IcmhTUm5sOHI4TnlOY0NpYWdkbDF1VjBWNlh0UUp0SENQbVhqbHRLSXJlcG5GZkFOVVM1ODkvMGNEMXJCY2MrS0VyYUpoVXhYcnl2eVNIMkF3R0hOQ1dTK2JSUEwyK3FEdE1MK1hEcTZ4NWc9PS0tQWhvSFY4MTdBUVVqRUVzTTRVQW9aZz09--51bcae9743fbebe51e56db163bb3113ae748d73a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:46 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

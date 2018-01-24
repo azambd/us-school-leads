@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A6153%2C%22state%22%3A%22MA%22%7D; _gsweb_session=V0dwdzJkNkN0SDlPaUFtS1RJc242VG9yL1BKSUVPNE1UaWJtNFNDSjRHZDE2bmJDcnVxUUVmVGlNbkMxeW5TYjhwZU51SEJVcm85VXE3QmZVVFV0TXQxRUxvOU9WUVFhWHJNVWxGUmhYUjI2THFoS0ExTmdBc0VzQzJDR1dZZStTVjZ5TUZrV3lCOHgzKzJPYjVNSG1tL1lBWUJlZ2RpMHFTSmxxS1A3ZUdJU2hjemFCTExZdzBoRVZPV09sVjNIWlZyODU3OFpNQXVVN3Z5M1pGZFROR1haQklEbUo0cXJDL0h2em83eFhoNmttcmhlUFV5ZkdtbzAvUWRTTmhUMW4rUmhEdnRjUHJtREthRnJqSHJmZGZwVzdvUXlQSks3eHpPWWJuK2xsM1p2TzJnc1FXVi9uKy9ESlJYekZPNkFhd29aWHRiU2x2Tnp6V3lGektORW1ySmxwbk16QkVpdzYraTNNYUxTNTkrQWtaZElaK3laUmdMZFhibHBvQ2VVVUkrMFgrSXYrVXc0MnAzUFhIVzJNNWJ4WVVvTGJnMGVVb015RWlGb0s5WT0tLTJtNHJjMmlyY3BWR29SYXBHeTJQM2c9PQ%3D%3D--b59a84a2d03e1d57abe3c4ae71dca0caed333b59; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fcliffside-park%2Fcliffside-park-school-district; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/new-jersey/tenafly/tenafly-public-school-district/schools/?gradeLevels=h

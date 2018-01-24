@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 68039222-0698-4a9b-a4a2-53d4725718bd
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fporterville%2Ftulare-county-organization-for-vocational-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZGxyYWV2aDhSUnUwd2RDT21TdmpFa1BxV3lLbDBlWFMvQU5Zb1NyUXQ0VERVWWVsemZTQWp5WlVSR0VPOW9wa3BDT3VBelZvVkZaY3lwS0pPZHlscXFTcUN6KzBZdlgwRWNiUCtmcXRMbHp2OTNvZUxrczNvM2tkTGJjZGFmZEtnMmpuVjBYamt3alZ2VTZuWm9xVEYyeis5aE1FYm9WaExMSjVGQlFaWXRtMXJHdStLbmJuSkl4WTJmL0M4MmN1SFZJTG9lNkpoZ0Y1ZWxHSXdQelVYRGFJZ2hzRkcyZE1XVnFDRkljSVYzRlF4MGh4dFU3N2dkS0E1NjBscUxZT2RyRWxwYmhDalVHQXBzQ3U1RitkSlE9PS0teVZmTkpVdlVoNU1FTlF1TEZab0hnUT09--824567ea5b54cd86b0bc9f44238007519ac3af20; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:45 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

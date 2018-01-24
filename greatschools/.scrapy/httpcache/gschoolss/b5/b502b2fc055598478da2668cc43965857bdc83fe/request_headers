@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A23462%2C%22state%22%3A%22CA%22%7D; _gsweb_session=MDRXNXJSMXZQTHpEc29ub2ZVODBPalIyTUJ6VERqS2ZneE96UnAzYy8zMDdSa3h1LytRQm5xVE5IbFZ1dVpxVkpRQVozYlhqTHU5OW92RG9WcmlKNTZGc2dqNXJ0TXcrWEZrcFFhVXdMZ3NZdDVPd3RsUGdvTmRjNTVzUUhtendZTVc3NHpoQjZqMFJVZVpIUEhEa2huRVR4aUJKcjFZeUtmQ0ZCRVppbW1iMnZtUmx2eU9mM1RsMDMvTkdQenBCWmpBUUZmU2lISWx5U2dyVlpLVUQ4eG1RckZyMFdCcVl0dmJGOHp6S1VEQzdSbDdRRmdQVzcwb21SRzVqNnFrRXZIQkM4SlM5T29yUjhCY1ZKVGM3RUxKTTVXc0RFYXM1RXc3dXJqaFV6a0lxeWhNZldlU0lDTUxCWU1iK3RxUjlUaXl2V3ZpUkVhZWZlWkh2bVRJQnJnQ3Vqd3ZRdGxoeWRGRHBlc0VLbURVPS0takRzdHg5aW1mWlBYZmxBVFQ4Vmwxdz09--a53210d8d35ebcc80e18522860c450bada9a5370; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/23462-Community-Presbyterian-Nursery-School/

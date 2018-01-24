@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9f56b86d-67c7-476a-8f54-e1d37d81e8c2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flaytonville%2Flaytonville-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N3RJeXJJdFVMbVJQYjE4SEpmb0d2SnhJbXlOd2VRSnpOZ0xiY1hEdVNhQ05yeThKQmZYMzI3N2JJaDIrRUxFT3VDb3JYWWFGTXJBbXFqeElLN0NvVFlMUlpONFdUblRZUDQveUlUVTd2OGJmMm9vd1Z1MGRLRUVJZGttMkd4TmViL2Z1M2N4NWI4ZzlPMGErU0VJV2ZaZE5lMlhJR1VINFFzT3lrSmg3cXpuY0cxWWxqM3NCSzUzbFhQcFY5c3JpckNtSDkwMnNLSlRSMkRWeWc3QjkxRHU2VkpBU2RqRDBJcHVYSWY5Y1VVUXlZNWhLb0VWbHplZFgvbklvcGU5Qi9XVlBvdXVCRlpZdUNhWk1aTVg5TWc9PS0tYWEwWVZocnpDd0RLRk42WWgzVnVmUT09--b55a69a88bb34d4b64970bb208d1b48e249daae8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

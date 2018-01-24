@@ -1,0 +1,17 @@
+Status: 302 Found
+X-Request-Id: 6adb05e9-63c0-475f-8ef6-8e4a2a30d74f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Farcata%2Fpacific-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eHV0R1h0YnBwVjI3ZXJKdlAzV2xLVStKRTZXVEpjS2VhYzdNY1VjOThIVUwxSnBNS25iOUsxYlVjZ2ZoeGZERlRoZFZZd0g2RzVMU05kK0hVMjdPbkFURjU0U05YaVpESEoxVU9JYVZpMEkzZEVJNDBCczhWQ2RCRkNHb0NaaGQ0aS9ad0ZKbGJlUTFTM2FCWng1UTVQNFF5dCt1eThsdThXcm1PV3pQSmQzUVJLZEVGdWRKQzgrZHV2ZTNHQTJLbkx6WkdiaVhmdGIwYU1wV2xielB5aW56TnpiR2VmKy9MOHpveVNKclNkOTFzYm5IeWYrTGp0VUlwS0luWVpvdy0tdUg1K2hlLzcxUnpOMGFrdWJnYlZhQT09--30cd7304d7d12e3b638a296f58ab9897e42b4fff; domain=.greatschools.org; path=/
+Expires: Tue, 23 Jan 2018 13:43:07 GMT
+Vary: Accept-Encoding
+Server: Apache
+Location: http://www.greatschools.org/california/fresno/pacific-union-elementary/
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 23 Jan 2018 13:43:07 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

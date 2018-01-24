@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A8620%2C%22state%22%3A%22NJ%22%7D; _gsweb_session=RTVYVlprUThqNzBRcEFZcjJSZGpCZlNGTXYvNU9yV3FIN2ViY3ZUeUhINlJkWDdJSVhQeEFKSDVmVEVzTGVScUdmdVVkdHgveDVBK0d5bGVyMGJ5UzMvaGNEZE51cWJjQ1k0cTN6TXFTVHFWdEJ6MmJiVUtWRzBPSzNDL2VvdjlRRlhlMG1qWGdCYTBXQ2JlWnZlTmxYL04rc2RrbjZKT0thNmp1K2lrN2FIZ0ZMZkxkbmZZbmg2YlB2TUNMZGRaSUNKVmV5S2tJckNNdjVqRlJuZzY5cFdOVUFhd3czbWJyWEFZOEFYM0Z3N2ZBQmRwOWpidDBROTZsVVIwK1FJbkFkdEx1S2ZSTHFPeTdmM2RvdU1xK0FkbVpHTmZ4Sll2dkRnUzhaRzU0WmhYZnNlWHB1dy95Qlc0eDY5b0tPemxucTlIb2xwalYwZjFoR3lMUFNsd3VFUTJhWVVCZzdVMWJtU3hLZ0l1Y2I1RDM0MUllUjFtU1pHNnNuZFdhajU2VTBmU0hrQXhNZllDa3BIZ283QjBMQT09LS1vbUVRQldyVGFxeEpNRGFUOXdKcjR3PT0%3D--409a353f1dc87a5d4d10890da15e927a1b4107f3; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fhaworth%2Fschools; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/gk/author/bootswhitmer/

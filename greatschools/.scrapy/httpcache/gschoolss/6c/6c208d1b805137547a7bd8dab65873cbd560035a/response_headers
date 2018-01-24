@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 92b484c6-6467-4684-af68-8eaf91f8c648
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvallejo%2Fvallejo-city-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OUNuY0VuK0RJcE80WU5zQkpoT2pNRTBZQVJGMkM5elhtaVN6THIrdHdpYm1BNjR6NUZxVHo5UGxTZmxRZXBFQ0xpVmVUZm9qTVIraHlFd1ZCdnA0aStVb1RCU1RZc1lOVTRsY05UQTFVTXp0a2V3U1c2R25UV3N1QVN1VUt0TUNJdm1LVGh1b3h4Yi9oTUJNUE9IVUxPZXNQY3EzbDhPTnBWOFZxS3BFS0huUUFid1J0MlNjYmNqNDJPSGt3RWh6MnlJblcxN1Bkc1JUczNUMU5NeDFqQTZsbmY3ODUvWTFJYm8xVWFMelRDVENFVUpQZURTQ0lyUTVkYURMK2V2Qy0tWVRhUGtFNG5ma3ZBUEV4b2FDYTZtUT09--cf5722662184cc74aa4d2fbf31fb504994697dd6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

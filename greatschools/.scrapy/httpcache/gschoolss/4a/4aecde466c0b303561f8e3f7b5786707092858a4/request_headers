@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A17594%2C%22state%22%3A%22CA%22%7D; _gsweb_session=MnV4dWtBRUNuRjVZaXZYcWhOOHRzWmJLSFNuL3ZZUnd4TVFXZ0R2TFpHc2VVemhYMHB2V2hOTTFrNTJYckRJUVl5QTBoOEtJN0hzejY1VTcwTWx0aUxwa05McEF5Q0FHTitNYk83YVh2Q2dKVnZZak9ieDJEMG4xMDh3bERMZXVlNC9wT3JLemxvL1o2b0xUU0s4Y3dKeXJBZGVhVGhvOUhuR1BvUzRHVkVBejV2bm5XRlFpSEczZmZNalBnd3lJNTFkdFp5bGM4K1FHTjI3VlhxWk1BVE1YTG91dGFaZ29PZUx1bTd3NGpuUGVSWlBUdkZsWXUxeEo2dG1YYWhvVGRCNk11NE5vc1VLd3B6TldiaW9tMFR4ZURpdjk1bUZxS0pGajRhZWFEd25RNWxYQm5DT1ZQZ21KY0wxTm9yN1R4cmdEVnc1aXgrWFBQVnlUUkFqcFBSQ1hlRTZYVW0zM3g5TVJ6bkNic0hFPS0tOFZHVlNrRCsyZ1JzMTVSQjNvbVpOdz09--51999523295a70f29492bf4f7443d1447a1992d6; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/17594-Camarillo-Academy-Of-Progressive-Education/

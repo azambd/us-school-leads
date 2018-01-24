@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A9303%2C%22state%22%3A%22CA%22%7D; _gsweb_session=VlJqcWVtV3J3QlFFeW5zTzg0WTlFaGoxbTM5b2hDUmpHS29PblJxcnJVZGh0RG5IUHVveG96WUlKQWFzWTRaTGYwSnNYdi9PaUtCd2Z1S0p2SzhkZlZUWFVTNitSTk11QVpVTFZESnpzZjE3dGhZeDBxODQ2T0U5THh5NFA1MXZnOG04eVZCOVlHWVp2OEZybWdKUFVZbHBNVDZhTmczSnZBWE9DTEl6dkZTNFh1OXNZeC95WWpFSXFGTkYvbUlNMUxGRXlMbElHUWRWSmV0R1drUHEybGpaYUNTaHFPVVFtZmo3RGx5NU14RTRxdTk1VFV6S0FzVW9QeldIV2VhYjRyK1Vlc2VRaGhVUkl1eDFwU3VMV3lTb0Ixb3pXdVlTemU3WXNLcHJmTzZKQ3kzMHk4ZjJwK0RRMEtwcEg1K1ZIVjhFQXVIRWxhZVoySEJMSC9YTzJJd0ZmOUJxcjZPN1QyVWFGK0ZiZnBDVlA1NzNwUnJRdlhxUm4vODhnUVI4aHZzazk4cGhlb3hzb0xzTTBud0lGdz09LS10Q2FTemRHSHo5WGwrZFpGR2FLQStBPT0%3D--af9af8cb93fcb05c187c1e842e7719df77159576; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/8049-St.-Mary-Magdalen/

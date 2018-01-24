@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: aab31189-340a-4140-b502-96888f38f2e0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyucca-valley; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UGl2UGVYOUttNzVzQWRXWXZINExXdk1BditMaityWlJjdVhMaUh0b3FrNXRLNUExcHBaSVNlOWFDVUxNVU5BUmlkaWVMeFhxa3ZrY09SV2pMbVlPSVlVNU9RSi8xMHZpWCt4R3NzSldjcGhKS25seW81djlYNHFCUlUzOHcxZU5obUNCYXhkam5oYXAyTVN4N3lyQi9zM0dmanpHZFZ5VUJFcDU0U2ZhbitwYW1vMnBRZC81NytyMVRNZ1l3M2l5dmtNekt2b3VFSGgvdEJiTlRRTTdsU0pwMFJsWHo1U1BYM0x5TnZFU29RWjNDT1U2QU81bnJ3YVBqQ1lrR2cyOWplWjNEbE5VQ2pkNmVEREJWbld1em1PYjBTTnlUU091dVgrQ29NZXNDWUxkditrSmdNd3o0eUgybFlwWFFwVS82V05KUmxuREJmNUhSZXBIVFg3SURMM1ovUzlaUkZvN0xqV2l5NGowOXBqRUtwU01XZFVGRktmeGcrQmVlQzZLOTlRZmV0d2ovaUEyT1U5WEFwSHBsUT09LS1jaG1tMVZTTGN3Rk85RjBVb3NrL3RBPT0%3D--02765db9f5ee52b0fa476c3f979b003fe5f0c132; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

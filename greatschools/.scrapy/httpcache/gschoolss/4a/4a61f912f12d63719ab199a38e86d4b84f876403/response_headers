@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: bb510137-f2db-4f15-abf6-9d7e83be4080
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fweldon; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TFhPSlpYL0d0aHg1Rkx1Tlo1ejZncFVlaktyWU4vbjBFeTFFcjNMdU85SXZpU0ZaVVo1QU1DTGxaZnloU3J4cnBWOCt2eDN1a1ZlSEw2dldQY3pqckF3NFNmdkR1TzYzVVRJWS9CNFpWaFJNTGxpNTNuZGlENkxhbnY3NWhjZGtoZGg3RkxnSXNIM2txZEZFNVhpYkV4Y0FabmgxSXBJL0hQUEFTU21LNVBET05VUy9RaEpYcEFBenpPKytRaXRzaGE4NzdCbUovUXlybU5vc2RHemdTZk5tNTZ4c2JESGh4MzNkbzJjdFN5ZVRmbExSRDM3Wi9iZDhuMmdZc3ljK3ZLbGhOT3piVjU1Uld4YnBiRllPV3BzZ0dKVWJUVnM5N2lseENEZWJ5aVl2R3NkVGtvazRrY0xmS3dWRmlZQXBwR1JKU0NreXdNN2IvdlNiZDNFc0pZT002SHhIZzA5blZHM1JaWTg2WVJuM0NrSDNUcDYzOUJxZVRsTDJwTW1HMEc0RFZRQ3ZuZzdOKzZ1VTBsTG5SUT09LS15c1ZUR1RpSUtDb3JaeTI5NFJXY3NnPT0%3D--5e0057b0e5164f03e19d3d4b87ef9d3c88adb50e; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

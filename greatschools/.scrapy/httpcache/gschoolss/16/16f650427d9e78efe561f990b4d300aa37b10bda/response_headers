@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a95af173-44b2-40f6-bd2d-9ff07cd1f0f7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwestmorland%2Fwestmorland-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TEQ2UWpiUElsTVB5RFNiWG02dVRmN1JucDcza0gxeGZjWmRsM2dYQWhWb0tFYjhmMUtPV012OWVPUGpyRXIzUGlMb2gwSnhIbkM0cGVFaDZxdVY0cmVyV21aa1ZDMWljWml5ZnEyQ2xrdGh6UXovU1Qwc1F5Q1RwamZUVGp6MVlJalByUnRTT04yK21kNEFyektrSytvWm56TWRlVkJ2QWtXSGhBKzNicmpOWmQ2d2FrbDRvK0gxWHNjYTBYdHkydEkrdDFwc29VUW9VSUR2MkYvUTBhM1J2UnNPN2RSSW13Y0ZRWjhLRlBRUzhZa3c0K2ZINFM3ZnY1QUl6UGRROEhJbTRHQm1ibys3cEZmNVlwZEErUmc9PS0tb2g2S3ZiUU12eGxTK1JtZXZpSW10Zz09--2056c8782024072065d3436836bb9b45417eecac; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:41 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

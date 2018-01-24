@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b6f0a638-c3b7-48c7-9dfd-2bf2a2e182ac
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fle-grand%2Fle-grand-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R3hUMW5Ya01kd1NHaEZpcXFxVkZhVy91WDczY00vSUdjNHFxSTgxT3Y2WFBCY0RtNXlCVHorWUlBemR3VTRubTVYK1VGR2poOUR4ZzFOTFhNMmFueWo5NW1zZ3U0WmliWVYydzZZQmJoT0hqR3BRUWtXWnNMYit1SVRkZTQ0NmthVmxxZFFxZEdvZm9mU29ocnQ5VDZDVlRScHJESlV1TkJNekZwRGNZUDY0dkNoeDBnV1paZEZzK2JGaVI5enVPQkNWbXZyNFpXdW1IOVgwVHhlRXB2Mngyd0NkT245VmM4ZU96U1BBN3dZcVJrMkdpbk9FUnpxUnRRWi9aUXdkbC0tSU9IbUw0NG05cElDY1VHa0ZNSENVdz09--1cf9a7c86a34b70ff2881287e6268c4e393f88bb; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:25 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

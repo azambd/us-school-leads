@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: f94190ea-2da2-47f6-acda-2caeb4ecddc1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsunnyvale%2Fsunnyvale-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MWo5aDdIdGdkRWZIM2oxV0JyTmhYNDdvYmZGUXJmZkVnOHFYWU1ybkxaWk56eGVVM3VrVkJhcDF6SmxNc3ErSk5yOWlQUGZtT0JvOFJ2ekppSGN3N3IwWEltRjBTY0hwdUMyWnZtWCtTUEs4QXVicytMOXZmMkkydEJWQXZuOS9wWmpnRFlPaEVHT2FwQXloNkowU1VrUm1IaWlBeEsxWTh0dFFpQnMwdjhzZkw2MlBJOFRCcVZKdFBtdEJzclRHR0NwMUc2a3BRR1czV0h0Sm9BRkQrSGxoZ0tZUktmWGM1M01HYWFZc2kvV21QY1NDU0NJb3VXeUtoam9abVVXd2ZpZURwMkl5M2hsRVF2Vmk3bW9aeEE9PS0tTkIxczdlQXp2OHVnTnNNTkRTRWZ6UT09--9844072934872a0d906cbcc085a74cc97bbdca6d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

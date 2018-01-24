@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0f0de7c2-5e38-4421-88f4-75098104efc6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdowney%2Flos-angeles-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=enI4NGphdlA4alFWR0R3ZFJYcU9SdXNXaFcxWVoxRTBvb2QwNCtSMCt1YXFtWUtiRWVYR1Nodk9FVHFSNHB3cXFGSXZhSUhXTCtiSEQzZHFHTTNNc1Q5VXRBYndkQWQwNzdjTjJoSGVQc1VKL3FFdWI0ZGpxNldVRU0zdko5Z3IvSExBbFNKcytDbEZJSm0zRjN0c3FYYUZKNW1QSnNtVlBYTUdLc050aHlwbmovMzJ3Y21lTnNMZEdLREVPa3FnK0FpVUVlVldGU1BVRkNIYXgxWlFqc0xBV3FMdjZ0NlpHczRXQ2lFRFdzMEMrbjdBOTFHVlVDbjBpRSs2Q1AxRS0tam5mT3dmNmhMay9Mck1lU3NtZyt2QT09--276f2dfc3f9cd6c2d02be52c4867c3bb84cd5e5f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

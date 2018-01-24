@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 65f11b05-7656-48fa-8c32-bff9e15ee554
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flancaster%2Flancaster-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Wnd5c2tEZEMxQjY0eHRUUC9qekVGV0dIM0tSQzJEQjlWODlTT0pyUWh6dmV1K2JlczlEWWZpYnNkcGx3UFRiNUx5MWVCUm9ud1NUbExtaEFBc3lPb3l1VGdKanhVcTY4b3FXSHhoWk41eVZBbUl5MFBabzhFcUV3SXVMb3YwRnpmbTFDTUlRSUJMbDBKREwwbW5wMmVkMkQ1RUMwR0ptdDNoZkZPK1h6dVo5b29IbnNsY2VPaG03VXh0ZzdXTjNjNWhvbVVOdGo4cXpxdldtSDlXYll2UFRuZkF5MjJxbnlTYzY4a00wa05CekU4TnRmcE1ON3puOHl5Q2IxeG03Z1pmUDBuUDJPZDZ6YytNcHZEVWxzWVE9PS0tZ29Lbmlha2JFVlNkelZ4OThmcE1mdz09--13fc0598655eb3298a84f79f7a3df87dfb96f74e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3ec858fa-3db3-4a8c-a8bc-0bae607a3851
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fkern-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=b3NMeUNQUkxydlc5UTFKbmwya1cvemxlUFZpYlRvaGp1MDZPYklNTWNSZEF6N0d2aU1mSy9QSERaOWlsN01ZeFA0alJNUzIrdHVxV1kwOCt0cWJnNlpQcDFWL3BvNjdnL0xubVRBeU5zZFN2SDU0cFROT0luajgySkk1SlA3dTZiZFAvVVB6T3p2UDR5NW1xTktKN2wrUE9qZFkrTG14d1E5dTd6QmF5S1RISzZFSTF2ZHpobHZwdVE0VzRWK2hSSm9uWDBVNkJiNDFFWWRYRU0xNlZSOWdtYzJ6L3QwVjNXcDdLYk5XYTdGUGlCamhrU01uVEVNcXNRa0dyQS9TYW1meDNXbkNLQ0htR2lIcGNYUkcyWlE9PS0td1BuVFI3NWJCZUkrdTUzU08wZ2hidz09--82f2f60adccec767adb8eaccecab6c8d2b88c572; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:29 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

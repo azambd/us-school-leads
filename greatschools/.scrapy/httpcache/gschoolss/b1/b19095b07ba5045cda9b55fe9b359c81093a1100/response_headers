@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 220d50bc-ead7-4e8e-8d59-8f69fd7a254d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdanville%2Fsan-ramon-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QkFrdGdvZHpENGQrTU5mZEJDUzdCaGJ1OUN6V0EyZlJsSEx6dVpyYlF3eWhGM0pubTFxd1BnNjJ2SG4rVjZCVkFJNkd4NWo4LytOeXArQkovaGJIV3pNWitDU1RzcCtYSGduNzF2ckFSbm8xTFI5SHg4NUpESG95UlRoZi93dmZvWVZLTTB6ZVYrck9UKzAzZGJMcWpTUEs5S0poQnNhb2o3Y3VEaTlhWUFhOUdDbTBjTUpOMGxtcnJIbGdLcWlXNUFZQzdyYXZzenlTb1lDNnpiZHMzOEUwRGFHdW5YT1JkMUFmRHU0aGE4LzQ5SzYzUnp6Qy9vRWpvb1RYblJVci0tWldXSzNFWGNSTWRNenNzaVl2aitKZz09--3075ba3154e35bb557fa9d8f5a4c257a22f13d3d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

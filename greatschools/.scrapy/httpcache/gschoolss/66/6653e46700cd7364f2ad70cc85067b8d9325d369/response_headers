@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d88e009b-5e7a-4cda-b651-ffa42bc8d16d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsan-luis-obispo%2Fsanta-lucia-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TjBSbWM2RjBvMDdFYStVSEhqbTBKdi9HVUhLTUsyMzRKNEgxMWMyMVlTclBZWHpNOUcrdXdqbzNDNy85clB1NzJidXErS2o1SmdJUnIzcFhXZFR3Q09UOVo0QVQ2QVBmaDh4RFd1V3ZVME1kUVFVdDNTQnBHbS9pSFVDSkJ1VTdUanl1VXZqalJNbWxzMnlUSThpbEdwK0lWYkt3L2thMFR0bDJuT3BlOFlBUWd1S0RoeWpTV1oyYVk4Nk9MKzJva2N5YTBRWjlsODlXSEVFRTh1TG10TERhekFxMG4vekxWWjV4OVRGbURnRWFmd0hQaGcxSEpLWGtZQkMyWVk5amJPNm1meUtqdFdCeEowdTl5UW9nNnc9PS0tM3RydndxRHVqYjZLM3RPam1XMEVJdz09--60d49ae52ff70e95e0ea4f6ebda11840d7d06633; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

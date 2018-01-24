@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A24186%2C%22state%22%3A%22CA%22%7D; _gsweb_session=WmdiMmJkWmlGOTk0WUhWL2JQM1pCTlNJUU1Bckt2TVBraFg4Y3JORlI4NjJWNEg2NUNqdFY1dVgzUzJmQmpiNllsWjI2UjVoQU9xVUhKaUFIc0hPak9yM0J3MEJqVnZ1ZkhTWkZyejNxL05GYmZzZmZvWWpBS3I2WGpWVUlGZ1RxRURydUV1Z2ViM2FOSDBPZlJXZmoxMmtpNmJmaWVKM0FHTE9JeWNVL0dGQ2lza1lMdC9rT3NRY2QrRWw5WnMzOGtZNzNuWFg2YWc3MEkyTTUvSmpHUW5xbHdVb3llUDhSQVk2N1EvNy9heVpTOFhxcE40bndlc1ptbm1mSWFGejFZWEtXZjQ5blRoSm5WanRJQXhCcllVdnZOTWZjZCtOWWVDRGQyMWVQZnBzRmI4ZG9Beko0Uzh3QTVjYnhKbmdOemFrVldyWWZFYzVIMG8wL2FDaDVpOUowbnJodzYrcU5GMXpQdmRmYVhLcXRIZVBDOVl2eE1NUTFsVTJRTXFCSmZSU1NyZTFQazhuRERRVDhqUk1RQT09LS1laFliZnJBa3paS1pOUEVKTFhYMmp3PT0%3D--fef7bde7d7930ed71e67c70095012b33ad8313d8; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/24611-Pleasant-Valley-Instructional-Center-Peep/

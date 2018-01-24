@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a6567602-aa79-4564-9433-f1b77a677d41
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-ana%2Fsanta-ana-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=amlxQVk2bENyWG1uZ2pOaEt5OU1qRjJMeXg0ZTlwVzNMTWtIOXh3RXNIb3ZYdzN5T2FTYjBjNXZneDRIV09oZUdKWUpNL3dRZUJDTTRPTHlFV3VnQ2J4dmdHUTYzaExRaVVML0xuOVJkeEVrbE1tSUZFMzdrRUtxN1hmai9ZT1VEK1JJc0x0TXJiNVp6YnFLRVAxem1TUnVnd003R0FDVGdRMU91ZEE2b3ZGenlsNyttZm5jWlpwOXpONEEyY2VTWFMxVXNXVFl5UjZjaHFpcHRnSmNXakZWdS9LMmZMUTg2SXNURTUvcWs5QzN0dGRvV0JPRTNVNG5lbWZ1eW40ZXdHclVVcElBUGxWSmR3dEJ2SFlEZ0E9PS0tU0Rxb1dIUHQxcW5QR2NHRWJ1K3BQUT09--1c841efa6f5a07983b2d40da78be167b754f832d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

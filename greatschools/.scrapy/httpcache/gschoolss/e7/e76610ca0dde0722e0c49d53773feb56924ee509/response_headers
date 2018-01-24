@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8873d803-2412-442a-8378-f86e02968e63
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontara; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cDRMQUpPTURmbldyNitseUYyb0VsOFo0K0dmRVpRZkxwWFBJVmdwelQ2OW55Y2V1aEFsYWdJRXY1L1BTK3FOVTNPVm8xZzhVSnhQZGhEcklKWDVPQnYwQndNQ0dlellReHlsQTJFTytYbVJNc2NlWDFxZVNDNmVDblZSSFFNV0dDdUpmajRaWlZjdkJua2UrZ2RwNEtMNnA2RUVHcW82WmkwMzJORjBXODdTcUhDMjVYSkk5WWVVRUUrelBTelU0RUFBNW1lTyt4R21aYUNCem1UOWlyK09PbUZoQ2FlN2VzUnhDS0ROMlpvZkZwbWszTEtZbW9SSnhCV3dERUg4cmxwckJlcTByaERUZHNwZXZ0NTRaMzA4VjRKc3l1M2lkK2tBYzBPaXlZYmNTc3QrcmE5aW5qR2s2bElyclN4Q3hHWGZpeTRLaHFjeTFDb2tlWmJXZGZNU1QyTUNNQ1l1VzlXMHVPeFYvNFliMERzcGlEazVPalg0R0tTSWxQaWlPWGQ1SDlsL0lzSjA4SmpZVWRSYmFMQT09LS1vL3o2VE93RVlTZWFOdnVONUdPemxnPT0%3D--461159eafb43a2e61df88952e00ec97f42a94191; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

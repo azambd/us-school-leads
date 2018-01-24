@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7619%2C%22state%22%3A%22CA%22%7D; _gsweb_session=MDNNVjdNaFp1d00vRXM4NSsvWXhOc0RjVk1VSzBTdVZqU2N4T0xlMmVKWWhacCtTV3hZZDNzQkZSY05UaG9KZTNvT3NxR3JOZmdIQ1E4RmEzSE5nVUY3NGpwMUoyOGdFVmJ3SDU3c3V5dlBlNEp2RktqcGpoK0E1bHYvWFF3S1B1SW9uenFsQ0tqMS9DMXlrdzdWYWRmWEh3bFhmam1ac0tISHVwMngwbUh2Q1hYWSsrWVcxSzdzcEpCbmVtZGRlTWtWM2lZOEVxWUtQb0FEZGk2R0VKSnh2SzFOK3hsS0VRbWV5RDhqdUpLSll6VG1wQzQ2WEs2bCtURG5wNnBDZ0dTbWNCTlFhSGlCQUNmUFllOU1KazJtdG9ucFFZVHdBdENSTUNveDBvRSt1TkQvbXZscG9QY2tnc0dBQXNEeUdraXhwQjFVYXNsK3VGOGlHa2R4SjFQZi9lRXF2T3Jrd01EQTZGSHR2ZkJidmhSVnkwR256bjcrZWhzMXJQN3RXNEZ3SXhhZS9sdUpvdXNiaHVWU0x6dz09LS1ucHpNRk9Wb2F5dE5IMHB0NDZRSGRnPT0%3D--419b29782415b3ba4f7034e8c181c72085696349; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Faccount%2F%22%7D
+Referer: https://www.greatschools.org/california/port-hueneme/7617-Hueneme-Elementary-School/

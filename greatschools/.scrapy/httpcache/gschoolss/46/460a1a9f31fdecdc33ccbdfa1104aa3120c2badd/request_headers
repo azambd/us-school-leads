@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A7747%2C%22state%22%3A%22CA%22%7D; _gsweb_session=aFdTa2ZWN09jV0pLQjZGcFRmN2MrNGNHU2hrSlU4S0oxYlJHZGI4OVk3dW1OUklwT2lvekVqaXpXa1RPazVRdW9XV0tFVXQ4ZlF5Q2dZMkJsOGpqem83Sms0bnJwNml1QUpvditRQnprSFlTaWFTd1hmVTY1TWlWaWZ5bmJmSmFkWHBaWGRmemdIMGFTQXRPbm9kTkN6NzlkY1JWbWR4dnFYdVRYUE42UmxCTHdobmlmRnNscCtubzhycFNzWTN1VytSdmRTRmw0ZlNQc09VUFFVOGpvR2d0eEFJRXBMRktHK2g4ZkYzUHNoUTNESE1pMXFHRXN6aG90SnI2Z0RQMU4wRXNadVZvcVJFdDZNWGZVL1NoeWRBblNFU0RBVXJSTWlRTWxRQ3AwVjVUc2Q5VjB1NW9iWVJLSTM0dVAvWVVNOHl0dm9pZk9VTGY2MXgxd2FrVkhYdGVFVHA2OVlqdm94WCtDSnpnTmJXeWQ1b2RQWmorcnRsb3BXZlR0cTFyOEtiOERDeWhRQ1EwQW5xQnFEd1JKdz09LS10YklHbXBPWFFobE5XL1AycFpQZ0xBPT0%3D--4be9d7189934977fa5255f0375fd12a5a29e5c22; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/7747-Pacific-High-School/

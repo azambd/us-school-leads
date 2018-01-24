@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 14418dab-5063-436e-be86-a7e73e2fdbb0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmodesto%2Fmodesto-city-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cHNzYUYzZlY0NXM4L1kwU2pCdGpITnB4NXhzSWxXMUFsNmJaSkoxb2lNWW5YS05rZTZzV3c1VzlIdUVCcUZzMVJlcGJSeUg1b1ZUQkxKUnNnWVlWKzVBbG9KWXZCanBoZ0NLUUowN3JzZUdJMEc3eklRcGlBNW4rV0crVTNybFM2TU1EcVg0VTNWc254NTBFYm0wTW5vUFV1RlBldldjWlp3TG5MdjVleHBKcUx4bmNuL09UWkxLR043eXFzNjh3Q1R0RWd4aFFZUGRjZnFxUHpOdnJ6UEw1ZG9LNjBCZFVjWlpXaFliZlRmTnZNWFZ0bk1RRUNwb291NWJJaHJxai0tQm1ZWCtrTEtHWklocXY4Y1JJbzUrQT09--e5f541b7b71247e49a496303be303370cdc691ee; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

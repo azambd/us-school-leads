@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 687533ed-771e-4a89-9fae-2414878e3989
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetaluma%2Fpetaluma-joint-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=blROUG9qdzVrcGo5TG9tY2ZZR3lzZlE2QzJlMUx4eUpmUTJpMDNmZGJHQzM3UUZjNnRXakFKU3hHdWZPdm1wbEVQQ2dOa1BnazBXWVJycm1IcEI1bVZUVXBWbHFadkU4bEt2QnArSnJIZ1RJU2VVOGNkai9oNXRnR0p3ME01SEY0NU9McVF5TDNsV3p2MTFaM0VWTjRHU3AzcUN5cEkycHE1WDVMNy82ckswblRIbktPeStKb0ovVkVPM25IZ3dRSVFudWthcXNKZVpESHNCV2Uzd2VOclpBRDJCNWpkbTl2c2xWdktmYWhwclM5OXd3TVJkci9tdEpyam12ZENaZS0tUERxM1dvODZwM1Z6eFZTcjJidXA0UT09--760087d6252761cde0ebd24e08a7e51304a5ab4f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:05 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

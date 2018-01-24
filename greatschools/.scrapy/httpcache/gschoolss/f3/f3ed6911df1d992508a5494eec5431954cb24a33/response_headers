@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 571c4cf6-e772-475b-b1aa-4e57c7449c17
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhermosa-beach%2Fhermosa-beach-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZHBsTmpyb3JVem9Qb1d6WmJ2YUZSb0czNnVWdm03RU11Mm11OUlnTmxMbGt4YWZ2Mk83aGIyWHc2S2VDeEpjSEFHM1pDVzRvWUNJTGlhZ3FFT1E1c1RhelFFYWpqZ1loWlNNS1FvbDB0MzcraGVrUmFEK1hTbTBIUkFNSFQ1ZkpmSVpiOUxkNlR4QkpOeEVxVzVqWThTTUcyM1A3cklueEdndVAvVHBaRFR6dnVnWnY1SWdtWnQxYi9mOTJnckt6UTE4WHFZNHIyVFZacTNtNmNFNEZiRlUzcjVZVk1KQzBsNnRhbHhtcVJzM2QyVDdiYlo1NlFxSEw2WU5HVGVhKzV1emR4dnRKT2xxK1BrVDh1TFgzbnc9PS0tbm9aRXR4Y2R4SlVLaTBWQ3lPYUJadz09--25956fdbcf54f2c13df2d069c12a8c537f368f8f; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

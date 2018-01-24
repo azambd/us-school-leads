@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: cf1cef1c-d1c1-4c0a-af68-142a632b27ba
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Flakeside-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dnBrUE1wZzAvQkUydkhEeEdiaUR0U0VKZjB1aUkyZGNHMU1EbUNlN29Qb3N5TG9rSHBRVmFaY2gvdzh3eERVVi9rTkl6L1dkUWdMd04vSGFkTWxleDNCRHNnWnNlVmdLUE55K0FvQ0xQd2tQVmI0R2JoTHh1VG15WWREWkZrZUxxTjVwc0NFWGt4U2doamlvQzZhU09VOTBhY3NmM2NBOGYxS2RBd2ZXdnM5QWpuZDNQb29yekpidFRqU25uazdMbm15c0FCby9wZjlHL3pyT1Z2Tmx4V2VDTnZjSUlkQ3Q1VGZqWGN0RGI5eGc1S3N4OERVZXFCT3NldnZUTW11VWs1QzM2Rm83OFBXZzlKeDJUaERWa1E9PS0tRDJIUGd6Mit0aVhlbHNiR1BsZ250dz09--0140c7a14126e19cdd28c92f9de8e5717ae39fba; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d06b03e4-f4be-495d-bc0b-75aec0727e33
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmontague%2Fmontague-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TWFObndGUlplWE9WcTR3V0x3eG1pK2xWWXNZakFzVVJXdjZjMEUyRDZTWkRCL1VJOUFIUXpYaklORmZKMlRIZ1Y5aU54N2RSd1VFZ0diaWF1T25ENnZ1N3RxSHJvd3NXRWtLUzJuMWFqSjJTN0ZsaU9rZDBaZ010MEhwN3RaV3IwZitXQzNwT010VENiblhhR3FySUttM05mWllzUFNUUDFKTFk3dThlM2FBZHZNeTlMZVdtT2pEcjNpLzRCTTZSaDlaRHcvV3FlWEtTN1hOTDc2Ti9CNTFVK1Q5NGc2dk1HMFppTVorWEEzVFlHY1B0REN1U2poZytLWU5hWDUwdi0tQVNiUis2cVp2T0YzZVJncXlyZUZkdz09--3632a56d44d6f457d7a6172a6531007c1c842255; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

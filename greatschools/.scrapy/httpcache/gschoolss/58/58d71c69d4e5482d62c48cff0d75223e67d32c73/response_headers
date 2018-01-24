@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1a75e297-45e8-49c7-8091-d942e4151cc5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fantelope%2Fcenter-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TEVGdU9mZjhDSDd6ZkFUWXJiRWZmb29QY1V3U2tFOGg1OWVBK3hDb3ZqZzFZZFdrdGdtcXM3V2hIckthNitHcjRSK2xtOHlUMGxBL3NpUzd4elJTbXBqV1VQczZJeW8vOGlKbWFCdFNEZXpDTlZPZ2ZSNW9BUnJFVUFGbGhROWc5cHZvazd4Qk5lWUh4YysrMHRUMVd2T1ZabHVNQ3JZMGJ6OFdpWE9teGtVdm1Mam1CeFE4WDlLT2xuZnBDUS81YWhXdnpkQXo1TENrNmtBS3NzZnZJRDBmYWhuZDRjTm9xb25NaVFJWWszVTRFdTA0SkxhVVlXaWt2SFRoUjRCZi0tOHkzTzJZYmRFd0Z1YnNiazJYWFAwZz09--f5d024b221c10ade3ee2c920c73f20e3a023eb3e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:48 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

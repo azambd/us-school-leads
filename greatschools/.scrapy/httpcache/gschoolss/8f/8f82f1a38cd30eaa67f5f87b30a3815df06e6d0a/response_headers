@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c4ee5b97-dd46-4316-acaf-cbf9c3c5135c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fallensworth%2Fallensworth-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cXdvMFZNRmNYcDdyc043bTc1c3g4akNaekZsb0JJSUNwYSs0U0ZzV1kwbHVTM3UrQTZwVTJScXdKbE9sMWxGdnJoUkRrSW9ZbkZqa0hJY2k1cUV2cnFyczNJOEorK0JMQTdtRUlPMnRKa3M1UEY2NHRZWDBFSkFYdW9xY241M0tMM3ppY0FtS1ljajExSjNmMXFFeXhkdjdhQWY4cGU1VForSDlBc1pCVGJaRmRzNUtmaFpTTzRkREpGb3ZVay9iOU1QNTNKcFo3clE1d3dnWWN5ZVpmRis1TGNRQXBWNXE2MCtRVHJRVzRwbEZFK0RlNTNTa2pKdVkyWlUrZ0w4aHNicUh2bGdGNEZiRVhqUk9sd0xsQlE9PS0tbldYVTJlcVJuRTJEN29yMGJScG5GZz09--46e581e14ea71585f4c7fbba83d688fd45570ec7; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

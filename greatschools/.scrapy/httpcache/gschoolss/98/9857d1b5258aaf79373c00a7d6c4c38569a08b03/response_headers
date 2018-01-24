@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 92e1df07-4cd9-4690-838d-11102123a015
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmaricopa%2Fmaricopa-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=R2NHcGpCWE9yb2tWSm1ZUng2Mmh6aVhNQmJYUHh0Smg4MW5QS3J0TW5pcmtVN2JzSXlrV1BITmtQUW0vQWVHMWFjWW5lS1cxUEtMRjhSRWFJUHFrdlNRWHFDeGNvM1I4NzBvM0F6cWtuOUJNOWh0c3ozTzJqOUpCK2xwT2laSyt6OE1lS0RCZjhxYWFvNjBkU0JwWE43eHAyR1RXTk04a0lrYXZQbTBkZm4yNEZGamQxcHBIeStHYkx3ZXZRcGF0NzhtL0pxaFdTN0hJSHlBSUFqdHdPMkU2SG5hejZGRUhITnphV1BpdFg5enRRWFZiSm9SOElrK2t3YlI0dmtTSy0tSFpMT2tBV2owNjdZVFlycWkvOUxCZz09--696ffcfbfc07eba6fc2c4909318f78bc26d663f6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

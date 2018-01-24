@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 7dfb806a-cddb-408d-8062-88b8812cc4e4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fredwood-city%2Fsequoia-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cS80emM5YTZLb1NrV0t0eWJyY1gvL2E1Y3RxTXpQdCtIVE9GVzY5TUIzdTVkU2pPR3o4WEhYaXNQbGJ4QW1qNDRDMkU5bjB4cFNYdW1vTlFRNnlhcm8wbkJEQjhnN0JzQlBSc3lubFNUb2NqckpFTnZnK0g5clN0SDN4Z1BCZTk3WElOcTBiYkFZSXVNS0NDSEhjSzV2RTdBRXhKeDZEeC9GaE8rdjgyejlvVUljQTRRMjE4dENnTjlCYlJDNFl6YXFQRnVaelg0YXVOVUxkakhZL0x6QzkvWVZrVEFVMnMrbDdKenlIL21OczJmUVFPWlRkS3Yxb3M3Yk9TSG1aZ2lsb1FobFpJYUEyODc3bDl0U2d1R2c9PS0td3o1SDJySTBSNzNvUE01aG9YS0J3dz09--b9ab08bcd1470a67e597b99b1a8e0d857d0a9947; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 41180d65-e325-46af-8245-c6720a5208a4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flos-angeles%2Flos-angeles-unified-rocp; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dDB0NThyVWtlRUM0VTM3WFVBT2tiUXNBQXZ5N3gyY1Z5YWQ3TVVuaWNQSG9CMERsTUFkamdkcFcweHpnRjVtcFJBTC9kMDZGS25XN0VBN0E5NXJKTWk2SUxvUUl2Z210NzN1cDVwV2szQjBMTTFYdEVFZU9MSzJrWlp2aGhBTjluY0hVZ2gxenhDcHBoUWZ3cGZsL3hpZHB4Tkdhd29keGdIcVNOeFoyaVpUQXBPazd1Vjk2MmU0VWlnMFhBdDhOMk81SXk1RWllSEVJS2kzcmlkdU9mM2c5UDhtVnd4eHZHVllSV2QxUFJSQTd1aHZyQTF0bEwrZmFjVk5CdGFqTTlYSndZWmsvRmQ1WUdHRlpBcHVES1E9PS0tMDZzOVdrTU9wNi94RHhCOUMvTFd2UT09--0e33b8195a1504a8f9b56c0481b31d016741076b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:22 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

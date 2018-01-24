@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 067cb3c3-a95c-4fc1-a24e-20a51fc18830
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fquincy; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aDJRWU4zS2ZVZUNQd2ViUlRNV2t0VUpGNDJ4bVNhZTErWjI1b2l3UmVPajZzZm04WlpTTVFKeEt3MERXalFxdHdDbnNaYXBubjdJV01OejQ3VVdVRmgrNDV3Zkc4TUpzc0RJSGxLTWtkNXFad3ZmOWhDY1c0Ym4wdEYvdC84ckQ5aE1ZUWFLYUI3UUsvQW1uSS9tQmdsUlhQMmJqQVlCeGJ2bStyMHljZFoyYkxrRyttTHN0QjAzQUpuZnM1ZUx2VEF2WEk4RFZVcDQ1YkFaejJNZ1B0MzYrR3lVZGNWb0RIZnhjaUgrblBlQ0kzakhlcjZSVW9ZMThhMUNZOFdBNVF0dnRzK3gvSnBMWldXdzVFTWsrdnlPdlpzYnhPQUdrVjhWcDc3QmdlZWdhSUlLZVFVeFJ6Tm00TVlIRmpDS3VSV2RZbVFGVXBJWXZsN01sWC9yazk1ek1qUEc5Um8zUXU3RXM4M3V6dnZpY2dHT2VRT0tST2xKc2hSR0RtZmxvc0ZrYWNUUThCUVdOZDNIT1QxVFBkZz09LS1BMldHYkV5ZTJWT3VXTSs5QS85eTZ3PT0%3D--fa20ea215390eec25fa76e478017ba3346c777d3; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:33 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

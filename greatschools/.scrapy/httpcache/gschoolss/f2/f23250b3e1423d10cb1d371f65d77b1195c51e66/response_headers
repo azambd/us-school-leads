@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 49c3b320-9dfe-459a-9eb9-92943e5d12f3
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhemet%2Fhemet-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cU8xRUxZa3BrblJKZ1lpSG51VHljajhYb1RXcW15VHJidVF1SllNZ3V6WkNKSkNtbXNBbW90c0d1a2h0N0ZLSWp3TVNRcE8wQk9aZXg2M0kzbFNmWk1zV092TUl6U1VteitYOVpwOFFJcTg3bCtsWnJYUWpjOGY1UkdEb1cyZ2ViTEcrQ2lRTUIwYUovSjZRWTI0dm5mK3Ewd28xaWJYMDVtVEhOOHJldDNldm5uVlJhV3NwU2JTQlpoUW5XOGdnVUZ5N2RzUHlCdUptUENBODNoVzlmNFhQa2tEREk3cjRFQjFOQTA0Y1BGdXRCTUtPODR4bHlxSlZyZzhOWUZCOS0tRDBUTFJXOXJiUlMrQnZ6Z00vaEdtQT09--67f3af57d4152877c671342f561e11724e1ea991; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

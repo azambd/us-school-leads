@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 6f16be71-a80f-4004-83de-212949f7829a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-barbara%2Fhope-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VW04Tng1ZG54eDNMOXRIbnUvVUhiNjAxNkR5Z20rZ3dJYWFUNE14STZJVkJiUlNxSkZ3OU50WXE2bXlHK2pjRElpQzJrTFd4UlZvMWM2a0dKN2RSNnY1Wk5MZ0F3WHdCTGtmSGR5K3FqNGFTQXJrRlFNTTBkbmZzeHh5N0NLbUIvTTJrdk5lTnc2WFl0RzhQdjF0SGJlWW15cmNNenJPSWtKVHhVSGhMYUluQWZ1QjhXcVpyMURRZ0EyRlpzcUp2L2g1MUZPRDhGVzlmK3BUMVFMUVRHSDVDUis5ZmZMeGxtdkhJTnNuRUtrNTRQWkhIMzRXdHNFWVFpY1dGNytwQml4T3UrWUowTHNSaGlwTzlXVzdoQ0E9PS0taUErb1FQS09Ec05wc3RkZ2VYaWY3QT09--6e30ac8fa84310c6150b0f297d816d0327a2f9d4; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

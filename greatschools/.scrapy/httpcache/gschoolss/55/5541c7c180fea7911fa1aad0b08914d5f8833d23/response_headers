@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 170e4650-35f4-4056-89da-84a2d57dfc02
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fjackson%2Famador-county-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UTRNcFpuajdUUEFwVnU2eEdmSUIrYkRRN3hlb2M1cjBWbWl5a3ZDcnlCeUYyU1VUOGNkcGhFUjZ0T3YycFlhd08vQngra1RPN21mU3VRRWY0cldvQzZUWFFKaTdIRXZraWRSd251VDFqbGd5OEMza2JyRlpqaHMrdDhtWTNjU3RUTGs0QkJKa3Rtalo1MFhwYTc2elJ1MnFwUFlGTnJhZmtUeDVjaFBhMGpYZit1V00rVitlRHJ2SjNSTDdvME1zSEJFZU9hV2swNnprc2J3M25kR24rdmM1MG5FRHJDZU5BYXVocmpWbzI1M3pVR3gzT1hOVVoySGVTamtlbkRqNC0tbVhUNk9RMG50UU5TL0VxVFc2TkFJQT09--e04725698cd000e62c77a1859d27446041445e69; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3b5e53c1-62d2-4ff4-b76c-33f31d610d53
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Froseville%2Froseville-city-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NUFXL3c0M0FmRjQ5VXpzeFM0OEdMZXBBYVMxWFhHQjlDWjJNZmdFWU1LdkpIdVNlSXR2YWRJbzJlVWNlbGpmVC9BeXY5VUJ3WHVucm55eS9Zb2xyTmU0dm91c3Q1SWlUWk1qZ25iWjlNV0tENWRuUVN1bjlBNUtkNVFZczBLNlJYelAxNXVXYXVITWN1ZnV0WGlWcmxUMXVRUU9mQklVQllIc1NxZW1Hem9HNFBaOFdVWDNlakNpMmxxc01QSkkvd1Yxd1VENm0xN0ZkNHJiTnRQTzhHRm5PNFlkYjZVb2dzZGxramREdlpUYUZ4elNtSm1tczdjSEpnbFQ3K0lvVXphMDBEWFdlRmVNRWpIazVqSFY0UkE9PS0tMjNSUWl0MzdvaWhCcE1JV0tZZGpOdz09--8fb318cd4f2af9f066376af9e864ae511e46eb30; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

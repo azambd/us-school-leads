@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ca32807f-3b70-47fe-939d-a65b791d9db2
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Ftenafly%2Ftenafly-public-school-district%2Fschools%3FgradeLevels%3Dh; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UVRpZmdpaWx3d1lacXZKRzZhZExjTUF1ZERTSnA5Sjg3QWhDUTdkRDFVanhiTWNYckF3eVpOQzhtRjE3SElKMkR1VjF0MkwwbUdMYUZvUXh2eG0zR3krK2Z5WVF6T2ZzbHNxTS9VWlhOYUF1cms3QVJQZWhHRmxwSnZBdDUzVjNrN3duM1VpK25PNFhKamZOSXhSM0d6YkhjaWVKY1crNmQxYUJyNjZGOVM1MitCNjBLZGZCcVBlWmVYc1UxTEhUUnNzbEVQbEZSbWs1UDEyNHRLdmp3SDZaWjVIMjlXRHVIUzNkRmNlOU5PazNaVjZkU1p1S3REZjN1TVE2M2E0NmNpUTlTbWJLd0l5a2IxMXJYVHplSlZzNUtZUVdSTE5XV1k5djIxSHNtYnQySGxPNCs1ZmlHeGhtb3R5SWtjdlhkUjJMTVFKRFVxS3NJMWthVCtDcWxzUUJCM0hTaTUxZk45cjdRd3JHd3ptbFVzd1pUdHhYQkJTR2ZRZVNKTzU2eUJvQkFNVlB4T1dLTGtpV2RiU1duZz09LS1abjNkSGNUZmVtRUtiUEpBNUNta3pBPT0%3D--bbdcc5707bee88809aa88a01e5465c0daa872d93; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

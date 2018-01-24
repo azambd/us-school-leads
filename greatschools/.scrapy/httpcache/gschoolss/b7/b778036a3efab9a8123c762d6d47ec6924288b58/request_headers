@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A2591%2C%22state%22%3A%22MA%22%7D; _gsweb_session=UDdsZ3AzbmErV1NpTTlHUHN1RnV6WnRPSldNcWM2ajBhN2dWcEhTRGlxVkcrK1JYeXJCTnd4WHlyeUh2MDNybWtkMWZIbnNNQTZoOC8xenVDWXRERUdZTXlPQmdUbm5YMXM2ajZIWkRlS0sra3hJbWg0MjE3L3hBZkZYb2c4ZUticGoyQ3hnZzBvSUw5eUJnSE1udXVJYnBSaVBmR01pbDNBa1BrVlczek5PVWk2NEV5V3hMMFE1TXpRWEJxbGFmKytrcjVNNE11SWdNVytjU1Bra21mWkpjNGZ5MnEweVRwNGpjZU1IVVJjNURXUXJXNHN1ZnJmbEhNa0pUSDZsTDh3ck1ELzcxNk9TRmxIL2Jtc0R2MUdmODNmb1hlYkdndnhMdXVzMmkwQXEvT0JBcnIxWFNDUnZyU21Ja0tmVXYvUnpZOS9nSktoSUZpU3NjbGU1SXV3VTdwUmdMUTVqa0xvWTQ4R0tiaFI0WkdLanZEcDBsbGVHQkVzNmM0RCtyT0Y0NmxYUnZTMWkrR1VTOTBNcVVtZz09LS1ORmIycGk4V0F3Vmg4Y1NUOWYzVDlBPT0%3D--f8021912b413b724355ca66b71cb228e7b47700b; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fnew-milford%2Fschools; hubState=WI; enrollPage=y; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; choosePage=y; hubCity=Milwaukee; eduPage=y; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/massachusetts/methuen/1099-Comprehensive-Grammar-School/

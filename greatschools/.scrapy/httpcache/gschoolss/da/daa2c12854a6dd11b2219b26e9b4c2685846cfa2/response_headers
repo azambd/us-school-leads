@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: edc651db-fee9-43c9-ae54-4a743a497991
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffortuna%2Frohnerville-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MWlaakRGc3pXN1RrYXNyTWl2bXUxekNUWTdXSnQ1eVFRM0tqWHQvS0UwUGdxeDNMaGtndkQyS1NUTzdQbGcweGRneUxkcEtDYXZraUh0SGJrdFplT25veFZKTUhNeUN3V0dkSjJ6MlF4QnVjKy9CVlVMNXphSk90QWQvbWhUanlnMWtsa0duQXFOTDdDT3IvQWRPZnZsVmNjVk42WXNlMit0akY1Q3NVY2VXdkVSeS9sbDhua2xKbFNzS0d3bDZnS0xNRGlDSWhjc0hMWERpTmtEajMwMnFQaDhBQWhwV3N2bG1tQ2NzVWdoSFFMOFRyQWtzVDk0NTBDcm5IcmZxei0tQ1owTzRjamxEM0M2amJtOWZWeFlQUT09--6d864b208be6a5ab53056c30eb6038b460814f9d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

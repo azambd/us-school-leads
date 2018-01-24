@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b8f10256-ad79-490b-a5ed-a22dfd683c95
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-paula%2Fsanta-paula-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RTh3VGVILzBQMlVDV2g3U0x2cWZwakk1amVtTDMyMEQ5UUIxZzVobGpMcDhLSUZnalQ4bFVaaEZMN0Z6N2I2ZmQzRjNlRXl0eFlVOFZvQXlUUFVmMXkzSlBlRmxHQnFCbCtVR3JOYXc3MW5QY3d0b1lhNlF4c2JpWTBwc3R2Z3U4ZW1Ka1k3ZFZ3RmFHK0RLQnZZVVVsYXVVTzJSTEJDdEJLeSsyWElteU9hVHUwditvV2wvV3JUai9uaEpkNFVETUJoLzF1cWI1MURzdUN3bjhWVjkxbUwrUnZmb2FlU0RzMjlJZUlwZkhyc0FPMjhGVk1iZ0lrVjJ0VGEyb0RmR1l6YUpvS1FhZjduSXltTHI2Nnp5aHc9PS0tcFllYTRKNEZsaWlhYU03Mm9LVC9IQT09--8cebb1d9c26eaf99260d93fd530ef0b2f993ff0b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

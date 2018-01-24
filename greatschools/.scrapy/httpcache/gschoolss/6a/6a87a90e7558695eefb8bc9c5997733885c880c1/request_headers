@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=Y0lNYmdFdC84YTFxbTNIbnBzMkMyQ3hEZmFUZkhXZ0k2WmFHNUgvUnlOUURXQXY4TXBSbEUzTWFHM2NXb21kaVkvY053QXBRQ1JaNEUyT2ZYWHZQOGVuOG9IR1dhOGoycEw5TkI5QVBuOGJJMCtIb1VjdTNEdlU2ZG02cHRzb3gxalJ3Q1oyKzVVVml1RGNPTm9BeWtQZWpUaUJrc2VzbmNCYStKN3d5ak1ja2JUbXgxTnExWjdnc29YNERzWW9icWhoengrVTZSQVlRTk1JQTRBTEFrWjBScDQvV3hFblZlVm1HWm1TK3VCa3EzOUV2VFFuTCtBYkhtWDBRSHV3ci0tSGFlOTBHK0xKZC9HbmlHc0Jta1dUZz09--8141e67875f1cc500480ba6a3c6dfb1d235f0207; gs_aid=861d9aa2-5011-44dc-a6fb-0045f775a15f; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fazusa%2Fazusa-unified-school-district
+Referer: https://www.greatschools.org/schools/districts/California/CA/

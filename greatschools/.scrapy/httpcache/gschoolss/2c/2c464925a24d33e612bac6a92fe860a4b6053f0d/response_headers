@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 131e7701-9fd6-4b28-ae8b-1921faa5dda6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fauburn%2Fforty_niner-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N1o4dzBTd09RL1VIdTBMbzJsNkhCUVVGNkxsMkYvdVZSYjRNdFJJQWtVeVVUNzRBbks2ZG9hRmJzMzBycGRUVFJuZXRFQjhOOUhpRmVKVWpjaE1IMit2YWN4MDFJVHEyL3FxZWsraVZWSVNIVjRHdVp6VTUwSDZPaW1KZjhjTXBhYlA5dmdQbU0wYlpQS0V5ZXo1VFRhRnp6N0tnaXJuQTJOTDFYYWtIbTZ3b3lUSnpwTlNjN3J4MjI5Ri95WWVJWkZWTFVFdG85ekowTFhGNTdTUWI4UkYvQjhaeWdkS29tMEVRdEFUd0FheXA1ZHAveGtQQU9QRklUcWRsM3UzTC0tOHBQM1MrQ3ptbUM4TWN2dlFMZkZxdz09--65817c7acee24aa34c68075f823d845c3bcfb76c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

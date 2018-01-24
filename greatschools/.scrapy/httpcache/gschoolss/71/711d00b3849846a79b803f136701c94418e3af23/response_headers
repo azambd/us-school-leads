@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0699033c-0dd7-461b-b638-b329cebc287c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgranite-bay%2Feureka-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T1Nlbzd4TlhJeEtkaHkwRmx4VUxpekJmeTAxVFN0YjhLRVV5WGJncnllck5rRGU4c1MrUDFPN0V1eFhMUnRVV2xYV3R4cThDOGsrWjVmR29taVBjM1BJTDBvN0RrRTUrYkFDakVXV3lQNmIwNlVuamxPNndxaEVRYUNRV2l0WlBkYzZWcE5wR3VGa2VJZkl3RmVtVW5PTHJaNXN4TjdxMXVYdE9CSnVJYUw0YjVQOGdSekNsczZPY08xY0czdUhHSm1xajE4QkhwMEVFeSs3cUpsLzhCRkVmbHQvMU9UUTh3RXVaZlh0dW00dTlrUWtBY095ZU5WSHp4QWs4ZEo2MTVLRjhheDlSRHAycitIY3R2N3lhU1E9PS0td0plLzRmZXlvYjRRNFJ1V3pVeTVndz09--25c2f3a6590af5ce4be69f0967b212fc5caa1dac; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

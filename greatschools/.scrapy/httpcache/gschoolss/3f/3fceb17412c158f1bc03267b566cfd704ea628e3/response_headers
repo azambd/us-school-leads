@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 18af8705-2a79-40a6-b1a9-49e2bad844f6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmoss-landing%2Fnorth-monterey-county-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Z0sxVXhNcEx0ZnRxL0RqcHlBdFlhT0VBY1R4T1BDTHc0dURyV3ZaSnd1U0hkY1dUVGtIMHZzU1N0SHhDVmNnWnJvdWxLQUpGRXdGNHBWcEVNU3p6eGk0WmF0ajY5aFlzNUMyTXY0OVZIOVgrcDM2a2tsdFZSWlI0dHBBWnVodFBpUkJZQTM0amt4ZytsejV4VXk0Ui8zb2hjUitGUzZjZlBwTzltdGlTbEZvS0dOY01nNW9yc0I2QmY1a25Gb09mMVdxMk5tenlZWXJMVmtXWHlaRzhBMXJvdGJIazkrTkhiOHE3RWdmYk41cWtZSTJTeERUbnB2YzNJdUN4OEY5UkRWR3A2cDdzblFLWHN0c0JoaEpEanc9PS0tdS95eGhVUGl3eERuM1NPSHVmeC9Qdz09--4a4253e84443d2dee807a0f1834dce673b32073c; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ee9988a5-9c03-4a80-953f-9499bae5cc0d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcazadero%2Fmontgomery-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=aVRWOGExaS8yQ1drWmcrWUNJdm9teUtVQXBrWTJtZnJ3TnFEK1ZBcDZlcU9VN21ITTNYM3hrOGhXTE9DVXk5bjlBMEFiWVBVZDlQQWI4dUZIS0JVREZxOHo4RHM1KzVieTdSdEdLR3d0dGRncm9YMCtTZ05LdXpVTHpndHEwZDh3YW5hR21XK1l2Y3NtZWEvUDRjTWhya0VIdTAwc3B4WkIwc0tLMHF5SElmNTlBSnE1b01ZSkJmMkVoTXR2R2JNd2hyeDJrVHZDbitJaVd0TTZUblJKSkJmTkxlT2pKb1Vxa2xycTNrbjZCT09SZjJpVWxrSDZFSDU3OGc1SXFQLy0tY3J2MXZqL3ZCdjZtWWI5T05vQWdDUT09--4af4f30e6c9f22a9d3757bdafa811227238f3e59; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

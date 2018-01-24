@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8fcef432-8f8b-42b9-8253-8bd5591f6726
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Felverta%2Felverta-joint-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cUhJMVUrWlgzL2FGUWxkK1lWQ1pFU3hBWlJiVk1DQ3RwbmtqSXVGc1hNM1M5aXVCZU00eGQxMnFvTlNxdTNTMUUvQTJ1K2trdkg1WXNSV095SFgrSkFKNHV2QzJpTXNZUVdzVGxpWjQxaTVzWThOekZ1N0dFdXJON0FLZk00aHZtaDJvQnBFbE85bWd5SFZ1TnB3ZHJiUEdQNDBjSzFTTnBDQmNJYUxZYmppQ2o5SHlVdVpiQncxU0YzMzJ3Mnd2V244a1JKK2VPNnZoSWZXN3pCNU5OcHJWMUx2U1lEajZrK2RQUjdsdXR3bXZyYy9rNysvQkU2TklpOVUyVW12Qi0taVZ3VzJqYUd0OS9JMjRmOEt5d2t3dz09--ff1683bca627d3509023418fc556ee1571b1df61; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

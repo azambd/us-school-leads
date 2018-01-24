@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 18b3a9e3-89d3-4699-8dd2-ab45bf1fad32
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fnuevo%2Fnuview-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ZHVudTNmNEVmUXRlK0VsaCtTWFJ4bVlpalU3akhRTHhUdE5hWDNiUkc4VHRIVS91bkNpTTF1dmN5MmtuTXhCb254WmRyM0xzVTRocVRrMERIaDg4ZU5ST0ZnVE5Hb2FQRVMzdWNZczNCSTFCY1BoZEtWVUp3U2kyVC8zS0F5YzdobU5TZFlhT25ZQldRZTNxOTV3Qk5pQkpMMWZ3UmIremJ5VzBvODMrcG9KWlNLSThPdzEyN2hEUVlGMkFIVExGZmNxb0ZPZUlXWmFOMEJvL1hTbGtzdEh6dDBPcnUyVDdlY0xjTm8wR0dEbHQxYlpwVi9SOFpOeGNXTDUxaEUvei0tVVViQVlwU05SWTBSNUpYZnZjS0Mvdz09--3149ce8c8af3ca6453b74c7eb9c5ad68a02256e7; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

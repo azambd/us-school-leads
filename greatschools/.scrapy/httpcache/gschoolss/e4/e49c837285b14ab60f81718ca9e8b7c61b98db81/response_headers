@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9c8bd12b-b444-4ee1-9c3b-c29bc3266284
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-sacramen; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=QWVUU2U1L3J4UXhsR3JrY2Y0OE9mVHMzaWkxYlRUYmxuZ3MrS3duTlVBSXJYd0NkdmxBMEdUc1Y1VnJOaVc3YjRZWHI3WmFGb3AxSFFhSGhMMnBvNXpSb2FwRFlzN3c0a1lwWkd0UFp6bjIyT0RheVpnT1RCSDJsVk9RVkNVOEpFem9Pd0ZuNU9YL1ZxV1d5bWFXdXBrWWp2T2JiakVZdlRIVkc1bzlJMnZxVDQycEN6RVU0TWZzd3g1WVpOY1JkOVg2eFNtMTBFZmlZR0xQNXBvKzNFaUpMMHZVSmNLdHgzN0RaTWsydk9vajR1OWtiWHJkanRMNjJNdTd2em5Dc0xCTU10dW5YaHZVQXV3dGJHSXV6NUUzdFlHRnBvckxhL0NLZFl1QzE0YzVwNHJScXI4aHd3Kzc2UjkvS3BXMHpPK3laMDhKQ1ZjRWpwV2lUN3dSbUUvZy9tK3c5K3J3QVF5UjYzUm92azNxR0ptQk9weHU0RjhiaHk2MDMvUy9vckFOYi9XY1dpTEs5Wno2eFgzUUtwZz09LS12R1grdjFHb2JEUXVRUURnMER0d0V3PT0%3D--53467f94bbaa6516ec235cce1c1a309ee40c07d1; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:00:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: b79fb3ff-ee74-4e52-8c17-290afd584f62
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftomales%2Fshoreline-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Zi80SGpTd0ZlTlUwUkM3eVZ1WnFuR0lGL3ZIMkV3U2JwSmVKanlHeVkxRmRRSjBxaWZEUW1ud1dtOGkzRCtNcXpES0JVKzRQSUxoWVVrSE5DU0xnL252UFdIVk1yQUp3eS81WXRZUUwrUnpSaUx1NlU1bkpmUmN1RGVFeFpoOW4zR0hySklabXRrRC9TSDd1MUF4eEFJMjBMVytlUzJVaHB5a3JtMVpWVDBDM0M5bkRkeWZNaG92Y3JwV09keUNkYVNqaXVqSEw1eVJBTXpjVHhTQWoyMUdMN25kNlRaQmh6U1VZamlMczQ2T284S3AxLytzdHRGYzJtSGgxRWxaKy0tK0ZMQ2VqdDlwbEhGQ0RZcWVnaWI1Zz09--80240abdc69270c7d1d45addf7d70a4e6473b91a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

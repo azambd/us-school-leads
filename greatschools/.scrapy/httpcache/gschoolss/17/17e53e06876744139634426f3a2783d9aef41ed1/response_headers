@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: e0deaa86-17e8-4d6b-a54e-78fbf712bc55
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmurrieta%2Fmurrieta-valley-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dkpDM3VsajNaQWw5dUFNSnhzZGxPRTdMUXAyWm9LOHdFRW14cHFrNnR2MmlSTXVCSG14RitUM0MxeHhuVGttdFR6RzVWa0dzVzJwc0QwLzlSbmM0NEhmY2VQUWJNaTVoOTlFbHA2cTdKTHl6ZUhLRmhzSEJMMWkzbWFQaVpRa2VuQm5ibDlSMkVDOVFpVTlGbE8veXZzcE0ycEFENERTY2VsWTlEMzczbWw1QmtuRHBuTjdUd2w2K2RsZlU4NG1ESlovVTR1aE94UGwwYnJUY25URmhINUt4NlFobVl3ckN1cStKZUN4cDBremkvbVB6cE5HWjFzczJDN1E0REpwNy0tK1BKTkUyR3ZkYjlwelpwMVNmUUg0Zz09--a67d2b7aa6e7c2355f91af2dd67d9478e0a21f22; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

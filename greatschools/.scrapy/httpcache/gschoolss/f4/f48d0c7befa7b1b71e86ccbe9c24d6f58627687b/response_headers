@@ -1,0 +1,22 @@
+Status: 200 OK
+X-Response-Time: 194
+Strict-Transport-Security: max-age=631138519
+X-Transaction: 00041db700c8a1dd
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: fm=0; Expires=Tue, 23 Jan 2018 14:01:21 UTC; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+Set-Cookie: _twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCB7qUiNhAToMY3NyZl9p%250AZCIlNjdmYjQyZjkyMzU0NmQ0OWViZDk3YTE4NjJmMmZkYmY6B2lkIiU1OGI2%250AM2M0OGE1OTliZDQwZTg0ZjI1YWU0NjM4NGI4Mw%253D%253D--011fda4e00464a365292bcd35d55d362b07bd346; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+Set-Cookie: external_referer=padhuUp37zjxG6mu0VvOk3YIXLkoTM4tExHj3Og0vO67NqLZN8ne3vl%2F09vrp9n6LOo6g0FEahSNpcgPLAWcO3Ys51k4Sv6IkakNreDTJcaZ4Bwy5uQJPdbCNiD3QXPt0EtPaQvuKJfDjyxM3WVCXg%3D%3D|0|8e8t2xd8A2w%3D; Expires=Tue, 30 Jan 2018 14:01:31 UTC; Path=/; Domain=.twitter.com
+Set-Cookie: ct0=5332f152d54d3b6bd5fa6a1ae631ef53; Expires=Tue, 23 Jan 2018 20:01:31 UTC; Path=/; Domain=.twitter.com; Secure
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+X-Twitter-Response-Tags: BouncerCompliant
+Server: tsa_k
+Last-Modified: Tue, 23 Jan 2018 14:01:31 GMT
+X-Xss-Protection: 1; mode=block; report=https://twitter.com/i/xss_report
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+Date: Tue, 23 Jan 2018 14:01:32 GMT
+X-Connection-Hash: 5e3c4d1f1e36e3332df59ac84a0552b8
+Content-Type: text/html;charset=utf-8
+X-Frame-Options: SAMEORIGIN

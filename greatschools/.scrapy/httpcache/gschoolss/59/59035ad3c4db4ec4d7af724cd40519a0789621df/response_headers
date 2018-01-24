@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 620ea62a-0f19-4c05-89ba-f6a7dfe8331e
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpetrolia%2Fmattole-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MnBTUlBYVDhGN2E3VnRTSk0vS2lQZnMveUduQmRlaVhYV3JkZlJmQUdteU05UUtBeFQ0NmJjbkt5VjFzWk56TmlrMDdJaUVNd3U2YktneVBjN0lxeWVsM20zbFcyRU1OVnMzZlNDWjRpYUJIYkNHM0VXZmRkbDlRaXNBUmQ4MG1SdVFiWnQvc2daa2RLRnpZL05OS0J4Y2tnKzNkNUJpRExjZnA1S3RtYm5Qc0VrODczS1U5NUViRndhMi9MNzc0cXJ4NzBmb003dUpaRnRMQ3dWaE4zTms3QTJWWEhXZVRicnRseVVQOGRTMW5mbXZuNDd4RmFibVZXUmdJbWVrQi0tQzJOM1YvN0l6V3h4Qm5IUkJxTG1yZz09--ab9a45d0af8a012469889edda204810af3a7d253; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:20 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

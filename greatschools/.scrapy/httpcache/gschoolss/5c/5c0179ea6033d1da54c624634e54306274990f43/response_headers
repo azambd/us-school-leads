@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: bafe70d3-7b09-4bf4-9c78-c8796170fb29
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foroville%2Foroville-union-high; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHZFMXFaanBxWUhvbDdDR25aa0VSRWI3SGZGZzIrNW5kNmk5UW5OT3ZvckF2OEZoU1c2RVkrSVN6OEZHTjB0eFgyTVR4TmJJSnlUbWFlSkhmRkxCa1BIOUxqWDNjL3Ftd3RKeVk1SytnRXIzeVB5ZTlZdWhpb3g5QnVabW9Ed3k0bVJNM25mWVdZRTVIaEVxellhbGt1cTVOeWNuUkhTWDM4aTFVN0lvdlhOSHBnY3hrYzdrcldmZWU2NGorNWV1cjc0Q2UyTHkzeVNIL2hyT29WaVVuZVltS3lkN3BxRHVXU3BHaDVRRnkvR1pYRkp0WXlBTWJqdURvR3FKSVZ6Wi0tbkNsaWZrKy8xbUt0OFRyQWo2WWdBUT09--88a721020f8b4cbe374bf4c8abcbd71c968ad888; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:08 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

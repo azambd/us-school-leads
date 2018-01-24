@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1ab8100b-6184-4e46-afa6-d14a29af079b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foakhurst%2Fyosemite-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bm15YkMzN2tmWnRTNTNINEFxbThqamlaZWFvNytGcUJ3UzdidlVHWHRjZHVtOXdWdHpmVzZ6Q2hURzc4dG9tcDE2RHpMVDdTenJscHdBVm0vekx2NC9xd1RPUytRNlhOTTdLUERzVTZ6Z04vNDhmeHRDSWNZRTExeE9Ob0g0NklYV0plZG0zRTFvanhTS0RtWlk3bG5lNkJncVdvZ3U5TjFqQnBaRG4yMlduQXdCeVdYVFpKWC83ZTZDM3k0azM2Q1VkMlFGMXNaRWZ1VVZrUnUwcTUrL21GaEUvTi9KQjVyblZoTmxtMFFUV1MvUXgwZS9XbGkyZ3R2aU10R21yay0taXZYVjFza2Y0bi9rNmo3d1Q1V0d4dz09--a62cd4d66d2ae00c884797dea53d4b4a00322d68; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:39 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

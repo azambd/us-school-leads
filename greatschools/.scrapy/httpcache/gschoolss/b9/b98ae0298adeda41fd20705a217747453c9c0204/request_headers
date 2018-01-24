@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A20831%2C%22state%22%3A%22CA%22%7D; _gsweb_session=blFHTWs4aEdOK3pVNVlKR1BSMG1IRWtENmRWRGNlUEgyek10cXh6Wnk1bWxJNkMwa3M1VnFiYXdYM1RxM0ZRbGgvWXRhdkt1TjgyNjF3SXVnTGxwNk5XNmZLcXZCa3djS2dXbmlQWXJXSDJuelAyWmtRc1d6NGV0QTd5bHdNU1BRcmN6MVBHdThyaTBJalNMK3EyTTl3ZElXb0tnMkhUeS9WQ0tPWmg5aWg2NHJ6Tm11UFdaNnExR2kzakpGM2cvQ2tmMysyL05CNGdYTWpoUEFGSFpvR0c3eDcwbXlBcEdhTldiMCtPVGhMVTh5ZWs1TGFpSGRKSU05bGp2MnU3bW5tbWtBV1JXNmdtaTAxVDJWU1N3cHBYR3l0Q1ByWnRTK3N5Vng3b2tWNCtZSUZFVldxVTNvRGFyemQybVpSNFI2RVA1UFRkcGROOW1jbDNpa1FzdVd4TE43NFdlenVjTG9OanZlUGFGR0Q0SUR0TkR5NlJYOThQUmI3d3U0aUZmd2NSY1FCU0JnVUlZZnFqdERSRFdzdz09LS04a1BNQWxLTVJKNG1oQjdFT0t4ZDVBPT0%3D--14f7afb98ff1475fe5095728df3dd47641574b44; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwest-point; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/ventura/schools/

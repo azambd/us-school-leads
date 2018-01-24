@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 0cbb9fa3-eda8-4ea3-9c1f-8603f6983a2c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ffountain-valley%2Ffountain-valley-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bkZwdDdXZU1scy92TVBBb0h4SFdXSXRuNzBBMVpHdldoTE8rNTJ3NVNvVWkxaTFwdTBicXQ3a21FUUF5L2p2TjdSb2JyTTMvM0pFTUhoNDFrZWJYbWtTYmtYVzBwa2ZRV2w4ZWszOVR3T2dUYWF6NDVqOEp3OFNrQThJN2RVZVNJa2RlMHRqUUlseEd3OHQ3ZmtQL1VHWFlNTStSU2t1ZmpMSUZ2UVVrVU9PNFBKQnJvbG5yMWg3UFdxUXQ1YlROc3hnUGM2L2JWbUx6bkhRVS9RZWNMaXd6RlJZditVZWtQK09jaWFmN0RtRDFSMytYOXR0eVpBbUFacm96ckx0cHF5aVYrbHE5ZnBDRHUycHJocUUzWnc9PS0tWkgrdVRCS3lnUFpZL0k0S29mVHk2Zz09--513223b9a3f452d041fcbfc157ec853bfc11e962; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:37 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

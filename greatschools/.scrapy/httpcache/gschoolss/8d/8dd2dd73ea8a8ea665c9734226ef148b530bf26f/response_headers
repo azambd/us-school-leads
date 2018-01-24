@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 73474093-96b9-4ad0-bf09-f51c5f305f25
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbakersfield%2Fpanama_buena-vista-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dStlVHpyYkhlVGwwY003cFA3aWJPRnEzUmFOZVlDUG5zVXYrTlZYOVhEV0hObzV0cnFYNG95WjhwWHR5elFrTGNiaUw0bUl5NVl2OFVWd3Z6eEtRNmNVUnMwZXh5WG9ZdHZWUnUvUVgwR0dZYkFmTFJYN2tzZDRwbC9JaVBqVTdDZWlzaGt6KzZMZEE3eWtObU4xUVdNTjdrUUFqVi9zNi9KL3Bsbk1adTFnME52NGdEd3lMeEQzYWNJYk91Z1dPaEdQdkdQUHllb01rZ2pCL09kRFZNbHVvRktmVGpldVUyem9GVE9sMWt3UGNqbi9EbFMxak1kOU5Dc0dzN0pxdFdSampHVGJVa3QwMUV2dlN4S3B5TWc9PS0tTGh6TVlnTWNrUCtoNk5tYlZSOHpIdz09--68a7b4a62ffd43dd90031258874f3584c3304e4c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

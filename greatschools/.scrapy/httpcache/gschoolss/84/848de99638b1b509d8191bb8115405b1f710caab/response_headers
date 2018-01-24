@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 462c9fec-884b-4201-8fb8-25bf28cda4b9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalida%2Fsalida-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=cVloc01iakdKNUNaUllaNm9UanZtVThKeTNCM3Z4S1c3K3JtWnoyc2dOWjBDWkQzSGJNM040dWhWZlErM0pRQkY2SmY5YmZHSGNESUp4SGtrVDEwYk42MTYxQ2kvRG5OY2ZOOFpHTWdWeFlMeVRZbmRacWs4Y3F6Unprem5FV0pEa1I5dWg3bVVlUWlVOHY1QU1jY2t2cmoxMGxCSityVHYvRFhBRUw2U2REd0o3ZjRtZlVGaDFtWTY1cFBRMnNzWVhPYVJHZWY2NFg0VHVpNnY0MWdQT2V3R1VRYUhhaXowZEFQWUNNZndDUUdZb3IwN3ZYM3Bmd0N3UXgyM0tPZC0tL21COEVNYncrYWRJcDZIbnlUbktnUT09--892362a28177075fc8f56916abcc2e2562af4ad5; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

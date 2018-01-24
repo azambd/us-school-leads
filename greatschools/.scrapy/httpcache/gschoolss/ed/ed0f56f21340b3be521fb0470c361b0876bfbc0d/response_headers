@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 69934d3f-88fe-411e-95c2-07706631d96d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgerber%2Fgerber-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TWJuV2RkUWRqbC9kYlNTTzNTZ2tGWFBhVlBhKzZmVkpXVFRZNndFVVRIdWE5S1Q4M0IzRUQrQUpUVFFqb2JDclh5TFFCbmlydXl5d0ViZzdETkROTnY0UjNESCtmWFc1cEwxVzdoRVJTdWpodXYweGhuN0s2aFF2OG1Ba2NuakIwN1NSVlJCK1h4MHNLdWN1Q1dLU211ZHl0dU45YmxZUFJIbStGUmZKMHAvWm5OYWhtRXcxaStsQ2k1YXU5MHB2WU9IdlFkNzM1RUg5YUNNcURiQ25wL3RDeGF2VlF5TGgvU1dyQ0ZhdDRocU0wVjZRbmNKQkM3S1hNTDJCdWtvcy0tbStwOFZFbEd1VHl2ZXFKSks5QWdTUT09--3822623af39bd4abef2c735d29d220d39d38a426; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

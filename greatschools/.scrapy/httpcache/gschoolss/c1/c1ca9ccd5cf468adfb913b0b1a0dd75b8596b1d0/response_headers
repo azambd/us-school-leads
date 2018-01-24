@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: ff40b9b1-cef9-4ad2-8796-48a4f7e8c16b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpaynes-creek%2Fplum-valley-elementary-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TENOcHlPak00N0xTbEFLRUljMmJGWlZKNVh4dTVtZFVuWUZhUGRockh5RWcrUWNGdHNYNkoxTSt6WEkwNnpyZnBRbHA4d2l1U1VIaGFpQWdlWDFzWi9zeURta3Z2UVhRa2ZnMW5aNVlHTUZJMmljUkNBR3lvQnV3ZHZucURNS014SS9WdUpqS0FYRVp6b3VCaEQyeCt4Z2plN2NsWk9ubHBhM1NYYlE0eEU1TXh4Vmk3eFFhMFZxMzQ3TnBhQXhPc2NKcWdva0xwcXoyajdtWHMvUTAraCt5cFN5Qlprem1hc3lDODExMlBuM2U0MTkwbGxjdnJtOXNxQno2UmRDTldxVjB2TitaSlZNVTNZTVlCVDJrNXc9PS0tS2w5cGpnOVJIMTdiYlhCZndwbFVkUT09--60a2ccdaf86dd56ae8668b79704b4baa3d71c6fd; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

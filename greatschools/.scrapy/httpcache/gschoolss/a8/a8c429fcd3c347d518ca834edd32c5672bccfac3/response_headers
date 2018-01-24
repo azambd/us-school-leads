@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 3373ac49-24fa-41b4-a8f5-da5d23747b43
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmarkleeville%2Falpine-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VkpUWEFvc0J0UjVaelNyeU1vRWQ1a2QxTWVpQklDWTNiVU1wbnBuakRneHUzQ2ZUK1FPN2FjcGJBR3NtUUllaXVpVjBpWlBNcnIvck1oSGJiZ3U2MkM5cHhrMEV0Y3RQMXROTXI1aThiV0hNYm5ZdWpUV3RhNno4ck9QUG9FQ3ljYmZaazgvZTIzUUIrdWFJYUVnNGM1bWh5WjFVVm9aT2hFVGJhWkpDRDJ2Qk9LNWZvcmsvbWpRUnNGMHVJVWk5MTRJV0c1a3BWNVlxUXFXVFE5NGw2elM1TjFVT3Z5WkhSNmE4aTlFc3RMYUllcTVFZ1pJVjNuNGtySEhFQ0xSSUM5K0pYcVhpcDluN3BETmZyRFNlN3c9PS0tZjNFekhnK0RkQTdMeXozS3pBTm5qUT09--731797e605c7e157ee0241b9da84578f5e40e11e; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:56 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4169fcbd-7eaf-40aa-ae4e-f0ae47d6e684
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcalexico%2Fcalexico-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=OHE0R1lIa0RjclJLYkt5b2l4ZVFiaHdnbXJ6b0pZcWFmaE0rS3NKV3kwaUpWZy8wcE1mQUVqK1ZNd3lNa3NIdGJ6RWFZYWtSbTdySjBOd2JLcW5GMEtIdlJ5UkNhVk1MZlhHREpSMnlPMXM5RGJlWEVoTWs3UUNNUDVSUFo4SjIxd2hCQTNpRU1OZE5SZmJ2ZVNjWlR2QWJCMFNZeHpLMkt6emhONTJna0twVHprcmFpOVBCLzU1K0xwL0xMd25oZ04wU0VoT2RhWjR4RVVMM3BCTTZva0o1OE5YTWtjUTRvcEkwNFhsTC9td3lDUVFWK21waHUvK3JYTXY0RU1ady0tM0d4MGZSc2JlVzBLOGJCUEJYN0dpZz09--9b41d9820ceeff2bdd95bc33845b908ad42b1a35; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

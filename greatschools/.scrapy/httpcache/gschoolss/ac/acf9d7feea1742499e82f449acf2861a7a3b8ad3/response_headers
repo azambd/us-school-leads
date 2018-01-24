@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1dd679c8-eb64-4604-93b7-96f12a53579b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmoreno-valley%2C-ca%2Fmoreno-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=UHNzMFo0QUgwUEF5cWFkZVRPa2JmcTVpbGNRTTJIQmFTSmpmR25kSUlUb3AySDkxRDBtb0VWUXBtSU5RZDVFd3B3OXd1Nm1UOVpLa1ZHaWErdWNjMm9NcXp0SkkxRXcrSndWdFY0Wms4WXo4MDY0Nmd2Y3hPN0x5aE9MT0dlbWloakk2Yml3MUtBM0ZRRU9UOWwrVVljeFNYZU96NXNOQ0g0S3pUK3Z2R0JCUnIrL3g0ZWxFYTVYSXlSZUFxTlBtalIyOW85YWN2d05EYnNwNzFFSUNYR0h3b3VSSWpraHBQWEV3c2ZWSStmU00weG5NeDRrNTM3YUhWald2V0pZREdsSzdRVXBSTnROTWF5VnkyekNGK0E9PS0tN2V1T1RzdkNhY0pzd0RWOVF5aUdqUT09--1ecd0104bb29a83f9d8e6f55d091f14fe6fff852; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:13 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

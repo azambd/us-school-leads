@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 00c13c8a-c12e-4a62-8fbe-61bb0435260b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhomeland%2Fromoland-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T0h2aEJUcUdUQlZvNld2dTNRdDVOZ3VicTQ3a25EQkVVNzJ6bHk2SFJzUVNtVTlVNExZVkVEL0VuQThZTEwzYmkyTUpHZzN6Y0lEK0tvSHU4QVRXczBmaExpK1RQd2tWRFpVQ0U5RlBBSmttbXRQTW4wY1RIRXh6Q3FNNXM5UFA3eHVUMTJuaVlydDdkTmNhSCtJTGVxR3pQM0g0enZPdGwrZlZHTGg4bkRoc1gyR3lKL3FvNWVHWFROMUQ5WDljcHgzS2ZrcTVJbUlJR3p6Q2RHZ2ZBaWJEZUpOVHh4SGZTSVpmeVcxVHVhOHBwUlA0S3FiTFNtTzhSVGNXSno5RC0tWHEyUytMVng0SmRxaWJFeTNMZTQzdz09--7b784c19a0e42b3eb3ddb0d2fca062c8f6356fd3; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

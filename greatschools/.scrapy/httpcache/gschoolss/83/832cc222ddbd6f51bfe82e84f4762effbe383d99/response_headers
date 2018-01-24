@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c7f22196-d6e0-4bc4-99a0-7c9e1412358c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcapitola%2Fsoquel-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=N0x6TSsyYno1Mk9ERDBBNmlReUZJS0FQZmkxZkpMbm1Yb0lFZjBUQzNpV3pKUzRhc3hlU3dXNHZWVmhOWitHcm9RdEdMak1YblYxSjVUdHlsSEdFTTRReXhnMzBJd3Z4OVhjTWNDdDB1S1I0NmkyZk01UDdwbmJlVjV4WWVFZ0NtdmkyUWF5SUJQVFJQRC9nUlFySXVvZTA2cCs0L25oa2MxNmFjT0RhWkd0c2pSM3Z4U0l2eUZlNEtIREFtdEw1b1FFUnBzb2ZFZDZXRHozQktRSFgrOHhtbFBtbHNTWktuMzhQNkhWYW1vWDJxOFBCN05oMHpEVDhrbDFKSWJ2ZS0tcGx3ek92NFBjVG9RYjdXQm93cmpnUT09--2db9777d8f8dcf4a535674d2a6a65f07f88f1930; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

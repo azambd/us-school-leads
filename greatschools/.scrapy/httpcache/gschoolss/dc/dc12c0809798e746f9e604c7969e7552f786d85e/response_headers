@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 4f2a9a02-d6be-4a18-957e-e1467fcfa949
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdelhi%2Fdelhi-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eTYzeHdnL1RLNlNJKzZsN0hPTjROZzVnUU9YUTEvelRiQnNzcGJ5OFdTZDlQWXhDazJBR2hoS211allzRkRnUkcyK1EyRnF2OVZwSFkyVFhUMThxZ0N4V1UrVWUwT080QnFTRGFjMEVNaEtaZGFHMjU4SGF6dTBEeXpDcTdYVUZvUUVqNElvb3A2RGRpb2JWMFJ5bUtnUWZsMWJmVTZEYTJiSSsvQUhudi9UeWEyd2FKNGliNmxZWVRKa3pnOUpTQkU3ZDlQekdxZnhTLzdxUjUvNHJwK1lJKzM3YXIxOE9NSFM3eXBhZ3pFVm8rMUx2UDIzQ3oybUh5NHBuZVQ4My0tRHNKc0t3eVZGZ3RQemJSRjJaWnl4QT09--2e5d3549e1e4010c4d08fa1b552e894ddd3d769a; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

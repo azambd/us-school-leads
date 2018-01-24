@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 65c745bc-f9d5-447c-afd7-4fda5b8efaeb
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftrinidad%2Fbig-lagoon-union-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=NDNOd1lYRGlnVnRyYzF6dzFRT2hseHZoWTJVTVVSd3NkWUp4SUZDRk4xdkRHcGl1Rlp2cnN3YUlNaVpjalhCeHZCU2hwYWJtWS8yUmRzeVNwOTl4ejFwTUYwbGRFWmlMZzlhMTd6OGtxRlFaRk5IMXhUOG9TRDRiZHdBRUszOExPUGRjOE5oRUUvek5UMlBodW0vV3htVUdPeGdYZDJVNXg3VzE1eFhtVHhXUGhsa2hja2FVQnBFejRHQlFRMDNPV3VNMGRIM2p6VlorN2FaVmowRUZDY3NqQ0hYMzlYbWhycWtCeXhDMjQzSXRGSys5RzBmNllNa2dhNGRzRm9zMS0tYUhsVW5Ha3VEaFliaTNoNnZPYnlaUT09--57b6eb28e64d7c12261e62666b4661e95ac43451; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

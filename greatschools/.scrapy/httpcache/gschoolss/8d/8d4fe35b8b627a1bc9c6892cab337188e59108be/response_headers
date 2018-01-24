@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8cefddad-7f50-489d-9f30-b1d4ab619fb0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdixon%2Fdixon-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=T011dmtvTzE1bGFaM3dBNzlnOGNGT1JnQlBFZHYxWnNRSVNvT0lZdE95TE91MTJmaUh1ZzF1NFN0YVRUbjB4Q3g0cTg0cWdua0Q2ZmlhMXJxM1FqbzhWTHU5QlEweU9ZZ0U2TnlYSlYvRE1xOHFac3M1UzY4ckJrazhTRUxBcytVUFhqeG0vQ3ozai9Rdy8rZGRteDV2dHl4VnRuUDl4SGYvZ1FlemtIaThEYml3djVkbEowYXRrWVdJdFROQ1FWeUVtWU9USUZSWEVHT2FXektmTHQreVZwblVPWGJZdTJWR21JNHJRZGxyeGp6bk5pUU1jRXZ4eFNiU1RacGxmMS0tN05LWUpUalNnWnZOYm5QckhQZnUxUT09--f1ed9ab9f2dbec6d06ba6e5cb68aa742be8ef64b; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 4f20b6bd-1e8d-4d0a-9786-fc0ff8507bc9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Feureka%2Fhumboldt-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=ejdtaU4yNnRtTDBWZ2tacE5RWFpHNDRsNXduMTgwb0pXbXBrbWJxbkNoK2xhTkFtZCswZWxpQk1IQXBIS2tvdS9HTVJmS0hGSUs2bFJkL0dYaG9hdDRZbUpoSGprWnpwaFNva1drdjVJKzBJL09nWnBxZ1RJdlRycTA4WUJRNytRUlVYU2VlM2NZSFJWUDRlSVpyU1o2UzVJUGdydVVac3dJa08vUk1Yc0ZSUnFYL09ZdGEwdUtYdFVtQjJoandXT3J5MWpkUFlLVVIvVWRCSm1pcjRadW1MVUtmOUN2UklpcUsyU1hhUFpIdDV3b1VQTUF4aGpydHdIdGNuWHJRQy0tTWJPbzdpZ2VEQ1NJcmNaUVhQbDlDQT09--4ca47b39c17470228891bc04e30742cb4a0fb1e8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:31 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

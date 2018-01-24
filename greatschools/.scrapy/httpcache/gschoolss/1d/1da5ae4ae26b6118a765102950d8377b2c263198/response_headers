@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 61847a97-63fd-4b37-af20-e68bb09d7993
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyreka%2Fsiskiyou-county-office-of-education; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=bzUyeDZSSlFERjkzUDZBWnhvdGkwbEViYkpCSk0xTC9KcG9oWHp2SEw3WU13clNmNDhSb2k1aVlDNFdiOWV6V0dtUUZMTEtPNXdLUTNmMm1HaGVHeVlkbW9nRzdBaUN5YlRmQTF5QXk0K3VSK21Jd1lqWm5pemZrRWlPcERoY1U5WFdqUDRTMUplOStqZGNyd09NVUhLYnRVMkpBMUU5ZGZacGZEY2FET3FjRloyeVpJM1lVNFd6YWRNQmN4ZlZtU1Awc1o0YTE1aDV3MVJFV1AvWUhhdUw5aTRqN2ljT0xPUTd3Wk56d2JHUlJZUzk3aWRZUEVXYnZjREhpWDZrZy0tRWZFRk5WKzBNWHV0czNBckhnWitUZz09--2eb7efa3fb2767ccb10822694d3c3803645d6ef5; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

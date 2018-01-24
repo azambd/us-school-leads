@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 0f4d5dff-505a-466b-b03d-f6bd82573a3c
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubCity=Oakland; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Foakland%2Feast-bay-regional-occupational-agency-%28rop%29; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SWRYVG1tVkZFV041TjQ2TDJLMjdTOFFIdzltSHJ0TkJMRnFVSEVqcHcxVFA0Wm5RZEpRWEFyYjdtODEyUVNoeGcvY1B2eVRra2tJTDRZeGtnM0prUmdYUUFwdEdjcWtKNWRIbE14Q0RkL3dXTkR5S0hBdTZiSWFHemRSclJ4dXBXU29LbEZPRzRlUnIreWwwSTJQM2ErTkZlL0lmd2Z4T3RKNUFKU0dReGxRU0R3ME9TNVAveHhFT000TXJIWUt4d1NwcXJ0TG5lU0E1OVZUbE02U3pUTGswaktsNW9zek1DMG5ZcVR5NTRtcXlzS3plU1lWN3J4SlBVRm1mNEFINi0tby9uYWpVN0hhZEtrT3FMMWErSXVFQT09--24ab74c0fab69f20f9831c526bb354fef5d31785; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:42 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

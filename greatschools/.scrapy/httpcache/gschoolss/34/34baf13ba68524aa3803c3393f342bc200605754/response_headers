@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c603aa3d-847e-48eb-adc0-9afcdbe8328f
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbieber%2Fbig-valley-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RE03K1hCN21pMmxaTzFqSWJxVWJkc1FTM2JlcW03U2tIZ0hscjE2TU1QaDFSY0pqVVp2UkMxYWoydUtlZ1ZVcmIxMnpaamZEdlhxVXpoU0hYelZSV0NWcmZNVDhGRzdCK21nQm9JbC9WSU1NdlBsdW9QSjEzc1pPa25Xb29FTWxkREpUaTdlY0FrSWpXUUJ4WWgrczdMQlo0MHFrZ1RSemdiNHJVU05zMjZpZzcvTURvY0pqUTgzRU1mR2xwT3V3YTNwTTV6SFBQTW5LdUNhRWt0V3hoM3BUWmZjMlE0YWM0Rkk4VENhbkc1cVpEWXJCTnRZcnVnWkhqa1BzM2dFSy0tWUo2Z0lZSVdEcVdyeDdVUmZlUTBXZz09--eee12b6d0a76a22815802dc5bf42cbc945328955; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

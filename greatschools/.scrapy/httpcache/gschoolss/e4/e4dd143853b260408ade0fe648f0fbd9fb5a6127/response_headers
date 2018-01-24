@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2f66d000-281c-4615-8628-985b26dbad2a
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fmeridian%2Fwinship_robbins; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SmFubExrUHRqWUVhK0w1akxMTW9lVmtLRTJCRnphbHlpbnFhNUdJeUtiRjlzaGxNQW8xSEJCcDJyaUJlalBOWHZqTlk0QU85YjJuWS9LdGlIM08zaDZRZllnRCtWQzAxWVBwbzhscSsxL1FJei9SUndEMGtSWXJ0bWs0V1k2a3dOWXZTRDNXRWRoOE5td1hqYUpVLzJqOERTWmxLek9BN1kzK3ZZQVpZNysxazVPTHJJUkUvZmtVaTlNVTJ3QU1QekpHUXpxSmhuVzEvbW1GajNwcTdSOUlXV3Q3dkRWSEswV0hreURUL3ZGckNqNEVkTmpFMHczYUtaamI1Sms3Ui0tMEZhYTB2ZjcyRkNRL3ExTnVQNCtUZz09--e5c31916fc813f434f963dcc2d32d7f7fbd1581a; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

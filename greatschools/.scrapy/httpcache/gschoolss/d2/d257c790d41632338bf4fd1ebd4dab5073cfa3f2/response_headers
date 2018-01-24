@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 73c01274-52d6-4370-8300-77795a572ab8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fyreka%2Fsiskiyou-rop; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dFV4UTU2bzhwVFF4YXlpSE54MWdMREZ3anlVMVRuL1ROMmhvRGxkUzdzS0liNXk4V3NVRXFKL3dlV0FoSHBNSjVBOXpseUVMNEpUNzNnRVBabzFVT1JWMFNqcWs1L1dFWHg4UGc4YkxoMHhzamdkWHZtdjZzdnpGelpNMExYRW95QnNXQlRoWm8vTmNwOXdXV1JqdlZqSGhkZkhsUWFwcnJKd3dERGNxeDBpd3FROGtSS0ppZ1dibHl0YnorYkptYmVDbW5mK1hnVWxEZ2w2RSt0U0ExazR0ZHRTS0FCWUkzVnVlSFpsWGVDS3dMbnduWVNFMnhmMEdNL2RoZFViNS0tNlNsMWpPOXhWM3pKYVkvN1hBVWl6QT09--2f12ddc2425060fa05a2b8119511c5752de9d36c; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

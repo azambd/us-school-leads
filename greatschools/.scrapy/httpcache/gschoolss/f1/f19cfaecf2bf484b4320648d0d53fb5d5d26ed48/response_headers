@@ -1,0 +1,15 @@
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+Content-Security-Policy: script-src 'nonce-S/layvuFL+HMrAtiRf2G7Dvyq7s' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+Set-Cookie: GAPS=1:VQH5mn3HimqoJ2ldPaEl1vQzfQKM7g:J1mVo26fuAslor1r;Path=/;Expires=Thu, 23-Jan-2020 14:01:33 GMT;Secure;HttpOnly;Priority=HIGH
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+X-Auto-Login: realm=com.google&args=service%3Doz%26continue%3Dhttps%253A%252F%252Fplus.google.com%252Fup%252F%253Fcontinue%253Dhttps%253A%252F%252Fplus.google.com%252Fshare%253Furl%25253Dhttps%253A%252F%252Fblog.greatschools.org%252F2013%252F01%252F23%252Fintroducing-our-new-school-profiles%252F%2526gpsrc%253Dgplp0
+Server: GSE
+X-Xss-Protection: 1; mode=block
+Link: <https://www.google.com/intl/en/+/learnmore/>; rel="canonical"
+Pragma: no-cache
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Date: Tue, 23 Jan 2018 14:01:33 GMT
+X-Frame-Options: DENY
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Content-Type: text/html; charset=UTF-8

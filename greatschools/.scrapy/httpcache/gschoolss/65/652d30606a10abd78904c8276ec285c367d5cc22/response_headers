@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 2bf22413-37a0-4592-8de3-5d68a5bbc377
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fturlock%2Fchatom-union; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=L0c4TVo2TDU1R0xUTE5RNm1tcVVLNnAyeDBkemVPV21FQ2o4WWlHaThLTWlHby9vYTVkaW1zWmdlWnJ0UExUN2x4ejlHL0tCQ1FOclZJaUZVWXdWdXRPSWwwRkZ0ZWhmRVAxRVpZbEtIdWxONENzc3BrSmxSelZxTFdDZ3MzR0w2WU1xVHFqOVRTRWxPWUdncjd3OGx4UGhaVThqN2tqbktSZE5yKzBjSWFWN01zUkJmVzAwUFEralhzOEs0cWNtSTJwU2h5OGZvTjVWd21UeTg1anE5NkpxdU1JSmNGT1g1Tklselo3QURaa2tyMjNPZmR1ZGZTYVFYRS8rdkVpQS0tdUk3eE9zMW5LOWhJVHZ3bzF2QktVZz09--5b4e5efd32aaa7fa1d86828e171d2f69adedc215; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

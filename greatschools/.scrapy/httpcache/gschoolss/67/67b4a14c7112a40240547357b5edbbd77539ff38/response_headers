@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d02e3b10-38e3-490c-9ba5-506c73c0a715
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsanta-clara%2Fsanta-clara-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=V28xUlg0YVBEOHRUWVlYRElVMk1ESklCQTA0RTJiS3EzOEs5OEcyKzFESk4rTzV4Skp5cXBXY1ZocEtaWkxRU21hTHVicU5qRjVlZ3BJOFQrbi9DRkl5VmlQT2RuTVVoTFZ0cXR3cVZIMGlmeXZud1ladkh0RUdXSEZzbmNDOVhXbGFEcTFHT3pDWWZjOTB2a1Q5Z3A3amx5ZWhEa3hHamErSUpNdFZyQUlHbHYrMVAxc3JIQTZtQVRkTENnaDNZTVdLK01RcnN0dXc2djZjcTkwbkFhbTl6TGJXS2RGQ1FOVEhoUUZnWU5nckZraVJnWXd1Z0dGVDdoUHBWZC9hN1F1Z3ZKNHFkTkorM3ZqdDMvbmhNNVE9PS0tWkZrZzBxZ3NSVDY1WklDZzBaaU5nUT09--76e5b759825b5f04f88ab620105b25619cedeac8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:55 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

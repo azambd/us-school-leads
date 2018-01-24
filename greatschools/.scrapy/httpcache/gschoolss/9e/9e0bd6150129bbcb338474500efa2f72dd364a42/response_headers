@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d110bd22-8569-46cb-8c9e-e845e44bd049
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fnew-jersey%2Fbogota%2Fbogota-public-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Vkw0V3JrVVBpNEErRXYwemIzNDhXM3hHWnpBY2twc29rSjlqNWN4SGUxVGI3cFk1aUNCUlE4OUFHSzg5aTExMzJ2ODk4dGNocHBsa3E5SlJyT3BPMTVMSlJUQ1RuemNxZXhaVnczSjd1c0lGMldlaDFYWDZtQkpCV2ttNWloZWpEMkIzMzN4YnB3VjBqQ2xmajM1WDBhOTZDL2hMOFlMdnRQNlRBaHE2aThuKzNteWY0aUFlVWdNMGZJU0x1dlh0T0RVV0hlYnBVNGtOTjZHQ3VXSEpZN1lEV0dXK1BrM0FFeVZUQ0VGdjY3WmI0QUZiemtQenBMdC9tM0J0VEZmZTlFSmllNTYxb25Zb1ZlSXJzNTZGYmVKYytuUEtpdkZmOHRyT3pQS2xGTHJPcXNtaDU4T0hCTFVjTzZScWpKZ1JUOFFTb1BPSUpoVDU4K3dsNm1LMTdUamtldUZUKzRITW81cXdtMGEvbGVkNmtWbzcvVldYZkY5WHdVcy9MTUVIUTBFbVkyL281VFN6Y0xhbERLcytsQT09LS1OZ3RzSVlXVW12ZUZWUTFqekh3L2dBPT0%3D--3928a7e3a6587731a6764b32de92168d2fe2adcb; domain=.greatschools.org; path=/
+Set-Cookie: last_school=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 14:01:49 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

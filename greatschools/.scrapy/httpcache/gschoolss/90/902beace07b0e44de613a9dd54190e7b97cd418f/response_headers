@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: d69a0c9d-32c2-41c2-a60c-f93b69a8b894
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fbarstow%2Fbarstow-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Umduc0k5L1hhQW0rejBwM3FnUzZWRkljRDdXZVo5Vlg3angwejlTV0drWC9weHUyckdBZU12WUl0dlllWUNKdHJXTGpSRGxGamVwTVRqT2VPOHg4SVQxL1BCZ3VTQ1huRjdmcHFxc1ZnWGdUc3U2MzRGREU4dFF1VTJwUlpzNE1IYnJhaUh1Q1RZL0NWalNoSU16RUdRTDYybzZ2Tzl2L0V4MWxjWDlJanpLS01BcEdLQ3dONTl1dFhzRVRHcWlOdmpXNHl5ZU9Uc2RwWk14K0d2WnFIdExjMDQyVDdackpNRVpTT3lGZ1JZcFkwRHVjTzBvVDRKR2JnemRYZ0o4Wi0tSVlQdlFwaENhWTdOcXphUGh2ZnZOZz09--4d685e9ba5518b4966daca820bee1dcbabeeb079; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:54 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

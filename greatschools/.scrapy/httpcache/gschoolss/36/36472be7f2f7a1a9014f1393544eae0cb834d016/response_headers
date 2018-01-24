@@ -1,0 +1,16 @@
+Status: 200 OK
+X-Request-Id: 6c6ede15-fafe-4f9e-a1a1-a2fc50806d22
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: gs_aid=861d9aa2-5011-44dc-a6fb-0045f775a15f; domain=.greatschools.org; path=/
+Set-Cookie: ishubUser=y; domain=.greatschools.org; path=/
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fazusa%2Fazusa-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y0lNYmdFdC84YTFxbTNIbnBzMkMyQ3hEZmFUZkhXZ0k2WmFHNUgvUnlOUURXQXY4TXBSbEUzTWFHM2NXb21kaVkvY053QXBRQ1JaNEUyT2ZYWHZQOGVuOG9IR1dhOGoycEw5TkI5QVBuOGJJMCtIb1VjdTNEdlU2ZG02cHRzb3gxalJ3Q1oyKzVVVml1RGNPTm9BeWtQZWpUaUJrc2VzbmNCYStKN3d5ak1ja2JUbXgxTnExWjdnc29YNERzWW9icWhoengrVTZSQVlRTk1JQTRBTEFrWjBScDQvV3hFblZlVm1HWm1TK3VCa3EzOUV2VFFuTCtBYkhtWDBRSHV3ci0tSGFlOTBHK0xKZC9HbmlHc0Jta1dUZz09--8141e67875f1cc500480ba6a3c6dfb1d235f0207; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

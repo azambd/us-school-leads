@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: hubState=CA; _gsweb_session=RmlXWFJqUkV4UjI0WXdZNWY3Nmp0OGUxL2N5cG5CR3g5VXk0VWpNNzkrcXFZcUNaVGpuRmE4TWdyMEtmeGx6RmlDbWhMN3NURGVJTWpJMStoN2tuN2tCbVE5Vlp6cHN0TXYyWnJmMDRjWUl1S1V6UGJtV21HUXA3cGdmN0tiMmF2TTVKRE5LbWJacktrK3kwMFRvc3UvNmRIS0UzNGhEdGFlSVdxb0dHSEM3TlFQVW00TjBPRmRQWDhaS1VONTJqUTBHYWEzTHUyMi9PVXplTGNKYWtQcnJNWEdnRlRLYTBjbmhzVjFTd2U1NjU5bjJpSGUwWVJyUENISzB4Y3J4cFI2UVgvbVZjblgvbVRMMEdpK3I3ZFE9PS0tSGNwNnQ0dmM4QmhRMUhvZk5rWDlkdz09--d52f3243fc5ef79cb015f02fae1d0401a62fac67; gs_aid=4c9000b5-4518-4f5e-9340-961517cd023a; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fhollister%2Fsouthside-elementary
+Referer: https://www.greatschools.org/schools/districts/California/CA/

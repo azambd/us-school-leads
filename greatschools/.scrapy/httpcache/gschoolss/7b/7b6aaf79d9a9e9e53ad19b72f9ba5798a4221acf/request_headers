@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: last_school=%7B%22id%22%3A30020%2C%22state%22%3A%22CA%22%7D; _gsweb_session=b01sVjRXaWdlaFNGMmtXQ2kralVxaWVNOVFHUnlmS2J6WkFjZ1o4Mkc2NWc1Vko2THV6M3pjV3hWU0NYdjBnbHA2MjY4Z3JrYlZnYzVXdnZNeWlHZ0NDbjFyYTVQRlBhMXV1UlFVM1dKVjZpODVIdE0xZHBxL0FEVFlVZVdJNWIzbDV2UzBvaGxDK2xDSVRNMDVXa0RKWk5WN1FJSXV5YWJJOTM0elNCTkFpNUR1WEYycmZQU0VNNHVJa21aZ216MWFWSC9KcDhPdTkrc2RnWjNtS0l2end1cFVLRDY2Rmx0Y29zMGVQSXNGWi8vTGU0dCtVaUMxQnIxemhNc0FzYXpIZUVReTY0YjI2Y1I2VGsrN3d0TnIxdzB2TGpabGIwVzRwdCttRFVlZEJxeVIydENyTGp3cDN6TmMwc2d0QitwTEhDMGxzRVNiNmhlQ1hSWFArRXI1V05PL0VPVldBb2ZhR0RXQlp2RnpmcVFnZ3h6UTFuaGFYaW9ZNGwreis0OENVRFgrcUNMUEptNjduOERxeGhPUT09LS1TdjZhWWVjUW5wVlFkdm5ock5xTVpBPT0%3D--be8ddaf109313c1062da289968a6030c8ca06c6f; ishubUser=y; redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fventura%2Fschools%3Fpage%3D2; hubState=CA; gs_aid=a877510b-43b3-45ff-be64-eb14583fa595; history=%7B%22last_page%22%3A%22http%3A%2F%2Fwww.greatschools.org%2Fofficial-school-profile%2Fdashboard%2F%22%7D
+Referer: https://www.greatschools.org/california/camarillo/30141-Good-Shepherd-Lutheran-Ecc/

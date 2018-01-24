@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: de36f4d6-64c5-4b3d-a8ee-06767aac3746
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fvictorville%2Fvictor-valley-union-high-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Qk5OYVRyVzFKZEd1cXFtTWR1cTJSSjFSS0NVTVJVZUVSTFVGdjBKOGtXS0NsZVdBR21YR2dacEJJckRVc0o4Y2JRYUwreUZmdXJIT0QwbCtESlJ0VTNFc1V0d2pUUkt0TkcxWURrdElBbWV1OGNGdnpvN3hsZGJtb0I3RHUxQjExYWFRWWUwMHZSZEd4dmlZS3ltZjhUTUhwOHVjTzlsdE5NbmEyTGxaRG5nUjJuTGJjYytGc21xaVBWUEhoSXFyVkpIS0dPaVBXc1VHRnJEQzNXMFRscTlyV2loT2NGNjZyRWhVT0g1a21vb1hzNWxLa3ZST1YxK0lOMFdtRXg3bmZqNjZmOFVHcVdxM3NOT2loQkRCNmc9PS0tWXFoKzBUZkxyUFVkZWE4OVYreWpSZz09--61c019bce79f817c6777b45368398c60d95583a8; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:43 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 1d3c9d5c-b28e-4ad3-aa97-74e0078f02c6
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Frosemead%2Frosemead-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TWd3d2N5a0tFOGxDdzF5KzMvRzlPQ0gwY0kxaWs4U2lyY0QwTTdKUGJUTTFIRCtoaTV5Qk1kOHBGc3d0Y3dqSTJvN012bzZLUFQzdkw5WENHYWxnZklyb0FsSEMyM2VNV1BjNE1KZkZ2QmpNWGZES29zcS9HMnVFRU5nRGc1VmFkVlBVRjhwc2VWaVBFSWdmZUtDNUxCN1dZcjNMZDh0NkNVZlhyZTVOUUxKMW4xQXdXbGFZbGpvaVJKMk1yekExc29kM1prRnBMdzM4OWQrMnZFSWpSVDY2TWlPNUJUNUhoa0ZXc0hXSSszQ2hSVEYzZUd3U2lZd05mYndoVzBIQi0tUVc2OEo1NTlDY0loSC9BQURYTWdvZz09--988ee8306d482155bcd33c62193bbd55253a4215; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:00 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

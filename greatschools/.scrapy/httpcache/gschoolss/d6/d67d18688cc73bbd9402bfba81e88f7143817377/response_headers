@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: c2e9fec8-b3c5-4df0-bf9c-1e5d1e3e60d1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fshandon%2Fshandon-joint-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=endzWWt4NSt0VFF4QnFxdHNzNUJ4RTJrSE5IRndlRXR6VmZFNE92WHh4WFNQNzdyTkU4elY0aFh6cUVmVkZURlN3VnFvdkZZWHd1Nm9hLzhVTHNvSk1uMXFIaDNRT1BUTVc4dktRU09Zc1FHeEVIVTI2bDZFU2dqeW1JdG5YSnF2dS8wb2FDUHVDZzg0QzdDU2g2UVVVNHVocUNaM0JBRmpnL0NiS25lYXUybytQczBHbmNwMk1UR2w2VTNEekJiTzlZczF0Mkw0clNQY3NMVGp5RWRGMHFLbDVkTG9QbFFyR1hqbk5OTnFWc3JnbUI2eXJiV0dGOHJaMUd2eVRsTy0tcEQrTjZMZFFZTVBYZWRvdGJkajZEdz09--08bdf79f875c266009d2cd89bb6c8dd401250be6; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

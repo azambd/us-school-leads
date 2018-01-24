@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 27793b5d-5bd7-4285-a96f-1a01b0c0a9bc
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fcazadero%2Ffort-ross-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=dkExdXhPNDZUblpoWklwYWdjMFRBTzNVNkhPNkZ3djR2ZC9wdTN3bXJiR3ZMcFZGS2lKSjF3Ny9JVDM4aCtqK2F6ckY0cHY3SUFVc1IwTzlna3dTY2gzZ01PNjVvYUZTbXJtUnp4UFZMblFrbkRCNS9lS2pRUCtVUk82ZjdpVEJvYUk4dDdLYkJXWlQ5R3h1d3lKdGZyY2dVakRRR0hqNHRzZmxkaHBtbkh0N1BkZWtIaXB0L2JyYTdYTnZwZUIrbDhhWEtHQ3dKK1JSM3JsYmdjWGtQRTkxK0FUODh2ZERWeEVmMnBVTWptOEI5d082czh5QjA3eVpVMUNWM3RESS0takFlTVNIOFBSUDJPMTNpSTFHN0lGZz09--e3bdbcdff5a8e115211a61fd7b3ccb0e6869fdc0; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:38 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

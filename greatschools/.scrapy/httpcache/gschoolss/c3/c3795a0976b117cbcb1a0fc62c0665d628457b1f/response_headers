@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 9e1fc5ff-3418-4248-8480-e0fab5fece93
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Ftaft%2Ftaft-city-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=alFPRnJGMCtJYjMxQ1ZRbnZsY3ZxSlJrbVN4M2hRVW4rbHMzSjRpbGlySEhiTzJVYzZhaDhVOERneWswRWFKR0NwRER0bzZvcVBkelhqeURNODBrblB0WklJUWw5eFJKQ3YvSVRTbWNSQkE0YTg5WlhpN3NmZWtvbUUzU3M0OGprdW1yVFhYWFlaMmRWbmRtc1ZRYXFCTWZIT1Y2bFVEeTlEa1VKamx4UXJpczhXSFFvd1VIK2l4TkdwdmVEZTk3eGZrcHFMMXJtL2tvamxmWk8zN1p2YU4vcTN6VXNFTEpTVlRnYWRNb1RBbXBJMkFlMGdEWEJwVzlSYUdBVXZiWC0tWEJoOEEycmhSSkJjOERNTVFMcVpIdz09--53a64a5ca3919ed3b7af214b831c3727a4df8333; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

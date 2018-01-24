@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 5a5256b6-bd95-4237-b560-a3c799849ad7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsonoma%2Fsonoma-valley-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=Y1dQa1N2UmVJVXRHWGp5QTU2ajk2akgxdlQ5eW9Ldko0eW1IU1ArZlNvWVgzTzNMVnY4ZEJQelNUd0pyMmZrSzJWdEVDa1VVd1hjeVNKZHdEMjEybVZhSUg1T2pxa0QyMFpISnhhdTFGTjkzYmVUbUwvTWhvWS9nV0hXTktOQU5oVVVCOWZ1alJSSWR1TlE3bUhJL0ppWVJKNC9XNllpcmpLZVFSeXBsR3E0NlV4NC8zVmFSYjJvRmNrUWhmaDlnSzJVbHVySU4wTEYvRjIxUWdQRVI2RDNUbUY2UXBmSkZuMnBKOTEzUTh4S0IwVndkaUlHSWkwdi9nTFRQejkvSC0tVDVYamxnN3luemlIY1pzK3RUdXNLdz09--4ba711148b74c21f816c9424f48d077fcad19b0d; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:50 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

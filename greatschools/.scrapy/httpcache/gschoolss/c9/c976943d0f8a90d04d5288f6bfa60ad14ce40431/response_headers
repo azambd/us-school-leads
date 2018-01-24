@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 036ae0d9-b950-4763-ac7c-cf778221c25b
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fdixon%2Fsbe-_-dixon-montessori-charter; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TlBXT0ZjZmR2VGxKOHQzUytMNnZ4cW1BNlNYUStWTUZpSnhwSWpXRFVxamhycU9ROGtETHA4TVYzRXBSbXdZTEhzQTZjVWl3cXU0K1JlaFp4SFJmUTFsRnBHa2UxejFnZXY4RGVNMVlmbWlYdS9iWk9MWlR5OC9LeDNmZkdqenY0VU1uUGVYbWpvVTNwRk0xNjV6WGFnRElxcEFMemVyODdTTFIzU09Md1NtbzhjdnJnN2lvUE5lUzV6bWYzWWVIeEh1UWZ2ZGZUTGtpYlY5R1F1WWFVRDNxa2QvNXhMU2xsTG9yVDlIRnI2OTArK3Fua29UNU9TQzZIczYrcjd1ci0tNGdCMnc5Y0pnTFRJb2gzT0lpY2hHQT09--1daf33ecb47ba4db685daff7cf6bd268066c8495; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

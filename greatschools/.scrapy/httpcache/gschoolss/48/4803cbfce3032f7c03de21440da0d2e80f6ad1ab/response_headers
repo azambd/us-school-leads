@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: 3a71c01c-d010-4d85-a052-2be18eb3df3d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fpalo-cedro%2Fnorth-cow-creek-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=SlAxUmtIckxyTDByTWVJeUtPaU5BMldidjYxZzRVVVY5bTdrc3VPRCt1blp3K2NqRzlZK01Wb3Q4alVEU0JJUVBlL1pNeGVXTEd2ZXBVcExDdkM0a1JXekxsVEtMdEt6VkhKblREdGhJN0RSYU5jVWNMc01CMDRkeHZsejgxZkZBakV5ekp0TDFwY1RaUWlNc2dRSUkycUh0N25FaUtOZkhLSkxFb3JwcDY4NStINGgyWExuaVZOcmRJMFE3RTJOU28wVjVMcXlhRTg1ZENVRmpRRFBYVEY0YTVSNWFIMk1xejRaNHZaZjJFRFJUSTRiVzB2UGMzWWNrTmtBUGRDWjlYTXhmcWhtQnBLMURGQzRYdU5kcWc9PS0teDRmYkRLOFV2eDRmNHV5b1JlWTliQT09--83c97067073c02f4d7b4fa79c21b7bac716fa8c8; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

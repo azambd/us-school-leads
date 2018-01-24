@@ -1,0 +1,15 @@
+Status: 200 OK
+X-Request-Id: e1b2a18f-ed4f-4774-a0bc-0d8a84284a81
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fsalinas%2Fsalinas-city-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=eXBLK29MSjFlc0YxejNTUmViWkUycUFsQjJDTGRvOHRKZ2tNWnova3VLWHdpZWZteUZuVHVXYmtzQkorSHErdCtEdGVzaXd6WEQra3V3S0F1UVhPNDlqVnBDK1VyV29RN2FQNFRMNWtpSmZUajlFZlJCTDMyRWlQYkRBbUZPSTZkWE56NXE3Mkc3MUlIMVZPOU91UTZ1aUhuUmR6U2U0WnlFTXUzNVlQcjVNREdDaG9iS0o4d0xucHpBY3dVRlFncGExaFZMQTdKRkRJQXdZL1Q5b0huZkF4MTd1MEgyVm9CZkpjOFY1dnVWaGtlV0taRDg3SDJ5L294KzQrL1hIcS0takYyMGVVOTdTVWIxQytrNUVMZ09MUT09--7f810fa584c34cba58a2f6c8edc7b2ef2edb45e5; domain=.greatschools.org; path=/
+Set-Cookie: hubCity=; domain=.greatschools.org; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 -0000
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:59 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

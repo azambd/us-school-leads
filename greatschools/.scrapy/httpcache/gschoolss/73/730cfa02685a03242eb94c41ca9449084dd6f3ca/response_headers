@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 338083b0-d800-4436-a87a-8122932807b8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fwillows%2Fwillows-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=VjFaeHR2bC9IbjBhcUoxZW1JcG9ER3BMbHN5V2lQaUlCL05ZVlJ3OUU1ek5EU2w3UUo4TW5CNWIvUVMvUVk5d0JDYncrdGZ0ZUFkY1MzYjgxd3ZMeVZyN3NxT3grT0Y3T3lrcHR5cEVIZzZWWFYxTkFZN05kcUdLeTREOVlSbXd6TzAwTFVUWXJGTkZqVzNOVE5mL3dSalR0SWFaTjNnV1RvbVRXckRXWkcrTWdGeTNZb1lHVEdRNSt0anlGTjlBWHBIdnJmd0JXcVUvbk4xcThhZWhKWlhmNVVBUy9raTc3MEdjUjBzSzVFSjdzYTlaNk5TUTVsNFlXNnZtQlFUQy0tRysvVm5rWlV5cTlTR1lsVjdmU2NXZz09--5bf66d54a71a9cbd30d51da42d0c359b19216f68; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 72f6ff4f-1eee-4bb3-8888-94d838d07ec9
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Fgrass-valley%2Funion-hill-elementary; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=MHYxUWdra2ozTDF3QXZZYnpoYmRIenVsUkYyekFEbGxscGpIS3JmMWNWTWFQQ1N2TndqRGdjcE1iYi8xWU1HTTFEbEYxQml0alBZTzRUeUxIUFU0SzZqbVE5aDZuZ2lVc29TZE5FWFN0NEFjRmprOVZpekVCSENvOHRZSmJ6ZEU3WEVEUjZqSitzK0ZjRlpJVFBHQmVvbVpUNmtvb3lsMjNjSkl5eHdxNW5RY0x1anFXd0prdjV5cEVyNEdHaEh4ck9Eamk1OGRoZE1ackl2MXpwcVdhUTRzM1RCdUM1c0FLM3lONnNhckpyT1NlT3JjMm1neC80YktZek9VdXhtenQ2SFJmRzI5eVVXbW1yVTNXV1JEOWc9PS0tV0oxYVlIaDcrc2RPREplOUZyZTNqUT09--37bd69f17289734cc3189ce585be8f677d9b5685; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:42:44 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

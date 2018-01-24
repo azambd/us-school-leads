@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: 8cde14a4-8e4b-464f-a6fc-32c8cd818891
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Falturas%2Fmodoc-joint-unified-school-district; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=RVNBQ0wxNlY3MjFuemJ0WDJWcDRvRWt2cllvSzYxMWp5MGt4NkxaNk1ZM1NScEVaSGhubEhoZFhwQW5tWHpKeUt0Wi9HMWxjWVYzSWpDbWRXSTBYTXNqMTJlYzNOaFlWQkZZdHNnNzFma1NTODUreWJiUUkvNWdzY2ZBdXJROHUwRUsvMFJ2RFRLa01mczBsQ0NRby9za2xnajEwUGpqSVlPRnhnL25Uc2dJYSt5TjBHMkhtWEJtMGIyREJMVWZyL1lWK1hoV2RSNENQVi9TS25GbzJwbzZjeDVQT1VXeGZwWEJBQ21TcHdvNmJxa2NLSFdqU3Z0UStSM1BnTzE2cy0telB2aVhYa1c4RWE4UWpYZnZEZUwwZz09--5dfcd5af9182364b97b0e899a717df7546229716; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:14 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

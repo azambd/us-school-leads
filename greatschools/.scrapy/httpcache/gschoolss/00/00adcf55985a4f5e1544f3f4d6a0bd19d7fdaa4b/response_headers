@@ -1,0 +1,14 @@
+Status: 200 OK
+X-Request-Id: a32e5d09-f3be-41be-b9f0-b76f0d83e2ea
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Set-Cookie: hubState=CA; domain=.greatschools.org; path=/
+Set-Cookie: redirect_uri=http%3A%2F%2Fwww.greatschools.org%2Fcalifornia%2Flompoc%2Flompoc-unified; domain=.greatschools.org; path=/
+Set-Cookie: _gsweb_session=TmpLcWRSVWlIT2RMYzhvTkxYc09PSzYrK01EdVR6WUZHdVU4ZHN1NDc5YTJCeTRJcndUb1lHK3VaaTdSbGVjNHNwb0ErdXR2M3ZRVXdjTnUya0xoUFFmVjlmT1F6NEhoam1xQjRaalBnUXI4dTNaZFRmdzNDVlZ0bFN5aDdnRFVaNE8yTzFYUEQ4QVJSemhVa2huSElKY2dBVVNUNEEzZ1JDNkoyelJpTlhFRjJEaTNpOWQ1alN1Z0M5TWY1NGtsMjZJanFQK1dvL3QzVUVlMVV1RXF5bngyWE5HRmhWK2w2dkJXL0lwL0JFNXFwVkZORHlOeU1OWVdpVEhtVHZNSy0tcTZYL0VZU2hxN0o4MTBzRUpLd3FBZz09--8b3bf514928c500d0b20ca70149002f6b1874fdf; domain=.greatschools.org; path=/
+Vary: Accept-Encoding
+Server: Apache
+Cache-Control: private, must-revalidate, max-age=0
+Date: Tue, 23 Jan 2018 13:43:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
