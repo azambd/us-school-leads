@@ -7,7 +7,9 @@ from urlparse import urlparse
 class GschoolssSpider(scrapy.Spider):
     name = 'gschoolss'
     allowed_domains = ['greatschools.org']
-    start_urls = ['https://www.greatschools.org/schools/districts/New_York/NY/']
+    start_urls = [#'https://www.greatschools.org/schools/districts/California/CA/',
+    #'https://www.greatschools.org/schools/districts/New_York/NY/',
+    'https://www.greatschools.org/schools/districts/Florida/FL/']
 
    
     

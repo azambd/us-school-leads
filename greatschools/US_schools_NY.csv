@@ -1,0 +1,729 @@
+website,domain,school_name,phone,grades,csz,street_address
+,,Abbott Union Free School District, (914) 428-3043,K-2,"Irvington, NY 10533",100 North Broadway
+,,Amherst Central School District, (716) 362-3051,PK-12,"Amherst, NY 14226",55 Kings Highway
+,,Amityville Union Free School District, (631) 565-6019,PK-12,"Amityville, NY 11701",150 Park Avenue
+,,Argyle Central School District, (518) 638-8243,K-12,"Argyle, NY 12809",5023 New York 40
+,,Andover Central School District, (607) 478-8491,PK-12,"Andover, NY 14806",3135 Elm St
+,,Andes Central School District, (845) 676-3167,PK-12,"Delhi, NY 13753",85 Delaware Avenue
+,,Amagansett Union Free School District, (631) 267-3572,PK-6,"Amagansett, NY 11930",320 Main Street
+,,Amsterdam City School District, (518) 843-3180,PK-12,"Amsterdam, NY 12010",140 Saratoga Avenue
+,,Ardsley Union Free School District, (914) 295-5510,K-12,"Ardsley, NY 10502",500 Farm Road
+,,Altmar-Parish-Williamstown Central School District, (315) 625-5251,PK-12,"Parish, NY 13131",639 County Route 22
+,,Alfred-Almond Central School District, (607) 276-6500,PK-12,"Almond, NY 14804",6795 Route 21 South
+,,Allegany-Limestone Central School District, (716) 375-6600,K-12,"Allegany, NY 14706",3131 5 Mile Road
+,,Alexandria Central School District, (315) 482-9971,PK-12,"Alexandria Bay, NY 13607",34 Bolton Avenue
+,,Schalmont Central School District, (518) 355-9200,K-12,"Schenectady, NY 12306",4 Sabre Drive
+,,Alexander Central School District, (585) 591-1551,PK-12,"Alexander, NY 14005",3314 Buffalo Street
+,,Arkport Central School District, (607) 295-7471,K-12,"Arkport, NY 14807",35 East Avenue
+,,Yorkshire-Pioneer Central School District, (716) 492-9304,PK-12,"Delevan, NY 14042",12125 Countyline Road
+,,York Central School District, (585) 243-1730,K-12,"Piffard, NY 14533",2578 Genesee Street
+,,Yorktown Central School District, (914) 243-8000,K-12,"Yorktown Heights, NY 10598",2725 Crompond Road
+,,Yonkers City School District, (914) 376-8100,PK-12,"Yonkers, NY 10701",1 Larkin Ctr
+,,Wynantskill Union Free School District, (518) 283-4679,K-8,"Troy, NY 12180",25 East Avenue
+,,Wyoming Central School District, (585) 495-6222,K-8,"Wyoming, NY 14591",1225 New York 19
+,,Alden Central School District, (716) 937-9116,K-12,"Alden, NY 14004",13190 Park Street
+,,Worcester Central School District, (607) 397-8785,PK-12,"Worcester, NY 12197",198 Main Street
+,,Windsor Central School District, (607) 655-8216,PK-12,"Windsor, NY 13865",215 Main Street
+,,Windham-Ashland-Jewett Central School District, (518) 734-3400,K-12,"Windham, NY 12496",5411 New York 23
+,,Wilson Central School District, (716) 751-9341,PK-12,"Wilson, NY 14172",412 Lake Street
+,,Willsboro Central School District, (518) 963-4456,PK-12,"Willsboro, NY 12996",29 School Lane
+,,Williamson Central School District, (315) 589-9661,PK-12,"Williamson, NY 14589",4184 Miller Street
+,,Whitney Point Central School District, (607) 692-8313,PK-12,"Whitney Point, NY 13862",10 Keibel Road
+,,Whitesville Central School District, (607) 356-3301,PK-12,"Whitesville, NY 14897",692 Main Street
+,,Williamsville Central School District, (716) 626-8005,K-12,"East Amherst, NY 14051",105 Casey Road
+,,William Floyd Union Free School District, (631) 874-1201,K-12,"Mastic Beach, NY 11951",240 Mastic Beach Road
+,,Whitehall Central School District, (518) 499-1772,PK-12,"Whitehall, NY 12887",87 Buckley Road
+,,Whitesboro Central School District, (315) 266-3303,K-12,"Whitesboro, NY 13492",65 Oriskany Boulevard
+,,White Plains City School District, (914) 422-2019,K-12,"White Plains, NY 10605",5 Homeside Lane
+,,Wyandanch Union Free School District, (631) 870-0401,PK-12,"Wyandanch, NY 11798",1445 Straight Path
+,,Wheelerville Union Free School District, (518) 835-2171,PK-8,"Caroga Lake, NY 12032",2417 State Hwy 10
+,,Wheatland-Chili Central School District, (585) 889-6246,K-12,"Scottsville, NY 14546",13 Beckwith Avenue
+,,Westport Central School District, (518) 962-8244,K-12,"Westport, NY 12993",25 Sisco Street
+,,Westmoreland Central School District, (315) 557-2614,K-12,"Westmoreland, NY 13490",5176 New York 233
+,,Westhampton Beach Union Free School District, (631) 288-3800,K-12,"Westhampton Beach, NY 11978",340 Mill Road
+,,Westhill Central School District, (315) 426-3218,K-12,"Syracuse, NY 13219",400 Walberta Road
+,,Westfield Central School District, (716) 326-2151,K-12,"Westfield, NY 14787",203 East Main Street
+,,Westbury Union Free School District, (516) 876-5016,K-12,"Old Westbury, NY 11568",2 Hitchcock Lane
+,,West Valley Central School District, (716) 942-3293,PK-12,"West Valley, NY 14171",5359 School Street
+,,West Seneca Central School District, (716) 677-3101,PK-12,"West Seneca, NY 14224",1397 Orchard Park Road
+,,West Genesee Central School District, (315) 487-4562,K-12,"Camillus, NY 13031",300 Sanderson Drive
+,,West Park Union Free School District, (845) 384-6710,K-2,"West Park, NY 12493",2112 Route 9w
+,,West Hempstead Union Free School District, (516) 390-3107,K-12,"West Hempstead, NY 11552",252 Chestnut Street
+,,West Islip Union Free School District, (631) 930-1560,K-12,"West Islip, NY 11795",100 Sherman Avenue
+,,West Irondequoit Central School District, (585) 336-2983,K-12,"Irondequoit, NY 14617",321 List Avenue
+,,West Babylon Union Free School District, (631) 376-7001,K-12,"West Babylon, NY 11704",10 Farmingdale Road
+,,Webster Central School District, (585) 216-0001,PK-12,"Webster, NY 14580",119 South Avenue
+,,Wellsville Central School District, (585) 596-2170,PK-12,"Wellsville, NY 14895",126 West State Street
+,,Wells Central School District, (518) 924-6000,PK-12,"Wells, NY 12190",1571 New York 30
+,,Weedsport Central School District, (315) 834-6637,K-12,"Weedsport, NY 13166",2821 East Brutus Street
+,,Wayne Central School District, (315) 524-1001,K-12,"Ontario, NY 14519",6200 Ontario Center Road
+,,Waverly Central School District, (607) 565-2841,PK-12,"Waverly, NY 14892",15 Frederick Street
+,,Watkins Glen Central School District, (607) 535-3220,PK-12,"Watkins Glen, NY 14891",303 12th Street
+,,Watervliet City School District, (518) 629-3201,K-12,"Watervliet, NY 12189",1245 Hillside Drive
+,,Waterville Central School District, (315) 841-3910,K-12,"Waterville, NY 13480",381 Madison Street
+,,Watertown City School District, (315) 785-3700,K-12,"Watertown, NY 13601",1351 Washington Street
+,,Waterloo Central School District, (315) 539-1500,PK-12,"Waterloo, NY 13165",109 Washington Street
+,,West Canada Valley Central School District, (315) 845-6800,K-12,"Newport, NY 13416",5447 New York 28
+,,Waterford-Halfmoon Union Free School District, (518) 237-0800,K-12,"Waterford, NY 12188",125 Middletown Road
+,,Wayland-Cohocton Central School District, (585) 728-2211,PK-12,"Wayland, NY 14572",2350 New York 63
+http://www.warwickvalleyschools.com/,warwickvalleyschools.com,Warwick Valley Central School District, (845) 987-3000,K-12,"Warwick, NY 10990",225 West St Ext
+,,Warsaw Central School District, (585) 786-8000,K-12,"Warsaw, NY 14569",153 West Buffalo Street
+,,Warrensburg Central School District, (518) 623-2861,PK-12,"Warrensburg, NY 12885",103 Schroon River Road
+,,Washingtonville Central School District, (845) 497-4000,PK-12,"Washingtonville, NY 10992",52 West Main Street
+,,Wappingers Central School District, (845) 298-5000,K-12,"Hopewell Junction, NY 12533",25 Corporate Park Drive
+,,Wallkill Central School District, (845) 895-7101,K-12,"Wallkill, NY 12589",19 Main Street
+,,Victor Central School District, (585) 924-3252,PK-12,"Victor, NY 14564",953 High Street
+,,Wainscott Comn School District, (631) 537-1080,K-5,"Wainscott, NY 11975",47 Wainscott Main Street
+,,Vestal Central School District, (607) 757-2241,K-12,"Vestal, NY 13850",201 Main Street
+,,Voorheesville Central School District, (518) 765-3313,K-12,"Voorheesville, NY 12186",432 New Salem Road
+,,Walton Central School District, (607) 865-4116,PK-12,"Walton, NY 13856",47-49 Stockton Avenue
+,,Van Hornesville-Owen D Young Central School District, (315) 858-0729,K-12,"Van Hornesville, NY 13475",2316 State Route 80
+,,Valley Stream Central High School District, (516) 872-5601,7-12,"Valley Stream, NY 11580",1 Kent Road
+,,Valley Stream 24 Union Free School District, (516) 434-2830,K-6,"Valley Stream, NY 11581",75 Horton Avenue
+,,Valley Stream 30 Union Free School District, (516) 434-3600,K-6,"Valley Stream, NY 11580",175 North Central Avenue
+,,Valley Central School District (Montgomery), (845) 457-2400,K-12,"Montgomery, NY 12549",944 New York 17K
+,,Valley Stream 13 Union Free School District, (516) 568-6100,K-6,"Valley Stream, NY 11580",585 North Corona Avenue
+,,Valhalla Union Free School District, (914) 683-5040,K-12,"Valhalla, NY 10595",316 Columbus Avenue
+,,Uniondale Union Free School District, (516) 560-8800,K-12,"Uniondale, NY 11553",933 Goodrich Street
+,,Utica City School District, (315) 792-2222,K-12,"Utica, NY 13501",106 Memorial Parkway
+,,Union-Endicott Central School District, (607) 757-2103,K-12,"Endicott, NY 13760",1100 East Main Street
+,,Wantagh Union Free School District, (516) 679-6300,K-12,"Wantagh, NY 11793",3301 Beltagh Avenue
+,,Union Springs Central School District, (315) 889-4101,PK-12,"Union Springs, NY 13160",239 Cayuga Street
+,,Unadilla Valley Central School District, (607) 847-7500,PK-12,"New Berlin, NY 13411",4238 New York 8
+,,Tuxedo Union Free School District, (845) 351-4799,K-12,"Tuxedo Park, NY 10987",Rt 17
+,,Union Free School District-Tarrytowns, (914) 631-9404,K-12,"Tarrytown, NY 10591",200 Broadway
+,,Tupper Lake Central School District, (518) 359-3371,PK-12,"Tupper Lake, NY 12986",294 Hosley Avenue
+,,Tuckahoe Union Free School District, (914) 337-6600,K-12,"Eastchester, NY 10709",65 Siwanoy Boulevard
+,,Tuckahoe Comn School District, (631) 283-3550,PK-8,"Southampton, NY 11968",468 Magee Street
+,,Trumansburg Central School District, (607) 387-7551,K-12,"Trumansburg, NY 14886",100 Whig Street
+,,Troy City School District, (518) 328-5085,PK-12,"Troy, NY 12180",475 1st Street
+,,Tully Central School District, (315) 696-6204,K-12,"Tully, NY 13159",20 State Street
+,,Tri-Valley Central School District, (845) 985-2296,PK-12,"Grahamsville, NY 12740",34 Moore Hill Road
+,,Tonawanda City School District, (716) 694-7784,PK-12,"Tonawanda, NY 14150",100 Hinds Street
+,,Tioga Central School District, (607) 687-8000,PK-12,"Barton, NY 13734",3 5th Avenue
+,,Ticonderoga Central School District, (518) 585-7400,PK-12,"Ticonderoga, NY 12883",5 Calkins Place
+,,Taconic Hills Central School District, (518) 325-2891,PK-12,"Craryville, NY 12521",73 County Route 11A
+,,Three Village Central School District, (631) 730-4010,K-12,"Stony Brook, NY 11790",100 Suffolk Avenue
+,,Syosset Central School District, (516) 364-5605,K-12,"Syosset, NY 11791",99 Pell Lane
+,,Syracuse City School District, (315) 435-4161,PK-12,"Syracuse, NY 13204",1025 Erie Boulevard West
+,,Thousand Islands Central School District, (315) 686-5594,K-12,"Clayton, NY 13624",8483 County Route 9
+,,Town Of Webb Union Free School District, (315) 369-3222,K-12,"Old Forge, NY 13420",3002 Main St
+,,Sweet Home Central School District, (716) 250-1402,K-12,"Buffalo, NY 14228",1901 Sweet Home Road
+,,Sullivan West Central School District, (845) 482-4610,PK-12,"Jeffersonville, NY 12748",33 Schoolhouse Road
+,,Stockbridge Valley Central School District, (315) 495-4400,K-12,"Munnsville, NY 13409",6011 Williams Road
+,,Susquehanna Valley Central School District, (607) 775-0170,K-12,"Conklin, NY 13748",1040 Conklin Road
+,,Stillwater Central School District, (518) 373-6100,PK-12,"Stillwater, NY 12170",1068 Hudson Avenue
+,,Stamford Central School District, (607) 652-7301,PK-12,"Stamford, NY 12167",1 River Street
+,,Springville-Griffith Institute Central School District, (716) 592-3230,K-12,"Springville, NY 14141",307 Newman Street
+,,Springs Union Free School District, (631) 324-0144,PK-8,"East Hampton, NY 11937",48 School Street
+,,St Regis Falls Central School District, (518) 856-9421,PK-12,"Saint Regis Falls, NY 12980",92 North Main Street
+,,Spencerport Central School District, (585) 349-5102,K-12,"Spencerport, NY 14559",71 Lyell Avenue
+,,Starpoint Central School District, (716) 210-2352,K-12,"Lockport, NY 14094",4363 Mapleton Road
+,,Spencer-Van Etten Central School District, (607) 589-7100,PK-12,"Spencer, NY 14883",16 Dartts Crossroad
+,,Spackenkill Union Free School District, (845) 463-7800,K-12,"Poughkeepsie, NY 12603",15 Croft Road
+,,Southwestern Central School District At Jamestown, (716) 484-1136,PK-12,"Jamestown, NY 14701",600 County Touring Route 32
+,,Southold Union Free School District, (631) 765-5400,K-12,"Southold, NY 11971",420 Oaklawn Avenue Extension
+,,Southern Cayuga Central School District, (315) 364-7211,PK-12,"Aurora, NY 13026",2384 New York 34B
+,,South Seneca Central School District, (607) 869-9636,K-12,"Ovid, NY 14521",7263 Main Street
+,,Southampton Union Free School District, (631) 591-4510,PK-12,"Southampton, NY 11968",70 Leland Lane
+http://www.southlewis.org/education/district/district.php?sectionid=1,southlewis.org,South Lewis Central School District, (315) 348-2500,PK-12,"Turin, NY 13473",4264 East Road
+,,South Orangetown Central School District, (845) 680-1050,K-12,"Blauvelt, NY 10913",160 Van Wyck Road
+,,South Kortright Central School District, (607) 538-9111,PK-12,"South Kortright, NY 13842",58200 New York 10
+,,South Jefferson Central School District, (315) 583-6104,PK-12,"Adams Center, NY 13606",13180 U.S. 11
+,,South Huntington Union Free School District, (631) 812-3070,K-12,"Huntington Station, NY 11746",60 Weston Street
+,,South Glens Falls Central School District, (518) 793-9617,K-12,"South Glens Falls, NY 12803",6 Bluebird Road
+,,South Colonie Central School District, (518) 869-3576,PK-12,"Albany, NY 12205",102 Loralee Drive
+,,South Country Central School District, (631) 730-1510,PK-12,"East Patchogue, NY 11772",189 North Dunton Avenue
+,,Somers Central School District, (914) 277-2400,K-12,"Heritage Hills, NY 10589",334 U.S. 202
+,,Sodus Central School District, (315) 483-5201,PK-12,"Sodus, NY 14551",6375 Robinson Road
+,,Solvay Union Free School District, (315) 468-1111,PK-12,"Solvay, NY 13209",103 3rd Street
+,,Sidney Central School District, (607) 561-7700,PK-12,"Sidney, NY 13838",95 West Main Street
+,,Silver Creek Central School District, (716) 934-2603,PK-12,"Silver Creek, NY 14136",1 Dickinson Street
+,,Smithtown Central School District, (631) 382-2006,K-12,"Smithtown, NY 11787",26 New York Avenue
+,,Shoreham-Wading River Central School District, (631) 821-8105,K-12,"Shoreham, NY 11786",250 New York 25A
+,,Skaneateles Central School District, (315) 291-2221,K-12,"Skaneateles, NY 13152",45 East Elizabeth Street
+,,Sherrill City School District, (315) 829-7425,PK-12,"Verona, NY 13478",5275 Highway 31
+,,Sherman Central School District, (716) 761-6122,PK-12,"Sherman, NY 14781",127 Park Street
+,,Shelter Island Union Free School District, (631) 749-0302,PK-12,"Shelter Island, NY 11964",33 North Ferry Road
+,,Sharon Springs Central School District, (518) 284-2266,K-12,"Sharon Springs, NY 13459",514 St Route 20
+,,Sherburne-Earlville Central School District, (607) 674-7300,PK-12,"Sherburne, NY 13460",15 School Street
+,,Shenendehowa Central School District, (518) 881-0610,K-12,"Clifton Park, NY 12065",5 Chelsea Place
+,,Seneca Falls Central School District, (315) 568-5818,K-12,"Seneca Falls, NY 13148",98 Clinton Street
+,,Sewanhaka Central High School District, (516) 488-9800,7-12,"Floral Park, NY 11001",77 Landau Avenue
+,,Seaford Union Free School District, (516) 592-4002,K-12,"Seaford, NY 11783",1600 Washington Avenue
+,,Scotia-Glenville Central School District, (518) 382-1215,K-12,"Scotia, NY 12302",900 Preddice Pkwy
+,,Schuylerville Central School District, (518) 695-3255,K-12,"Schuylerville, NY 12871",14 Spring Street
+,,Scio Central School District, (585) 593-5076,PK-12,"Scio, NY 14880",3968 Washington Street
+,,Schoharie Central School District, (518) 295-6679,K-12,"Schoharie, NY 12157",136 Academy Drive
+,,Schroon Lake Central School District, (518) 532-7164,PK-12,"Schroon Lake, NY 12870",1125 U.S. 9
+,,Schodack Central School District, (518) 732-2297,K-12,"Castleton-on-Hudson, NY 12033",1216 Maple Hill Road
+,,Scarsdale Public Schools, (914) 721-2400,K-12,"Scarsdale, NY 10583",2 Brewster Road
+,,Sayville Union Free School District, (631) 244-6510,K-12,"Sayville, NY 11782",99 Greeley Avenue
+,,Sauquoit Valley Central School District, (315) 839-6311,K-12,"Sauquoit, NY 13456",2601 Oneida Street
+,,Saratoga Springs City School District, (518) 583-4708,K-12,"Saratoga Springs, NY 12866",3 Blue Streak Boulevard
+,,Schenevus Central School District, (607) 638-5530,PK-12,"Schenevus, NY 12155",159 Main Street
+,,Saugerties Central School District, (845) 247-6501,K-12,"Saugerties, NY 12477",310 Washington Ave Ext
+,,Schenectady City School District, (518) 370-8100,PK-12,"Schenectady, NY 12303",108 Education Dr
+,,Saranac Lake Central School District, (518) 891-5460,K-12,"Saranac Lake, NY 12983",79 Canaras Avenue
+,,Saranac Central School District, (518) 565-5600,K-12,"Saranac, NY 12981",32 Emmons Street
+,,Sandy Creek Central School District, (315) 387-3445,PK-12,"Lacona, NY 13083",124 Salisbury Street
+,,Salmon River Central School District, (518) 358-6610,PK-12,"Fort Covington, NY 12937",637 County Road 1
+,,Salem Central School District, (518) 854-7855,K-12,"Salem, NY 12865",41 East Broadway
+,,Salamanca City School District, (716) 945-2400,PK-12,"Salamanca, NY 14779",50 Iroquois Drive
+,,Sagaponack Comn School District, (631) 537-0651,1-4,"Sagaponack, NY 11962",400 Sagg Main Street
+,,Sag Harbor Union Free School District, (631) 725-5300,PK-12,"Sag Harbor, NY 11963",200 Jermain Avenue
+,,Sackets Harbor Central School District, (315) 646-3575,K-12,"Sackets Harbor, NY 13685",215 South Broad Street
+,,Rye Neck Union Free School District, (914) 777-5200,K-12,"Mamaroneck, NY 10543",310 Hornidge Road
+,,Sachem Central School District, (631) 471-1336,K-12,"Lake Ronkonkoma, NY 11779",51 School Street
+,,Royalton-Hartland Central School District, (716) 735-2000,PK-12,"Middleport, NY 14105",54 State Street
+,,Rye City School District, (914) 967-6108,K-12,"Rye, NY 10580",411 Theodore Fremd Avenue
+,,Roxbury Central School District, (607) 326-4151,PK-12,"Roxbury, NY 12474",53729 New York 30
+,,Rush-Henrietta Central School District, (585) 359-5012,PK-12,"Henrietta, NY 14467",2034 Lehigh Station Road
+,,Rotterdam-Mohonasen Central School District, (518) 356-8200,K-12,"Schenectady, NY 12303",2072 Curry Road
+,,Roscoe Central School District, (607) 498-4126,PK-12,"Roscoe, NY 12776",6 Academy Street
+,,Roosevelt Union Free School District, (516) 345-7001,PK-12,"Roosevelt, NY 11575",240 Denton Place
+,,Roslyn Union Free School District, (516) 801-5001,PK-12,"Roslyn, NY 11576",300 Harbor Hill Road
+,,Rondout Valley Central School District, (845) 687-2400,K-12,"Accord, NY 12404",122 Kyserike Road
+,,Rome City School District, (315) 338-6521,PK-12,"Rome, NY 13440",409 Bell Road
+,,Romulus Central School District, (866) 810-0345,PK-12,"Romulus, NY 14541",5705 New York 96
+,,Rocky Point Union Free School District, (631) 849-7561,K-12,"Rocky Point, NY 11778",90 Rocky Point Yaphank Road
+,,Rockville Centre Union Free School District, (516) 255-8920,K-12,"Rockville Centre, NY 11570",128 Shepherd Street
+,,Riverhead Central School District, (631) 369-6717,K-12,"Riverhead, NY 11901",700 Osborn Avenue
+,,Remsenburg-Speonk Union Free School District, (631) 325-0203,K-6,"Remsenburg-Speonk, NY 11960",11 Mill Road
+,,Richfield Springs Central School District, (315) 858-0610,PK-12,"Richfield Springs, NY 13439",93 Main Street
+,,Ripley Central School District, (716) 736-2631,PK-6,"Ripley, NY 14775",12 North State Street
+,,Rensselaer City School District, (518) 465-7509,PK-12,"Rensselaer, NY 12144",25 Van Rensselaer Drive
+,,Rochester City School District, (585) 262-8100,PK-12,"Rochester, NY 14614",131 West Broad Street
+,,Remsen Central School District, (315) 831-3797,PK-12,"Remsen, NY 13438",Davis Dr
+,,Rhinebeck Central School District, (845) 871-5520,K-12,"Rhinebeck, NY 12572",45 North Park Road
+,,Red Hook Central School District, (845) 758-2241,K-12,"Red Hook, NY 12571",9 Mill Road
+,,Red Creek Central School District, (315) 754-2010,PK-12,"Red Creek, NY 13143",6815 Church Street
+,,Randolph Central School District, (716) 358-7005,PK-12,"Randolph, NY 14772",18 Main Street
+,,Ravena-Coeymans-Selkirk Central School District, (518) 756-5200,PK-12,"Ravena, NY 12143",15 Mountain Road
+,,Randolph Acad Union Free School District, (716) 358-6866,1-12,"Randolph, NY 14772",336 Main Street
+,,Ramapo Central School District (Suffern), (845) 357-7783,K-12,"Hillburn, NY 10931",45 Mountain Avenue
+,,Quogue Union Free School District, (631) 653-4285,PK-6,"Quogue, NY 11959",10 Edgewood Road
+,,Putnam Valley Central School District, (845) 528-8143,K-12,"Putnam Valley, NY 10579",146 Peekskill Hollow Road
+http://www.pacs.cnyric.org/,pacs.cnyric.org,Pulaski Central School District, (315) 298-5188,PK-12,"Pulaski, NY 13142",2 Hinman Road
+,,Poughkeepsie City School District, (845) 451-4950,PK-12,"Poughkeepsie, NY 12603",11 College Avenue
+,,Prattsburgh Central School District, (607) 522-3795,PK-12,"Prattsburgh, NY 14873",1 Academy St
+,,Putnam Central School District, (518) 547-8266,PK-6,"Putnam Station, NY 12861",126 County Road 2
+,,Queensbury Union Free School District, (518) 824-5602,K-12,"Queensbury, NY 12804",429 Aviation Road
+,,Portville Central School District, (716) 933-7140,PK-12,"Portville, NY 14770",500 Elm Street
+,,Potschool Districtam Central School District, (315) 265-2000,PK-12,"Potschool Districtam, NY 13676",29 Leroy St
+,,Port Washington Union Free School District, (516) 767-5005,PK-12,"Port Washington, NY 11050",100 Campus Drive
+,,Port Jervis City School District, (845) 858-3100,K-12,"Port Jervis, NY 12771",9 Thompson Street
+,,Port Jefferson Union Free School District, (631) 791-4221,PK-12,"Port Jefferson, NY 11777",550 Scraggy Hill Road
+,,Poland Central School District, (315) 826-0203,PK-12,"Poland, NY 13431",74 Cold Brook Street
+,,Pleasantville Union Free School District, (914) 741-1400,K-12,"Pleasantville, NY 10570",60 Romer Avenue
+,,Pocantico Hills Central School District, (914) 631-2440,PK-8,"Tarrytown, NY 10591",599 Bedford Road
+,,Port Chester-Rye Union Free School District, (914) 934-7901,K-12,"Port Chester, NY 10573",113 Bowman Avenue
+,,Plattsburgh City School District, (518) 957-6002,PK-12,"Plattsburgh, NY 12901",49 Broad Street
+,,Plainview-Old Bethpage Central School District, (516) 434-3001,K-12,"Plainview, NY 11803",106 Washington Avenue
+,,Port Byron Central School District, (315) 776-5728,PK-12,"Port Byron, NY 13140",30 Maple Avenue
+,,Plainedge Union Free School District, (516) 992-7455,K-12,"Massapequa, NY 11758",241 Wyngate Drive
+,,Pittsford Central School District, (585) 267-1004,K-12,"Pittsford, NY 14534",75 Barker Road
+,,Pine Valley Central School District (South Dayton), (716) 988-3293,PK-12,"South Dayton, NY 14138",7755 New York 83
+,,Pine Bush Central School District, (845) 744-2031,PK-12,"Pine Bush, NY 12566",156 New York 302
+,,Phoenix Central School District, (315) 695-1555,PK-12,"Phoenix, NY 13135",116 Volney Street
+,,Pine Plains Central School District, (518) 398-7181,K-12,"Pine Plains, NY 12567",2829 Church Street
+http://www.perucsd.org,perucsd.org,Peru Central School District, (518) 643-6000,K-12,"Peru, NY 12972",17 School St
+,,Phelps-Clifton Springs Central School District, (315) 548-6420,K-12,"Clifton Springs, NY 14432",1490 New York 488
+,,Penn Yan Central School District, (315) 536-3371,PK-12,"Penn Yan, NY 14527",1 School Drive
+,,Penfield Central School District, (585) 249-5700,K-12,"Rochester, NY 14625",2590 Atlantic Avenue
+,,Perry Central School District, (585) 237-0270,PK-12,"Perry, NY 14530",33 Watkins Avenue
+,,Pembroke Central School District, (585) 599-4525,K-12,"Corfu, NY 14036",8750 Alleghany Road
+,,Pelham Union Free School District, (914) 738-3434,K-12,"Village of Pelham, NY 10803",18 Franklin Place
+,,Pearl River Union Free School District, (845) 620-3922,K-12,"Pearl River, NY 10965",135 West Crooked Hill Road
+,,Pawling Central School District, (845) 855-4600,K-12,"Pawling, NY 12564",515 New York 22
+,,Peekskill City School District, (914) 737-3300,PK-12,"Peekskill, NY 10566",1031 Elm Street
+,,Pavilion Central School District, (585) 584-1013,PK-12,"Pavilion, NY 14525",7014 Big Tree Road
+,,Parishville-Hopkinton Central School District, (315) 265-4642,PK-12,"Parishville, NY 13672",12 County Route 47
+,,Patchogue-Medford Union Free School District, (631) 687-6380,K-12,"Patchogue, NY 11772",241 South Ocean Avenue
+,,Panama Central School District, (716) 782-4445,PK-12,"Panama, NY 14767",41 North Street
+,,Palmyra-Macedon Central School District, (315) 597-3401,K-12,"Palmyra, NY 14522",151 Hyde Parkway
+,,Oysterponds Union Free School District, (631) 323-2410,PK-6,"Orient, NY 11957",23405 Main Road
+,,Oyster Bay-East Norwich Central School District, (516) 624-6505,PK-12,"Oyster Bay, NY 11771",1 McCouns Lane
+,,Owego-Apalachin Central School District, (607) 687-6224,PK-12,"Owego, NY 13827",5 Sheldon Guile Boulevard
+,,Oswego City School District, (315) 341-2001,K-12,"Oswego, NY 13126",120 East 1st Street
+,,Oxford Academy & Central School District, (607) 843-2025,PK-12,"Oxford, NY 13830",12 Fort Hill Park
+,,Ossining Union Free School District, (914) 941-7700,PK-12,"Ossining, NY 10562",400 Executive Boulevard
+,,Oriskany Central School District, (315) 768-2058,PK-12,"Oriskany, NY 13424",1313 Utica Street
+,,Otego-Unadilla Central School District, (607) 988-5038,K-12,"Otego, NY 13825",2641 New York 7
+,,Oppenheim-Ephratah-St. Johnsville Charter School, (518) 568-2011,PK-12,"Saint Johnsville, NY 13452",44 Center Street
+,,Orchard Park Central School District, (716) 209-6280,K-12,"West Seneca, NY 14224",2240 Southwestern Boulevard
+,,Onondaga Central School District, (315) 552-5000,PK-12,"Nedrow, NY 13120",4466 South Onondaga Road
+,,Onteora Central School District, (845) 657-8851,K-12,"Boiceville, NY 12412",4166 New York 28
+,,Ogdensburg City School District, (315) 393-0900,PK-12,"Ogdensburg, NY 13669",1100 State Street
+,,Odessa-Montour Central School District, (607) 594-3341,PK-12,"Odessa, NY 14869",300 College Avenue
+,,Oceanside Union Free School District, (516) 678-1215,K-12,"Oceanside, NY 11572",145 Merle Avenue
+,,Oneonta City School District, (607) 433-8232,K-12,"Oneonta, NY 13820",31 Center Street
+,,Oneida City School District, (315) 363-2550,PK-12,"Oneida, NY 13421",565 Sayles Street
+,,Olean City School District, (716) 375-8055,PK-12,"Olean, NY 14760",410 West Sullivan Street
+,,Oakfield-Alabama Central School District, (585) 948-5211,PK-12,"Oakfield, NY 14125",7001 Lewiston Road
+,,Nyc Special Schools - District 75, (212) 802-1501,PK-12,"New York, NY 10010",400 1st Avenue
+,,Nyc Geog District #32 - Brooklyn, (718) 574-1100,PK-12,"Brooklyn, NY 11221",797 Bushwick Avenue
+,,Nyc Geog District #27 - Queens, (718) 642-5800,PK-12,"Queens, NY 11416",82-01 Rockaway Boulevard
+,,Nyc Geog District #31 - Staten Island, (718) 420-5667,PK-12,"Staten Island, NY 10301",715 Ocean Terrace
+,,Nyc Geog District #29 - Queens, (718) 264-3146,PK-12,"Queens, NY 11428",222-14 Jamaica Avenue
+,,Nyc Geog District #28 - Queens, (718) 557-2622,PK-12,"Queens, NY 11435",90-27 Sutphin Boulevard
+,,Nyc Geog District #26 - Queens, (718) 631-6943,PK-12,"Queens, NY 11361",45-15 Oceania Street
+,,Nyc Geog District #30 - Queens, (718) 391-8323,PK-12,"Queens, NY 11101",28-11 Queens Plaza North
+,,Nyc Geog District #25 - Queens, (718) 281-7605,PK-12,"Queens, NY 11354",30-48 Linden Place
+,,Nyc Geog District #24 - Queens, (718) 592-3357,PK-12,"Queens, NY 11368",98-50 50th Avenue
+,,Nyc Geog District #21 - Brooklyn, (718) 648-0209,PK-12,"Brooklyn, NY 11224",501 West Avenue
+,,Nyc Geog District #22 - Brooklyn, (718) 968-6115,PK-12,"Brooklyn, NY 11235",2525 Haring Street
+,,Nyc Geog District #23 - Brooklyn, (718) 240-3677,PK-12,"Brooklyn, NY 11233",2021 Bergen Street
+,,Nyc Geog District #20 - Brooklyn, (718) 759-4908,PK-12,"Brooklyn, NY 11209",415 89th Street
+,,Nyc Geog District #19 - Brooklyn, (718) 240-2700,PK-12,"Brooklyn, NY 11207",557 Pennsylvania Avenue
+,,Nyc Geog District #16 - Brooklyn, (718) 574-2834,PK-12,"Brooklyn, NY 11221",1014 Lafayette Avenue
+,,Nyc Geog District #17 - Brooklyn, (718) 221-4372,PK-12,"Brooklyn, NY 11213",1224 Park Place
+,,Nyc Geog District #14 - Brooklyn, (718) 302-7600,PK-12,"Brooklyn, NY 11206",215 Heyward Street
+,,Nyc Geog District #13 - Brooklyn, (718) 636-3284,PK-12,"Brooklyn, NY 11238",355 Park Place
+,,Nyc Geog District #18 - Brooklyn, (718) 566-6008,PK-12,"Brooklyn, NY 11236",1106 East 95th Street
+,,Nyc Geog District #11 - Bronx, (718) 519-2620,PK-12,"Bronx, NY 10469",2750 Throop Avenue
+,,Nyc Geog District #15 - Brooklyn, (718) 935-4317,PK-12,"Brooklyn, NY 11201",131 Livingston Street
+,,Nyc Geog District # 9 - Bronx, (718) 579-7143,PK-12,"Bronx, NY 10456",450 Saint Pauls Place
+,,Nyc Geog District #10 - Bronx, (718) 741-5852,PK-12,"Bronx, NY 10458",1 Fordham Plaza
+,,Nyc Geog District #12 - Bronx, (718) 328-2310,PK-12,"Bronx, NY 10459",1434 Longfellow Avenue
+,,Nyc Geog District # 8 - Bronx, (718) 828-6653,PK-12,"Bronx, NY 10473",601 Stickball Boulevard
+,,Nyc Geog District # 7 - Bronx, (718) 742-6500,PK-12,"Bronx, NY 10451",501 Courtlandt Avenue
+,,Nyc Geog District # 6 - Manhattan, (212) 521-3757,PK-12,"New York, NY 10033",4360 Broadway
+,,Nyc Geog District # 3 - Manhattan, (212) 678-5857,PK-12,"New York, NY 10025",154 West 93rd Street
+,,Nyc Geog District # 5 - Manhattan, (212) 769-7500,PK-12,"New York, NY 10027",425 West 123rd Street
+,,Nyc Geog District # 2 - Manhattan, (212) 356-3739,PK-12,"New York, NY 10001",333 7th Avenue
+,,Nyc Geog District # 4 - Manhattan, (212) 348-2873,PK-12,"New York, NY 10035",319 East 117th Street
+,,Nyack Union Free School District, (845) 353-7015,K-12,"Nyack, NY 10960",13A Dickinson Avenue
+,,Ny Mills Union Free School District, (315) 768-8129,K-12,"New York Mills, NY 13417",1 Marauder Boulevard
+http://schools.nyc.gov/default.htm,schools.nyc.gov,Nyc Chancellor's Office, (212) 374-0200,7-12,"New York, NY 10007",52 Chambers Street
+,,Nyc Geog District # 1 - Manhattan, (212) 353-2948,PK-12,"New York, NY 10002",166 Essex Street
+,,Norwich City School District, (607) 334-1600,PK-12,"Norwich, NY 13815",89 Midland Drive
+,,Norwood-Norfolk Central School District, (315) 353-6631,PK-12,"Norwood, NY 13668",7852 New York 56
+,,Northville Central School District, (518) 863-7000,PK-12,"Northville, NY 12134",131 South 3rd Street
+,,Northport-East Northport Union Free School District, (631) 262-6604,K-12,"Northport, NY 11768",158 Laurel Avenue
+,,North Warren Central School District, (518) 494-3015,PK-12,"Chestertown, NY 12817",6110 New York 8
+,,Northeastern Clinton Central School District, (518) 298-8242,K-12,"Champlain, NY 12919",103 New York 276
+,,Northern Adirondack Central School District, (518) 594-7060,K-12,"Ellenburg Center, NY 12934",5572 U.S. 11
+http://www.webutuckschools.org,webutuckschools.org,Northeast Central School District, (845) 373-4100,PK-12,"Amenia, NY 12501",194 Haight Road
+,,North Syracuse Central School District, (315) 218-2151,PK-12,"North Syracuse, NY 13212",5355 West Taft Road
+,,North Tonawanda City School District, (716) 807-3500,K-12,"North Tonawanda, NY 14120",176 Walck Road
+,,North Shore Central School District, (516) 277-7801,K-12,"Sea Cliff, NY 11579",112 Franklin Avenue
+,,North Salem Central School District, (914) 669-5414,K-12,"North Salem, NY 10560",230 June Road
+,,North Rose-Wolcott Central School District, (315) 594-3141,PK-12,"Wolcott, NY 14590",11631 Salter-Colvin Rd-Bus Office
+,,North Greenbush Comn School District (Williams), (518) 283-6748,K-1,"Rensselaer, NY 12144",476 North Greenbush Road
+,,North Colonie Central School District, (518) 785-8591,K-12,"Latham, NY 12110",91 Fiddlers Lane
+,,North Merrick Union Free School District, (516) 292-3694,K-6,"North Merrick, NY 11566",1057 Merrick Avenue
+,,North Collins Central School District, (716) 337-0101,PK-12,"North Collins, NY 14111",2045 School Street
+,,North Bellmore Union Free School District, (516) 992-3000,K-6,"Bellmore, NY 11710",2616 Martin Avenue
+,,North Babylon Union Free School District, (631) 620-7011,K-12,"North Babylon, NY 11703",5 Jardine Place
+,,Niskayuna Central School District, (518) 377-4666,K-12,"Niskayuna, NY 12309",1239 Van Antwerp Road
+,,Niagara Falls City School District, (716) 286-4205,PK-12,"Niagara Falls, NY 14304",630 66th Street
+,,Niagara-Wheatfield Central School District, (716) 215-3003,PK-12,"Niagara Falls, NY 14304",6700 Schultz Street
+,,Newfield Central School District, (607) 564-9955,PK-12,"Newfield Hamlet, NY 14867",247 Main Street
+,,Newcomb Central School District, (518) 582-3341,PK-12,"Newcomb, NY 12852",5535 New York 28N
+,,Newfane Central School District, (716) 778-6854,PK-12,"Burt, NY 14028",6048 Godfrey Road
+,,Newburgh City School District, (845) 563-3510,PK-12,"Newburgh, NY 12550",124 Grand Street
+,,Newark Central School District, (315) 332-3217,PK-12,"Newark, NY 14513",100 East Miller Street
+,,Newark Valley Central School District, (607) 642-3221,PK-12,"Newark Valley, NY 13811",79 Whig Street
+,,New Suffolk Comn School District, (631) 734-6940,PK-6,"New Suffolk, NY 11956",1295 4th Street
+,,New Rochelle City School District, (914) 576-4200,PK-12,"New Rochelle, NY 10801",515 North Avenue
+,,New Paltz Central School District, (845) 256-4020,K-12,"New Paltz, NY 12561",196 Main Street
+,,New Lebanon Central School District, (518) 794-9016,K-12,"New Lebanon, NY 12125",14665 New York 22
+,,New Hyde Park-Garden City Park Union Free School District, (516) 434-2305,K-6,"New Hyde Park, NY 11040",1950 Hillside Avenue
+,,New Hartford Central School District, (315) 624-1218,K-12,"New Hartford, NY 13413",33 Oxford Road
+,,Naples Central School District, (585) 374-7901,PK-12,"Naples, NY 14512",136 North Main Street
+,,Nanuet Union Free School District, (845) 627-9888,K-12,"Nanuet, NY 10954",101 Church Street
+,,Mt Sinai Union Free School District, (631) 870-2550,K-12,"Mount Sinai, NY 11766",118 North Country Road
+,,Mt Pleasant-Cottage Union Free School District, (914) 769-0456,"1, 3-12","Pleasantville, NY 10570",1075 Broadway
+,,Mt Vernon School District, (914) 665-5000,PK-12,"Mount Vernon, NY 10553",165 North Columbus Avenue
+,,Mt Morris Central School District, (585) 658-2568,K-12,"Mount Morris, NY 14510",30 Bonadonna Avenue
+,,Morrisville-Eaton Central School District, (315) 684-9300,PK-12,"Morrisville, NY 13408",5061 Fearon Road
+,,Mount Markham Central School District, (315) 822-2824,PK-12,"West Winfield, NY 13491",500 Fairground Road
+,,Morristown Central School District, (315) 375-8814,PK-12,"Ogdensburg, NY 13669",408 Gouverneur Street
+,,Mt Pleasant Central School District, (914) 769-5500,K-12,"Thornwood, NY 10594",825 Westlake Drive
+,,Morris Central School District, (607) 263-6102,PK-12,"Morris, NY 13808",65 West Main Street
+,,Moravia Central School District, (315) 497-2670,PK-12,"Moravia, NY 13118",68 South Main Street
+,,Monticello Central School District, (845) 794-7700,K-12,"Monticello, NY 12701",237 Forestburgh Road
+,,Moriah Central School District, (518) 546-3301,PK-12,"Port Henry, NY 12974",39 Viking Lane
+,,Montauk Union Free School District, (631) 668-2474,PK-8,"Montauk, NY 11954",50 South Dorset Drive
+,,Monroe-Woodbury Central School District, (845) 460-6200,K-12,"Central Valley, NY 10917",278 Rt 32-Educ Ctr
+,,Mt Pleasant-Blythedale Union Free School District, (914) 347-1800,PK-12,"Valhalla, NY 10595",95 Bradhurst Avenue
+,,Minisink Valley Central School District, (845) 355-5115,K-12,"Middletown, NY 10940",2320 U.S. 6
+,,Minerva Central School District, (518) 251-2000,PK-12,"Minerva, NY 12857",1466 County Road 29
+,,Mineola Union Free School District, (516) 237-2001,PK-12,"Mineola, NY 11501",121 Jackson Avenue
+,,Miller Place Union Free School District, (631) 474-2700,K-12,"Miller Place, NY 11764",7 Memorial Drive
+,,Milford Central School District, (607) 286-3341,PK-12,"Milford, NY 13807",42 West Main Street
+,,Middle Country Central School District, (631) 285-8005,PK-12,"Centereach, NY 11720",8 43rd St-Adm Off
+,,Middletown City School District, (845) 326-1158,K-12,"Middletown, NY 10940",223 Wisner Ave Ext
+,,Mexico Central School District, (315) 963-8400,PK-12,"Mexico, NY 13114",16 Fravor Road
+,,Middleburgh Central School District, (518) 827-3625,PK-12,"Middleburgh, NY 12122",168 Main Street
+,,Merrick Union Free School District, (516) 992-7240,K-6,"Merrick, NY 11566",21 Babylon Road
+,,Menands Union Free School District, (518) 465-4561,K-8,"Menands, NY 12204",19 Wards Lane
+,,Medina Central School District, (585) 798-2700,PK-12,"Medina, NY 14103",1 Mustang Drive
+,,Mcgraw Central School District, (607) 836-3636,K-12,"McGraw, NY 13101",10 West Academy Street
+,,Millbrook Central School District, (845) 677-4200,K-12,"Millbrook, NY 12545",43 Alden Place
+,,Mechanicville City School District, (518) 664-5727,K-12,"Mechanicville, NY 12118",25 Kniskern Avenue
+,,Mayfield Central School District, (518) 661-8207,PK-12,"Mayfield, NY 12117",27 School Street
+,,Mattituck-Cutchogue Union Free School District, (631) 298-4242,K-12,"Cutchogue, NY 11935",385 Depot Lane
+,,Massena Central School District, (315) 764-3700,PK-12,"Massena, NY 13662",84 Nightengale Avenue
+,,Massapequa Union Free School District, (516) 308-5000,K-12,"Massapequa, NY 11758",4925 Merrick Road
+,,Marlboro Central School District, (845) 236-5802,K-12,"Milton, NY 12547",21 Milton Turnpike
+,,Margaretville Central School District, (845) 586-2647,PK-12,"Andes, NY 13731",415 Main Street
+,,Marcellus Central School District, (315) 673-6000,K-12,"Marcellus, NY 13108",2 Reed Parkway
+,,Marathon Central School District, (607) 849-3117,PK-12,"Marathon, NY 13803",1 East Main Street
+,,Manhasset Union Free School District, (516) 267-7705,K-12,"Manhasset, NY 11030",200 Memorial Place
+,,Manchester-Shortsville Central School District (Red Jacket), (585) 289-3964,PK-12,"Shortsville, NY 14548",1506 Route 21 South
+,,Mamaroneck Union Free School District, (914) 220-3005,PK-12,"Mamaroneck, NY 10543",1000 West Boston Post Road
+,,Malverne Union Free School District, (516) 887-6405,K-12,"Malverne, NY 11565",301 Wicks Lane
+,,Maine-Endwell Central School District, (607) 754-1400,PK-12,"Endicott, NY 13760",712 Farm to Market Road
+,,Mahopac Central School District, (845) 628-3415,K-12,"Mahopac, NY 10541",179 East Lake Boulevard
+,,Marion Central School District, (315) 926-2300,PK-12,"Marion, NY 14505",4034 Warner Road
+,,Madrid-Waddington Central School District, (315) 322-5746,PK-12,"Madrid, NY 13660",2582 New York 345
+,,Madison Central School District, (315) 893-1878,PK-12,"Madison, NY 13402",7303 U.S. 20
+,,Malone Central School District, (518) 483-7800,PK-12,"Malone, NY 12953",42 Huskie Lane
+,,Lyons Central School District, (315) 946-2200,PK-12,"Lyons, NY 14489",10 Clyde Road
+,,Lyndonville Central School District, (585) 765-3101,PK-12,"Lyndonville, NY 14098",25 Housel Avenue
+,,Lyme Central School District, (315) 649-2417,PK-12,"Chaumont, NY 13622",11868 Academy Street
+http://www.lacs-ny.org/,lacs-ny.org,Lowville Academy & Central School District, (315) 376-9000,PK-12,"Lowville, NY 13367",7668 North State Street
+,,Lyncourt Union Free School District, (315) 455-7571,PK-8,"Syracuse, NY 13208",2709 Court Street
+,,Longwood Central School District, (631) 345-2172,K-12,"Yaphank, NY 11980",21 Everett Dr
+,,Long Lake Central School District, (518) 624-2147,PK-12,"Long Lake, NY 12847",20 School Road
+http://www.lvcsd.k12.ny.us,lvcsd.k12.ny.us,Locust Valley Central School District, (516) 674-6310,K-12,"Locust Valley, NY 11560",Horse Hollow Rd
+,,Lynbrook Union Free School District, (516) 887-0253,K-12,"Lynbrook, NY 11563",111 Atlantic Avenue
+,,Lockport City School District, (716) 478-4835,PK-12,"Lockport, NY 14094",130 Beattie Avenue
+,,Livingston Manor Central School District, (845) 439-4400,PK-12,"Livingston Manor, NY 12758",19 School Street
+,,Livonia Central School District, (585) 346-4000,PK-12,"Livonia, NY 14487",40 Spring Street
+,,Long Beach City School District, (516) 897-2104,PK-12,"Lido Beach, NY 11561",239 Lido Boulevard
+,,Little Flower Union Free School District, (631) 929-4300,4-12,"Wading River, NY 11792",2460 North Wading River Road
+,,Little Falls City School District, (315) 823-1470,K-12,"Little Falls, NY 13365",15 Petrie Street
+,,Liverpool Central School District, (315) 622-7125,K-12,"Liverpool, NY 13090",195 Blackberry Road
+,,Lewiston-Porter Central School District, (716) 286-7266,K-12,"Youngstown, NY 14174",4061 Creek Road
+,,Lindenhurst Union Free School District, (631) 867-3001,K-12,"Lindenhurst, NY 11757",350 Daniel Street
+,,Liberty Central School District, (845) 292-6990,PK-12,"Liberty, NY 12754",115 Buckley Street
+,,Lisbon Central School District, (315) 393-4951,PK-12,"Lisbon, NY 13658",6866 County Road 10
+,,Letchworth Central School District, (585) 493-5450,PK-12,"Gainesville, NY 14066",5550 School Road
+,,Lawrence Union Free School District, (516) 295-7030,PK-12,"Lawrence, NY 11559",195 Broadway
+,,Le Roy Central School District, (585) 768-8133,PK-12,"Le Roy, NY 14482",2 Trigon Park
+,,Levittown Union Free School District, (516) 434-7020,K-12,"Levittown, NY 11756",150 Abbey Lane
+,,Laurens Central School District, (607) 432-2050,K-12,"Laurens, NY 13796",55 Main Street
+,,Lansingburgh Central School District, (518) 233-6850,PK-12,"Troy, NY 12182",576 5th Avenue
+,,Lansing Central School District, (607) 533-3020,K-12,"Lansing, NY 14882",284 Ridge Road
+,,Lancaster Central School District, (716) 686-3201,K-12,"Lancaster, NY 14086",177 Central Avenue
+,,Lake Pleasant Central School District, (518) 548-7571,PK-9,"Speculator, NY 12164",120 Elm Lake Road
+,,Lakeland Central School District, (914) 245-1700,PK-12,"Shrub Oak, NY 10588",1086 East Main Street
+,,Lafayette Central School District, (315) 677-9728,PK-12,"LaFayette, NY 13084",5955 U.S. 20
+,,Lake Placid Central School District, (518) 523-2475,K-12,"Lake Placid, NY 12946",50 Cummings Road
+,,Lackawanna City School District, (716) 827-6767,PK-12,"Buffalo, NY 14218",245 South Shore Boulevard
+,,Lake George Central School District, (518) 668-5456,K-12,"Lake George, NY 12845",381 Canada Street
+,,La Fargeville Central School District, (315) 658-2241,PK-12,"La Fargeville, NY 13656",20414 Sunrise Avenue
+,,Kiryas Joel Village Union Free School District, (845) 782-2300,K,"Kiryas Joel, NY 10950",48 Bakertown Road
+,,Kingston City School District, (845) 943-3003,PK-12,"Kingston, NY 12401",61 Crown Street
+,,Katonah-Lewisboro Union Free School District, (914) 763-7003,K-12,"South Salem, NY 10590",1 Shady Lane
+,,Kinderhook Central School District, (518) 758-7575,PK-12,"Valatie, NY 12184",2910 Route 9
+,,Kendall Central School District, (585) 659-2741,PK-12,"Kendall, NY 14476",1932 Kendall Road
+,,Keene Central School District, (518) 576-4555,K-12,"Keene Valley, NY 12943",33 Market Street
+,,Kings Park Central School District, (631) 269-3310,K-12,"Kings Park, NY 11754",180 Lawrence Road
+,,Jordan-Elbridge Central School District, (315) 689-8500,PK-12,"Jordan, NY 13080",9 North Chappell Street
+,,Johnstown City School District, (518) 762-4611,PK-12,"Johnstown, NY 12095",1 sir bills Circle
+,,Kenmore-Tonawanda Union Free School District, (716) 874-8400,K-12,"Tonawanda, NY 14223",1500 Colvin Boulevard
+,,Johnson City Central School District, (607) 763-1230,K-12,"Johnson City, NY 13790",666 Reynolds Road
+,,Johnsburg Central School District, (518) 251-2814,PK-12,"North Creek, NY 12853",165 Main Street
+,,John W Lavelle Preparatory Charter School, (718) 697-4250,6-12,"Staten Island, NY 10311",1 Corporate Commons1 Teleport
+,,Jericho Union Free School District, (516) 203-3600,K-12,"Jericho, NY 11753",99 Cedar Swamp Road
+,,Jefferson Central School District, (607) 652-7821,PK-12,"New York, NY 10014",1332 10th Avenue
+,,Jamestown City School District, (716) 483-4420,PK-12,"Jamestown, NY 14701",197 Martin Road
+,,Ithaca City School District, (607) 274-2101,PK-12,"Ithaca, NY 14850",400 Lake Street
+,,Jasper-Troupsburg Central School District, (607) 792-3675,K-12,"Jasper, NY 14855",3769 New York 417
+,,Islip Union Free School District, (631) 650-8210,K-12,"Islip, NY 11751",215 Main Street
+,,Jamesville-Dewitt Central School District, (315) 445-8304,K-12,"Fayetteville, NY 13066",6845 Edinger Drive
+,,Irvington Union Free School District, (914) 591-8501,K-12,"Irvington, NY 10533",40 North Broadway
+,,Island Trees Union Free School District, (516) 520-2100,K-12,"Levittown, NY 11756",74 Farmedge Road
+,,Island Park Union Free School District, (516) 434-2600,PK-8,"Island Park, NY 11558",150 Trafalgar Boulevard
+http://www.iroquoiscsd.org,iroquoiscsd.org,Iroquois Central School District, (716) 652-3000,K-12,"Elma, NY 14059",2111 Girdle Road
+,,Hyde Park Central School District, (845) 229-4005,K-12,"Hyde Park, NY 12538",11 Boice Road
+,,Inlet Comn School District, (315) 357-3305,"PK, 1-6","Inlet, NY 13360",220 New York 28
+,,Huntington Union Free School District, (631) 673-2038,K-12,"Huntington Station, NY 11746",50 Tower Street
+,,Hunter-Tannersville Central School District, (518) 589-5400,PK-12,"Tannersville, NY 12485",6094 Main Street
+,,Hudson Falls Central School District, (518) 747-2121,PK-12,"Fort Edward, NY 12828",1153 Burgoyne Avenue
+,,Hudson City School District, (518) 828-4360,PK-12,"Hudson, NY 12534",215 Harry Howard Avenue
+,,Hornell City School District, (607) 324-1302,K-12,"Hornell, NY 14843",25 Pearl Street
+,,Hoosick Falls Central School District, (518) 686-7012,PK-12,"Hoosick Falls, NY 12090",21187 New York 22
+,,Hoosic Valley Central School District, (518) 753-4450,K-12,"Schaghticoke, NY 12154",2 Pleasant Avenue
+,,Honeoye Falls-Lima Central School District, (585) 624-7010,K-12,"Honeoye Falls, NY 14472",20 Church Street
+,,Indian River Central School District, (315) 642-3441,K-12,"Philadelphia, NY 13673",32735 County Road 29
+,,Honeoye Central School District, (585) 229-4125,K-12,"Honeoye, NY 14471",8528 Main Street
+,,Indian Lake Central School District, (518) 648-5024,PK-12,"Indian Lake, NY 12842",6345 Nys Rt 30
+,,Horseheads Central School District, (607) 739-5601,PK-12,"Horseheads, NY 14845",1 Raider Ln
+,,Homer Central School District, (607) 749-7241,K-12,"Homer, NY 13077",80 South West Street
+,,Holley Central School District, (585) 638-6316,PK-12,"Holley, NY 14470",3800 North Main Street Road
+,,Holland Patent Central School District, (315) 865-7221,PK-12,"Holland Patent, NY 13354",9601 Main Street
+,,Holland Central School District, (716) 537-8222,PK-12,"Holland, NY 14080",103 Canada Street
+,,Hinschool Districtale Central School District, (716) 557-2227,PK-12,"Hinschool Districtale, NY 14743",3701 Main St
+,,Highland Falls Central School District, (845) 446-9575,K-12,"Highland Falls, NY 10928",21 Morgan Road
+,,Hicksville Union Free School District, (516) 733-2105,K-12,"Hicksville, NY 11801",200 Division Ave-Adm
+,,Herricks Union Free School District, (516) 305-8901,K-12,"New Hyde Park, NY 11040",999 Herricks Road
+,,Heuvelton Central School District, (315) 344-2414,PK-12,"Heuvelton, NY 13654",87 Washington Street
+,,Hermon-Dekalb Central School District, (315) 347-3442,PK-12,"De Kalb Junction, NY 13630",709 Old Canton Road
+,,Herkimer Central School District, (315) 866-2230,PK-12,"Herkimer, NY 13350",801 West German Street
+,,Hewlett-Woodmere Union Free School District, (516) 792-4800,PK-12,"Woodmere, NY 11598",1 Johnson Place
+,,Hilton Central School District, (585) 392-1000,PK-12,"Hilton, NY 14468",225 West Avenue
+,,Highland Central School District, (845) 691-1014,K-12,"Highland, NY 12528",320 Pancake Hollow Road
+,,Hendrick Hudson Central School District, (914) 257-5100,K-12,"Montrose, NY 10548",61 Trolley Road
+,,Haverstraw-Stony Point Central School District (North Rockland), (845) 942-3002,K-12,"West Haverstraw, NY 10923",65 Chapel Street
+,,Hawthorne-Cedar Knolls Union Free School District, (914) 749-2903,2-12,"Hawthorne, NY 10532",226 Linda Avenue
+,,Hempstead Union Free School District, (516) 434-4010,PK-12,"Hempstead, NY 11550",185 Peninsula Boulevard
+,,Hauppauge Union Free School District, (631) 761-8208,K-12,"Hauppauge, NY 11788",495 Hoffman Lane
+,,Hastings-On-Hudson Union Free School District, (914) 478-6205,K-12,"Hastings-on-Hudson, NY 10706",27 Farragut Avenue
+,,Harrison Central School District, (914) 630-3021,K-12,"Harrison, NY 10528",50 Union Avenue
+,,Harpursville Central School District, (607) 693-8112,PK-12,"Harpursville, NY 13787",54 Main Street
+,,Harborfields Central School District, (631) 754-5320,K-12,"Greenlawn, NY 11740",2 Oldfield Road
+,,Hannibal Central School District, (315) 564-7900,PK-12,"Hannibal, NY 13074",928 Cayuga Street
+,,Hancock Central School District, (607) 637-1301,PK-12,"Hancock, NY 13783",67 Education Ln
+,,Hartford Central School District, (518) 632-5931,PK-12,"Hartford, NY 12838",4704 New York 149
+,,Harrisville Central School District, (315) 543-2707,PK-12,"Harrisville, NY 13648",14371 Pirate Road
+,,Hampton Bays Union Free School District, (631) 723-2100,PK-12,"Hampton Bays, NY 11946",86 Argonne Road East
+,,Hammondsport Central School District, (607) 569-5200,PK-12,"Hammondsport, NY 14840",8272 Main Street
+http://hammond.sllboces.org/,hammond.sllboces.org,Hammond Central School District, (315) 324-5931,PK-12,"Hammond, NY 13646",51 South Main Street
+,,Hamilton Central School District, (315) 824-6310,PK-12,"Hamilton, NY 13346",47 West Kendrick Avenue
+,,Hamburg Central School District, (716) 646-3200,PK-12,"Hamburg, NY 14075",5305 Abbott Road
+,,Half Hollow Hills Central School District, (631) 592-3008,K-12,"Dix Hills, NY 11746",525 Half Hollow Road
+,,Hadley-Luzerne Central School District, (518) 696-2378,3-12,"Lake Luzerne-Hadley, NY 12846",27 Hyland Drive
+,,Groton Central School District, (607) 898-5301,PK-12,"Groton, NY 13073",400 Peru Road
+,,Haldane Central School District, (845) 265-9254,K-12,"Cold Spring, NY 10516",15 Craigside Drive
+,,Greenwich Central School District, (518) 692-9542,K-12,"Greenwich, NY 12834",10 Gray Avenue
+,,Greenville Central School District, (518) 966-5070,K-12,"Greenville, NY 12083",4982 New York 81
+,,Greenwood Lake Union Free School District, (845) 782-8678,K-8,"Monroe, NY 10950",1247 Lakes Road
+,,Guilderland Central School District, (518) 456-6200,K-12,"Altamont, NY 12009",8 School Road
+,,Greenport Union Free School District, (631) 477-1950,PK-12,"Greenport, NY 11944",720 Front Street
+,,Greene Central School District, (607) 656-4161,PK-12,"Greene, NY 13778",40 South Canal Street
+,,Greenburgh-Graham Union Free School District, (914) 478-1106,2-12,"Hastings-on-Hudson, NY 10706",1 South Broadway
+,,Green Island Union Free School District, (518) 273-1422,PK-12,"Green Island, NY 12183",171 Hudson Avenue
+,,Greenburgh Central School District, (914) 761-6000,PK-12,"Hartschool Districtale, NY 10530",475 W Hartschool Districtale Ave-Admin Bldg
+,,Greece Central School District, (585) 966-2321,PK-12,"Rochester, NY 14615",750 Maiden Lane
+,,Greenburgh-North Castle Union Free School District, (914) 693-4309,"4, 7-12","Dobbs Ferry, NY 10522",71 Broadway
+,,Greenburgh Eleven Union Free School District, (914) 693-8500,2-12,"Dobbs Ferry, NY 10522",On The Campus Of Children's Vi
+,,Great Neck Union Free School District, (516) 441-4001,PK-12,"Great Neck, NY 11020",345 Lakeville Road
+,,Granville Central School District, (518) 642-1051,PK-12,"Granville, NY 12832",58 Quaker Street
+,,Grand Island Central School District, (716) 773-8801,PK-12,"Grand Island, NY 14072",1100 Ransom Road
+,,Goshen Central School District, (845) 615-6720,K-12,"Goshen, NY 10924",227 Main Street
+,,Gowanda Central School District, (716) 532-3325,K-12,"Gowanda, NY 14070",10674 Prospect Street
+,,Glens Falls Comn School District, (518) 792-3231,K-6,"Glens Falls, NY 12801",120 Lawrence Street
+http://www.gouverneurcentralschool.org/,gouverneurcentralschool.org,Gouverneur Central School District, (315) 287-4870,PK-12,"Gouverneur, NY 13642",133 East Barney Street
+,,Glen Cove City School District, (516) 801-7010,PK-12,"Glen Cove, NY 11542",150 Dosoris Lane
+,,Gloversville City School District, (518) 775-5791,PK-12,"Gloversville, NY 12078",234 Lincoln Street
+,,Glens Falls City School District, (518) 792-1212,PK-12,"Glens Falls, NY 12801",15 Quade Street
+,,Gorham-Middlesex Central School District (Marcus Whitman), (585) 554-4848,PK-12,"Rushville, NY 14544",4100 Baldwin Road
+,,Gilboa-Conesville Central School District, (607) 588-7541,PK-12,"Gilboa, NY 12076",132 Wyckoff Road
+,,Germantown Central School District, (518) 537-6280,PK-12,"Germantown, NY 12526",123 Main Street
+,,Gilbertsville-Mount Upton Central School District, (607) 783-2207,PK-12,"Gilbertsville, NY 13776",693 New York 51
+,,Geneseo Central School District, (585) 243-3450,K-12,"Geneseo, NY 14454",4050 Avon Road
+,,Georgetown-South Otselic Central School District, (315) 653-7218,PK-12,"South Otselic, NY 13155",125 County Road 13
+,,George Junior Republic Union Free School District, (607) 844-6343,7-12,"Freeville, NY 13068",24 Mcdonald Rd
+,,Genesee Valley Central School District, (585) 268-7900,PK-12,"Belmont, NY 14813",1 Jaguar Drive
+http://www.genevacsd.org,genevacsd.org,Geneva City School District, (315) 781-0400,PK-12,"Geneva, NY 14456",400 West North Street
+,,General Brown Central School District, (315) 779-2300,PK-12,"Dexter, NY 13634",17643 Cemetery Road
+,,Garrison Union Free School District, (845) 424-3689,K-8,"Garrison, NY 10524",1100 New York 9D
+,,Gates-Chili Central School District, (585) 247-5050,PK-12,"Rochester, NY 14624",3 Spartan Way
+,,Garden City Union Free School District, (516) 478-1010,K-12,"Garden City, NY 11530",56 Cathedral Ave
+,,Gananda Central School District, (315) 986-3521,K-12,"Walworth, NY 14568",1500 Dayspring Ridge
+,,Galway Central School District, (518) 882-1033,K-12,"Galway, NY 12074",5317 Sacandaga Road
+,,Fulton City School District, (315) 593-5510,K-12,"Fulton, NY 13069",167 South 4th Street
+,,Friendship Central School District, (585) 973-3534,PK-12,"Friendship, NY 14739",46 West Main Street
+,,Freeport Union Free School District, (516) 867-5205,K-12,"Freeport, NY 11520",235 North Ocean Avenue
+,,Frewsburg Central School District, (716) 569-7041,PK-12,"Frewsburg, NY 14738",26 Institute Street
+,,Frontier Central School District, (716) 926-1711,PK-12,"Hamburg, NY 14075",5120 Orchard Avenue
+,,Fredonia Central School District, (716) 679-1581,PK-12,"Fredonia, NY 14063",425 East Main Street
+,,Franklin Square Union Free School District, (516) 505-6975,PK-6,"Franklin Square, NY 11010",760 Washington Street
+,,Franklinville Central School District, (716) 676-8029,PK-12,"Franklinville, NY 14737",31 North Main Street
+,,Franklin Central School District, (607) 829-3551,PK-12,"Franklin, NY 13775",26 Institute Street
+,,Fort Edward Union Free School District, (518) 747-4594,PK-12,"Fort Edward, NY 12828",220 Broadway
+,,Fort Ann Central School District, (518) 639-5594,PK-12,"Fort Ann, NY 12827",1 Catherine Street
+,,Fort Plain Central School District, (518) 993-4000,PK-12,"Fort Plain, NY 13339",25 High Street
+,,Forestville Central School District, (716) 965-2742,PK-12,"Forestville, NY 14062",12 Water Street
+,,Frankfort-Schuyler Central School District, (315) 894-5083,K-12,"Frankfort, NY 13340",605 Palmer Street
+,,Floral Park-Bellerose Union Free School District, (516) 434-2725,K-6,"Floral Park, NY 11001",1 Poppy Place
+,,Florida Union Free School District, (845) 651-3095,PK-12,"Florida, NY 10921",51 North Main Street
+,,Fonda-Fultonville Central School District, (518) 853-4415,PK-12,"Fonda, NY 12068",112 Old Johnstown Road
+,,Fishers Island Union Free School District, (631) 788-7444,1-12,"Fishers Island, NY 06390",78 Greenwood Rd #600
+,,Fire Island Union Free School District, (631) 583-5626,PK-6,"Bay Shore, NY 11706",99 Maple Avenue
+,,Fayetteville-Manlius Central School District, (315) 692-1200,K-12,"Manlius, NY 13104",8199 East Seneca Turnpike
+,,Fillmore Central School District, (585) 567-2251,PK-12,"Fillmore, NY 14735",104 West Main Street
+,,Fairport Central School District, (585) 421-2004,K-12,"Fairport, NY 14450",38 West Church Street
+,,Fallsburg Central School District, (845) 434-6800,PK-12,"Fallsburg, NY 12733",115 Brickman Road
+,,Falconer Central School District, (716) 665-6624,PK-12,"Falconer, NY 14733",2 East Avenue
+,,Fabius-Pompey Central School District, (315) 683-5301,K-12,"Fabius, NY 13063",1211 Mill Street
+,,Evans-Brant Central School District (Lake Shore), (716) 926-2201,K-12,"Angola, NY 14006",959 Beach Road
+,,Farmingdale Union Free School District, (516) 752-6510,K-12,"Farmingdale, NY 11735",50 Van Cott Avenue
+,,Elwood Union Free School District, (631) 266-5400,K-12,"Greenlawn, NY 11740",100 Kenneth Avenue
+,,Elmwood Village Charter School, (716) 886-4581,K-8,"Buffalo, NY 14201",124 Elmwood Ave
+,,Elmsford Union Free School District, (914) 592-6632,PK-12,"Elmsford, NY 10523",98 South Goodwin Avenue
+,,Elmira Heights Central School District, (607) 734-7114,PK-12,"Elmira Heights, NY 14903",2083 College Avenue
+,,Elmont Union Free School District, (516) 326-5500,PK-6,"Elmont, NY 11003",135 Elmont Road
+,,Ellicottville Central School District, (716) 699-2368,PK-12,"Ellicottville, NY 14731",5873 U.S. 219
+,,Elmira City School District, (607) 735-3010,PK-12,"Elmira, NY 14901",951 Hoffman Street
+,,Ellenville Central School District, (845) 647-0100,PK-12,"Ellenville, NY 12428",28 Maple Avenue
+,,Elizabethtown-Lewis Central School District, (518) 873-6371,K-12,"Elizabethtown, NY 12932",7530 Court Street
+,,Edmeston Central School District, (607) 965-8931,PK-12,"Edmeston, NY 13335",11 North Street
+,,Edwards-Knox Central School District, (315) 562-8141,PK-12,"Russell, NY 13684",2512 County Road 24
+,,Edinburg Common School District, (518) 863-8412,PK-11,"Northville, NY 12134",4 Johnson Road
+,,Elba Central School District, (585) 757-9967,PK-12,"Elba, NY 14058",57 South Main Street
+,,Eldred Central School District, (845) 456-1100,PK-12,"Eldred, NY 12732",600 New York 55
+,,Edgemont Union Free School District, (914) 472-7768,K-12,"Scarsdale, NY 10583",300 White Oak Ln
+,,Eden Central School District, (716) 992-3629,PK-12,"Eden, NY 14057",3150 Schoolview Road
+,,Eastport-South Manor Central School District, (631) 801-3011,K-12,"Manorville, NY 11949",149 Dayton Avenue
+,,East Williston Union Free School District, (516) 333-3758,K-12,"Old Westbury, NY 11568",11 Bacon Road
+,,East Syracuse Minoa Central School District, (315) 434-3012,PK-12,"East Syracuse, NY 13057",407 Fremont Road
+,,East Rockaway Union Free School District, (516) 887-8300,K-12,"East Rockaway, NY 11518",443 Ocean Avenue
+,,Eastchester Union Free School District, (914) 793-6130,K-12,"Eastchester, NY 10709",580 White Plains Road
+,,East Ramapo Central School District (Spring Valley), (845) 577-6011,K-12,"Spring Valley, NY 10977",105 South Madison Avenue
+,,East Rochester Union Free School District, (585) 248-6302,PK-12,"East Rochester, NY 14445",222 Woodbine Avenue
+http://www.emoschools.org,emoschools.org,East Moriches Union Free School District, (631) 878-0162,PK-8,"East Moriches, NY 11940",9 Adelaide Avenue
+,,East Quogue Union Free School District, (631) 653-5210,K-6,"East Quogue, NY 11942",6 Central Avenue
+,,East Islip Union Free School District, (631) 224-2010,K-12,"Islip Terrace, NY 11752",1 Craig B Gariepy Avenue
+,,East Irondequoit Central School District, (585) 339-1210,PK-12,"Rochester, NY 14609",600 Pardee Road
+,,East Hampton Union Free School District, (631) 329-4104,K-12,"East Hampton, NY 11937",4 Long Lane
+,,East Greenbush Central School District, (518) 207-2531,K-12,"East Greenbush, NY 12061",29 Englewood Avenue
+,,East Aurora Union Free School District, (716) 687-2302,K-12,"East Aurora, NY 14052",430 Main Street
+,,East Bloomfield Central School District, (585) 657-6121,PK-12,"Bloomfield, NY 14469",45 Maple Avenue
+,,Dunkirk City School District, (716) 366-9300,PK-12,"Dunkirk, NY 14048",620 Marauder Drive
+http://eastmeadow.k12.ny.us/,eastmeadow.k12.ny.us,East Meadow Union Free School District, (516) 478-5776,K-12,"Westbury, NY 11590",718 The Plain Road
+,,Dundee Central School District, (607) 243-5533,PK-12,"Dundee, NY 14837",55 Water Street
+,,Downsville Central School District, (607) 363-2101,PK-12,"Downsville, NY 13755",14784 New York 30
+,,Duanesburg Central School District, (518) 895-2279,"K-5, 9-12","Delanson, NY 12053",133 School Drive
+,,Dryden Central School District, (607) 844-5361,K-12,"Dryden, NY 13053",118 Freeville Road
+,,Dolgeville Central School District, (315) 429-3155,PK-12,"Dolgeville, NY 13329",38 Slawson Street
+,,Dobbs Ferry Union Free School District, (914) 693-1506,K-12,"Dobbs Ferry, NY 10522",505 Broadway
+,,Deposit Central School District, (607) 467-5380,PK-12,"Deposit, NY 13754",171 2nd Street
+,,Delaware Academy Central School District At Delhi, (607) 746-1300,K-12,"Delhi, NY 13753",2 Sheldon Dr
+,,Deer Park Union Free School District, (631) 274-4010,PK-12,"Deer Park, NY 11729",1881 Deer Park Avenue
+,,Depew Union Free School District, (716) 686-5105,K-12,"Depew, NY 14043",5201 Transit Road
+,,Dansville Central School District, (585) 335-4000,PK-12,"Dansville, NY 14437",284 Main Street
+,,Crown Point Central School District, (518) 597-4200,PK-12,"Crown Point, NY 12928",2758 Main Street
+,,Deruyter Central School District, (315) 852-3400,PK-12,"DeRuyter, NY 13052",711 Railroad Street
+,,Cuba-Rushford Central School District, (585) 968-2650,PK-12,"Cuba, NY 14727",5476 New York 305
+,,Dalton-Nunda Central School District (Keshequa), (585) 468-2900,PK-12,"Nunda, NY 14517",13 Mill Street
+,,Coxsackie-Athens Central School District, (518) 731-1710,K-12,"Coxsackie, NY 12051",24 Sunset Boulevard
+,,Croton-Harmon Union Free School District, (914) 271-4793,K-12,"Croton-on-Hudson, NY 10520",10 Gerstein Street
+,,Dover Union Free School District, (845) 877-5700,K-12,"Dover Plains, NY 12522",2368 New York 22
+,,Cortland City School District, (607) 758-4100,K-12,"Cortland, NY 13045",1 Valley View Drive
+,,Corning City School District, (607) 936-3704,PK-12,"Painted Post, NY 14870",165 Charles Street
+,,Corinth Central School District, (518) 654-2601,K-12,"Corinth, NY 12822",105 Oak Street
+http://www.ccsknights.org/ccsknights/site/default.asp,ccsknights.org,Copenhagen Central School District, (315) 688-4411,PK-12,"Copenhagen, NY 13626",3020 Mechanic Street
+,,Cooperstown Central School District, (607) 547-5364,K-12,"Cooperstown, NY 13326",39 Linden Avenue
+,,Copiague Union Free School District, (631) 842-4015,K-12,"Copiague, NY 11726",2650 Great Neck Road
+,,Connetquot Central School District, (631) 244-2215,PK-12,"Bohemia, NY 11716",780 Ocean Avenue
+,,Colton-Pierrepont Central School District, (315) 262-2100,PK-12,"Colton, NY 13625",4921 New York 56
+,,Cornwall Central School District, (845) 534-8009,K-12,"Cornwall-on-Hudson, NY 12520",24 Idlewild Avenue
+,,Cold Spring Harbor Central School District, (631) 367-5931,K-12,"Cold Spring Harbor, NY 11724",75 Goose Hill Road
+,,Commack Union Free School District, (631) 912-2010,K-12,"East Northport, NY 11731",480 Clay Pitts Road
+,,Cobleskill-Richmondville Central School District, (518) 234-4032,PK-12,"Cobleskill, NY 12043",155 Washington Avenue
+,,Cohoes City School District, (518) 237-0100,K-12,"Cohoes, NY 12047",7 Bevan Street
+,,Clymer Central School District, (716) 355-4444,PK-12,"Clymer, NY 14724",8672 East Main Street
+,,Clyde-Savannah Central School District, (315) 902-3000,PK-12,"Clyde, NY 14433",215 Glasgow Street
+,,Clifton-Fine Central School District, (315) 848-3333,PK-12,"Star Lake, NY 13690",11 Hall Avenue
+,,Cleveland Hill Union Free School District, (716) 836-7200,PK-12,"Cheektowaga, NY 14225",105 Mapleview Road
+,,Clarkstown Central School District, (845) 639-6418,K-12,"New City, NY 10956",62 Old Middletown Road
+,,Clinton Central School District, (315) 557-2253,K-12,"Clinton, NY 13323",75 Chenango Avenue South
+,,Cincinnatus Central School District, (607) 863-4069,PK-12,"Cincinnatus, NY 13040",2809 Cincinnatus Road
+,,Churchville-Chili Central School District, (585) 293-1800,K-12,"Churchville, NY 14428",139 Fairbanks Road
+,,Clarence Central School District, (716) 407-9102,K-12,"Clarence, NY 14031",9625 Main Street
+,,Chittenango Central School District, (315) 687-2840,K-12,"Chittenango, NY 13037",1732 Fyler Road
+,,Chester Union Free School District, (845) 469-5052,K-12,"Chester, NY 10918",64 Hambletonian Avenue
+,,Cherry Valley-Springfield Central School District, (607) 264-9332,PK-12,"Cherry Valley, NY 13320",597 County Hwy 54
+,,Cheektowaga-Maryvale Union Free School District, (716) 631-7407,PK-12,"Buffalo, NY 14225",1050 Maryvale Drive
+,,Chenango Forks Central School District, (607) 648-7543,PK-12,"Binghamton, NY 13901",1 Gordon Drive
+,,Cheektowaga-Sloan Union Free School District, (716) 891-6402,PK-12,"Buffalo, NY 14212",166 Halstead Avenue
+,,Cheektowaga Central School District, (716) 686-3606,PK-12,"Buffalo, NY 14225",3600 Union Road
+,,Chazy Union Free School District, (518) 846-7135,K-12,"Chazy, NY 12921",609 Miner Farm Road
+,,Chenango Valley Central School District, (607) 762-6801,PK-12,"Binghamton, NY 13901",221 Chenango Bridge Road
+,,Chautauqua Lake Central School District, (716) 753-5808,PK-12,"Mayville, NY 14757",100 North Erie Street
+,,Chateaugay Central School District, (518) 497-6420,PK-12,"Chateaugay, NY 12920",42 River Street
+,,Chatham Central School District, (518) 392-1501,PK-12,"Chatham, NY 12037",50 Woodbridge Avenue
+,,Charlotte Valley Central School District, (607) 278-5511,PK-12,"Davenport, NY 13750",15611 New York 23
+,,Central Valley Central School District At Ilion-Mohawk, (315) 894-9934,PK-12,"Ilion, NY 13357",111 Frederick Street
+,,Chappaqua Central School District, (914) 238-7200,K-12,"Chappaqua, NY 10514",66 Roaring Brook Road
+,,Central Square Central School District, (315) 668-4220,PK-12,"Central Square, NY 13036",642 South Main Street
+,,Cattaraugus-Little Valley Central School District, (716) 257-5292,PK-12,"Cattaraugus, NY 14719",25 North Franklin Street
+,,Center Moriches Union Free School District, (631) 878-0052,K-12,"Center Moriches, NY 11934",529 Main Street
+,,Cazenovia Central School District, (315) 655-1317,K-12,"Cazenovia, NY 13035",31 Emory Avenue
+,,Catskill Central School District, (518) 943-4696,PK-12,"Catskill, NY 12414",343 West Main Street
+,,Central Islip Union Free School District, (631) 348-5001,PK-12,"Central Islip, NY 11722",50 Wheeler Road
+,,Cato-Meridian Central School District, (315) 626-3439,PK-12,"Cato, NY 13033",2851 Nys Route 370
+,,Cassadaga Valley Central School District, (716) 962-5155,PK-12,"Sinclairville, NY 14782",5935 New York 60
+,,Carmel Central School District, (845) 878-2094,K-12,"Patterson, NY 12563",81 South Street
+,,Canton Central School District, (315) 386-8561,PK-12,"Canton, NY 13617",99 State Street
+,,Canisteo-Greenwood Central School District, (607) 698-4225,PK-12,"Canisteo, NY 14823",84 Greenwood Street
+,,Carle Place Union Free School District, (516) 622-6442,K-12,"Carle Place, NY 11514",168 Cherry Lane
+,,Candor Central School District, (607) 659-5010,K-12,"Candor, NY 13743",1 Academy St
+,,Carthage Central School District, (315) 493-5120,K-12,"Carthage, NY 13619",25059 Woolworth St
+,,Canastota Central School District, (315) 697-2025,K-12,"Canastota, NY 13032",120 Roberts Street
+,,Canajoharie Central School District, (518) 673-6302,PK-12,"Canajoharie, NY 13317",136 Scholastic Way
+,,Canaseraga Central School District, (607) 545-6421,PK-12,"Canaseraga, NY 14822",48 Main Street
+,,Canandaigua City School District, (585) 396-3710,PK-12,"Canandaigua, NY 14424",143 North Pearl Street
+,,Campbell-Savona Central School District, (607) 527-9800,PK-12,"Campbell, NY 14821",8455 County Road 125
+,,Camden Central School District, (315) 245-4075,PK-12,"Camden, NY 13316",51 3rd Street
+,,Cambridge Central School District, (518) 677-2653,PK-12,"Cambridge, NY 12816",58 South Park Street
+,,Caledonia-Mumford Central School District, (585) 538-3400,PK-12,"Caledonia, NY 14423",99 North Street
+,,Cairo-Durham Central School District, (518) 622-8534,K-12,"Cairo, NY 12413",424 Main Street
+,,Byron-Bergen Central School District, (585) 494-1220,PK-12,"Bergen, NY 14416",6917 West Bergen Road
+,,Byram Hills Central School District, (914) 273-4082,K-12,"North Castle, NY 10504",10 Tripp Lane
+,,Brunswick Central School District (Brittonkill), (518) 279-4600,PK-12,"Troy, NY 12180",3992 New York 2
+,,Brushton-Moira Central School District, (518) 529-8942,PK-12,"Brushton, NY 12916",758 County Route 7
+,,Brookfield Central School District, (315) 899-3323,PK-12,"West Edmeston, NY 13485",1910 Fairground Road
+,,Brookhaven-Comsewogue Union Free School District, (631) 474-8105,PK-12,"Port Jefferson Station, NY 11776",290 Norwood Avenue
+,,Bronxville Union Free School District, (914) 395-0500,K-12,"Bronxville, NY 10708",177 Pondfield Road
+,,Burnt Hills-Ballston Lake Central School District, (518) 399-9141,K-12,"Schenectady, NY 12302",50 Cypress Drive
+,,Brocton Central School District, (716) 792-2173,PK-12,"Brocton, NY 14716",138 West Main Street
+,,Brockport Central School District, (585) 637-1810,PK-12,"Brockport, NY 14420",40 Allen Street
+,,Broadalbin-Perth Central School District, (518) 954-2500,PK-12,"Broadalbin, NY 12025",20 Pine Street
+,,Brighton Central School District, (585) 242-5200,K-12,"Rochester, NY 14618",2035 Monroe Avenue
+,,Bridgehampton Union Free School District, (631) 537-0271,PK-12,"Water Mill, NY 11976",2685 Montauk Highway
+,,Buffalo City School District, (716) 816-3575,PK-12,"Buffalo, NY 14219",712 City View Avenue
+,,Bradford Central School District, (607) 583-4616,PK-12,"Bradford, NY 14815",2820 New York 226
+,,Brentwood Union Free School District, (631) 434-2325,PK-12,"Brentwood, NY 11717",52 Third Street
+,,Briarcliff Manor Union Free School District, (914) 432-8115,K-12,"Briarcliff Manor, NY 10510",45 Ingham Road
+,,Brasher Falls Central School District, (315) 389-5131,PK-12,"Lawrence, NY 13613",1039 New York 11C
+,,Bolton Central School District, (518) 644-2400,PK-12,"Bolton, NY 12814",26 Horicon Avenue
+,,Blind Brook-Rye Union Free School District, (914) 937-3600,K-12,"Rye Brook, NY 10573",390 North Ridge Street
+http://www.bethpagecommunity.com/Schools/,bethpagecommunity.com,Bethpage Union Free School District, (516) 644-4001,K-12,"Bethpage, NY 11714",10 Cherry Avenue
+,,Brewster Central School District, (845) 279-8000,K-12,"Brewster, NY 10509",30 Farm to Market Road
+,,Berne-Knox-Westerlo Central School District, (518) 872-1293,K-12,"Berne, NY 12023",1738 Helderberg Trail
+,,Bolivar-Richburg Central School District, (585) 928-2561,PK-12,"Bolivar, NY 14715",100 School Street
+,,Bethlehem Central School District, (518) 439-7098,K-12,"Delmar, NY 12054",700 Delaware Avenue
+,,Berlin Central School District, (518) 658-2690,K-12,"Cherry Plain, NY 12040",17400 New York 22
+,,Berkshire Union Free School District, (518) 781-3500,7-12,"Canaan, NY 12029",13640 New York 22
+,,Bellmore-Merrick Central High School District, (516) 992-1001,7-12,"North Merrick, NY 11566",1260 Meadowbrook Road
+,,Bemus Point Central School District, (716) 386-2375,PK-12,"Bemus Point, NY 14712",3980 Dutch Hollow Rd
+,,Binghamton City School District, (607) 762-8100,PK-12,"Binghamton, NY 13901",164 Hawley Street
+,,Bellmore Union Free School District, (516) 679-2909,K-6,"Bellmore, NY 11710",580 Winthrop Avenue
+,,Believe Northside Charter High School, (718) 782-9830,9-12,"Brooklyn, NY 11222",424 Leonard St4th Fl
+http://www.bhpanthers.org/bellevillehcs/site/default.asp,bhpanthers.org,Belleville-Henderson Central School District, (315) 846-5826,PK-12,"Adams, NY 13605",8372 County Road 75
+,,Bedford Stuyvesant New Beginnings Charter School, (212) 437-8318,K-8,"Brooklyn, NY 11213",82 Lewis Ave
+,,Belfast Central School District, (585) 365-9940,PK-12,"Belfast, NY 14711",1 King Street
+,,Beaver River Central School District, (315) 346-1211,PK-12,"Castorland, NY 13620",9508 Artz Road
+,,Bedford Central School District, (914) 241-6010,PK-12,"Mount Kisco, NY 10549",632 South Bedford Road
+,,Beacon City School District, (845) 838-6900,PK-12,"Beacon, NY 12508",10 Education Drive
+,,Bayport-Blue Point Union Free School District, (631) 472-7860,K-12,"Bayport, NY 11705",189 Academy Street
+,,Bay Shore Union Free School District, (631) 968-1115,K-12,"Bay Shore, NY 11706",75 Perkal Street
+,,Bath Central School District, (607) 776-3301,PK-12,"Bath, NY 14810",25 Ellas Avenue
+,,Beekmantown Central School District, (518) 324-2999,PK-12,"Plattsburgh, NY 12901",37 Eagle Way
+,,Batavia City School District, (585) 343-2480,PK-12,"Batavia, NY 14020",260 State Street
+,,Ballston Spa Central School District, (518) 884-7195,K-12,"Ballston Spa, NY 12020",70 Malta Avenue
+,,Barker Central School District, (716) 795-3832,PK-12,"Barker, NY 14012",1628 Quaker Road
+,,Baldwin Union Free School District, (516) 377-9271,K-12,"Baldwin, NY 11510",960 Hastings Street
+,,Baldwinsville Central School District, (315) 638-6043,K-12,"Baldwinsville, NY 13027",29 East Oneida Street
+,,Bainbridge-Guilford Central School District, (607) 967-6321,PK-12,"Bainbridge, NY 13733",18 Juliand Street
+,,Avoca Central School District, (607) 566-2221,K-12,"Avoca, NY 14809",1729 Oliver St
+,,Avon Central School District, (585) 226-2455,K-12,"Avon, NY 14414",191 Clinton Street
+,,Babylon Union Free School District, (631) 893-7925,K-12,"Babylon, NY 11702",50 Railroad Avenue
+,,Averill Park Central School District, (518) 674-7055,K-12,"Averill Park, NY 12018",146 Gettle Road
+,,Auburn City School District, (315) 255-8835,K-12,"Auburn, NY 13021",78 Thornton Avenue
+,,Ausable Valley Central School District, (518) 834-2845,K-12,"Keeseville, NY 12924",1273 New York 9N
+,,Attica Central School District, (585) 591-2173,K-12,"Attica, NY 14011",3338 East Main Street Road
+,,Albany City School District, (518) 475-6010,PK-12,"Albany, NY 12207",Academy Park
+,,Akron Central School District, (716) 542-5006,K-12,"Akron, NY 14001",47 Bloomingdale Avenue
+,,Arlington Central School District, (845) 486-4460,K-12,"Lagrangeville, NY 12540",144 Todd Hill Road
+,,Albion Central School District, (585) 589-2056,PK-12,"Albion, NY 14411",324 East Avenue
+,,Afton Central School District, (607) 639-8229,PK-12,"Afton, NY 13730",29 Academy Street
+,,Adirondack Central School District, (315) 942-9200,PK-12,"Boonville, NY 13309",110 Ford Street
+,,Addison Central School District, (607) 359-2244,PK-12,"Addison, NY 14801",7 Cleveland Drive
